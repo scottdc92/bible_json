@@ -1,3 +1,3 @@
-# bible_json
+# christian_json
 
 Anyone can feel free to reference these various JSON files.
