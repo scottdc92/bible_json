@@ -1,0 +1,934 @@
+[
+    {
+        "question": "Abraham’s call",
+        "answer": "Gen. 12"
+    },
+    {
+        "question": "Adoption",
+        "answer": "Rom. 8; Eph. 3; Gal. 4"
+    },
+    {
+        "question": "Adultery",
+        "answer": "Prov. 6:26; John 8:5"
+    },
+    {
+        "question": "Alcoholism",
+        "answer": "Eph. 5:18"
+    },
+    {
+        "question": "Ananias and Sapphira",
+        "answer": "Acts 5"
+    },
+    {
+        "question": "Apollos",
+        "answer": "Acts 18-19"
+    },
+    {
+        "question": "Apostasy",
+        "answer": "Heb. 6"
+    },
+    {
+        "question": "Apostasy to come",
+        "answer": "1 Tim. 4"
+    },
+    {
+        "question": "Armor of God",
+        "answer": "Eph. 6:10-20"
+    },
+    {
+        "question": "Ascension of Christ",
+        "answer": "Mark 16:19-20; Luke 24:50-53; Acts 1:9-12"
+    },
+    {
+        "question": "Babel",
+        "answer": "Gen. 11"
+    },
+    {
+        "question": "Baptism",
+        "answer": "Matt 28:19; Acts 2:36; 16; 1 Cor. 10; Col. 2:11-13"
+    },
+    {
+        "question": "Beatitudes",
+        "answer": "Matt. 5"
+    },
+    {
+        "question": "Believer’s status from death to resurrection",
+        "answer": "2 Cor. 5"
+    },
+    {
+        "question": "Bereans",
+        "answer": "Acts 17"
+    },
+    {
+        "question": "Biblical Discipline",
+        "answer": "Matt. 18; 1 Cor. 5"
+    },
+    {
+        "question": "Branch of Jesse",
+        "answer": "Is. 11"
+    },
+    {
+        "question": "Cannon Closed",
+        "answer": "Heb. 1:1-2"
+    },
+    {
+        "question": "Christ’s Superiority",
+        "answer": "Heb. 1-3, 7-8"
+    },
+    {
+        "question": "Christ’s Humanity",
+        "answer": "Luke 2:40; Phil. 2:5-8; Col. 2:9-10; Heb. 2:14-16"
+    },
+    {
+        "question": "Christ’s Humiliation",
+        "answer": "Phil. 2; Heb. 2"
+    },
+    {
+        "question": "Christ’s Judgement seat",
+        "answer": "2 Cor. 5; Matt. 25"
+    },
+    {
+        "question": "Christ’s Priesthood",
+        "answer": "Hebrews 4, 5, 7, 8"
+    },
+    {
+        "question": "Christ’s Resurrection",
+        "answer": "Matt. 28; Mark 16; Luke 24; John 20; 1 Cor. 15"
+    },
+    {
+        "question": "Christ’s Return",
+        "answer": "1 Thess. 4-5; Matt. 24-25"
+    },
+    {
+        "question": "Christ’s Temptation",
+        "answer": "Matt. 4; Mark 1; Luke 4"
+    },
+    {
+        "question": "Christian liberty",
+        "answer": "1 Cor. 8-10; Rom. 14"
+    },
+    {
+        "question": "Christian Walk",
+        "answer": "Col. 2; 1 John 1"
+    },
+    {
+        "question": "Church (General)",
+        "answer": "Matt. 16:18; 2 Cor. 6:14-18; Eph.; 1 Peter 2"
+    },
+    {
+        "question": "Church (As Christ’s body)",
+        "answer": "1 Cor. 12; Eph. 4-5"
+    },
+    {
+        "question": "Church (Attendance)",
+        "answer": "Heb. 10:24-25; Rom. 12; 1 Cor. 12; Eph. 4; James 3; Matt. 5-7"
+    },
+    {
+        "question": "Church (Discipline)",
+        "answer": "Matt. 18:15-20; 1 Cor. 5:12; Gal. 6:1; Titus 1:13"
+    },
+    {
+        "question": "Church (Unity of)",
+        "answer": "John 17; Eph. 4:1-16"
+    },
+    {
+        "question": "Circumcision",
+        "answer": "Gen. 17"
+    },
+    {
+        "question": "Civil Government",
+        "answer": "Matt. 22:17-21; Luke 20:22-25; Rom. 13:1-7; 1 Peter 2:13-17"
+    },
+    {
+        "question": "Command to Keep Law",
+        "answer": "John 14; Matt. 5; Deut. 11, 16"
+    },
+    {
+        "question": "Common Grace",
+        "answer": "Matt. 5:45"
+    },
+    {
+        "question": "Cornelius converted",
+        "answer": "Acts 10"
+    },
+    {
+        "question": "Correcting a brother",
+        "answer": "Matt. 18:15-20"
+    },
+    {
+        "question": "Covenant blessings/curses",
+        "answer": "Deut. 28"
+    },
+    {
+        "question": "Covenant with Abraham",
+        "answer": "Gen. 12, 15, 17"
+    },
+    {
+        "question": "Covenant with Solomon",
+        "answer": "1 Kings 9; 2 Chr. 7"
+    },
+    {
+        "question": "David’s Confession",
+        "answer": "Psalm 51"
+    },
+    {
+        "question": "David’s Prayer",
+        "answer": "2 Sam. 22/Psalm 18"
+    },
+    {
+        "question": "Davidic Covenant",
+        "answer": "2 Sam. 7; 1 Chr. 7"
+    },
+    {
+        "question": "Day of Atonement",
+        "answer": "Lev. 16"
+    },
+    {
+        "question": "Death of Christ (event)",
+        "answer": "Matt. 27:51-56; Mark 15:38-41; Luke 23:45-49; John 19"
+    },
+    {
+        "question": "Deity of Christ",
+        "answer": "John 1:1-14; 10:30; Phil. 2:5-8; Col. 1; 2:9-10; Heb. 1"
+    },
+    {
+        "question": "Depression",
+        "answer": "Deut. 31:8; Ps. 23:4; Matt 11:28; 1 Peter 5:7"
+    },
+    {
+        "question": "Divorce",
+        "answer": "Matt. 5:31-32; 19:1-12; Mark 10:2-12; Luke 16:18; 1 Cor. 7"
+    },
+    {
+        "question": "Doctrinal Purity",
+        "answer": "Acts 20; Jude 1; 1 Timothy 1"
+    },
+    {
+        "question": "Does the Works of God",
+        "answer": "John 1:3, 12; 5:22; Col 1:14, 16-17; Heb. 1:3, 12"
+    },
+    {
+        "question": "Elect lady",
+        "answer": "2 John 1:1"
+    },
+    {
+        "question": "Elijah on Mount Carmel (prophets of Baal)",
+        "answer": "1 Kings 18"
+    },
+    {
+        "question": "Elijah and the Chariot to Heaven",
+        "answer": "2 Kings 2"
+    },
+    {
+        "question": "Emmaus Road",
+        "answer": "Luke 24:13-35"
+    },
+    {
+        "question": "Ethiopian Eunuch conversion",
+        "answer": "Acts 8"
+    },
+    {
+        "question": "Exodus from Egypt",
+        "answer": "Ex. 12"
+    },
+    {
+        "question": "Ezra’s prayer",
+        "answer": "Ezra 9"
+    },
+    {
+        "question": "Faith and Works",
+        "answer": "Rom. 2:13; Titus 3; James 2"
+    },
+    {
+        "question": "Family",
+        "answer": "1 Cor. 7:12-16; Eph. 5:21-6:4; Col. 3:18-25"
+    },
+    {
+        "question": "Feeding the 5000",
+        "answer": "Matt. 14:15-21; Mark 6:35-44; Luke 9:12-17; John 6:4-13"
+    },
+    {
+        "question": "Fiery Furnace",
+        "answer": "Dan. 3"
+    },
+    {
+        "question": "Filling with Holy Spirit",
+        "answer": "Eph. 5"
+    },
+    {
+        "question": "Flesh versus Spirit",
+        "answer": "Rom. 7"
+    },
+    {
+        "question": "Freedom in Christ",
+        "answer": "Gal. 5"
+    },
+    {
+        "question": "Fruit of the Spirit",
+        "answer": "Gal. 5:22-23"
+    },
+    {
+        "question": "Funeral",
+        "answer": "Psalm 23; Gen. 50; Job 1; 1 Cor. 5, 15; John 14:1-4"
+    },
+    {
+        "question": "Future Judgement",
+        "answer": "Matt. 24-25"
+    },
+    {
+        "question": "Giving",
+        "answer": "1 Cor. 16; 2 Cor. 8-9"
+    },
+    {
+        "question": "God at Mount Sinai",
+        "answer": "Ex. 19"
+    },
+    {
+        "question": "Golden Calf",
+        "answer": "Ex. 32"
+    },
+    {
+        "question": "Good Samaritan",
+        "answer": "Luke 10"
+    },
+    {
+        "question": "Good Shepherd",
+        "answer": "John 10"
+    },
+    {
+        "question": "Gospel",
+        "answer": "Eph. 2; John 14; John 3 or Rom. 1-8; Gen. 1-3; John 3"
+    },
+    {
+        "question": "Great Commission",
+        "answer": "Matt. 28:18-20; Mark 16:15; Luke 24:47; John 21; Acts 1:8-9"
+    },
+    {
+        "question": "Great Invitation",
+        "answer": "Matt. 11:28-30"
+    },
+    {
+        "question": "Great White Throne",
+        "answer": "Rev. 20:11"
+    },
+    {
+        "question": "Grieve with Hope",
+        "answer": "1 Thess. 4:13"
+    },
+    {
+        "question": "Hall of Faith",
+        "answer": "Heb. 11"
+    },
+    {
+        "question": "Heaven and Hell",
+        "answer": "Matt. 3:12 (John the Baptist); 5; 10:28-42; 13:24-30 (wheat and tares); 18; 25:31-46 (sheep and goats); Mark 9:41-50; Luke 12:5; 16:19-31 (rich man and Lazarus); John 5:25-29; 15:1-6 (Jesus is the Vine, followers are the branches); 2 Peter 2:4; Rev. 20:11-15"
+    },
+    {
+        "question": "High Priestly Prayer",
+        "answer": "John 17"
+    },
+    {
+        "question": "Holy Moral Lives",
+        "answer": "Rom. 8"
+    },
+    {
+        "question": "Holy Spirit at Pentecost",
+        "answer": "Acts 2"
+    },
+    {
+        "question": "Holy Spirit as Comforter",
+        "answer": "John 14"
+    },
+    {
+        "question": "Holy Spirit Person and Work",
+        "answer": "Gen. 1:2; Matt. 28; John 3:3,5; 14; 16; Acts 1:8; 2; Rom. 8"
+    },
+    {
+        "question": "Hope in trial",
+        "answer": "James 1; 1 Peter"
+    },
+    {
+        "question": "Husbands and Wives",
+        "answer": "Eph. 5; 1 Peter 3"
+    },
+    {
+        "question": "Hymn of Christ",
+        "answer": "Phil. 2"
+    },
+    {
+        "question": "I Am The bread of life",
+        "answer": "John 6:35, 41, 48, 51"
+    },
+    {
+        "question": "I Am The light of the world",
+        "answer": "John 8:12"
+    },
+    {
+        "question": "I Am The sheep gate",
+        "answer": "John 10:7ff."
+    },
+    {
+        "question": "I Am The good shepherd",
+        "answer": "John 10:11ff."
+    },
+    {
+        "question": "I Am The resurrection and the life",
+        "answer": "John 11:25"
+    },
+    {
+        "question": "I Am The way, the truth, and the life",
+        "answer": "John 14:6"
+    },
+    {
+        "question": "I Am The true vine",
+        "answer": "John 15: 1, 5"
+    },
+    {
+        "question": "Imitate Christ’s example",
+        "answer": "Phil. 2:1-11"
+    },
+    {
+        "question": "Importance of Preaching",
+        "answer": "Rom. 10:14-15"
+    },
+    {
+        "question": "Infant Baptism",
+        "answer": "Acts 2:39; 10; 16:33; Col. 2:11-13; Gal. 3:29; 1 Cor. 7:14; Rom. 2; Gen. 17; Matt. 18; 28:18-20 etc."
+    },
+    {
+        "question": "Isaac offered by Abraham",
+        "answer": "Gen. 22"
+    },
+    {
+        "question": "Isaiah called",
+        "answer": "Isaiah 6"
+    },
+    {
+        "question": "Jacob wrestling",
+        "answer": "Gen. 32"
+    },
+    {
+        "question": "Jacob’s Ladder",
+        "answer": "Gen. 28"
+    },
+    {
+        "question": "Jericho Fall",
+        "answer": "Joshua 6"
+    },
+    {
+        "question": "Jerusalem Council",
+        "answer": "Acts 15:6-29"
+    },
+    {
+        "question": "John Baptist Born",
+        "answer": "Matt. 1; Luke 1"
+    },
+    {
+        "question": "Jordan crossing",
+        "answer": "Joshua 3"
+    },
+    {
+        "question": "Joseph as slave to Egypt",
+        "answer": "Gen. 37"
+    },
+    {
+        "question": "Justice (God’s Judgment)",
+        "answer": "Rom. 1-3"
+    },
+    {
+        "question": "Justification by Grace thru faith",
+        "answer": "Rom. 1-5; Gal. 1-5; Eph. 2:8-9"
+    },
+    {
+        "question": "Keys to the Kingdom",
+        "answer": "Matt. 16:13-19"
+    },
+    {
+        "question": "Last Supper",
+        "answer": "Matt. 26:17-35; Mark 14; Luke 22; John 13; 1 Cor. 11"
+    },
+    {
+        "question": "Law (summary)",
+        "answer": "Lev. 19:18; Deut. 6, 11; Mark 12, Luke 10, Matt. 22; Rom. 3:19ff."
+    },
+    {
+        "question": "Law and Grace",
+        "answer": "Gal. 3"
+    },
+    {
+        "question": "Law’s significance now",
+        "answer": "1 Cor. 10"
+    },
+    {
+        "question": "Lawsuits among believers",
+        "answer": "1 Cor. 6"
+    },
+    {
+        "question": "Lazarus raised from dead",
+        "answer": "John 11"
+    },
+    {
+        "question": "Life in the Spirit",
+        "answer": "Gal. 5; Rom. 8; Eph. 5"
+    },
+    {
+        "question": "Lion’s Den",
+        "answer": "Daniel 6"
+    },
+    {
+        "question": "Living Sacrifices",
+        "answer": "Rom. 12"
+    },
+    {
+        "question": "Living Stone rejected by men",
+        "answer": "1 Peter 2:4"
+    },
+    {
+        "question": "Living Stones",
+        "answer": "1 Peter 2:5"
+    },
+    {
+        "question": "Lord’s Day",
+        "answer": "Isaiah 58; Ex. 20; Dt. 5; Heb. 4; Rev. 1:20; Matt. 12"
+    },
+    {
+        "question": "Lord’s Prayer",
+        "answer": "Matt. 6:5-14; Luke 11:2-4"
+    },
+    {
+        "question": "Lord’s Supper",
+        "answer": "Matt. 26:26-29; Mark 14:22-25; Luke 22:19-20; 1 Cor. 11:27-29"
+    },
+    {
+        "question": "Loss of believing spouse",
+        "answer": "2 Cor. 12, Psalm 73, Phil. 4; John 11"
+    },
+    {
+        "question": "Lost Coin, Sheep, Son",
+        "answer": "Luke 15"
+    },
+    {
+        "question": "Love as fulfillment of Law",
+        "answer": "Matt. 22:34-40"
+    },
+    {
+        "question": "Love chapter",
+        "answer": "1 Cor. 13"
+    },
+    {
+        "question": "Love Neighbor as self",
+        "answer": "Deut. 6"
+    },
+    {
+        "question": "Love of God",
+        "answer": "John 3; 1 John 3"
+    },
+    {
+        "question": "Marriage",
+        "answer": "Gen. 2; Matt. 19:1-12; Mark 10:2-12; 1 Cor. 7; Eph. 5; 1 Peter 3"
+    },
+    {
+        "question": "Millennium",
+        "answer": "Rev. 20:1-7"
+    },
+    {
+        "question": "Mary and Martha",
+        "answer": "Luke 10:38-42; John 11:1-5, 19-33"
+    },
+    {
+        "question": "Melchizedek",
+        "answer": "Gen. 14; Heb. 7"
+    },
+    {
+        "question": "Message to 7 Churches",
+        "answer": "Rev. 2-3"
+    },
+    {
+        "question": "Messenger Sent",
+        "answer": "Mal. 3"
+    },
+    {
+        "question": "Ministry",
+        "answer": "Matt. 28:18-20; 2 Cor. 2:12-6:13; Eph. 6; Col. 1:24-28; 1 and 2 Tim.; Titus; Heb. 10:24-25; James 5"
+    },
+    {
+        "question": "Money",
+        "answer": "Matt. 6:19-33; 13:3-9, 22 (parable of Sower); 19:24; Luke 12:13-34; 1 Tim. 3:3 (elder qualification); 6:4-19; James 5"
+    },
+    {
+        "question": "More Than Conquerors",
+        "answer": "Rom. 8"
+    },
+    {
+        "question": "Moses called",
+        "answer": "Ex. 3"
+    },
+    {
+        "question": "Moses struck rock",
+        "answer": "Num. 20:10"
+    },
+    {
+        "question": "Moses with Pharaoh",
+        "answer": "Ex. 4-12"
+    },
+    {
+        "question": "Mystery of gospel",
+        "answer": "Eph. 1-3"
+    },
+    {
+        "question": "Nature of God",
+        "answer": "Col. 1:15, 19, 2:9; Heb. 1:3"
+    },
+    {
+        "question": "Nebuchadnezzar",
+        "answer": "Dan. 1-5; 2 Kings 24-25; Ezra; Jer. 21-52; Ezek. 26-30; 2 Chr. 36"
+    },
+    {
+        "question": "Nehemiah’s prayer",
+        "answer": "Neh. 1"
+    },
+    {
+        "question": "New Adam (Justified by Faith)",
+        "answer": "Rom. 5"
+    },
+    {
+        "question": "New Commandment",
+        "answer": "John 13:34-35 (Love)"
+    },
+    {
+        "question": "New Covenant",
+        "answer": "Jer. 31:31-34; Ezek. 36:22-38; Heb. 8"
+    },
+    {
+        "question": "New Heaven and New Earth",
+        "answer": "Rev. 21"
+    },
+    {
+        "question": "Nicodemus",
+        "answer": "John 3"
+    },
+    {
+        "question": "No Division or Party Spirit",
+        "answer": "1 Cor. 1, 3"
+    },
+    {
+        "question": "No Shepherd for God’s people",
+        "answer": "Num. 27:17"
+    },
+    {
+        "question": "Offering of Isaac",
+        "answer": "Gen. 22"
+    },
+    {
+        "question": "Old Man/ New Man",
+        "answer": "Eph. 4"
+    },
+    {
+        "question": "Old Testament Law, continued significance today",
+        "answer": "1 Cor. 10"
+    },
+    {
+        "question": "Olivet Discourse",
+        "answer": "Matt. 24-25; Mark 13; Luke 21"
+    },
+    {
+        "question": "One another",
+        "answer": "Col. 3:12-17"
+    },
+    {
+        "question": "Outpouring of Holy Spirit",
+        "answer": "Acts 2"
+    },
+    {
+        "question": "Parables of the Kingdom",
+        "answer": "Matt. 13:1-58; Mark 4; Luke 13:18-21"
+    },
+    {
+        "question": "Passover",
+        "answer": "Ex. 12"
+    },
+    {
+        "question": "Paul’s Conversion",
+        "answer": "Acts 9 (repeated Acts 22, 26)"
+    },
+    {
+        "question": "Paul Versus Barnabas",
+        "answer": "Acts 15"
+    },
+    {
+        "question": "Paul’s Desire to visit Spain",
+        "answer": "Rom. 15"
+    },
+    {
+        "question": "Paul’s Areopagus Sermon",
+        "answer": "Acts 17"
+    },
+    {
+        "question": "Paul Sails for Rome",
+        "answer": "Acts 27"
+    },
+    {
+        "question": "Paul’s Prayers",
+        "answer": "Eph. 1:3 ff.; Col. 1; Phil. 1:3ff."
+    },
+    {
+        "question": "Penitential Psalms",
+        "answer": "6, 32, 38, 51, 102, 143, 130"
+    },
+    {
+        "question": "Pentecost",
+        "answer": "Acts 2"
+    },
+    {
+        "question": "Peter’s Confession",
+        "answer": "Matt. 16; Mark 8; Luke 9"
+    },
+    {
+        "question": "Philippian jailer",
+        "answer": "Acts 16"
+    },
+    {
+        "question": "Predestination",
+        "answer": "Matt. 11:27; Rom. 8-11; Eph. 1:3-5, 11; 1 Peter 1:2"
+    },
+    {
+        "question": "Prodigal Son",
+        "answer": "Luke 15:11-32"
+    },
+    {
+        "question": "Prophecies of Christ",
+        "answer": "Isaiah 9:6-7; 53:1-12; Micah 5:2; Gen. 3:15; 2 Sam. 22; Psalm 18 etc."
+    },
+    {
+        "question": "Qualifications for church officers",
+        "answer": "1 Tim. 3; Titus 1; Acts 6-8"
+    },
+    {
+        "question": "Reconciliation",
+        "answer": "Matt. 5:21-26; 18; Luke 22:24-26; Rom. 5, 15:1-4; 2 Cor. 5; Gal. 6:1-2; Phil. 2:1-11; Col. 3:12-17"
+    },
+    {
+        "question": "Regeneration",
+        "answer": "John 3; 1 Peter 1; James 1"
+    },
+    {
+        "question": "Resurrection of Christ (event)",
+        "answer": "Matt. 28:1-8; Mark 16:1ff; Luke 24:1ff; John 20:1ff"
+    },
+    {
+        "question": "Resurrection of the Body",
+        "answer": "1 Cor. 15:20-58; 1 Thess. 4:13-18; Rev. 20:4-6"
+    },
+    {
+        "question": "Return of Christ",
+        "answer": "Matt. 24-25; Mark 13; Luke 17:22-37; 21:5-35; 1 Thess. 4-5; (4:15-17); 2 Thess. 1:7-10; 2:1-8; Heb. 9:28; 2 Peter 3:3-12; Rev. 20-21"
+    },
+    {
+        "question": "Revelation of God in nature",
+        "answer": "Rom. 1; Psalm 19"
+    },
+    {
+        "question": "Rich man and Lazarus",
+        "answer": "Luke 16"
+    },
+    {
+        "question": "Riches and the peril thereof",
+        "answer": "Matt.19:23 (v. 16-30); Luke 6:24; James 1:10; 5:1-6"
+    },
+    {
+        "question": "Righteousness of God",
+        "answer": "Rom. 1-3"
+    },
+    {
+        "question": "Road to Emmaus",
+        "answer": "Luke 24"
+    },
+    {
+        "question": "Sacraments as Means of Grace",
+        "answer": "Rom. 6; 1 Cor. 10"
+    },
+    {
+        "question": "Samaritan Woman at Well",
+        "answer": "John 4"
+    },
+    {
+        "question": "Sanctification",
+        "answer": "Rom. 6-8; Eph. 4:17-32; 1 John"
+    },
+    {
+        "question": "Saul’s Conversion",
+        "answer": "Acts 9"
+    },
+    {
+        "question": "Scripture",
+        "answer": "2 Tim. 3:16; 2 Peter 1"
+    },
+    {
+        "question": "Second coming of Christ",
+        "answer": "Matt. 24; 1 Thess. 4-5; Rev. 22:20"
+    },
+    {
+        "question": "Seraphim in Temple",
+        "answer": "Is. 6"
+    },
+    {
+        "question": "Sermon on the Mount",
+        "answer": "Matt. 5:1-8:1; Luke 6:17-49"
+    },
+    {
+        "question": "Sermon on the Plain",
+        "answer": "Luke 7"
+    },
+    {
+        "question": "Sermons should have application",
+        "answer": "Luke 14; Acts 2:39; 2 Tim. 3:16-17"
+    },
+    {
+        "question": "Sexual Impurity",
+        "answer": "John 8:5; Rom. 1:27; 1 Cor. 6:9; 2 Peter 2:10; Jude 8"
+    },
+    {
+        "question": "Shepherd",
+        "answer": "Numbers 27:17; Gen. 48:15; Psalm 23:1; John 10:1-30; 1 Peter 2:25; 5:2"
+    },
+    {
+        "question": "Slavery",
+        "answer": "Eph. 6; Philemon"
+    },
+    {
+        "question": "Sodom and Gomorrah destroyed",
+        "answer": "Gen. 19"
+    },
+    {
+        "question": "Speaking in tongues",
+        "answer": "Mark 16:17; Acts 2:4; 10:46; 19:6; 1 Cor. 12:10, 28, 30; 14:2-39"
+    },
+    {
+        "question": "Spiritual Gifts",
+        "answer": "Rom. 12; 1 Cor. 12; 14:26-40; Eph. 4:7-16"
+    },
+    {
+        "question": "Stephen Stoned",
+        "answer": "Acts 7"
+    },
+    {
+        "question": "Stewardship",
+        "answer": "1 Cor. 16; 2 Cor. 9"
+    },
+    {
+        "question": "Submission",
+        "answer": "1 Peter 2; Rom. 13; Eph. 5"
+    },
+    {
+        "question": "Substitutionary death",
+        "answer": "Rom. 3"
+    },
+    {
+        "question": "Suffering",
+        "answer": "Matt. 10:16-23; Acts 5:41; Rom. 5:1-8; 8:17-25; 2 Cor. 1:3-11; 4:7-18; 5:1-10; 12:9-10; 1 Thess. 1; 2 Thess. 1; 2 Tim. 1:7-14; 2:8-10; Heb. 2:9-11; 11 (they overcame by faith); James 1:2-4; 1 Peter 4:12-19 (suffering for the gospel)"
+    },
+    {
+        "question": "Tabernacle",
+        "answer": "Ex. 26"
+    },
+    {
+        "question": "Temple Dedication",
+        "answer": "1 Kings 8; 2 Chr. 6-7"
+    },
+    {
+        "question": "Temptation (evil desires)",
+        "answer": "James 1; 1 John 2"
+    },
+    {
+        "question": "Temptation of Jesus",
+        "answer": "Matt. 4:1-11; Mark 1:12-13; Luke 4:1-13"
+    },
+    {
+        "question": "Ten Commandments",
+        "answer": "Ex. 20; Deut. 5"
+    },
+    {
+        "question": "Test of true Prophet",
+        "answer": "Deut. 13:1-5; 18:21 ff.; 1 Kings 13:20"
+    },
+    {
+        "question": "Three Uses of the Law",
+        "answer": "(1) Law as mirror (schoolmaster/teacher), Gal. 3:24-25 (2) Law restraining evil, 2 Thess. 2:7 (2) Law as guide, John 14:15"
+    },
+    {
+        "question": "Titles of God",
+        "answer": "Matt. 26:64; Mark 12:37; John 1:1, 18; 5:18; 20:28; Phil. 2:11; Heb. 1:8"
+    },
+    {
+        "question": "Tithing",
+        "answer": "Lev. 27:30-34; Num. 18; Mark 12:41-44; 1 Cor. 16:2"
+    },
+    {
+        "question": "Tongue",
+        "answer": "James 1:26; 3:1-12"
+    },
+    {
+        "question": "Total Depravity",
+        "answer": "Rom. 1-3"
+    },
+    {
+        "question": "Transfiguration of Jesus",
+        "answer": "Matt. 17:1-8; Mark 9:2-8; Luke 9:28-36"
+    },
+    {
+        "question": "Trinity (Triune God)",
+        "answer": "Gen. 1:1-3, 26; Is. 48:16; Matt. 3:17; 28:18-20; John 17:11; 2 Cor. 13:14; Eph. 1:3-14; 1 Peter 1:2"
+    },
+    {
+        "question": "Triumphal Entry into Jerusalem",
+        "answer": "Matt. 21:1-17; Mark 11; Luke 19; John 12"
+    },
+    {
+        "question": "Two Great Commands",
+        "answer": "Matt. 22:34-40; Mark 12"
+    },
+    {
+        "question": "Upper Room Discourse",
+        "answer": "John 13-14"
+    },
+    {
+        "question": "Use of Gifts",
+        "answer": "1 Cor. 12-13"
+    },
+    {
+        "question": "Valley of Dry Bones",
+        "answer": "Ezek. 37"
+    },
+    {
+        "question": "Virgin Birth",
+        "answer": "Isaiah 7:14; Joel 1:8; Matt. 1:18; 2; Luke 1"
+    },
+    {
+        "question": "Visitation of Sick",
+        "answer": "Ps. 22, 23, 51; Is. 53"
+    },
+    {
+        "question": "Watchman",
+        "answer": "Song of Solomon 3; Ezek. 3:16; 33"
+    },
+    {
+        "question": "Water to Wine at Wedding",
+        "answer": "John 2"
+    },
+    {
+        "question": "Weaker Brother",
+        "answer": "1 Cor. 8"
+    },
+    {
+        "question": "Wedding at Cana",
+        "answer": "John 2"
+    },
+    {
+        "question": "Women in the church",
+        "answer": "Rom. 16:1-2; 1 Cor. 7; 14:33-36; 1 Tim. 2:8-15; 2 Tim. 3:11; Titus 3"
+    },
+    {
+        "question": "Work",
+        "answer": "Eph. 6; 1 Thess. 4:9-12; 5:14; 2 Thess. 3:10"
+    }
+]
