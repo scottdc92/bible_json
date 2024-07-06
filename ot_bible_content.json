@@ -1,0 +1,1086 @@
+[
+	{
+		"question": "Q. How many books are in the Old Testament?",
+		"answer": "A. 39"
+	},
+	{
+		"question": "Q. How many books are in the New Testament?",
+		"answer": "A. 27"
+	},
+	{
+		"question": "Q. What is the Pentateuch?",
+		"answer": "A. The first 5 books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy, also known as the Books of Moses, the Books of the Law, or the Torah."
+	},
+	{
+		"question": "Q. What are the books from Joshua to Esther called?",
+		"answer": "A. The Historical books"
+	},
+	{
+		"question": "Q. Which books are pre-exilic and post-exilic in the Historical books?",
+		"answer": "A. Pre-exilic: Joshua, Judges, Ruth, 1 & 2 Samuel, 1 & 2 Kings, 1 & 2 Chr.. Post-exilic: Ezra, Nehemiah, Esther."
+	},
+	{
+		"question": "Q. What books are considered wisdom literature?",
+		"answer": "A. Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, also known as The Writings."
+	},
+	{
+		"question": "Q. Which books are sometimes referred to as the former prophets?",
+		"answer": "A. Joshua, Judges, 1 & 2 Samuel, 1 & 2 Kings"
+	},
+	{
+		"question": "Q. What are the prophetic books and what other name do they have?",
+		"answer": "A. The prophetic books are Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel, Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi, also known as The Latter Prophets."
+	},
+	{
+		"question": "Q. What are the major prophets and which are pre/post exile?",
+		"answer": "A. The major prophets are Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Pre-exilic: Isaiah, Jeremiah. Post-exilic: Lamentations, Ezekiel, Daniel."
+	},
+	{
+		"question": "Q. What are the minor prophets, their location, and pre/post exile?",
+		"answer": "A. The minor prophets are Hosea (Israel), Joel (Judah), Amos (Israel), Obadiah (Judah), Jonah (Israel), Micah (Judah), Nahum (Judah), Habakkuk (Judah), Zephaniah (Judah), Haggai (Judah), Zechariah (Judah), Malachi (Judah). Pre-exilic: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah. Post-exilic: Haggai, Zechariah, Malachi."
+	},
+	{
+		"question": "Q. What are the general literary divisions of the Old Testament?",
+		"answer": "A. Pentateuch, Historical Books, Wisdom Literature, Prophets."
+	},
+	{
+		"question": "Q. What are the Jewish divisions of the Old Testament?",
+		"answer": "A. Law (Pentateuch), Prophets (Historical Books except Chr. thru Esther), Writings (Poetry and Ruth, 1 & 2 Chr., Ezra, Nehemiah, Esther, Lamentations, Daniel)"
+	},
+	{
+		"question": "Q. What are the Gospels and their divisions?",
+		"answer": "A. Matthew, Mark, Luke, and John, divided into Synoptics (Matthew, Mark, Luke) and John."
+	},
+	{
+		"question": "Q. What books are included in the Pauline epistles?",
+		"answer": "A. Romans, 1 & 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 & 2 Thessalonians, 1 & 2 Timothy, Titus, Philemon."
+	},
+	{
+		"question": "Q. Which epistles are pastoral and why?",
+		"answer": "A. 1 & 2 Timothy and Titus are pastoral epistles because they were not written to churches, but individuals, and also deal with qualification for leadership."
+	},
+	{
+		"question": "Q. What books are included in the general epistles?",
+		"answer": "A. Hebrews, James, 1 & 2 Peter, 1, 2 & 3 John, and Jude."
+	},
+	{
+		"question": "Q. What is the Septuagint?",
+		"answer": "A. The oldest Greek version of the Old Testament translated between 300-200 BC, named after the legend of 70 Jewish scholars translating individually and ending up with the exact same translation."
+	},
+	{
+		"question": "Q. What is the Vulgate?",
+		"answer": "A. The Latin translation of the Bible, primarily prepared by St. Jerome at the end of the 4th century."
+	},
+	{
+		"question": "Q. What is the Apocrypha and why is it not part of the canon?",
+		"answer": "A. The Apocrypha is a collection of 13 works of Jewish literature from 300 B.C. to A.D. 70, not considered part of the canon due to its disputed authority and lack of recognition by the Jewish community."
+	},
+	{
+		"question": "Q. Where do we find the text about man and woman being made in the image of God?",
+		"answer": "A. Genesis 1:26-28"
+	},
+	{
+		"question": "Q. Where do we find the cultural mandate?",
+		"answer": "A. Genesis 1:28"
+	},
+	{
+		"question": "Q. What is the proto-euangelion and where do we find it?",
+		"answer": "A. The proto-euangelion is the first-gospel, the prophetic picture of Christ, found in Genesis 3:15"
+	},
+	{
+		"question": "Q. Where do we find Noah and the flood?",
+		"answer": "A. Genesis 6-9"
+	},
+	{
+		"question": "Q. Why did the people build the tower and what command were they violating?",
+		"answer": "A. They wanted to make a name for themselves (Genesis 11:4) and they were violating the mandate to go and fill the earth (Genesis 9:1)"
+	},
+	{
+		"question": "Q. What was the judgment of the tower of Babel and what event reverses it?",
+		"answer": "A. God mixed (confused) their language and scattered them, which is reversed at Pentecost in Acts 2"
+	},
+	{
+		"question": "Q. Where is the call of Abraham found, what was the promise, and what NT passage makes reference to the promised seed?",
+		"answer": "A. The call of Abraham is found in Genesis 12, the promise involves people, protection, program, and place, and Paul speaks about it in Galatians 3:16"
+	},
+	{
+		"question": "Q. Who was Melchizedek, what events happen around him, and where else does Scripture reference him?",
+		"answer": "A. Melchizedek is a priest of the most high God from Salem, Abraham tithes to him and he gives Abraham bread and wine, and he is referenced in Psalm 110:4 and Hebrews 5:5-6, 7:1-2"
+	},
+	{
+		"question": "Q. Explain the covenant with Abraham.",
+		"answer": "A. In Genesis 15, God makes a covenant with Abraham by walking through the dead animals as a smoking fire pot and flaming torch, and in Genesis 17, circumcision is given as a sign and all males at 8 days are to be circumcised"
+	},
+	{
+		"question": "Q. Who was Sarah's servant, her son, and what NT passage uses them as an allegory to contrast two covenants?",
+		"answer": "A. Hagar is Sarah's servant, she bears Ishmael, and Paul uses the son of Hagar and the son of Sarah as an allegory in Galatians 4"
+	},
+	{
+		"question": "Q. Summarize the history of Isaac with important texts.",
+		"answer": "A. Isaac was born in Genesis 21, Abraham is commanded to take him as a sacrifice in Genesis 22, he marries Rebekah in Genesis 24:67, and fathers Jacob and Esau in Genesis 25:25-26"
+	},
+	{
+		"question": "Q. Summarize the history of Jacob with important texts.",
+		"answer": "A. Jacob fled from home after taking the birthright of Esau in Genesis 27, he dreams of a ladder to heaven in Genesis 28:12, marries Rachel and Leah in Genesis 29:22, 28, and wrestles with God at the brook Jabbok in Genesis 32:22"
+	},
+	{
+		"question": "Q. Where is the story of the burning bush?",
+		"answer": "A. Exodus 3"
+	},
+	{
+		"question": "Q. List the plagues in Exodus 7-12.",
+		"answer": "A. Blood, Frogs, Gnats, Flies, Livestock die, Boils, Hail, Locusts, Darkness, Death of Firstborn"
+	},
+	{
+		"question": "Q. Where do we find the Passover and what is its meaning?",
+		"answer": "A. The Passover is found in Exodus 12, and it is a reminder of how the Lord delivered Israel out from Egypt by 'passing over' the houses of the Israelites who killed a lamb and wiped its blood on the door."
+	},
+	{
+		"question": "Q. Where do we find the 10 commandments, where does Jesus summarize them, and where does Jesus say he fulfills them?",
+		"answer": "A. The 10 commandments are found in Exodus 20 and Deuteronomy 5, Jesus summarizes them in Matthew 22 and Mark 12, and Jesus says he fulfills them in Matthew 5:17 and Luke 24:44"
+	},
+	{
+		"question": "Q. List the 10 commandments and their two main divisions.",
+		"answer": "A. The 10 commandments are:<br> (Godward) Have no other gods, Make no idols, Do not take the Lord's name in vain, Remember the Sabbath;<br> (Manward) Honor father and mother, Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not covet"
+	},
+	{
+		"question": "Q. Where do we find the story of the Golden Calf?",
+		"answer": "A. Exodus 32"
+	},
+	{
+		"question": "Q. What are the three annual feasts required?",
+		"answer": "A. The Feasts of Unleavened Bread (Passover), Feast of Harvest, and Feast of Ingathering (Exodus 23:14-17)"
+	},
+	{
+		"question": "Q. What is Pentecost?",
+		"answer": "A. Pentecost means '50' and refers to the 50th day after Passover when the feast of Firstfruits begins."
+	},
+	{
+		"question": "Q. Who were the sons of Aaron?",
+		"answer": "A. Nadab and Abihu, who died because they made an unauthorized sacrifice, and Eleazar and Ithamar."
+	},
+	{
+		"question": "Q. Where is the ordination of Aaron and his sons?",
+		"answer": "A. Leviticus 8"
+	},
+	{
+		"question": "Q. Where do we find the priestly benediction (Aaronic benediction)?",
+		"answer": "A. Numbers 6:23-26"
+	},
+	{
+		"question": "Q. Where do we find the spies sent into the land of Canaan?",
+		"answer": "A. Numbers 13, where 12 spies were sent, and only Joshua and Caleb brought a positive report."
+	},
+	{
+		"question": "Q. What sin did Moses commit and where did it take place?",
+		"answer": "A. At the waters of Meribah, Moses did not believe in God and uphold Him as holy before Israel, and as a result, God would not allow him to enter into the promise land."
+	},
+	{
+		"question": "Q. What judgement did God send on Israel and why? What is the NT reference?",
+		"answer": "A. God sent snakes because Israel complained about not having food and water when passing through Edom, and Moses was instructed to make a bronze serpent that people looked to for healing. This is referenced in John 3."
+	},
+	{
+		"question": "Q. What did God tell Moses to do to help govern the people, who prophesized, and what governing body has its origins in this event?",
+		"answer": "A. God instructed Moses to appoint elders to assist in governing Israel, 70 were chosen, and God's Spirit fell upon them and they prophesied, including Eldad and Medad. The Sanhedrin has its origins in this event, with 71 members (70 + the high priest)."
+	},
+	{
+		"question": "Q. What does Deuteronomy mean?",
+		"answer": "A. Deuteronomy is Greek for'second law' and it refers to the main event of Deuteronomy, the second giving of the law before Israel enters the promised land."
+	},
+	{
+		"question": "Q. What is the Shema and where do we find it?",
+		"answer": "A. The Shema is the first Hebrew word of the text in Deuteronomy 6:4, שְׁמַ֖ע, 'hear'."
+	},
+	{
+		"question": "Q. Where do we find the covenant curses and blessings for covenant obedience?",
+		"answer": "A. The curses are found in Deuteronomy 27:15-26 and the blessings for obedience are found in Deuteronomy 28:1-14."
+	},
+	{
+		"question": "Q. What are the major theological themes of Joshua?",
+		"answer": "A. Land and holy warfare, Book of the Law and the Covenant, Divine sovereignty and human responsibility, Promised Rest."
+	},
+	{
+		"question": "Q. What was the prostitute who hid the spies, what city was she in, and what chapter do we see this?",
+		"answer": "A. Rahab hid the two spies Joshua sent into Jericho in Joshua 2."
+	},
+	{
+		"question": "Q. What were the first two things Israel did after crossing the river?",
+		"answer": "A. While camping at Gilgal they circumcised the people and celebrated the Passover (Joshua 5:2, 10)."
+	},
+	{
+		"question": "Q. What commands did God give Israel regarding battle in the Promised Land?",
+		"answer": "A. They were to destroy every person, not keep anything for themselves, destroy every creation, and all gold and silver were to go into the treasury of the Lord (Joshua 6:17-21)."
+	},
+	{
+		"question": "Q. Who deceived Joshua and Israel and how? What happened to them?",
+		"answer": "A. The Gibeonites said they were far from them, and because their lives were spared by the covenant they made with Israel, they became cutters of wood and drawers of water for the congregation."
+	},
+	{
+		"question": "Q. What is the dating of Judges?",
+		"answer": "A. Between Joshua's death and the rise of Samuel and Saul"
+	},
+	{
+		"question": "Q. What is the reoccurring theme/phrase in Judges?",
+		"answer": "A. There was no king in Israel. Everyone did what was right in his own eyes. (Judges 17:6; 21:25)"
+	},
+	{
+		"question": "Q. Summarize the story of the Israelite and his concubine, and its importance.",
+		"answer": "A. A Levite had a concubine who ran off, and as he was returning home with her, he stayed in Gibeah of the tribe of Benjamin. The men of the city surrounded the home and demanded they send out the Levite to 'know him,' but the Ephraim offered his virgin daughter and the Levite's concubine. The men took the concubine and raped her. The Levite responded by taking a knife and cut her into 12 pieces, sending them throughout the territory of Israel. The importance is that Israel was as bad as, or even worse than, Sodom and Gomorra."
+	},
+	{
+		"question": "Q. List the judges",
+		"answer": "A. Othniel, Ehud, Shamgar, Deborah, Gideon, Tola, Jair, Jephthah, Ibzan, Elon, Abdon, and Samson. Some others are mentioned in 1 & 2 Chr. (Kenaniah and sons, Amariah, and Zebadiah)"
+	},
+	{
+		"question": "Q. What test did the Gileadites give to those who wanted to cross the Jordan? Who were they testing for?",
+		"answer": "A. They made them say 'Shibboleth' to see if they were Ephraimites"
+	},
+	{
+		"question": "Q. What is the setting of the book of Ruth?",
+		"answer": "A. The period of the Judges (1:1)"
+	},
+	{
+		"question": "Q. What are key themes in Ruth?",
+		"answer": "A. Kindness, Redemption, Providence and Covenant"
+	},
+	{
+		"question": "Q. Where was the famine and where did Naomi's family travel to?",
+		"answer": "A. The famine was in Bethlehem, meaning house of bread, to Moab"
+	},
+	{
+		"question": "Q. What is important about the genealogy at the end of Ruth?",
+		"answer": "A. It shows that David was a descendant, proving God remains true to his covenant promises"
+	},
+	{
+		"question": "Q. Who was Samuel's parents and what was the cause of Hannah's sufferings?",
+		"answer": "A. Elkanah and Hannah (1 Sam. 1:19-20). Hannah was unable to have children."
+	},
+	{
+		"question": "Q. Where did Samuel lead Israel in battle against the Philistines and what did he set up?",
+		"answer": "A. At Mizpah, and he set up a stone which he named Ebenezer, meaning 'the Lord has helped us' (1 Sam. 7:7, 12)"
+	},
+	{
+		"question": "Q. Who is anointed king and of what tribe was he from?",
+		"answer": "A. Saul is chosen to be the first king (9:16) and he is from the tribe of Benjamin (9:1)"
+	},
+	{
+		"question": "Q. Where did Samuel call the people together and introduce the king? What distinguished him?",
+		"answer": "A. At Mizpah Samuel gathered the people and announced Saul as king, though their desire for a king was a rejection of God (10:19). Saul was hiding in the baggage (10:22), but 'he was taller than any of the people from his shoulders upward' (10:23)"
+	},
+	{
+		"question": "Q. What is the canonical setting of 2 Samuel?",
+		"answer": "A. The reign of King David"
+	},
+	{
+		"question": "Q. Where was David anointed king and what tribe was he from?",
+		"answer": "A. He was anointed in Hebron and was from the Judah (2 Sam. 2:3-4)"
+	},
+	{
+		"question": "Q. In what chapter does David bring the ark of God back to Jerusalem?",
+		"answer": "A. 2 Sam. 6 (the Philistines came looking for David in 5:17ff)"
+	},
+	{
+		"question": "Q. Where do we find David's covenant with God? What was David's desire and God's response?",
+		"answer": "A. In 2 Sam. 7, we see David with a desire to build a house for God (1-3), and God is pleased but says he is going to actually build a house for David and establish a kingdom forever though David (11-13)"
+	},
+	{
+		"question": "Q. What happened with David and Bathsheba?",
+		"answer": "A. David's sin with Bathsheba occurs in 2 Sam. 11, and he murdered Uriah by sending him to the front of the battle and then had the army draw back. Nathan rebuked him through a parable and the child with Bathsheba dies."
+	},
+	{
+		"question": "Q. Why is the rebellion of Sheba important?",
+		"answer": "A. It shows that there was conflict between the north and south within Israel before the nation officially split in two under Solomon's reign."
+	},
+	{
+		"question": "Q. What is the canonical setting of 1 Kings?",
+		"answer": "A. The monarchy of ancient Israel – beginning with David’s reign ending (1 Kings 1:1-4) and Solomon’s reign beginning."
+	},
+	{
+		"question": "Q. Why could Solomon build the temple, while his father, David, could not?",
+		"answer": "A. The warfare around David prevented him from building the temple, but Solomon reigned during a time of peace (1 Kings 5:3-5)"
+	},
+	{
+		"question": "Q. Who became king after Solomon?",
+		"answer": "A. Rehoboam (1 Kings 11:43)"
+	},
+	{
+		"question": "Q. Who led a rebellion that divided Israel?",
+		"answer": "A. Jeroboam (1 Kings12:16ff)"
+	},
+	{
+		"question": "Q. What is the canonical setting of 2 Kings?",
+		"answer": "A. From the divided kingdom to the fall of Judah"
+	},
+	{
+		"question": "Q. Elijah wore a garment of?",
+		"answer": "A. Hair and leather (2 Kings 1:8)"
+	},
+	{
+		"question": "Q. Transition from Elijah to Elisha?",
+		"answer": "A. Elijah did not die but was taken up to heaven by a chariot of fire and a whirlwind (2:11). Elisha asked for a double portion of his spirit (2:9). All of this occurred near the river Jordan (2:9-14) and Elijah left his cloak for Elisha."
+	},
+	{
+		"question": "Q. What king repairs the temple?",
+		"answer": "A. Jehoash in 2 Kings 12"
+	},
+	{
+		"question": "Q. Where do we find the death of Elisha?",
+		"answer": "A. 2 Kings 13"
+	},
+	{
+		"question": "Q. Who was the last king of the northern kingdom of Israel and why did Israel fall?",
+		"answer": "A. Hoshea was the last king and they were exiled because they served other Gods (2 Kings 17:1, 7, 12)"
+	},
+	{
+		"question": "Q. Where do we find Josiah’s reforms and what was at the heart of them?",
+		"answer": "A. Josiah’s reforms are in 2 Kings 23 and focus on a renewal of the covenant with God (23:2-3) and celebrating the Passover, which had not been celebrated since the days of the judges (23:21-23)"
+	},
+	{
+		"question": "Q. Who was king of Babylon when they captured Jerusalem?",
+		"answer": "A. Nebuchadnezzar (2 Kings 24:10)"
+	},
+	{
+		"question": "Q. What is the canonical setting of 1 Chr.?",
+		"answer": "A. Concerned with David’s rise and reign as King, mostly written as Israel began to return to their land post-exile"
+	},
+	{
+		"question": "Q. What is the main theme of 1 Chr.?",
+		"answer": "A. The Davidic Covenant as it is the foundation and promise of Israel’s life and hope"
+	},
+	{
+		"question": "Q. In what chapter is David anointed king?",
+		"answer": "A. 1 Chr. 11"
+	},
+	{
+		"question": "Q. Where do we find the Davidic covenant?",
+		"answer": "A. 1 Chr. 17"
+	},
+	{
+		"question": "Q. How is the Davidic Covenant expressed in 1 Chr.?",
+		"answer": "A. The monarch and the temple (1 Chron. 17:10b-14)"
+	},
+	{
+		"question": "Q. Where is David’s wars record?",
+		"answer": "A. 1 Chr. 18-20"
+	},
+	{
+		"question": "Q. Who enticed David to take a census, and how did God respond?",
+		"answer": "A. Satan (21:1) tempted David and after taking the census, God sent a pestilence that killed 70,000 people."
+	},
+	{
+		"question": "Q. What is the canonical setting of 2 Chronicles?",
+		"answer": "A. Solomon’s reign to the exile"
+	},
+	{
+		"question": "Q. What does Solomon pray for in the opening chapter and what does God give him?",
+		"answer": "A. Wisdom and knowledge (2 Chr. 1:10), Riches, possessions, and honor like none of the kings before him (1:12)"
+	},
+	{
+		"question": "Q. When did Solomon bring into the temple?",
+		"answer": "A. The Ark of the Covenant (2 Chr. 5:2-14)"
+	},
+	{
+		"question": "Q. Where is the dedication ceremony of the temple recorded?",
+		"answer": "A. 2 Chr. 7"
+	},
+	{
+		"question": "Q. How long did Solomon rule over Israel?",
+		"answer": "A. 40 years (2 Chr. 9:30)"
+	},
+	{
+		"question": "Q. Who took the throne after Solomon died and in what city?",
+		"answer": "A. Rehoboam, Solomon’s son, became king (9:31) and was made king in Shechem (2 Chr. 10:1)"
+	},
+	{
+		"question": "Q. Why did the 10 northern tribes revolt and make Jeroboam their king?",
+		"answer": "A. Rehoboam refused to lighten the heavy tax his father had implemented (2 Chr. 10:4-19)"
+	},
+	{
+		"question": "Q. King Asa led the people of Judah to do what?",
+		"answer": "A. Renew the covenant (2 Chr. 15:12), at the heart of which was religious reforms."
+	},
+	{
+		"question": "Q. What kind of reforms did Jehoshaphat make?",
+		"answer": "A. Judicial and religious reforms (2 Chr. 19)"
+	},
+	{
+		"question": "Q. Who invaded Judah after Hezekiah instituted reforms?",
+		"answer": "A. Sennacherib, king of Assyria (2 Chr. 32:1)"
+	},
+	{
+		"question": "Q. Who became king after Hezekiah?",
+		"answer": "A. Manasseh (2 Chr. 32:33), who is represented as the repentant king (2 Chr. 33:10-20)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Ezra?",
+		"answer": "A. Unknown, though parts of Ezra 7-10 come from Ezra’s own hand as they are written in the first person"
+	},
+	{
+		"question": "Q. What is the canonical setting of Ezra?",
+		"answer": "A. Cyrus’ degree of 538 B.C. freeing Jewish exiles to return home and rebuild the temple"
+	},
+	{
+		"question": "Q. What is the significance of the long list of names found in chapter 2?",
+		"answer": "A. It documents the exiles return to Jerusalem and Judah to resettle their land"
+	},
+	{
+		"question": "Q. Why is it important that priests and Levites be organized correctly (Ezra 2:36)?",
+		"answer": "A. It shows that the proper worship of God is being restored"
+	},
+	{
+		"question": "Q. How did Ezra lead the people and seek to be reconciled to God?",
+		"answer": "A. He repented and interceded for the people (Ezra 9:5-10:17)"
+	},
+	{
+		"question": "Q. The book of Ezra ends with Ezra doing what?",
+		"answer": "A. Rebuking the people for not putting away their foreign wives (Ezra 10:10)"
+	},
+	{
+		"question": "Q. What is the canonical setting of Nehemiah?",
+		"answer": "A. Nehemiah is a sequel to Ezra covering roughly the same post-exilic time period. Yet the focus in Nehemiah is on the rebuilding of the wall around Jerusalem and the covenant obligations of the people of Israel."
+	},
+	{
+		"question": "Q. What are the key themes found in Nehemiah?",
+		"answer": "A. The Lord hears the prayers of his people and will protect them, The providential work of God, even though other nations and rulers, The Lord keeps his covenants promises, Worship is at the heart of the life of God’s people"
+	},
+	{
+		"question": "Q. How does Nehemiah begin?",
+		"answer": "A. In response to learning of those who survived the exile, Nehemiah confesses their sin and prays for forgiveness (Neh. 1)"
+	},
+	{
+		"question": "Q. What concerned Nehemiah in chapter 5?",
+		"answer": "A. The oppression of the poor, which was being done by the Jewish people charging their brothers interest (Neh. 5:6-13)"
+	},
+	{
+		"question": "Q. What did reading the law move the people to do in Nehemiah?",
+		"answer": "A. Confess their sin (Neh. 9:2)"
+	},
+	{
+		"question": "Q. What did Israel do in chapter 10?",
+		"answer": "A. Renew the covenant"
+	},
+	{
+		"question": "Q. Upon returning from visiting Artaxerxes, Nehemiah found Israel doing what?",
+		"answer": "A. People were no longer giving their tithes and working on the Sabbath (Neh. 13:10-18)"
+	},
+	{
+		"question": "Q. Which sin does Nehemiah address at the close of the book?",
+		"answer": "A. Intermarriage (Neh. 13:23-27), just as Ezra does"
+	},
+	{
+		"question": "Q. What is the canonical setting of Esther?",
+		"answer": "A. In Persia during Israel’s exile"
+	},
+	{
+		"question": "Q. What are the key themes of Esther?",
+		"answer": "A. Divine providence and human responsibility, Absurdity of wickedness"
+	},
+	{
+		"question": "Q. What is notably absent in Esther?",
+		"answer": "A. Mention of God or the LORD."
+	},
+	{
+		"question": "Q. In Esther, which feast did not require the Jews to travel to Jerusalem to celebrate it?",
+		"answer": "A. Purim"
+	},
+	{
+		"question": "Q. What is the canonical setting of the book of Job?",
+		"answer": "A. Outside the land of Israel and likely during the time of the patriarchs."
+	},
+	{
+		"question": "Q. Which Psalms are directly Messianic?",
+		"answer": "A. All Psalms point to Christ, but some do so more directly: Psalm 2, 22, 45, 72, 110"
+	},
+	{
+		"question": "Q. List two penitential Psalms.",
+		"answer": "A. Psalms 32 and 51"
+	},
+	{
+		"question": "Q. How many books are the Psalms divided into?",
+		"answer": "A. Five – 1-42, 42-72, 73-89, 90-106, 107-150"
+	},
+	{
+		"question": "Q. What are the different types of Psalms generally identified?",
+		"answer": "A. Laments (Penitential), Praise, Kingdom, Thanksgiving, Wisdom, Remembrance, Imprecatory"
+	},
+	{
+		"question": "Q. What are some of the reoccurring themes?",
+		"answer": "A. Monotheism, Creation and Fall, Election and Covenant, Covenant membership and God’s Faithfulness"
+	},
+	{
+		"question": "Q. Who are some of the authors of the Psalms?",
+		"answer": "A. David, Sons of Korah, Asaph, Solomon, Moses, Anonymous"
+	},
+	{
+		"question": "Q. What are the Songs of Ascent?",
+		"answer": "A. Songs sung during the trip to the temple (Ps. 120-134)"
+	},
+	{
+		"question": "Q. What is the purpose of the book of Psalms?",
+		"answer": "A. The purpose of the book of Psalms is to reveal the proper response of worship on the part of God’s covenant people to his acts in history."
+	},
+	{
+		"question": "Q. What is the canonical setting of Esther?",
+		"answer": "A. In Persia during Israel’s exile"
+	},
+	{
+		"question": "Q. What are the key themes of Esther?",
+		"answer": "A. Divine providence and human responsibility, Absurdity of wickedness"
+	},
+	{
+		"question": "Q. What is notably absent in Esther?",
+		"answer": "A. Mention of God or the LORD."
+	},
+	{
+		"question": "Q. In Esther, which feast did not require the Jews to travel to Jerusalem to celebrate it?",
+		"answer": "A. Purim"
+	},
+	{
+		"question": "Q. What is the canonical setting of the book of Job?",
+		"answer": "A. Outside the land of Israel and likely during the time of the patriarchs."
+	},
+	{
+		"question": "Q. Which Psalms are directly Messianic?",
+		"answer": "A. All Psalms point to Christ, but some do so more directly: Psalm 2, 22, 45, 72, 110"
+	},
+	{
+		"question": "Q. List two penitential Psalms.",
+		"answer": "A. Psalms 32 and 51"
+	},
+	{
+		"question": "Q. How many books are the Psalms divided into?",
+		"answer": "A. Five – 1-42, 42-72, 73-89, 90-106, 107-150"
+	},
+	{
+		"question": "Q. What are the different types of Psalms generally identified?",
+		"answer": "A. Laments (Penitential), Praise, Kingdom, Thanksgiving, Wisdom, Remembrance, Imprecatory"
+	},
+	{
+		"question": "Q. What are some of the reoccurring themes of the Psalms?",
+		"answer": "A. Monotheism, Creation and Fall, Election and Covenant, Covenant membership and God’s Faithfulness"
+	},
+	{
+		"question": "Q. Who are some of the authors of the Psalms?",
+		"answer": "A. David, Sons of Korah, Asaph, Solomon, Moses, Anonymous"
+	},
+	{
+		"question": "Q. What are the Songs of Ascent?",
+		"answer": "A. Songs sung during the trip to the temple (Ps. 120-134)"
+	},
+	{
+		"question": "Q. What is the purpose of the book of Psalms?",
+		"answer": "A. The purpose of the book of Psalms is to reveal the proper response of worship on the part of God’s covenant people to his acts in history."
+	},
+	{
+		"question": "Q. Who are the authors of the book of Proverbs?",
+		"answer": "A. Primarily Solomon, but also King Lemuel, Agur, the men of Hezekiah, and some anonymous"
+	},
+	{
+		"question": "Q. What is the main theme of Proverbs?",
+		"answer": "A. Wisdom to live a godly life."
+	},
+	{
+		"question": "Q. What are the basic character types found in Proverbs?",
+		"answer": "A. The wise and the fool"
+	},
+	{
+		"question": "Q. What is the beginning of wisdom and knowledge?",
+		"answer": "A. Fear of the Lord (Prov. 1:7; 9:10; 15:33)"
+	},
+	{
+		"question": "Q. Who is the author of the book of Ecclesiastes?",
+		"answer": "A. Qoheleth, the “preacher,” traditionally believed to be Solomon (1:1)"
+	},
+	{
+		"question": "Q. What is the overall theme of Ecclesiastes?",
+		"answer": "A. The necessity of fearing God in a fallen world; the vanity of life apart from God."
+	},
+	{
+		"question": "Q. What is the purpose of the book of Ecclesiastes?",
+		"answer": "A. The book of Ecclesiastes is valuable because it shows us the limitations of wisdom in a fallen world, and reveals the proper response to that world, namely, to fear God and obey his commandments."
+	},
+	{
+		"question": "Q. What are the themes in Ecclesiastes?",
+		"answer": "A. The vanity of life, Sin and death, The joy and frustrations of work, Enjoyment of God’s gifts"
+	},
+	{
+		"question": "Q. What vanities does the Preacher list throughout the book of Ecclesiastes?",
+		"answer": "A. Natural world (1:4-11), Wisdom and knowledge (1:12-18; 2:12-17; 4:13-16), Pleasure, possessions, accomplishments (2:1-11), Labor/toil (2:18-26; 4:4-12), Moral life (3:16-4:16), Wealth and honor (5:8-20)"
+	},
+	{
+		"question": "Q. How does the book of Ecclesiastes end?",
+		"answer": "A. “The end of the matter; all has been heard. Fear God and keep his commandments, for this is the whole duty of man. For God will bring every deed into judgment, with every secret thing, whether good or evil.” (12:13-14)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Song of Solomon?",
+		"answer": "A. Solomon (1:1)"
+	},
+	{
+		"question": "Q. What are the key themes of Song of Solomon?",
+		"answer": "A. God’s covenant, Marriage as a gift from God"
+	},
+	{
+		"question": "Q. Who is the traditional author of Isaiah?",
+		"answer": "A. Isaiah, the son of Amoz."
+	},
+	{
+		"question": "Q. Who is the audience of Isaiah?",
+		"answer": "A. The audience is the rebellious people during the time of the Judean kings Uzziah, Jotham, Ahaz, and Hezekiah (1:1)."
+	},
+	{
+		"question": "Q. Where is the reference to Isaiah’s vision, what is the significance of this vision, and what is the message?",
+		"answer": "A. Isaiah’s vision is found in Isaiah 6. The prophetic vision is of the Lord taking away the guilt of his people. The message is a picture of the LORD’s holiness and Israel’s uncleanness, and their need of cleansing."
+	},
+	{
+		"question": "Q. To which kings are Isaiah sent?",
+		"answer": "A. Ahaz (Is. 7) and Hezekiah (37)"
+	},
+	{
+		"question": "Q. What was the sign God said he would give to Ahaz, and who would invade/capture Israel?",
+		"answer": "A. Ahaz was given the Sign of Immanuel (7:14), and the next reference to Immanuel is in Isaiah 9:6. Assyria will capture Israel"
+	},
+	{
+		"question": "Q. What chapter talks about the branch of Jesse?",
+		"answer": "A. Isaiah 11"
+	},
+	{
+		"question": "Q. In Isaiah, who would God judge, where is this found, and where is God’s judgement on death?",
+		"answer": "A. Those who would come against his people; Assyria, Babylon, Philistia, Moab, Damascus, Cush, Egypt, Arabia, Tyre, Sidon, the Whole earth (14-24). God’s judgment on death is in Isaiah 25"
+	},
+	{
+		"question": "Q. Where is the phrase “this people… honor me with their lips, while their hearts are far from me” and where is referenced in the New Testament?",
+		"answer": "A. Isaiah 29:13-14 and is referenced in Matt. 15:8-9"
+	},
+	{
+		"question": "Q. Explain God’s warning against seeking help from Egypt.",
+		"answer": "A. Because God is their hope, they should look to him, for he is compassionate, gracious, slow to anger, and abounding in love. If they turned to him, he would forgive them, given them rain, bread, animals, and land (30:18-25)."
+	},
+	{
+		"question": "Q. Which king seeks help from Isaiah, where is this found, what does this king do in response to hearing about the coming invasion, and what does God do?",
+		"answer": "A. Hezekiah seeks Isaiah’s help (37) because Sennacherib invaded Judah. Hezekiah responded by tearing his clothes and beseeching the Lord. The angel of the Lord struck down 185,000 Assyrians (37:21-38)"
+	},
+	{
+		"question": "Q. What is important about Isaiah 40, what did God promise when he told the people not to fear, and what did he warn against?",
+		"answer": "A. The people of God were in exile when God proclaimed his comfort and presence in Isaiah 40, he promised he would not forsake them and he was with them (41-43), and he warned them against idolatry (44:6)"
+	},
+	{
+		"question": "Q. Where are the four servant songs?",
+		"answer": "A. Isaiah 42:1-9; 49:1-13; 50:4-9; 52:13-53:12"
+	},
+	{
+		"question": "Q. Where is the Suffering Servant found?",
+		"answer": "A. In Isaiah 53, the suffering servant is portrayed as a lamb (53:7) that God smites (53:4)"
+	},
+	{
+		"question": "Q. What kind of a covenant does God promise in Isaiah 54?",
+		"answer": "A. An eternal covenant of peace"
+	},
+	{
+		"question": "Q. Where is the “Invitation to the Thirsty” found, which covenant is referenced, and who benefits from this invitation?",
+		"answer": "A. In Isaiah 55, we find the “Invitation to the Thirsty,” and God refers to his covenant with David, and all benefit, as salvation is offered to the foreigners and the eunuchs (56:3-5)"
+	},
+	{
+		"question": "Q. Who is speaking in Isaiah 61?",
+		"answer": "A. The Messianic servant, who brings good news to the poor, set free the captives, open the prisons, proclaim the year of the Lord’s favor, to comfort all who mourn, for his glory."
+	},
+	{
+		"question": "Q. Which passage refers to New Heavens and a New Earth, and what is the NT reference?",
+		"answer": "A. Isaiah 65:17-25; Rev. 21-22"
+	},
+	{
+		"question": "Q. What are the key themes of Jeremiah?",
+		"answer": "A. God and humanity, Old Covenant, Messiah, New Covenant, Idolatry, Religious Ritual, God’s Wrath"
+	},
+	{
+		"question": "Q. What is the canonical setting of Jeremiah?",
+		"answer": "A. Revival under King Josiah until the fall of Jerimiah"
+	},
+	{
+		"question": "Q. What is the time period of Jeremiah?",
+		"answer": "A. 627 BC; pre-exile until the fall of Jerusalem (586 B.C.), with composition of the book around 550 B.C."
+	},
+	{
+		"question": "Q. To whom was the prophet Isaiah sent?",
+		"answer": "A. Judah and Jerusalem"
+	},
+	{
+		"question": "Q. What kind of woman does Jeremiah metaphorically refer to Judah as?",
+		"answer": "A. A harlot/prostitute, a spiritual adulterer (Jer. 2:1-3:5)"
+	},
+	{
+		"question": "Q. Which king did Jeremiah prophecy would conquer Jerusalem?",
+		"answer": "A. Nebuchadnezzar (Jer. 27:1-22)"
+	},
+	{
+		"question": "Q. Where do we find the New Covenant and what is it about?",
+		"answer": "A. God makes a new covenant with Israel in Jer. 31:31-34 where he promises to write his law on the hearts of his people, and a God unto them and forgive their sins."
+	},
+	{
+		"question": "Q. To what nation did the remnant of Judah look to for help when Babylon attacked?",
+		"answer": "A. Egypt"
+	},
+	{
+		"question": "Q. Who was slaughtered before the king of Judah’s eyes?",
+		"answer": "A. The sons of Zedekiah were slaughtered before him by the king of Babylon (Jer. 52:10)"
+	},
+	{
+		"question": "Q. What act of Zedekiah led to the destruction of Jerusalem?",
+		"answer": "A. He rebelled against King Nebuchadnezzar of Babylon (Jer. 52:3)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Lamentations?",
+		"answer": "A. Jeremiah, though the book itself makes no claim."
+	},
+	{
+		"question": "Q. What is the canonical setting of Lamentations?",
+		"answer": "A. Immediately following Babylonian destruction of Jerusalem in 587 B.C."
+	},
+	{
+		"question": "Q. What is the basic theme of Lamentations?",
+		"answer": "A. God’s mercy and faithfulness is the key to a restored relationship with God"
+	},
+	{
+		"question": "Q. To whom was Lamentations written?",
+		"answer": "A. The people of God, particularly referring to Jerusalem, Judah, Zion, and Israel"
+	},
+	{
+		"question": "Q. What explanation does Lamentations give for the fall of Jerusalem?",
+		"answer": "A. The people sinned, from the leadership to all of the people, and persecuted the good people of the land. (Lam. 1:8)"
+	},
+	{
+		"question": "Q. How does Jeremiah conclude his lament?",
+		"answer": "A. He intercedes with repentance for the people (Lam. 5)"
+	},
+	{
+		"question": "Q. Who is the traditional author of the book of Ezekiel?",
+		"answer": "A. Ezekiel the prophet"
+	},
+	{
+		"question": "Q. What is the canonical setting of Ezekiel?",
+		"answer": "A. His ministry began five years after exile, thus the summer of 593 B.C. with the second temple vision around 573 B.C."
+	},
+	{
+		"question": "Q. What is the basic theme of Ezekiel?",
+		"answer": "A. The vindication of God’s justice on account of his name and holiness"
+	},
+	{
+		"question": "Q. To whom was Ezekiel a prophet?",
+		"answer": "A. The exiled people in Babylon, but there is also mention by scholars that his audience would have ultimately been the people back in Judah."
+	},
+	{
+		"question": "Q. How does Ezekiel express the nature of the covenant that God will make in the restoration of Israel?",
+		"answer": "A. “I will remove the heart of stone… and give them a heart of flesh” (Ezek. 11:19)"
+	},
+	{
+		"question": "Q. How does Ezekiel explain the job of a watchman and his responsibility?",
+		"answer": "A. If a watchman does not warn someone of judgment, he is accountable for that, whereas if he does make a warning and it is ignored, he is free. (Ezek. 33:1-20)"
+	},
+	{
+		"question": "Q. What vision did Ezekiel see concerning a valley? What was in it? What does it mean?",
+		"answer": "A. Dry bones that came to life (Ezek. 37:1-10) and it refers to the house of Israel coming to life (37:11-14)."
+	},
+	{
+		"question": "Q. Where is Ezekiel’s indictment of Israel’s shepherds and the promise of a righteous future shepherd from the line of David found?",
+		"answer": "A. Ezekiel 34"
+	},
+	{
+		"question": "Q. How many gates are in the vision of the new temple?",
+		"answer": "A. 12, each representing the houses of Israel (Ezek. 48:30-35)"
+	},
+	{
+		"question": "Q. Who is the author of the book of Daniel?",
+		"answer": "A. Daniel the prophet"
+	},
+	{
+		"question": "Q. What are the key themes of Daniel?",
+		"answer": "A. Living faithfully while in exile, Torment and persecution of God’s people, God humbling the proud; his sovereignty in the world and rulers, The exile is not the end of Israel’s story"
+	},
+	{
+		"question": "Q. What is the canonical setting of Daniel?",
+		"answer": "A. Daniel is in exile in Babylon, contemporary to Ezekiel."
+	},
+	{
+		"question": "Q. What happened when Daniel’s friends were thrown into the fiery furnace?",
+		"answer": "A. They were not consumed, and a fourth man was in there with them. (Dan. 3:25)"
+	},
+	{
+		"question": "Q. Why was Daniel thrown into a lion’s den?",
+		"answer": "A. He was the victim of a conspiratorial plot, devised against him by court officials, who had the king sign a document stating that for 30 days no one could worship anyone but Darius. When Daniel was seen praying to the God of heaven he was summoned and judged. (Dan. 6:1-24)"
+	},
+	{
+		"question": "Q. What was Daniel’s Persian name?",
+		"answer": "A. Belteshazzar (Dan. 1:7)"
+	},
+	{
+		"question": "Q. What was King Nebuchadnezzar’s dream that only Daniel could reveal and interpret?",
+		"answer": "A. A large statue which was metaphorical for the coming rise and fall of kingdoms (2:25-45), typically believed to be: Babylonia, Mede-Persian, Greek, Roman"
+	},
+	{
+		"question": "Q. The four beasts in Daniel were?",
+		"answer": "A. Like a lion with eagle’s wings (Dan. 7:4), like a bear (7:5), like a leopard with 4 wings of a bird and 4 heads (7:6), and a 10 horned beast (7:7)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Hosea?",
+		"answer": "A. The prophet Hosea"
+	},
+	{
+		"question": "Q. What is the canonical setting of the book of Hosea?",
+		"answer": "A. Set during the monarch. Jeroboam was king of Israel and Uzziah, Jotham, Ahaz, and Hezekiah were kings of Judah while Hosea was prophet (1:1)"
+	},
+	{
+		"question": "Q. What are the key themes of Hosea?",
+		"answer": "A. The Pentateuch, God’s sovereignty and compassion, The coming exile"
+	},
+	{
+		"question": "Q. What imagery does Hosea use to depict Israel’s unfaithfulness?",
+		"answer": "A. Unfaithful wife – most common"
+	},
+	{
+		"question": "Q. What is the point of the marriage imagery or metaphor in Hosea? Some scholars call it Hosea’s parable.",
+		"answer": "A. The marriage relationship between Hosea and the prostitute Gomer is a picture of the relationship between God and his people Israel."
+	},
+	{
+		"question": "Q. Where is Hosea 1:10 quotes in the NT and what is the relevance?",
+		"answer": "A. Rom. 9:26; not all hope is lost and Christ is the fulfillment."
+	},
+	{
+		"question": "Q. How is God presented in Hosea 11?",
+		"answer": "A. As a loving and compassionate Father"
+	},
+	{
+		"question": "Q. What is the canonical setting of Joel?",
+		"answer": "A. Post-exilic (Joel 3:2-3)"
+	},
+	{
+		"question": "Q. What is the major theme of Joel?",
+		"answer": "A. The Day of the Lord"
+	},
+	{
+		"question": "Q. Which Apostle quotes Joel’s day of visitation as fulfilled?",
+		"answer": "A. Peter, on the Day of Pentecost (Acts 2:17)"
+	},
+	{
+		"question": "Q. What other themes are found in Joel?",
+		"answer": "A. Repentance, The Presence of the Lord, Future outpouring of the Holy Spirit"
+	},
+	{
+		"question": "Q. What insect plays a prominent role in the book of Joel?",
+		"answer": "A. Locust"
+	},
+	{
+		"question": "Q. The verse from Joel most frequently quoted in the New Testament is?",
+		"answer": "A. The outpouring of the Holy Spirit (Joel 2:28-32)"
+	},
+	{
+		"question": "Q. Who is the traditional author of the book of Amos?",
+		"answer": "A. Amos, one of the shepherds of Tekoa"
+	},
+	{
+		"question": "Q. What are major themes in Amos?",
+		"answer": "A. The justice/righteousness of God, The Lord is the Creator of the universe, Religious ritual without justice/righteousness is disgusting to God, The “day of the LORD.”, Moral/ethical implications of the covenant, The faithful remnant"
+	},
+	{
+		"question": "Q. What is the canonical setting of Amos?",
+		"answer": "A. Toward the end of the period of the kings listed in verse one, 793-739 B.C."
+	},
+	{
+		"question": "Q. To whom was Amos a prophet?",
+		"answer": "A. Israel"
+	},
+	{
+		"question": "Q. What occupation did Amos have?",
+		"answer": "A. He was a shepherd by trade, thus he uses agrarian language."
+	},
+	{
+		"question": "Q. Who is the traditional author of Obadiah?",
+		"answer": "A. The prophet Obadiah"
+	},
+	{
+		"question": "Q. What is the canonical setting of Obadiah?",
+		"answer": "A. The Babylonian exile"
+	},
+	{
+		"question": "Q. What are the key themes of Obadiah?",
+		"answer": "A. Israel’s enemies will be put to shame, Every prideful attempt at self-security will fail before God’s judgment comes, God’s retributive justice is strict but fair, Israel will be reunited and restored, In the future, God will definitively manifest his kingship"
+	},
+	{
+		"question": "Q. Obadiah’s prophecy was spoken to which nation?",
+		"answer": "A. Edom (Obadiah 1)"
+	},
+	{
+		"question": "Q. Which two contrasting historical figures does Obadiah use as signs for the people of God and those who are not the people of God?",
+		"answer": "A. Jacob and Esau (Obadiah 17-18)"
+	},
+	{
+		"question": "Q. Who is the “father” of the Edomites?",
+		"answer": "A. Esau"
+	},
+	{
+		"question": "Q. What is the basic theme of Jonah?",
+		"answer": "A. God’s desire to save all people, not just the Israelites"
+	},
+	{
+		"question": "Q. What is the canonical setting of Jonah?",
+		"answer": "A. During the reign of Jeroboam II (782-753 B.C.)"
+	},
+	{
+		"question": "Q. To whom was Jonah a prophet?",
+		"answer": "A. Though he was a prophet from Israel, he was sent to the Ninevites."
+	},
+	{
+		"question": "Q. From what did Jonah flee and why?",
+		"answer": "A. The presence of the Lord (Jonah 1:3); because he knew God was “a gracious God and merciful, slow to anger and abounding in steadfast love, and relenting from disaster” (4:2) and would not destroy Nineveh, which is what Jonah wanted."
+	},
+	{
+		"question": "Q. Micah prophesied during the reigns of which kings of Judah?",
+		"answer": "A. Jotham, Ahaz and Hezekiah"
+	},
+	{
+		"question": "Q. What is the major theme of Micah?",
+		"answer": "A. Judgment and forgiveness"
+	},
+	{
+		"question": "Q. Which two locations were Micah’s vision about?",
+		"answer": "A. Samaria and Jerusalem (Micah 1:1)"
+	},
+	{
+		"question": "Q. God’s judgment will ultimately lead to what?",
+		"answer": "A. Exile (Micah 1:16)"
+	},
+	{
+		"question": "Q. What were the powerful leaders found in Micah 2:1-5 doing that so angered the Lord?",
+		"answer": "A. Exploiting and oppressing the weak and vulnerable"
+	},
+	{
+		"question": "Q. Who is the traditional author of Nahum?",
+		"answer": "A. Nahum of Elkosh"
+	},
+	{
+		"question": "Q. What is the canonical setting of Nahum?",
+		"answer": "A. The time of Assyrian control (see 1:12; 2:11-13)"
+	},
+	{
+		"question": "Q. What is the major theme of Nahum?",
+		"answer": "A. That Nineveh, the prideful capital of the Assyrian Empire, would be destroyed"
+	},
+	{
+		"question": "Q. In chapter 3, what are the reasons why God judges Nineveh?",
+		"answer": "A. They are “full of lies and plunder” and, they are the ones who “betray nations with her whorings, and peoples with her charms” (Nahum 3:1; 3:4b)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Habakkuk?",
+		"answer": "A. Habakkuk the prophet"
+	},
+	{
+		"question": "Q. What is the canonical setting of Habakkuk?",
+		"answer": "A. The reign of King Josiah"
+	},
+	{
+		"question": "Q. What is the major theme of Habakkuk?",
+		"answer": "A. God’s justice demands that wickedness be punished"
+	},
+	{
+		"question": "Q. Habakkuk was written prior to which invasion that the prophet predicts and warns Israel about?",
+		"answer": "A. Babylonian"
+	},
+	{
+		"question": "Q. Which General Epistle in the New Testament (non-Pauline) cites Habakkuk 2:4b (the citation is partial and slight altered)?",
+		"answer": "A. Hebrews 10:38"
+	},
+	{
+		"question": "Q. Who is the traditional author of Zephaniah?",
+		"answer": "A. Zephaniah"
+	},
+	{
+		"question": "Q. What is the time period of Zephaniah?",
+		"answer": "A. During the reign of Josiah, 640-609 B.C."
+	},
+	{
+		"question": "Q. What is the basic theme of Zephaniah?",
+		"answer": "A. The Day of the Lord"
+	},
+	{
+		"question": "Q. What are the two aspects of the day of the Lord in Zephaniah?",
+		"answer": "A. Judgment against those who sin against God and blessing for those who follow him."
+	},
+	{
+		"question": "Q. To whom was Zephaniah a prophet?",
+		"answer": "A. Judah"
+	},
+	{
+		"question": "Q. Though Zephaniah speaks much of judgment, what two songs of hope are found in the closing chapter 3?",
+		"answer": "A. The conversion of the nations (Zephaniah 3:9-10) and the restoration of Judah/Israel (3:11-20)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Haggai?",
+		"answer": "A. The prophet Haggai"
+	},
+	{
+		"question": "Q. What is the canonical setting of Haggai?",
+		"answer": "A. Post-exile prophet, 520 B.C."
+	},
+	{
+		"question": "Q. What is the basic theme of Haggai?",
+		"answer": "A. Restoration of the house of Israel with God’s holy presence"
+	},
+	{
+		"question": "Q. To whom was Haggai a prophet?",
+		"answer": "A. The first returnees of the exiled people to Judah"
+	},
+	{
+		"question": "Q. Who is the traditional author of Zechariah?",
+		"answer": "A. The prophet Zechariah"
+	},
+	{
+		"question": "Q. What is the canonical setting of Zechariah?",
+		"answer": "A. Post-exilic; Zechariah began his ministry shortly after Haggai began his"
+	},
+	{
+		"question": "Q. What is the basic theme of Zechariah?",
+		"answer": "A. Remain faithful to God and be not discouraged because God is faithful"
+	},
+	{
+		"question": "Q. To whom was Zechariah a prophet?",
+		"answer": "A. The first wave of returned exiles in Judah under governor Zerubbabel"
+	},
+	{
+		"question": "Q. Which High Priest does Zechariah see in his vision, who receives new vestments?",
+		"answer": "A. Joshua (Zech. 3:1-4)"
+	},
+	{
+		"question": "Q. Who in the New Testament uses the language of Zech. 3:10 concerning salvation?",
+		"answer": "A. Jesus in John 1:44-51."
+	},
+	{
+		"question": "Q. How many visions does Zechariah have?",
+		"answer": "A. 8 - (1:7-17; 1:18-21; 2:1-13; 3:1-10; 4:1-14; 5:1-4; 5:5-11; 6:1-8)"
+	},
+	{
+		"question": "Q. Who is the traditional author of Malachi?",
+		"answer": "A. The prophet Malachi"
+	},
+	{
+		"question": "Q. What is the canonical setting of Malachi?",
+		"answer": "A. Post-exilic"
+	},
+	{
+		"question": "Q. What is the basic theme of Malachi?",
+		"answer": "A. Malachi warns against dead orthodoxy and calls for renewed covenant faithfulness."
+	},
+	{
+		"question": "Q. What was the example of faithlessness in Malachi 2?",
+		"answer": "A. Divorce (Mal. 2:14-16)"
+	},
+	{
+		"question": "Q. According to Malachi, how do we rob God?",
+		"answer": "A. In tithes and offerings (Mal. 3:8)"
+	},
+	{
+		"question": "Q. What was written in the Lord’s presence concerning those who feared the Lord and honored his name?",
+		"answer": "A. A book of remembrance (Mal. 3:16)"
+	},
+	{
+		"question": "Q. Who will the Lord send before the day of the Lord comes?",
+		"answer": "A. Elijah (Mal. 4:5)"
+	}
+]

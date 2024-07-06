@@ -1,0 +1,854 @@
+[
+    {
+        "question": "Q. Who is the traditional author of the Gospel according to Matthew?",
+        "answer": "A. Matthew"
+    },
+    {
+        "question": "Q. What is the canonical setting of the Gospel of Matthew?",
+        "answer": "A. Jesus’ earthly life, and was written in the late 50s to early 60s of the 1st Century A.D."
+    },
+    {
+        "question": "Q. What is the essential theme of the gospel of Matthew?",
+        "answer": "A. That Jesus of Nazareth is the fulfillment of all the Scripture, and his coming ushers in the kingdom of heaven."
+    },
+    {
+        "question": "Q. According to Matthew’s genealogy, whose son is Jesus said to be?",
+        "answer": "A. Abraham and David (Matt. 1:1)"
+    },
+    {
+        "question": "Q. Which prophecy was fulfilled when Jesus was taken to Egypt as a baby by his father to flee from Herod’s decree?",
+        "answer": "A. Hosea 11"
+    },
+    {
+        "question": "Q. For how many days and nights did Jesus fast during his time in the wilderness?",
+        "answer": "A. 40"
+    },
+    {
+        "question": "Q. In Matthew 5, in what way does Jesus explain God’s common grace?",
+        "answer": "A. He sends the sun and rain on the righteous and unrighteous. (5:45)"
+    },
+    {
+        "question": "Q. What was Matthew’s profession when Jesus called him as a disciple?",
+        "answer": "A. Tax collector (9:9)"
+    },
+    {
+        "question": "Q. What does Jesus say is the unpardonable sin?",
+        "answer": "A. Blasphemy against the Holy Spirit (Matt. 12:30-32)"
+    },
+    {
+        "question": "Q. Which prophet spoke of the Messiah’s use of parables to blind seeing eyes?",
+        "answer": "A. Isaiah (Matt. 12:10-17)"
+    },
+    {
+        "question": "Q. Apart from the Apostles, who was present with Jesus on the Mt. of Transfiguration?",
+        "answer": "A. Elijah and Moses (Matt. 17:1-13)"
+    },
+    {
+        "question": "Q. How many times does Jesus tell Peter that he is to forgive his brother?",
+        "answer": "A. 70 times 7 (Matt. 18:21-22)"
+    },
+    {
+        "question": "Q. What was written above Jesus’ head on the Cross?",
+        "answer": "A. This is Jesus, the king of the Jews (Matt. 27:37)"
+    },
+    {
+        "question": "Q. In what hour did Jesus die, according to the Roman calendar in Matthew?",
+        "answer": "A. 9th hour; 3 pm"
+    },
+    {
+        "question": "Q. On what mountain did Jesus predict the destruction of Jerusalem and teach on the end times?",
+        "answer": "A. The Mount of Olives"
+    },
+    {
+        "question": "Q. Who is the traditional author of the Gospel according to Mark?",
+        "answer": "A. John Mark, and his source was possibly Peter"
+    },
+    {
+        "question": "Q. What is the canonical setting of Mark?",
+        "answer": "A. Jesus’ earthly life and ministry"
+    },
+    {
+        "question": "Q. What is the date of the book of Matthew?",
+        "answer": "A. Mid- to late 50s, maybe as late as mid- 60s, A.D."
+    },
+    {
+        "question": "Q. Who are the twelve disciples?",
+        "answer": "A. Simon (Peter), James, John, Andrew, Philip, Bartholomew, Matthew, Thomas, James, Thaddeus, Simon, and Judas. (Mk. 3:16-19)"
+    },
+    {
+        "question": "Q. Who were the Sons of Thunder?",
+        "answer": "A. James and John (Mk. 3:17)"
+    },
+    {
+        "question": "Q. What did Jesus say was the problem with the disciples during the stormy sea that he calmed?",
+        "answer": "A. They lacked faith (Mk. 4:40)"
+    },
+    {
+        "question": "Q. What defiles a man?",
+        "answer": "A. That which proceeds out of a man, ie: sins. (Mk. 7:20-21)"
+    },
+    {
+        "question": "Q. What metaphor does Jesus use to describe the rich entering heaven?",
+        "answer": "A. Like a camel going through the eye of a needle. (Mk. 10:23-27)"
+    },
+    {
+        "question": "Q. What did blind Bartimaeus cry out to Jesus?",
+        "answer": "A. “Son of David, have mercy on me.” (Mk. 10:47-48)"
+    },
+    {
+        "question": "Q. What was the teaching Jesus gave as the reason he overturned tables in the temple court?",
+        "answer": "A. Jesus was teaching them that they had turned the synagogue into a den of robbers, when the Lord’s house was meant to be a place of prayer for all the nations (Mk. 11:17)"
+    },
+    {
+        "question": "Q. Where was Jesus when the alabaster vial of perfume was poured upon him?",
+        "answer": "A. In Bethany at the house of Simon the leper (Mk. 14:3)"
+    },
+    {
+        "question": "Q. Where did Jesus say he would meet the disciples after his resurrection?",
+        "answer": "A. In Galilee (Mk. 14:28; 16:7)"
+    },
+    {
+        "question": "Q. On what hour of the Roman day was Jesus crucified according to Mark?",
+        "answer": "A. 3rd hour, 9 am (Mk. 15:25)"
+    },
+    {
+        "question": "Q. At what Roman hour did darkness fall on the earth during Jesus’ Passion according to Mark?",
+        "answer": "A. 6th, 12 pm (Mk. 15:33)"
+    },
+    {
+        "question": "Q. Why were Mary and Mary going to the tomb where Jesus was laid on Sunday?",
+        "answer": "A. To further anoint the body according to Jewish custom"
+    },
+    {
+        "question": "Q. Who is the traditional author of the Gospel according to Luke?",
+        "answer": "A. Luke the physician, who accompanied Paul on missionary journeys"
+    },
+    {
+        "question": "Q. What is the date of the book of Luke?",
+        "answer": "A. Early 60’s A.D."
+    },
+    {
+        "question": "Q. What were the temptations of Jesus in the wilderness and how did Jesus respond?",
+        "answer": "A. Turn stones into bread, tempt God from the pinnacle of the temple, and to worship Satan in exchange for the kingdoms of the earth. (Lk. 4:1-13); Jesus responds by quoting from Deuteronomy"
+    },
+    {
+        "question": "Q. In what district did Jesus begin his ministry?",
+        "answer": "A. Galilee (Lk. 4:14)"
+    },
+    {
+        "question": "Q. Jesus said that John the Baptist’s ministry was analogous to the ministry of what Old Testament prophet?",
+        "answer": "A. Elijah (Lk. 7:18-30)"
+    },
+    {
+        "question": "Q. What is the seed in the parable of the Sower and the seed?",
+        "answer": "A. The word of God (Lk. 8:11)"
+    },
+    {
+        "question": "Q. What happened with Jesus and the village of the Samaritans?",
+        "answer": "A. They did not receive Jesus as he was traveling toward Jerusalem, which led to the sons of thunder asking Jesus to call down fire from heaven? (Lk. 9:51-56)"
+    },
+    {
+        "question": "Q. In the parable of the Good Samaritan, what two people passed by the beaten man?",
+        "answer": "A. A priest and a Levite (Lk. 10:30-32)"
+    },
+    {
+        "question": "Q. What is the leaven of the Pharisees?",
+        "answer": "A. Hypocrisy (Lk. 12:1)"
+    },
+    {
+        "question": "Q. What does Jesus say is lacking for people who are anxious?",
+        "answer": "A. Faith (Lk. 12:28)"
+    },
+    {
+        "question": "Q. Which group of people did not believe in the resurrection of the dead?",
+        "answer": "A. The Sadducees (Lk. 20:27)"
+    },
+    {
+        "question": "Q. What title did the Sanhedrin ask if Jesus were claiming for himself?",
+        "answer": "A. The Son of God (Lk. 22:70)"
+    },
+    {
+        "question": "Q. Who helped Jesus bear his Cross on the way to Golgotha?",
+        "answer": "A. Simon of Cyrene (Lk. 23:26)"
+    },
+    {
+        "question": "Q. Where did the disciples see Jesus ascend into heaven?",
+        "answer": "A. Bethany. (Lk. 24:50)"
+    },
+    {
+        "question": "Q. Who is the traditional author of the Gospel according to John?",
+        "answer": "A. The Apostle John"
+    },
+    {
+        "question": "Q. What is the date of the book of John?",
+        "answer": "A. Sometime between AD 70-100"
+    },
+    {
+        "question": "Q. Where are the “I am” statements found?",
+        "answer": "A. John 6:35 – I am the Bread of life; John 8:12 – I am the Light of the World; John 10:9 – I am the door (gate); John 10:11 – I am the good shepherd; John 11:25 – I am the resurrection and the life; John 14:6 – I am the way, and the truth, and the life; John 15:1 – I am the true vine; Before Abraham was born, I am (John 8:58)"
+    },
+    {
+        "question": "Q. What are the Seven Great Signs?",
+        "answer": "A. John 2:1-11 – Change water into wine; John 4:46-54 – Healing of the official’s son; John 5:1-15 – Healing the invalid (at the pool on the Sabbath); John 6:5-13 – Feeding the Five Thousand; John 6:16-21 – Walking on water; John 9:1-7 – Healing the man born blind; John 11:1-44 – Raising of Lazarus"
+    },
+    {
+        "question": "Q. What act of service did Jesus perform in the upper room?",
+        "answer": "A. He washed the feet of the disciples. (John 13:1-20)"
+    },
+    {
+        "question": "Q. Who is the vine, who is the vinedresser, and who are the branches that remain?",
+        "answer": "A. Jesus, the Father, believers (John 15:1-11)"
+    },
+    {
+        "question": "Q. What does the Holy Spirit do in John 16?",
+        "answer": "A. The HS convicts the world concerning sin, righteousness, and judgment. (16:8-11)"
+    },
+    {
+        "question": "Q. Who does Jesus pray for in his high priestly prayer?",
+        "answer": "A. His people (John 17:9)"
+    },
+    {
+        "question": "Q. Who is the traditional author of the book of Acts?",
+        "answer": "A. Luke, the physician (same author as the Gospel of Luke)"
+    },
+    {
+        "question": "Q. What is the period recorded for the book of Acts?",
+        "answer": "A. Approximately AD 62"
+    },
+    {
+        "question": "Q. What prophecy was fulfilled on the day of Pentecost according to Peter?",
+        "answer": "A. Joel 2:28-32"
+    },
+    {
+        "question": "Q. Why was Peter, along with John, first placed on trial?",
+        "answer": "A. For healing the lame beggar (Acts 3:1-4:12)"
+    },
+    {
+        "question": "Q. Why were Ananias and Sapphira struck down?",
+        "answer": "A. Because they lied to God, the Holy Spirit (Acts 5:1-11)"
+    },
+    {
+        "question": "Q. What was Stephen’s office and why was he stoned?",
+        "answer": "A. Deacon; because they were enraged by his sermon (Acts 6:5; 7:54-60)"
+    },
+    {
+        "question": "Q. What is the sin of Simon?",
+        "answer": "A. Attempt to buy spiritual gifts and power (Acts 8:18-25)"
+    },
+    {
+        "question": "Q. What nationality was the eunuch that Philip evangelized on the desert road?",
+        "answer": "A. Ethiopian (Acts 8:27)"
+    },
+    {
+        "question": "Q. What did Paul immediately start doing after his sight was healed?",
+        "answer": "A. Proclaim that Jesus was the Son of God (Acts 9:20)"
+    },
+    {
+        "question": "Q. Who was the first gentile in Caesarea that Peter evangelized?",
+        "answer": "A. Cornelius (Acts 10)"
+    },
+    {
+        "question": "Q. Who put James, the brother of John, to death and why?",
+        "answer": "A. Herod the king, because it pleased the Jews (Acts 12:1-3)"
+    },
+    {
+        "question": "Q. Why was the first ecumenical council in Jerusalem convened?",
+        "answer": "A. To establish that the gentiles did not have to be circumcised according to Moses in order to be saved (Acts 15:1-30)"
+    },
+    {
+        "question": "Q. How did the Bereans respond to Paul’s teaching concerning Jesus?",
+        "answer": "A. They examined the scriptures and believed (Acts 17:10-15)"
+    },
+    {
+        "question": "Q. What pagan altar inscription in Athens did Paul use to proclaim gentile ignorance of the true living God?",
+        "answer": "A. “To an Unknown God” (Acts 17:23)"
+    },
+    {
+        "question": "Q. What did Paul publicly say he was on trial for when he saw the Pharisees and Sadducees in the crowd at Jerusalem?",
+        "answer": "A. For the hope of the resurrection of the dead (Acts 24:21)"
+    },
+    {
+        "question": "Q. Who is the traditional author of Romans?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. What are the major themes of Romans?",
+        "answer": "A. The revelation of God’s judging and saving righteousness in the gospel of Jesus Christ; All people are sinners in need of salvation; The Righteousness of God; The Mosaic Law is good and holy but cannot take away sin; Through the righteousness of God, sin is judged, and salvation is provided; Jesus inaugurates a new age in redemptive history; Jesus’ atoning death is central to God’s plan of salvation; Justification is by faith alone; In Christ there is a sure and certain hope of future glory; Those who have died with Christ are made alive, given new life, by the Spirit; God is sovereign in salvation; God’s saving plan includes both Jews and Gentiles; The grace of the gospel calls Christians to holiness and service"
+    },
+    {
+        "question": "Q. What is revealed from heaven against ungodliness?",
+        "answer": "A. The wrath of God (Rom. 1:18)"
+    },
+    {
+        "question": "Q. True circumcision, and thus to be truly Jewish, is a circumcision of what?",
+        "answer": "A. One’s inward heart (Rom. 2:29)"
+    },
+    {
+        "question": "Q. When Paul explains how we are all under sin, what part of the Old Testament does he quote to explain, “There is none righteous”?",
+        "answer": "A. Psalm 14:1-3; Rom. 3:10"
+    },
+    {
+        "question": "Q. The promise to Abraham came through what?",
+        "answer": "A. The righteousness of faith (Rom. 4:13)"
+    },
+    {
+        "question": "Q. By what are we justified?",
+        "answer": "A. Faith (Rom. 5:1)"
+    },
+    {
+        "question": "Q. As Christ died for us while we were yet sinners, what should this teach us about God?",
+        "answer": "A. It demonstrates his love toward us."
+    },
+    {
+        "question": "Q. If we are dead to sin, then we are alive to what?",
+        "answer": "A. God in Jesus Christ (Rom. 6:11)"
+    },
+    {
+        "question": "Q. What are three key attributes of the Law that Paul uses to explain its function in Romans?",
+        "answer": "A. Spiritual (7:14), holy (7:12), and good (7:16)"
+    },
+    {
+        "question": "Q. What is the order, given by Paul, to the chain of salvation?",
+        "answer": "A. Foreknowledge, predestination to the image of Christ, calling, justification, glorification"
+    },
+    {
+        "question": "Q. Who does Paul refer to regarding God’s sovereignty in election?",
+        "answer": "A. Jacob and Esau"
+    },
+    {
+        "question": "Q. What paradox does Paul use to explain how a believer ought to live as a spiritual service of worship?",
+        "answer": "A. Living as holy sacrifice (Rom. 12:1)"
+    },
+    {
+        "question": "Q. List the gifts of the Spirit from Romans chapter twelve?",
+        "answer": "A. Service, teaching, exhortation, giving, leading, and mercy (Rom. 12:7-8)"
+    },
+    {
+        "question": "Q. Who is the traditional author of 1 Corinthians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. What is the date of 1 Corinthians?",
+        "answer": "A. Sometime around AD 53-55"
+    },
+    {
+        "question": "Q. What is the major theme/concern of 1 Corinthians?",
+        "answer": "A. The unity of Christ’s church; Erroneous practices; Sexual immorality; Legal action in pagan courts; Abuse of the Lord’s Supper; False teaching regarding the resurrection"
+    },
+    {
+        "question": "Q. How does Paul address their problems?",
+        "answer": "A. Paul calls them to repentance, remembering what Christ has done for his people."
+    },
+    {
+        "question": "Q. What is the source of division that Paul addresses in the first three chapters of 1 Corinthians?",
+        "answer": "A. The Corinthian Church is divided over which preacher they like best (1:11; 3:1-23)"
+    },
+    {
+        "question": "Q. In chapter 9, why did Paul surrender his right to be paid for his missionary work?",
+        "answer": "A. So that an obstacle was not put in the way of the gospel"
+    },
+    {
+        "question": "Q. Which chapter teaches about the Lord’s Supper?",
+        "answer": "A. 1 Cor. 11"
+    },
+    {
+        "question": "Q. Which Church did the collection Paul took up help support?",
+        "answer": "A. The church of Jerusalem"
+    },
+    {
+        "question": "Q. Who is the traditional author of 2 Corinthians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. What is the main theme of 2 Corinthians?",
+        "answer": "A. The relationship between suffering and the power of the Holy Spirit in Paul’s life, message, and ministry"
+    },
+    {
+        "question": "Q. When was 2 Corinthians written?",
+        "answer": "A. Around AD 55/56"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 2 Corinthians?",
+        "answer": "A. Many in Corinth doubted Paul’s apostolicity and ministry due to the suffering he experienced. Paul writes calling on the church in Corinth to repent."
+    },
+    {
+        "question": "Q. Summarize Paul’s missionary difficulties.",
+        "answer": "A. Received forty lashes less one – five times (2 Cor. 11:24); Beaten with rods – three times (2 Cor. 11:25); Shipwrecked – three times (2 Cor. 11:25)"
+    },
+    {
+        "question": "Q. Who is the traditional author of Galatians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. What is the canonical setting of Galatians?",
+        "answer": "A. New Testament Church/Apostolic Age"
+    },
+    {
+        "question": "Q. When was Galatians written?",
+        "answer": "A. Approximately AD 48"
+    },
+    {
+        "question": "Q. What is the main theme of Galatians?",
+        "answer": "A. Christians are justified by faith alone and not by outward adherence to the ceremonies of the Mosaic Law."
+    },
+    {
+        "question": "Q. What is the purpose and occasion of the book of Galatians?",
+        "answer": "A. Paul writes to correct false teachers who insisted Gentile Christians be circumcised."
+    },
+    {
+        "question": "Q. In Galatians 4:24, Sarah and Hagar are examples of?",
+        "answer": "A. Two Covenants"
+    },
+    {
+        "question": "Q. Who is the traditional author of Ephesians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was Ephesians written?",
+        "answer": "A. Approximately AD 62"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of Ephesians?",
+        "answer": "A. There was no specific purpose to write Ephesians other than to inform the reader how Paul was doing in prison and to teach them about the redemptive work of Christ."
+    },
+    {
+        "question": "Q. What are the parts of the believer’s Armor of God in Ephesians 6?",
+        "answer": "A. Belt of truth; Breastplate of righteousness; Shoes of the readiness given by the gospel of peace; Shield of faith; Helmet of salvation; Sword of the Spirit, which is the word of God"
+    },
+    {
+        "question": "Q. Who is the traditional author of Philippians?",
+        "answer": "A. The Apostle Paul, written from jail."
+    },
+    {
+        "question": "Q. When was Philippians written?",
+        "answer": "A. Approximately AD 62"
+    },
+    {
+        "question": "Q. What is the main theme of Philippians?",
+        "answer": "A. Encouragement; specifically to encourage Christians to live out their heavenly citizenship"
+    },
+    {
+        "question": "Q. Whose conversion led to the founding of the church at Philippi?",
+        "answer": "A. The Jailer (Acts 16)"
+    },
+    {
+        "question": "Q. Philippians 2 teaches about what?",
+        "answer": "A. Christ’s humiliation"
+    },
+    {
+        "question": "Q. Who is the traditional author of Colossians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was Colossians written?",
+        "answer": "A. Approximately AD 62"
+    },
+    {
+        "question": "Q. What is the main theme of Colossians?",
+        "answer": "A. Christ is Lord of Creation and Redemption and, therefore, the source of the Christian’s life"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of Colossians?",
+        "answer": "A. Paul writes to correct of the false teaching in Colossae which he learned from Epaphras who traveled to Rome to meet with Paul."
+    },
+    {
+        "question": "Q. Who first brought the gospel to the Colossians?",
+        "answer": "A. Epaphras (Col. 1:7)"
+    },
+    {
+        "question": "Q. Colossians 1 ascribes the act of creation to which person of the Trinity?",
+        "answer": "A. Christ, the second person of the Trinity (Col. 1:15-16)"
+    },
+    {
+        "question": "Q. Who was with Paul when he wrote the letter to the Colossians?",
+        "answer": "A. Tim. (1:1)"
+    },
+    {
+        "question": "Q. What is a reoccurring theme related to Christ?",
+        "answer": "A. Believers are “in Christ”"
+    },
+    {
+        "question": "Q. Who is the traditional author of 1 Thessalonians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was 1 Thessalonians written?",
+        "answer": "A. AD 49-51"
+    },
+    {
+        "question": "Q. What is the main theme of 1 Thessalonians?",
+        "answer": "A. The Second Coming of Jesus Christ"
+    },
+    {
+        "question": "Q. What was the purpose and occasion of Paul’s writing 1 Thessalonians?",
+        "answer": "A. To correct misunderstandings concerning the “Day of the Lord” and what happened to Christians who died before this day."
+    },
+    {
+        "question": "Q. How does Paul describe Christians who have died in 1 Thessalonians?",
+        "answer": "A. He says they are asleep (1 Thess. 4:13)"
+    },
+    {
+        "question": "Q. Who reported to Paul about the church in 1 Thessalonians?",
+        "answer": "A. Tim. (1 Thess. 3:6)"
+    },
+    {
+        "question": "Q. Who is the traditional author of 2 Thessalonians?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was 2 Thessalonians written?",
+        "answer": "A. AD 49-51"
+    },
+    {
+        "question": "Q. What is the main theme of 2 Thessalonians?",
+        "answer": "A. The Second Coming of Christ (just like 1 Thess.)"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 2 Thessalonians?",
+        "answer": "A. Paul writes to correct the idea that the “day of the Lord” had already come, because this mistaken idea had gained acceptance in Thessalonica."
+    },
+    {
+        "question": "Q. The Apostle Paul assures the Thessalonians, in his second letter to them, that their suffering and persecution would end when?",
+        "answer": "A. When Christ returns (2 Thess. 1:5-7)"
+    },
+    {
+        "question": "Q. What, according to Paul in 2 Thessalonians, must precede the “day of the Lord?”",
+        "answer": "A. The rebellion and the man of lawlessness is revealed (2 Thess. 2:3)"
+    },
+    {
+        "question": "Q. Who is the traditional author of 1 Timothy?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was 1 Timothy written?",
+        "answer": "A. Mid AD 60s"
+    },
+    {
+        "question": "Q. What is the main theme of 1 Timothy?",
+        "answer": "A. The gospel leads to holy living."
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 1 Timothy?",
+        "answer": "A. Paul writes to inform Timothy about issues that arose within the church of Ephesus, specifically false teachers."
+    },
+    {
+        "question": "Q. According to 1Timothy, why is a recent convert not eligible to be a church officer?",
+        "answer": "A. He might become conceited and fall into the hands of the devil (1 Tim. 3:6)"
+    },
+    {
+        "question": "Q. In 1 Tim. 3, how does Paul describe the Church?",
+        "answer": "A. As a pillar and buttress of the truth (1 Tim. 3:15b)"
+    },
+    {
+        "question": "Q. Who is the traditional author of 2 Timothy?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was 2 Timothy written?",
+        "answer": "A. AD 64-65"
+    },
+    {
+        "question": "Q. What is the main theme of 2 Timothy?",
+        "answer": "A. Perseverance in spite of suffering"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 2 Timothy?",
+        "answer": "A. Paul, near death, writes from prison in Rome to his close friend and co-worker, encouraging him to continue in faithfulness."
+    },
+    {
+        "question": "Q. In 2 Timothy, who does Paul commend for raising Timothy in the Christian faith?",
+        "answer": "A. Lois (Timothy's grandmother) and Eunice (Timothy's mother)"
+    },
+    {
+        "question": "Q. Who is the traditional author of Titus?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. What is the main theme of Titus?",
+        "answer": "A. The inseparable link between faith and practice"
+    },
+    {
+        "question": "Q. When was Titus written?",
+        "answer": "A. Mid AD 60s"
+    },
+    {
+        "question": "Q. Why did Paul leave Titus in Crete?",
+        "answer": "A. To appoint elders and bring order to the churches"
+    },
+    {
+        "question": "Q. Why did Paul write the letter to Titus?",
+        "answer": "A. To correct false teachers"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of Titus?",
+        "answer": "A. Paul writes to check on the churches he started in Crete and to correct the false teachers infecting the church in Crete."
+    },
+    {
+        "question": "Q. In Titus, according to Paul, what is the source of godliness for the Christian?",
+        "answer": "A. The gospel (Titus 2:11-14; 3:3-7)"
+    },
+    {
+        "question": "Q. How many times is the description “Savior” given to God or Christ in the book of Titus?",
+        "answer": "A. Six times (1:3; 1:4; 2:10; 2:13; 3:4; 3:6)"
+    },
+    {
+        "question": "Q. Who is the traditional author of Philemon?",
+        "answer": "A. The Apostle Paul"
+    },
+    {
+        "question": "Q. When was Philemon written?",
+        "answer": "A. Approximately AD 62"
+    },
+    {
+        "question": "Q. What is the purpose/theme and occasion of Philemon?",
+        "answer": "A. Paul writes to show the reconciliation that the gospel brings. He addresses Philemon in regard to his slave Onesimus."
+    },
+    {
+        "question": "Q. Why does Paul tell Philemon to be reconciled with Onesimus?",
+        "answer": "A. He has become a Christian"
+    },
+    {
+        "question": "Q. How does Paul instruct Philemon to receive back Onesimus?",
+        "answer": "A. As, as a beloved brother (16) if he was receiving the apostle Paul himself (17)"
+    },
+    {
+        "question": "Q. Who is the traditional author of Hebrews?",
+        "answer": "A. The book is anonymous"
+    },
+    {
+        "question": "Q. When was the book of Hebrews written?",
+        "answer": "A. First century, most likely before A.D. 70"
+    },
+    {
+        "question": "Q. What is the genre of the book of Hebrews?",
+        "answer": "A. Sermonic Letter"
+    },
+    {
+        "question": "Q. What was the purpose and occasion of Hebrews?",
+        "answer": "A. The purpose is to exhort Christians to not forsake Christ; to encourage Christians to remain faithful in the midst of persecution."
+    },
+    {
+        "question": "Q. According to the book of Hebrews, what kind of rest remains for the people of God?",
+        "answer": "A. Sabbath rest (Heb. 4:9)"
+    },
+    {
+        "question": "Q. Which Old Testament book does the author of Hebrews quote most frequently?",
+        "answer": "A. The Psalms"
+    },
+    {
+        "question": "Q. How many “warning” passages are there in Hebrews?",
+        "answer": "A. Five (2:1-4; 3:7-18; 6:4-8; 10:26-31; 12:25-29)"
+    },
+    {
+        "question": "Q. Which mysterious figure first seen in Genesis returns in Hebrews 7?",
+        "answer": "A. Melchizedek"
+    },
+    {
+        "question": "Q. What two Old Testament offices does Melchizedek hold in Hebrews?",
+        "answer": "A. King and priest (Heb. 7:1)"
+    },
+    {
+        "question": "Q. Hebrews calls the Old Testament Law and sacrifices what?",
+        "answer": "A. Shadows and copies of the good things to come, of the heavenly realities (Heb. 9:23; 10:1)"
+    },
+    {
+        "question": "Q. Who is the traditional author of James?",
+        "answer": "A. James"
+    },
+    {
+        "question": "Q. When was the book of James written?",
+        "answer": "A. Early to mid-AD 40s"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of James?",
+        "answer": "A. James writes to show that the Christian faith must be lived out—faith without works is dead. Specifically, James addresses divisions, largely between the rich and the poor, that had arisen within the church to which he writes."
+    },
+    {
+        "question": "Q. To whom is the book of James addressed?",
+        "answer": "A. The twelve tribes in the Dispersion (1:1)"
+    },
+    {
+        "question": "Q. Which two Old Testament types of writing does James echo?",
+        "answer": "A. Prophetic and wisdom literature"
+    },
+    {
+        "question": "Q. Which part of the body does James strongly warn Christians must tame?",
+        "answer": "A. The tongue (James 3:1-12)"
+    },
+    {
+        "question": "Q. Why does James say that Christians should “count it all joy” when they face trials of various kinds?",
+        "answer": "A. Because the testing of faith produces steadfastness (James 1:2-4)"
+    },
+    {
+        "question": "Q. Who is the traditional author of 1 Peter?",
+        "answer": "A. The Apostle Peter"
+    },
+    {
+        "question": "Q. When was 1 Peter written?",
+        "answer": "A. AD 62-63"
+    },
+    {
+        "question": "Q. What is the main theme of 1 Peter?",
+        "answer": "A. Perseverance in the midst of suffering—the way to glory"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 1 Peter?",
+        "answer": "A. The purpose of 1 Peter is to encourage believers who are experiencing persecution and suffering to remain faithful. The occasion then would be the persecution and suffering that Christians experienced due to living as a Christian in the ancient world (not an Empire wide, official persecution of Christians as some think)."
+    },
+    {
+        "question": "Q. Who is the traditional author of 2 Peter?",
+        "answer": "A. The Apostle Peter"
+    },
+    {
+        "question": "Q. When was 2 Peter written?",
+        "answer": "A. Between AD 65-67"
+    },
+    {
+        "question": "Q. What is the main theme of 2 Peter?",
+        "answer": "A. Grace truly transforms lives even when faced with opposition"
+    },
+    {
+        "question": "Q. What opposition were the original readers of 2 Peter facing?",
+        "answer": "A. False teachers"
+    },
+    {
+        "question": "Q. What does Peter say is “more sure” than even being an eyewitness of the Transfiguration?",
+        "answer": "A. The Prophetic Word (2 Peter 1:19-21)"
+    },
+    {
+        "question": "Q. What does 2 Peter say about Paul’s writing?",
+        "answer": "A. Some of the things Paul teaches are hard to understand."
+    },
+    {
+        "question": "Q. What is the canonical setting of 1 John?",
+        "answer": "A. New Testament Church/ Apostolic Age"
+    },
+    {
+        "question": "Q. When was 1 John written?",
+        "answer": "A. No later than the A.D. 90s"
+    },
+    {
+        "question": "Q. What is the main theme of 1 John?",
+        "answer": "A. Living out our fellowship with God and one another"
+    },
+    {
+        "question": "Q. What three themes does John employ to describe Christian fellowship?",
+        "answer": "A. God is light, love, and life."
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 1 John?",
+        "answer": "A. John writes to show that Christ’s work is finished and the fellowship it has established between the Christian and God and between fellow Christians. This fellowship is built on truth and love. John writes this letter due to the factions that arose within the church."
+    },
+    {
+        "question": "Q. When was 2 John written?",
+        "answer": "A. AD 90s"
+    },
+    {
+        "question": "Q. What is the main theme of 2 John?",
+        "answer": "A. The balance of love and truth in the Christian life"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 2 John?",
+        "answer": "A. John wrote this letter to encourage Christians to love one another and watch out for false teachers who had departed from the truth. The presence of false teachers was the occasion that led to John writing this letter."
+    },
+    {
+        "question": "Q. How does John refer to himself in 2 John?",
+        "answer": "A. The elder (v. 1)"
+    },
+    {
+        "question": "Q. When was 3 John written?",
+        "answer": "A. AD 90s"
+    },
+    {
+        "question": "Q. What is the main theme of 3 John?",
+        "answer": "A. Faithfulness in the face of opposition"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of 3 John?",
+        "answer": "A. To encourage Gaius to remain faithful in spite of the opposition he is facing at the hands of Diotrephes."
+    },
+    {
+        "question": "Q. How does John refer to himself in 3 John?",
+        "answer": "A. The elder (v. 1)"
+    },
+    {
+        "question": "Q. In 3 John, what is Diotrephes doing that causes trouble?",
+        "answer": "A. He is putting himself first and not acknowledging the leader’s authority (v. 9)"
+    },
+    {
+        "question": "Q. Why is Gaius commissioned in 3 John?",
+        "answer": "A. His support of fellow Christian workmen (v.5)"
+    },
+    {
+        "question": "Q. Who is the traditional author of Revelation?",
+        "answer": "A. The Apostle John"
+    },
+    {
+        "question": "Q. When was Revelation written?",
+        "answer": "A. AD 95-96"
+    },
+    {
+        "question": "Q. Where did John write Revelation from?",
+        "answer": "A. The island of Patmos"
+    },
+    {
+        "question": "Q. What is the genre of Revelation?",
+        "answer": "A. Apocalyptic"
+    },
+    {
+        "question": "Q. What is the main theme of Revelation?",
+        "answer": "A. The spiritual war in which the church is engaged and Christ’s victory"
+    },
+    {
+        "question": "Q. What is the purpose and occasion of Revelation?",
+        "answer": "A. The purpose is to strengthen the seven churches who represent all of Christ’s churches; the occasion is false teaching, persecution, heresy, beguiling affluence."
+    },
+    {
+        "question": "Q. What does the beast in Revelation represent?",
+        "answer": "A. Intimidating violence against the church"
+    },
+    {
+        "question": "Q. What does the false prophet in Revelation represent?",
+        "answer": "A. Deceptive heresy"
+    },
+    {
+        "question": "Q. What does the prostitute in Revelation represent?",
+        "answer": "A. Beguiling affluence"
+    },
+    {
+        "question": "Q. What are the three major eschatological positions that all appeal to the book of Revelation for support?",
+        "answer": "A. Amillennialism, postmillennialism, premillennialism"
+    },
+    {
+        "question": "Q. Revelation reveals that God is gathering to himself a people from where?",
+        "answer": "A. From every tribe, language, people and nation (Rev. 5:9)"
+    },
+    {
+        "question": "Q. Summarize the circumstances in each of the seven churches are addressed in Rev. 2-3?",
+        "answer": "A. Ephesus – They have abandoned their first love (Rev. 2:4);<br> Smyrna – Jesus has nothing against them;<br> Pergamum – Some hold to the teaching of Balaam and some also hold to the teaching of the Nicolaitans (Rev. 2:14-15);<br> Thyatira – They tolerate the woman called Jezebel (Rev. 2:20);<br> Sardis – They are dead in spite of their works (Rev. 3:1);<br> Philadelphia – Jesus has nothing against them;<br> Laodicea – They are lukewarm (Rev. 3:15)"
+    },
+    {
+        "question": "Q. What are the four major schools of interpretation regarding the book of Revelation?",
+        "answer": "A. Historicism, futurism, preterism, idealism"
+    },
+    {
+        "question": "Q. In Revelation 1, the Lord God calls himself?",
+        "answer": "A. The Alpha and Omega"
+    },
+    {
+        "question": "Q. In the book of Revelation, how many seals does the Lamb open?",
+        "answer": "A. Seven seals (Rev. 6, 8)"
+    },
+    {
+        "question": "Q. What is the light source of the New Jerusalem?",
+        "answer": "A. The glory of God (Rev. 21:23)"
+    },
+    {
+        "question": "Q. When John sees the holy city, the New Jerusalem, how does it establish itself?",
+        "answer": "A. It comes down out of heaven (Rev. 21:2)"
+    },
+    {
+        "question": "Q. What flows from the throne of God in the New Heavens and New Earth?",
+        "answer": "A. The river of life"
+    }
+]
