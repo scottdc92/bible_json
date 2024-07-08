@@ -8,28 +8,8 @@
         "answer": "A. Rom. 8; Eph. 3; Gal. 4"
     },
     {
-        "question": "Q. Adultery",
-        "answer": "A. Prov. 6; John 8"
-    },
-    {
-        "question": "Q. Alcoholism",
-        "answer": "A. Eph. 5"
-    },
-    {
         "question": "Q. Ananias and Sapphira",
         "answer": "A. Acts 5"
-    },
-    {
-        "question": "Q. Apollos",
-        "answer": "A. Acts 18-19"
-    },
-    {
-        "question": "Q. Apostasy",
-        "answer": "A. Heb. 6"
-    },
-    {
-        "question": "Q. Apostasy to come",
-        "answer": "A. 1 Tim. 4"
     },
     {
         "question": "Q. Armor of God",
@@ -140,10 +120,6 @@
         "answer": "A. John 14; Matt. 5; Deut. 11, 16"
     },
     {
-        "question": "Q. Common Grace",
-        "answer": "A. Matt. 5"
-    },
-    {
         "question": "Q. Cornelius converted",
         "answer": "A. Acts 10"
     },
@@ -188,14 +164,6 @@
         "answer": "A. John 1, 10; Phil. 2; Col. 1-2; Heb. 1"
     },
     {
-        "question": "Q. Depression",
-        "answer": "A. Deut. 31; Ps. 23; Matt 11; 1 Peter 5"
-    },
-    {
-        "question": "Q. Divorce",
-        "answer": "A. Matt. 5, 19; Mark 10; Luke 16; 1 Cor. 7"
-    },
-    {
         "question": "Q. Doctrinal Purity",
         "answer": "A. Acts 20; Jude 1; 1 Timothy 1"
     },
@@ -206,10 +174,6 @@
     {
         "question": "Q. Elijah on Mount Carmel (prophets of Baal)",
         "answer": "A. 1 Kings 18"
-    },
-    {
-        "question": "Q. Elijah and the Chariot to Heaven",
-        "answer": "A. 2 Kings 2"
     },
     {
         "question": "Q. Emmaus Road",
@@ -245,23 +209,15 @@
     },
     {
         "question": "Q. Flesh versus Spirit",
-        "answer": "A. Rom. 7"
+        "answer": "A. Rom. 7; Gal. 5"
     },
     {
         "question": "Q. Food offered to Idols",
         "answer": "A. 1 Cor. 8"
     },
     {
-        "question": "Q. Freedom in Christ",
-        "answer": "A. Gal. 5"
-    },
-    {
         "question": "Q. Fruit of the Spirit",
         "answer": "A. Gal. 5"
-    },
-    {
-        "question": "Q. Funeral",
-        "answer": "A. Psalm 23; Gen. 50; Job 1; 1 Cor. 5, 15; John 14"
     },
     {
         "question": "Q. Future Judgement",
@@ -282,10 +238,6 @@
     {
         "question": "Q. Good Samaritan",
         "answer": "A. Luke 10"
-    },
-    {
-        "question": "Q. Gospel",
-        "answer": "A. Eph. 2; John 14; John 3 or Rom. 1-8; Gen. 1-3; John 3"
     },
     {
         "question": "Q. Great Commission",
@@ -312,10 +264,6 @@
         "answer": "A. John 17"
     },
     {
-        "question": "Q. Holy Moral Lives",
-        "answer": "A. Rom. 8"
-    },
-    {
         "question": "Q. Holy Spirit at Pentecost",
         "answer": "A. Acts 2"
     },
@@ -326,10 +274,6 @@
     {
         "question": "Q. Holy Spirit Person and Work",
         "answer": "A. Gen. 1; Matt. 28; John 3, 14, 16; Acts 1-2; Rom. 8"
-    },
-    {
-        "question": "Q. Hope in trial",
-        "answer": "A. James 1; 1 Peter"
     },
     {
         "question": "Q. Husbands and Wives",
@@ -380,18 +324,6 @@
         "answer": "A. Acts 2, 10, 16; Col. 2; Gal. 3; 1 Cor. 7; Rom. 2; Gen. 17; Matt. 18, 28"
     },
     {
-        "question": "Q. Isaac offered by Abraham",
-        "answer": "A. Gen. 22"
-    },
-    {
-        "question": "Q. Isaiah called",
-        "answer": "A. Isaiah 6"
-    },
-    {
-        "question": "Q. Jacob wrestling",
-        "answer": "A. Gen. 32"
-    },
-    {
         "question": "Q. Jacob’s Ladder",
         "answer": "A. Gen. 28"
     },
@@ -406,14 +338,6 @@
     {
         "question": "Q. John Baptist Born",
         "answer": "A. Matt. 1; Luke 1"
-    },
-    {
-        "question": "Q. Jordan crossing",
-        "answer": "A. Joshua 3"
-    },
-    {
-        "question": "Q. Joseph as slave to Egypt",
-        "answer": "A. Gen. 37"
     },
     {
         "question": "Q. Justice (God’s Judgment)",
@@ -433,7 +357,7 @@
     },
     {
         "question": "Q. Law (summary)",
-        "answer": "A. Lev. 19; Deut. 6, 11; Mark 12, Luke 10, Matt. 22; Rom. 3f."
+        "answer": "A. Lev. 19; Deut. 6, 11; Mark 12, Luke 10, Matt. 22; Rom. 3"
     },
     {
         "question": "Q. Law and Grace",
@@ -484,10 +408,6 @@
         "answer": "A. 2 Cor. 12, Psalm 73, Phil. 4; John 11"
     },
     {
-        "question": "Q. Lost Coin, Sheep, Son",
-        "answer": "A. Luke 15"
-    },
-    {
         "question": "Q. Love as fulfillment of Law",
         "answer": "A. Matt. 22"
     },
@@ -513,7 +433,7 @@
     },
     {
         "question": "Q. Mary and Martha",
-        "answer": "A. Luke 10; John 11, 19-33"
+        "answer": "A. Luke 10; John 11"
     },
     {
         "question": "Q. Melchizedek",
@@ -522,10 +442,6 @@
     {
         "question": "Q. Message to 7 Churches",
         "answer": "A. Rev. 2-3"
-    },
-    {
-        "question": "Q. Messenger Sent",
-        "answer": "A. Mal. 3"
     },
     {
         "question": "Q. Ministry",
@@ -614,10 +530,6 @@
     {
         "question": "Q. Paul’s Conversion",
         "answer": "A. Acts 9 (repeated Acts 22, 26)"
-    },
-    {
-        "question": "Q. Paul Versus Barnabas",
-        "answer": "A. Acts 15"
     },
     {
         "question": "Q. Paul’s Areopagus Sermon",
@@ -720,10 +632,6 @@
         "answer": "A. Matt. 24; 1 Thess. 4-5; Rev. 22"
     },
     {
-        "question": "Q. Seraphim in Temple",
-        "answer": "A. Is. 6"
-    },
-    {
         "question": "Q. Sermon on the Mount",
         "answer": "A. Matt. 5-8; Luke 6"
     },
@@ -742,10 +650,6 @@
     {
         "question": "Q. Slavery",
         "answer": "A. Eph. 6; Philemon"
-    },
-    {
-        "question": "Q. Sodom and Gomorrah destroyed",
-        "answer": "A. Gen. 19"
     },
     {
         "question": "Q. Speaking in tongues",
@@ -834,10 +738,6 @@
     {
         "question": "Q. Visitation of Sick",
         "answer": "A. Ps. 22, 23, 51; Is. 53"
-    },
-    {
-        "question": "Q. Water to Wine at Wedding",
-        "answer": "A. John 2"
     },
     {
         "question": "Q. Weaker Brother",
