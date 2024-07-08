@@ -284,10 +284,6 @@
         "answer": "A. Luke 10"
     },
     {
-        "question": "Q. Good Shepherd",
-        "answer": "A. John 10"
-    },
-    {
         "question": "Q. Gospel",
         "answer": "A. Eph. 2; John 14; John 3 or Rom. 1-8; Gen. 1-3; John 3"
     },
@@ -544,10 +540,6 @@
         "answer": "A. Rom. 8"
     },
     {
-        "question": "Q. Moses called",
-        "answer": "A. Ex. 3"
-    },
-    {
         "question": "Q. Moses struck rock",
         "answer": "A. Num. 20"
     },
@@ -564,20 +556,12 @@
         "answer": "A. Col. 1-2; Heb. 1"
     },
     {
-        "question": "Q. Nebuchadnezzar",
-        "answer": "A. Dan. 1-5; 2 Kings 24-25; Ezra; Jer. 21-52; Ezek. 26-30; 2 Chr. 36"
-    },
-    {
-        "question": "Q. Nehemiah’s prayer",
-        "answer": "A. Neh. 1"
+        "question": "Q. Necessity of Faith",
+        "answer": "A. Rom. 3; Heb. 11"
     },
     {
         "question": "Q. New Adam (Justified by Faith)",
         "answer": "A. Rom. 5"
-    },
-    {
-        "question": "Q. New Commandment",
-        "answer": "A. John 13 (Love)"
     },
     {
         "question": "Q. New Covenant",
@@ -792,14 +776,6 @@
         "answer": "A. Matt. 10; Acts 5; Rom. 5, 8; 2 Cor. 1, 4, 5, 12; 1 Thess. 1; 2 Thess. 1; 2 Tim. 1, 2; Heb. 2, 11; James 1; 1 Peter 4"
     },
     {
-        "question": "Q. Tabernacle",
-        "answer": "A. Ex. 26"
-    },
-    {
-        "question": "Q. Temple Dedication",
-        "answer": "A. 1 Kings 8; 2 Chr. 6-7"
-    },
-    {
         "question": "Q. Temptation (evil desires)",
         "answer": "A. James 1; 1 John 2"
     },
@@ -817,7 +793,7 @@
     },
     {
         "question": "Q. Three Uses of the Law",
-        "answer": "A. (1) Law as mirror (schoolmaster/teacher),Gal. 3<br>(2) Law restraining evil, 2 Thess. 2<br>(3) Law as guide, John 14"
+        "answer": "A. (1) Law as mirror (schoolmaster/teacher) — Gal. 3<br>(2) Law restraining evil — 2 Thess. 2<br>(3) Law as guide — John 14"
     },
     {
         "question": "Q. Tithing",
@@ -840,16 +816,12 @@
         "answer": "A. Matt. 21; Mark 11; Luke 19; John 12"
     },
     {
-        "question": "Q. Two Great Commands",
+        "question": "Q. Two Great Commandments",
         "answer": "A. Matt. 22; Mark 12"
     },
     {
         "question": "Q. Upper Room Discourse",
         "answer": "A. John 13-14"
-    },
-    {
-        "question": "Q. Use of Gifts",
-        "answer": "A. 1 Cor. 12-13"
     },
     {
         "question": "Q. Valley of Dry Bones",
@@ -862,10 +834,6 @@
     {
         "question": "Q. Visitation of Sick",
         "answer": "A. Ps. 22, 23, 51; Is. 53"
-    },
-    {
-        "question": "Q. Watchman",
-        "answer": "A. Song of Solomon 3; Ezek. 3, 33"
     },
     {
         "question": "Q. Water to Wine at Wedding",
