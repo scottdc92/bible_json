@@ -36,14 +36,6 @@
         "answer": "A. The apologists defended Christianity from the claim of being barbarians, and arose during a time of significant persecution."
     },
     {
-        "question": "Q. What was the outcome of the Council of Nicaea in 325?",
-        "answer": "A. The Council of Nicaea condemned Arianism and affirmed that Jesus Christ is fully God and fully man."
-    },
-    {
-        "question": "Q. What was the outcome of the Council of Constantinople in 381?",
-        "answer": "A. The Council of Constantinople affirmed the divinity of the Holy Spirit."
-    },
-    {
         "question": "Q. How did the relationship between Christianity and the Roman Empire change in the 4th century?",
         "answer": "A. The shift was from persecution to tolerance and eventually Christianity becoming the majority religion, with Christianity gaining political power after Constantine's conversion."
     },
@@ -56,12 +48,8 @@
         "answer": "A. Some withdrew from the church, beginning early monastic movements, while others broke communion with the 'imperial' church, and still others remained, seeing both great opportunities and dangers."
     },
     {
-        "question": "Q. How did Islam arise?",
-        "answer": "A. Islam arose in Arabia through the teachings of Muhammed, who received visions from God and was called to become a prophet of the message he was given, claiming it was not a new religion, but a climax of what was shown in the Hebrew prophets, including Jesus."
-    },
-    {
-        "question": "Q. How did Islam spread in the 7th century?",
-        "answer": "A. Islam spread through the Arabian Peninsula by the time of Muhammed's death in 632, and then through Islamic conquests, including the taking of Mecca, Damascus, Jerusalem, and Egypt before 650."
+        "question": "Q. How did Islam arise and spread in the 7<sub>th</sub> century?",
+        "answer": "A. Islam arose in Arabia through the teachings of Muhammed, who received visions from God and was called to become a prophet of the message he was given, claiming it was not a new religion, but a climax of what was shown in the Hebrew prophets, including Jesus.<br><br>Islam spread through the Arabian Peninsula by the time of Muhammed's death in 632, and then through Islamic conquests, including the taking of Mecca, Damascus, Jerusalem, and Egypt before 650."
     },
     {
         "question": "Q. What was the significance of the division between the caliph and his rivals?",
@@ -82,10 +70,6 @@
     {
         "question": "Q. What were the Crusades?",
         "answer": "A. The Crusades were a series of military campaigns launched by the Catholic Church in the 11th century to retake the Holy Land from the Muslims, marked by violence and hostility between Christians and Muslims."
-    },
-    {
-        "question": "Q. What contributions did Muslims make to various fields?",
-        "answer": "A. Muslims made significant contributions to the sciences, architecture, law, and philosophy that continue to have relevance today, particularly in Muslim countries."
     },
     {
         "question": "Q. What was the context in which Christian monasticism emerged?",
@@ -184,16 +168,12 @@
         "answer": "A. Christianity began to move away from its Jewish roots and spread eastward and westward."
     },
     {
-        "question": "Q. What kind of persecution did Christians face during this period?",
+        "question": "Q. What kind of persecution did Christians face during the first three centuries?",
         "answer": "A. Sporadic and light persecution from the government, as well as social persecution. They were viewed as incestuous, cannibals, and atheists, and later as anti-Rome, anti-social, and idiotic."
     },
     {
-        "question": "Q. Who emerged to defend Christianity intellectually during this period?",
+        "question": "Q. Who emerged to defend Christianity intellectually during the first three centuries?",
         "answer": "A. Christian apologists like Martyr, Tertullian, and Origen."
-    },
-    {
-        "question": "Q. What early heresies arose during this time?",
-        "answer": "A. Marcionism and Modalism."
     },
     {
         "question": "Q. How did the church respond to these heresies?",
@@ -212,7 +192,7 @@
         "answer": "A. Through translation and cultural connection, often through trade routes and the efforts of missionaries like Thomas."
     },
     {
-        "question": "Q. Where did Christianity spread to during this period?",
+        "question": "Q. Where did Christianity spread to during the period of 70-300 AD?",
         "answer": "A. Mediterranean Europe, Mesopotamia, the Middle East, North Africa, East Africa, India, and West China."
     },
     {
@@ -220,7 +200,7 @@
         "answer": "A. A safe space for Christian scholarship and local growth."
     },
     {
-        "question": "Q. Who were some influential Christian thinkers during this period?",
+        "question": "Q. Who were some influential Christian thinkers during the period of 70-300 AD?",
         "answer": "A. Augustine, Jerome, Ambrose, and Gregory 'the Great'."
     },
     {
@@ -236,10 +216,6 @@
         "answer": "A. Monasticism emerged as a reaction to the church's growing wealth and power."
     },
     {
-        "question": "Q. Who wrote the 'Rule' in the 6th century?",
-        "answer": "A. Benedict of Nursia."
-    },
-    {
         "question": "Q. When did Islam begin to spread rapidly?",
         "answer": "A. Around 610 AD after Muhammed received his first revelation at age 40."
     },
@@ -252,7 +228,7 @@
         "answer": "A. St. Patrick."
     },
     {
-        "question": "Q. What were some notable developments during this period?",
+        "question": "Q. What were some notable developments during the 700-1100s?",
         "answer": "A. The conversion of Anglo-Saxon lands, the establishment of theological education centers in Nisibis, Ctesiphon, and Jundishapur, and the spread of Christianity to Western and Central China, India, and Mongolia."
     },
     {
@@ -260,7 +236,7 @@
         "answer": "A. A vast territory, including North Africa, Spain, Southern Italy, Sicily, the Middle East, the Caucasus region, the Persian Empire, and Central Asia."
     },
     {
-        "question": "Q. Who engaged with the Islamic movement during this time?",
+        "question": "Q. Who engaged with the Islamic movement during the 700-1100s?",
         "answer": "A. Middle Eastern Christians, such as those in Baghdad."
     },
     {
@@ -272,12 +248,8 @@
         "answer": "A. Charlemagne, who was crowned by Pope Leo III in 800."
     },
     {
-        "question": "Q. Who reached out to the Slavic peoples of Moravia during this period?",
-        "answer": "A. Cyril and Methodius."
-    },
-    {
         "question": "Q. What was the Photian Schism centered on?",
-        "answer": "A. The 'Filioque' clause, which stated that the Holy Spirit proceeds from both the Father and the Son."
+        "answer": "A. the legitimacy of Photius’ appointment to the patriarchate of Constantinople, jurisdictional rights in the Bulgarian church, and the 'Filioque' clause."
     },
     {
         "question": "Q. What triggered the Great East-West Schism of 1054?",
@@ -312,15 +284,15 @@
         "answer": "A. A desire to protect Christian pilgrims and to reclaim territories lost to Muslim conquest."
     },
     {
-        "question": "Q. What emerged as a center of theological education during this period?",
+        "question": "Q. What emerged as a center of theological education during the 1100-1500s?",
         "answer": "A. The University of Paris."
     },
     {
-        "question": "Q. Who were some influential scholars during this period?",
+        "question": "Q. Who were some influential scholars during the 1100-1500s?",
         "answer": "A. Aquinas, Anselm, Peter Abelard, and Peter Lombard."
     },
     {
-        "question": "Q. What was the state of the Western Church during this period?",
+        "question": "Q. What was the state of the Western Church during the 1100-1500s?",
         "answer": "A. It was experiencing moral, clerical, and governmental decline."
     },
     {
