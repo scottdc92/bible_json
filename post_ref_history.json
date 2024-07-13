@@ -16,28 +16,20 @@
         "answer": "A. The Babylonian Captivity of the Church refers to two significant periods in church history: historically, the Avignon Papacy from 1309 to 1377, and metaphorically, Martin Luther's critique of the Roman Catholic Church's sacramental system in his treatise 'The Babylonian Captivity of the Church'."
     },
     {
+        "question": "Q. Briefly describe the life and impact of Martin Luther.",
+        "answer": "A. Early Life and Education (1483-1507) – Martin Luther was born on November 10, 1483, in Eisleben, Germany. He was raised in a devout Christian family and was educated at the University of Erfurt, where he earned a degree in law.<br><br>Monastic Life (1507-1517) – In 1507, Luther's life took a dramatic turn when he was caught in a thunderstorm and vowed to become a monk if he survived. He entered the Augustinian monastery in Erfurt, where he was ordained as a priest in 1507. Luther threw himself into his monastic life, seeking to earn salvation through good works and prayer. However, he became increasingly disillusioned with the Catholic Church's teachings and practices.<br><br>Theological Studies (1511-1517) – In 1511, Luther was sent to the University of Wittenberg to pursue a doctoral degree in theology. There, he was exposed to the teachings of Augustine and other early church fathers, which deeply influenced his understanding of salvation. Luther's studies also led him to question the Catholic Church's teachings on justification and the authority of Scripture.<br><br>The Spark of the Reformation (1517) – On October 31, 1517, Luther nailed his famous 95 Theses to the door of the Castle Church in Wittenberg, sparking the Protestant Reformation. The theses were a critique of the Catholic Church's practice of selling indulgences, which Luther saw as a corruption of the gospel.<br><br>The Leipzig Debate (1519) – In 1519, Luther was summoned to the Leipzig Debate, where he was confronted by Johann Eck, a Catholic theologian. Luther refused to recant his views, and the debate ended with Luther being declared a heretic.<br><br>The Diet of Worms (1521) – In 1521, Luther was summoned to the Diet of Worms, a gathering of German princes and bishops. Luther was ordered to recant his views, but he refused, declaring, \"Here I stand. I can do no other.\"<br><br>Exile and Translation of the Bible (1521-1522) – After the Diet of Worms, Luther was declared an outlaw and forced into exile. During this time, he translated the Bible into German, making it accessible to the common people for the first time.<br><br>Marriage and Family (1525) – In 1525, Luther married Katharina von Bora, a former nun. The couple had six children together, and Luther's family life was marked by joy and tragedy.<br><br>The Augsburg Confession (1530) – In 1530, Luther and his allies drafted the Augsburg Confession, a statement of faith that outlined the key principles of the Lutheran Reformation.<br><br>Later Life and Legacy (1530-1546) – In the later years of his life, Luther continued to write and preach, producing many influential works. He also played a key role in the development of the Lutheran Church, helping to establish its institutions and shape its theology. Luther died on February 18, 1546, but his legacy lived on, shaping the course of Christian history and inspiring generations of Christians."
+    },
+    {
         "question": "Q. What was Martin Luther's critique of the Roman Catholic Church's sacramental system?",
         "answer": "A. Martin Luther's critique, outlined in his treatise 'The Babylonian Captivity of the Church', argued that the church had distorted the true meaning of the sacraments, particularly criticizing the doctrines of transubstantiation, the withholding of the cup from the laity in the Eucharist, and the sacrament of penance."
     },
     {
         "question": "Q. What concerned Martin Luther and led him to compose and post his Ninety-Five Theses?",
-        "answer": "A. Martin Luther was concerned with the practice of selling indulgences, which he saw as taking advantage of the poor, and sought to begin a scholarly discussion to reform the church's practice."
-    },
-    {
-        "question": "Q. What was Luther's goal at the outset of his protest?",
-        "answer": "A. Luther's goal was to begin a scholarly, academic discussion/debate over the issue of indulgences with the desire of reforming the church's practice."
+        "answer": "A. Martin Luther was concerned with the practice of selling indulgences, which he saw as taking advantage of the poor, and sought to begin a scholarly discussion to reform the church's practice.<br><br>Luther's goal was to begin a scholarly, academic discussion/debate over the issue of indulgences with the desire of reforming the church's practice."
     },
     {
         "question": "Q. What was central to Luther's critique of the Roman Catholic Church?",
-        "answer": "A. Central to Luther's critique was the sale of indulgences, which he saw as a corrupt practice that exploited believers by promising remission of sins in exchange for money."
-    },
-    {
-        "question": "Q. What did Luther argue was the basis of salvation?",
-        "answer": "A. Luther argued that salvation was based on faith alone (sola fide) and not on the Church's mediation or sacraments."
-    },
-    {
-        "question": "Q. Who did Luther believe had the authority to forgive sins?",
-        "answer": "A. Luther believed that only God had the authority to forgive sins, and not the Church or its hierarchy."
+        "answer": "A. Central to Luther's critique was the sale of indulgences, which he saw as a corrupt practice that exploited believers by promising remission of sins in exchange for money.<br><br>Luther argued that salvation was based on faith alone (sola fide) and not on the Church's mediation or sacraments.<br><br>Luther believed that only God had the authority to forgive sins, and not the Church or its hierarchy."
     },
     {
         "question": "Q. What did Luther call for in terms of the Church's structure and practice?",
@@ -58,6 +50,10 @@
     {
         "question": "Q. How did Lutherans and Reformed Protestants differ in their understanding of predestination?",
         "answer": "A. Reformed Protestants, led by Calvin, emphasized a more rigorous double predestination, where God predestines some to salvation and others to damnation, whereas Lutherans held a single predestination view, focusing on God's election to salvation without a corresponding emphasis on reprobation."
+    },
+    {
+        "question": "Q. Briefly describe the life of John Calvin.",
+        "answer": "A. Calvin was born in Noyon France and was educated in Paris being trained in law, which influenced his desire to go back to the original sources (Renaissance humanism), his first book being a commentary on Seneca’s De Clementia. He fled Paris after Francis I began persecuting Protestants. During this time, he would write the first edition of the Institutes of the Christian Religion (1536). While traveling, William Farel convinced him to remain in Geneva and help reform the city. Eventually Farel and Calvin were forced to flee, and Calvin ended up in Basel where he would come under the mentorship of Martin Bucer. The time provided Calvin an opportunity to engage many of the first generation of Reformers. Eventually Geneva recalled Calvin in 1541 and would remain there until his death in 1564. He began with a constitution, the Ecclesiastical Ordinances, and created the company of pastors which would serve the entirety of Geneva." 
     },
     {
         "question": "Q. What was Calvin's impact on the development of Protestantism?",
@@ -85,19 +81,11 @@
     },
     {
         "question": "Q. Who did King Henry VIII choose as Archbishop of Canterbury in 1533?",
-        "answer": "A. King Henry VIII chose Thomas Cranmer, a Cambridge theologian, as Archbishop of Canterbury in 1533."
-    },
-    {
-        "question": "Q. What was Thomas Cranmer's role in the English Reformation?",
-        "answer": "A. Thomas Cranmer was the ultimate architect of the English Reformation through the reign of Edward VI and published two prayer books, gradually introducing his desired changes."
+        "answer": "A. King Henry VIII chose Thomas Cranmer, a Cambridge theologian, as Archbishop of Canterbury in 1533.<br><br>Thomas Cranmer was the ultimate architect of the English Reformation through the reign of Edward VI and published two prayer books, gradually introducing his desired changes."
     },
     {
         "question": "Q. What happened to Thomas Cranmer under Mary I's reign?",
-        "answer": "A. Thomas Cranmer was deposed and burned as a heretic by Mary I, who maintained devoutly Catholic."
-    },
-    {
-        "question": "Q. Who succeeded Mary I and permanently established Protestantism in England?",
-        "answer": "A. Elizabeth I succeeded Mary I and permanently established Protestantism in England."
+        "answer": "A. Thomas Cranmer was deposed and burned as a heretic by Mary I, who maintained devoutly Catholic.<br><br>Elizabeth I succeeded Mary I and permanently established Protestantism in England."
     },
     {
         "question": "Q. What was James I's contribution to the English Bible?",
@@ -124,24 +112,8 @@
         "answer": "A. Martin Luther sparked the Reformation by nailing his 95 Theses to the door of the Wittenberg Castle Church, criticizing the Church's sale of indulgences and other corrupt practices."
     },
     {
-        "question": "Q. What were some key doctrines of the Reformation?",
-        "answer": "A. Key doctrines of the Reformation included justification by faith alone (sola fide) and the primacy of Scripture (sola scriptura)."
-    },
-    {
-        "question": "Q. Who were some other key figures of the Reformation?",
-        "answer": "A. Other key figures of the Reformation included John Calvin and Huldrych Zwingli, who further developed Reformation theology."
-    },
-    {
         "question": "Q. What was the impact of the Reformation on church governance?",
         "answer": "A. The Reformation led to significant changes in church governance, with many Protestant communities adopting a more congregational or presbyterian structure in contrast to the hierarchical organization of the Catholic Church."
-    },
-    {
-        "question": "Q. What was the outcome of the Reformation in terms of Christian denominations?",
-        "answer": "A. The Reformation led to the fragmentation of Christendom into various Protestant denominations, including Lutheranism, Calvinism, and Anglicanism."
-    },
-    {
-        "question": "Q. How did the Catholic Church respond to the Reformation?",
-        "answer": "A. The Catholic Church responded with the Counter-Reformation, marked by the Council of Trent (1545-1563), which addressed internal reforms and clarified Catholic doctrine, reaffirming its teachings in opposition to Protestant beliefs."
     },
     {
         "question": "Q. What were some of the broader impacts of the Reformation on European society?",
@@ -173,11 +145,7 @@
     },
     {
         "question": "Q. What was the Counter-Reformation?",
-        "answer": "A. The Counter-Reformation, also known as the Catholic Revival, was the response of the Catholic Church to the effects of the Protestant Reformation in the mid to late 1500s."
-    },
-    {
-        "question": "Q. How did the Catholic Church implement the Counter-Reformation?",
-        "answer": "A. The Catholic Church implemented the Counter-Reformation through several means, including the renewal of old orders, the establishment of new orders, the Inquisition, and the Council of Trent."
+        "answer": "A. The Counter-Reformation, also known as the Catholic Revival, was the response of the Catholic Church to the effects of the Protestant Reformation in the mid to late 1500s.<br><br>The Catholic Church implemented the Counter-Reformation through several means, including the renewal of old orders, the establishment of new orders, the Inquisition, and the Council of Trent."
     },
     {
         "question": "Q. What were the emphases of the Counter-Reformation?",
@@ -202,10 +170,6 @@
     {
         "question": "Q. What were the key principles of Humanism?",
         "answer": "A. The key principles of Humanism included the value of classical education, critical thinking, individualism, and the dignity of the human person."
-    },
-    {
-        "question": "Q. How did Humanism influence Christianity during the Protestant Reformation?",
-        "answer": "A. Christian humanists sought to return to the original sources of Christian faith, applying the humanist principle of ad fontes to theology, and advocating for the study of the Bible in its original languages."
     },
     {
         "question": "Q. How did Humanism influence the Protestant Reformation?",
@@ -240,12 +204,8 @@
         "answer": "A. The Radical Reformation was characterized by its call for a complete separation from state control, the rejection of infant baptism, and the establishment of a voluntary church composed of believers."
     },
     {
-        "question": "Q. Who were some key leaders of the Radical Reformation?",
-        "answer": "A. Key leaders of the Radical Reformation included Thomas Müntzer, Conrad Grebel, and Menno Simons."
-    },
-    {
-        "question": "Q. What were some distinct groups within the Radical Reformation?",
-        "answer": "A. Distinct groups within the Radical Reformation included the Anabaptists, Hutterites, and Spiritualists."
+        "question": "Q. Who were some key leaders of and disctine groups within the Radical Reformation?",
+        "answer": "A. Key leaders of the Radical Reformation included Thomas Müntzer, Conrad Grebel, and Menno Simons.<br><br>Distinct groups within the Radical Reformation included the Anabaptists, Hutterites, and Spiritualists."
     },
     {
         "question": "Q. What was the legacy of the Radical Reformation?",
@@ -270,10 +230,6 @@
     {
         "question": "Q. What were the Canons of Dort?",
         "answer": "A. The Canons of Dort were a document consisting of four points in response to the Remonstrance, which are often understood as five points: Divine Predestination, Christ's Atoning Work, Man's corruption and God's grace, and Perseverance of the Saints."
-    },
-    {
-        "question": "Q. Where did Presbyterianism originate?",
-        "answer": "A. Presbyterianism originated in Scotland."
     },
     {
         "question": "Q. Who was instrumental in introducing Presbyterianism to Scotland?",
@@ -329,19 +285,11 @@
     },
     {
         "question": "Q. What were some key practices of Puritans in the 17th century?",
-        "answer": "A. In the 17th century, Puritans placed new emphasis on the Sabbath, revived family worship, and encouraged personal acts of mercy to the sick and dying."
-    },
-    {
-        "question": "Q. What is the significance of Puritan published works?",
-        "answer": "A. The published works of the Puritans comprise Protestantism's most extensive library of sacred and practical theology."
+        "answer": "A. In the 17th century, Puritans placed new emphasis on the Sabbath, revived family worship, and encouraged personal acts of mercy to the sick and dying.<br><br>17th century Calvinist Puritans believed in the need to restore pure practices and doctrines of the New Testament, opposed to Bishops and other Church of England traditions, and undergirded by a belief in a sober lifestyle guided by the commandments."
     },
     {
         "question": "Q. Who were some important Puritan figures?",
         "answer": "A. Some important Puritan figures include William Perkins, Richard Baxter, John Owen, and Jonathan Edwards, among others."
-    },
-    {
-        "question": "Q. What were the core beliefs of 17th century Calvinist Puritans?",
-        "answer": "A. 17th century Calvinist Puritans believed in the need to restore pure practices and doctrines of the New Testament, opposed to Bishops and other Church of England traditions, and undergirded by a belief in a sober lifestyle guided by the commandments."
     },
     {
         "question": "Q. What influenced the early formation and development of the Reformed tradition in colonial America?",
@@ -457,39 +405,19 @@
     },
     {
         "question": "Q. What is Modernism in the context of Christianity?",
-        "answer": "A. Modernism is a broad intellectual and cultural movement that emerged in the late 19th and early 20th centuries, seeking to reconcile traditional Christian beliefs with contemporary scientific, historical, and philosophical insights."
+        "answer": "A. Modernism is a broad intellectual and cultural movement that emerged in the late 19th and early 20th centuries, seeking to reconcile traditional Christian beliefs with contemporary scientific, historical, and philosophical insights.<br><br> Modernism encouraged a more critical and open-ended approach to theology, paved the way for progressive theological movements, and fostered greater engagement with contemporary culture and intellectual currents, making Christianity more intellectually credible and socially relevant."
     },
     {
         "question": "Q. What were the key goals of Modernism in relation to Christianity?",
-        "answer": "A. Modernists aimed to reinterpret and adapt religious doctrines to align with modern knowledge and sensibilities, emphasizing the need for Christianity to be relevant to the contemporary world."
-    },
-    {
-        "question": "Q. How did Modernism impact theological and ecclesiastical thought?",
-        "answer": "A. Modernists advocated for a more flexible and metaphorical interpretation of the Bible, questioned traditional doctrines, and emphasized the importance of understanding cultural and historical contexts, leading to a focus on ethical teachings and social justice."
-    },
-    {
-        "question": "Q. What was the relationship between Modernism and Christianity?",
-        "answer": "A. The relationship was marked by significant tension and conflict, with traditionalists and fundamentalists viewing Modernism as a threat to core doctrines, leading to divisions within denominations and the formation of new ones."
-    },
-    {
-        "question": "Q. What was the lasting impact of Modernism on Christianity?",
-        "answer": "A. Modernism encouraged a more critical and open-ended approach to theology, paved the way for progressive theological movements, and fostered greater engagement with contemporary culture and intellectual currents, making Christianity more intellectually credible and socially relevant."
+        "answer": "A. Modernists aimed to reinterpret and adapt religious doctrines to align with modern knowledge and sensibilities, emphasizing the need for Christianity to be relevant to the contemporary world.<br><br>Modernists advocated for a more flexible and metaphorical interpretation of the Bible, questioned traditional doctrines, and emphasized the importance of understanding cultural and historical contexts, leading to a focus on ethical teachings and social justice."
     },
     {
         "question": "Q. What is Fundamentalism in the context of Christianity?",
-        "answer": "A. Fundamentalism is a movement within American Protestantism that emerged in the late 19th and early 20th centuries as a reaction against modernist theology and secular cultural trends, seeking to defend traditional Christian beliefs."
+        "answer": "A. Fundamentalism is a movement within American Protestantism that emerged in the late 19th and early 20th centuries as a reaction against modernist theology and secular cultural trends, seeking to defend traditional Christian beliefs.<br><br>Fundamentalism has had a significant impact on American Christianity, influencing the formation of various denominations, churches, and educational institutions committed to conservative theological principles, and shaping the movement's evolution and diversification over time."
     },
     {
         "question": "Q. What were the key beliefs outlined in 'The Fundamentals' pamphlets?",
-        "answer": "A. The key beliefs outlined in 'The Fundamentals' pamphlets included the inerrancy of Scripture, the virgin birth and divinity of Jesus Christ, the substitutionary atonement of Christ's death, the bodily resurrection of Jesus, and the authenticity of miracles."
-    },
-    {
-        "question": "Q. What are the core characteristics of Fundamentalism in relation to Christianity?",
-        "answer": "A. Fundamentalism is marked by a strong emphasis on the authority of the Bible, doctrinal purity, and moral conservatism, with a commitment to upholding what it sees as the non-negotiable core doctrines of the Christian faith in the face of modern challenges."
-    },
-    {
-        "question": "Q. How did Fundamentalism impact American Christianity?",
-        "answer": "A. Fundamentalism has had a significant impact on American Christianity, influencing the formation of various denominations, churches, and educational institutions committed to conservative theological principles, and shaping the movement's evolution and diversification over time."
+        "answer": "A. The key beliefs outlined in 'The Fundamentals' pamphlets included the inerrancy of Scripture, the virgin birth and divinity of Jesus Christ, the substitutionary atonement of Christ's death, the bodily resurrection of Jesus, and the authenticity of miracles.<br><br>Fundamentalism is marked by a strong emphasis on the authority of the Bible, doctrinal purity, and moral conservatism, with a commitment to upholding what it sees as the non-negotiable core doctrines of the Christian faith in the face of modern challenges."
     },
     {
         "question": "Q. What is the relationship between Fundamentalism and modern culture?",
@@ -498,14 +426,6 @@
     {
         "question": "Q. What was the fundamentalist-modernist controversy?",
         "answer": "A. The fundamentalist-modernist controversy was a theological and cultural conflict that occurred within American Protestantism in the early 20th century, pitting conservative Christians (fundamentalists) against more progressive Christians (modernists) over issues such as the authority of the Bible and the role of Christianity in modern culture."
-    },
-    {
-        "question": "Q. What were the core beliefs of fundamentalists in the controversy?",
-        "answer": "A. Fundamentalists believed in the literal truth of the Bible and the traditional doctrines of Christianity, and saw modernism as a threat to these beliefs."
-    },
-    {
-        "question": "Q. What were the core beliefs of modernists in the controversy?",
-        "answer": "A. Modernists believed in the importance of engaging with contemporary culture and thought, and sought to reinterpret Christianity in light of new scientific and philosophical ideas, emphasizing the ethical and social dimensions of Christianity over traditional dogmas."
     },
     {
         "question": "Q. What was the significance of the Tennessee v. Scopes trial in 1925?",
@@ -517,23 +437,15 @@
     },
     {
         "question": "Q. What is Neo-orthodoxy?",
-        "answer": "A. Neo-orthodoxy is a theological movement that emerged in the early 20th century, seeking to return to the core doctrines of the Protestant Reformation, emphasizing the transcendence and sovereignty of God, the reality of human sin, and the necessity of divine revelation."
+        "answer": "A. Neo-orthodoxy is a theological movement that emerged in the early 20th century, seeking to return to the core doctrines of the Protestant Reformation, emphasizing the transcendence and sovereignty of God, the reality of human sin, and the necessity of divine revelation.<br><br>Important theological ideas in Neo-orthodoxy include the rejection of liberal anthropology, the reassertion of human sinfulness and the need for divine grace, the emphasis on God's transcendence and revelation, and the existential and personal nature of faith."
     },
     {
         "question": "Q. Who were the key figures influencing the development of Neo-orthodoxy?",
         "answer": "A. Key figures influencing the development of Neo-orthodoxy include Karl Barth, Emil Brunner, and Reinhold Niebuhr, who shaped the movement with their works on theology, revelation, and social ethics."
     },
     {
-        "question": "Q. What are the important theological ideas in Neo-orthodoxy?",
-        "answer": "A. Important theological ideas in Neo-orthodoxy include the rejection of liberal anthropology, the reassertion of human sinfulness and the need for divine grace, the emphasis on God's transcendence and revelation, and the existential and personal nature of faith."
-    },
-    {
         "question": "Q. How does Neo-orthodoxy relate to Protestant and Reformed Christianity?",
-        "answer": "A. Neo-orthodoxy seeks to reclaim and reinterpret the central tenets of the Reformation, particularly the authority of Scripture and the sovereignty of God, while critiquing both liberalism and fundamentalism and offering a robust theological framework for addressing modern spiritual challenges."
-    },
-    {
-        "question": "Q. What is the significance of Neo-orthodoxy in the history of Christian theology?",
-        "answer": "A. Neo-orthodoxy has had a profound impact on Christian theology, reinvigorating Protestant theology, engaging traditional doctrines in dialogue with contemporary concerns, and offering a middle path between liberalism and fundamentalism."
+        "answer": "A. Neo-orthodoxy seeks to reclaim and reinterpret the central tenets of the Reformation, particularly the authority of Scripture and the sovereignty of God, while critiquing both liberalism and fundamentalism and offering a robust theological framework for addressing modern spiritual challenges.<br><br>Neo-orthodoxy has had a profound impact on Christian theology, reinvigorating Protestant theology, engaging traditional doctrines in dialogue with contemporary concerns, and offering a middle path between liberalism and fundamentalism."
     },
     {
         "question": "Q. What was the Marrow Controversy?",
@@ -557,15 +469,11 @@
     },
     {
         "question": "Q. What is Neo-Calvinism?",
-        "answer": "A. Neo-Calvinism is a theological and philosophical movement that developed as a response to the secularization of society and the perceived compartmentalization of faith and life, emphasizing the sovereignty of God and the cultural mandate."
+        "answer": "A. Neo-Calvinism is a theological and philosophical movement that developed as a response to the secularization of society and the perceived compartmentalization of faith and life, emphasizing the sovereignty of God and the cultural mandate.<br><br>The core theological ideas of Neo-Calvinism revolve around the sovereignty of God, sphere sovereignty, the doctrine of common grace, and the cultural mandate, emphasizing the lordship of Christ over all aspects of life."
     },
     {
         "question": "Q. Who were the key figures in the development of Neo-Calvinism?",
         "answer": "A. Abraham Kuyper and Herman Bavinck were central figures in the development of Neo-Calvinism, shaping its theological and philosophical foundations through their influential works."
-    },
-    {
-        "question": "Q. What are the core theological ideas of Neo-Calvinism?",
-        "answer": "A. The core theological ideas of Neo-Calvinism revolve around the sovereignty of God, sphere sovereignty, the doctrine of common grace, and the cultural mandate, emphasizing the lordship of Christ over all aspects of life."
     },
     {
         "question": "Q. How does Neo-Calvinism relate to the Reformed tradition?",
@@ -577,11 +485,7 @@
     },
     {
         "question": "Q. What is the impact of Neo-Calvinism on politics and social engagement?",
-        "answer": "A. Neo-Calvinism's principle of sphere sovereignty has influenced Christian political thought and action, encouraging Christians to actively participate in politics and social issues, advocating for policies that reflect biblical justice and morality."
-    },
-    {
-        "question": "Q. What is the impact of Neo-Calvinism on culture?",
-        "answer": "A. Neo-Calvinism's doctrine of common grace has led to a positive engagement with culture, encouraging Christians to contribute to the arts, sciences, and humanities, seeing cultural activities as valuable and God-glorifying."
+        "answer": "A. Neo-Calvinism's principle of sphere sovereignty has influenced Christian political thought and action, encouraging Christians to actively participate in politics and social issues, advocating for policies that reflect biblical justice and morality.<br><br>Neo-Calvinism's doctrine of common grace has led to a positive engagement with culture, encouraging Christians to contribute to the arts, sciences, and humanities, seeing cultural activities as valuable and God-glorifying."
     },
     {
         "question": "Q. What was the Marburg Colloquy (1529)?",
@@ -597,15 +501,7 @@
     },
     {
         "question": "Q. What is the Augsburg Confession?",
-        "answer": "A. The Augsburg Confession is a foundational document of the Protestant Reformation and Lutheranism, presented in 1530, which clarifies the theological differences between the Lutheran tradition and the Roman Catholic Church."
-    },
-    {
-        "question": "Q. Who drafted and approved the Augsburg Confession?",
-        "answer": "A. The Augsburg Confession was drafted by Philipp Melanchthon and approved by Martin Luther."
-    },
-    {
-        "question": "Q. What is the significance of the Augsburg Confession?",
-        "answer": "A. The Augsburg Confession is crucial in defining Lutheran beliefs, shaping Lutheran identity, and influencing subsequent Protestant confessions. It provided a clear and systematic presentation of Lutheran beliefs, helping to unify and solidify the movement."
+        "answer": "A. The Augsburg Confession is a foundational document of the Protestant Reformation and Lutheranism, presented in 1530, which clarifies the theological differences between the Lutheran tradition and the Roman Catholic Church.<br><br>The Augsburg Confession was drafted by Philipp Melanchthon and approved by Martin Luther.<br><br>The Augsburg Confession is crucial in defining Lutheran beliefs, shaping Lutheran identity, and influencing subsequent Protestant confessions. It provided a clear and systematic presentation of Lutheran beliefs, helping to unify and solidify the movement."
     },
     {
         "question": "Q. What are the main topics covered in the Augsburg Confession?",
@@ -613,23 +509,15 @@
     },
     {
         "question": "Q. What are the key articles in the Augsburg Confession?",
-        "answer": "A. The key articles in the Augsburg Confession include Articles I-XXI, which affirm key Christian doctrines and Lutheran positions, and Articles XXII-XXVIII, which address specific practices and abuses within the Roman Catholic Church."
-    },
-    {
-        "question": "Q. What is the significance of Article IV on justification by faith?",
-        "answer": "A. Article IV is central to the confession, affirming that humans are justified by faith alone, apart from works, which is a key doctrine of the Lutheran Reformation."
+        "answer": "A. The key articles in the Augsburg Confession include Articles I-XXI, which affirm key Christian doctrines and Lutheran positions, and Articles XXII-XXVIII, which address specific practices and abuses within the Roman Catholic Church.<br><br>Article IV is central to the confession, affirming that humans are justified by faith alone, apart from works, which is a key doctrine of the Lutheran Reformation."
     },
     {
         "question": "Q. What is the impact of the Augsburg Confession on Christianity?",
         "answer": "A. The Augsburg Confession has had a lasting impact on Christianity, shaping Lutheran identity and influencing subsequent Protestant confessions, and remains a key doctrinal standard and a symbol of the Reformation's enduring impact on Christianity."
     },
     {
-        "question": "Q. What was the Church of England?",
-        "answer": "A. The Church of England, or Anglicanism, was a major event in the religious and political history of England, initiated by King Henry VIII in the early 16th century, which broke away from the Roman Catholic Church and established an independent church with the king as its supreme head."
-    },
-    {
-        "question": "Q. What were the key factors leading to the formation of the Church of England?",
-        "answer": "A. The key factors leading to the formation of the Church of England were King Henry VIII's desire for a male heir, his desire to annul his marriage to Catherine of Aragon, and the Pope's refusal to grant the annulment, leading to a break with the Roman Catholic Church."
+        "question": "Q. Explain the Church of England and its origins?",
+        "answer": "A. The Church of England, or Anglicanism, was a major event in the religious and political history of England, initiated by King Henry VIII in the early 16th century, which broke away from the Roman Catholic Church and established an independent church with the king as its supreme head.<br><br>The key factors leading to the formation of the Church of England were King Henry VIII's desire for a male heir, his desire to annul his marriage to Catherine of Aragon, and the Pope's refusal to grant the annulment, leading to a break with the Roman Catholic Church."
     },
     {
         "question": "Q. What was the Act of Supremacy in 1534?",
@@ -638,10 +526,6 @@
     {
         "question": "Q. What was the significance of the Book of Common Prayer in 1549?",
         "answer": "A. The Book of Common Prayer in 1549, authored by Thomas Cranmer, was a milestone in defining Anglican worship and doctrine, providing a unified liturgy that reflected a balance between Catholic and Protestant elements."
-    },
-    {
-        "question": "Q. What was Puritanism and Nonconformity?",
-        "answer": "A. Puritanism was a movement within the Church of England advocating for further reformation and the removal of remaining Catholic practices, while Nonconformity referred to those who separated from the Church of England altogether, forming independent congregations that rejected the authority and practices of the state church."
     },
     {
         "question": "Q. What were the implications of the conflict between the Church of England and Puritanism and Nonconformity?",
@@ -673,11 +557,7 @@
     },
     {
         "question": "Q. What were the results of the Pietist movement?",
-        "answer": "A. The results of the Pietist movement were far-reaching and transformative, revitalizing Protestant churches, fostering the growth of small groups and lay involvement in ministry, leading to significant social and educational reforms, and influencing other religious movements and denominations."
-    },
-    {
-        "question": "Q. How did Pietism influence other religious movements and denominations?",
-        "answer": "A. Pietism's emphasis on personal piety and experiential faith resonated with later revivalist movements, such as Methodism, and helped shape modern evangelicalism, emphasizing the importance of a personal relationship with Jesus Christ and a life of active faith."
+        "answer": "A. The results of the Pietist movement were far-reaching and transformative, revitalizing Protestant churches, fostering the growth of small groups and lay involvement in ministry, leading to significant social and educational reforms, and influencing other religious movements and denominations.<br><br>Pietism's emphasis on personal piety and experiential faith resonated with later revivalist movements, such as Methodism, and helped shape modern evangelicalism, emphasizing the importance of a personal relationship with Jesus Christ and a life of active faith."
     },
     {
         "question": "Q. What is the legacy of Pietism?",
@@ -720,36 +600,16 @@
         "answer": "A. The Canons of Dort were the result of the Synod of Dort, which produced a set of theological statements that affirmed the Reformed doctrine of salvation."
     },
     {
-        "question": "Q. What was the first head of doctrine in the Canons of Dort?",
-        "answer": "A. The first head of doctrine in the Canons of Dort involved election and reprobation, arguing that our sin deserves only condemnation and we offer nothing toward our justification."
-    },
-    {
-        "question": "Q. What was the second head of doctrine in the Canons of Dort?",
-        "answer": "A. The second head of doctrine in the Canons of Dort sets forth the teaching that Christ secured the salvation for all the elect."
-    },
-    {
-        "question": "Q. What were the third and fourth heads of doctrine in the Canons of Dort?",
-        "answer": "A. The third and fourth heads of doctrine in the Canons of Dort covered the doctrine of sin and regeneration, arguing that though created good, we freely chose sin, and being so corrupt by nature, we are not capable of life apart from the Spirit."
-    },
-    {
-        "question": "Q. What was the fifth head of doctrine in the Canons of Dort?",
-        "answer": "A. The fifth head of doctrine in the Canons of Dort teaches the perseverance of the saints, arguing that left to ourselves we would fall away, but God grants grace to preserve us to the end."
+        "question": "Q. What was the heads of doctrine in the Canons of Dort?",
+        "answer": "A. The first head of doctrine in the Canons of Dort involved election and reprobation, arguing that our sin deserves only condemnation and we offer nothing toward our justification.<br><br>The second head of doctrine in the Canons of Dort sets forth the teaching that Christ secured the salvation for all the elect.<br><br>The third and fourth heads of doctrine in the Canons of Dort covered the doctrine of sin and regeneration, arguing that though created good, we freely chose sin, and being so corrupt by nature, we are not capable of life apart from the Spirit.<br><br>The fifth head of doctrine in the Canons of Dort teaches the perseverance of the saints, arguing that left to ourselves we would fall away, but God grants grace to preserve us to the end."
     },
     {
         "question": "Q. What was the Thirty Years' War?",
         "answer": "A. The Thirty Years' War was a devastating European war fought primarily in Germany in the 17th century, involving most of the countries in Europe, with complex political and religious factors contributing to the conflict."
     },
     {
-        "question": "Q. What was the historical context of the Thirty Years' War?",
-        "answer": "A. The historical context of the Thirty Years' War was the Peace of Augsburg, which stipulated that a territory's allegiance to Catholicism or Protestantism would be chosen by its ruler, leading to conflicts over religious beliefs."
-    },
-    {
-        "question": "Q. What were the results of the Thirty Years' War?",
-        "answer": "A. The results of the Thirty Years' War were a stalemate, with all people in Germany, rulers as well as subjects, being granted the freedom to be Catholics or Protestants."
-    },
-    {
-        "question": "Q. What were the worldview ramifications of the Thirty Years' War?",
-        "answer": "A. The enormous conflict over religious beliefs precipitated a spirit of toleration, and was a main contributor to the growing indifference to religion throughout Europe, setting the stage for the Enlightenment."
+        "question": "Q. What was the Thirty Years' War?",
+        "answer": "A. The historical context of the Thirty Years' War was the Peace of Augsburg, which stipulated that a territory's allegiance to Catholicism or Protestantism would be chosen by its ruler, leading to conflicts over religious beliefs.<br><br>The results of the Thirty Years' War were a stalemate, with all people in Germany, rulers as well as subjects, being granted the freedom to be Catholics or Protestants.<br><br>The enormous conflict over religious beliefs precipitated a spirit of toleration, and was a main contributor to the growing indifference to religion throughout Europe, setting the stage for the Enlightenment."
     },
     {
         "question": "Q. When was the first presbytery formed in the American colonies?",
@@ -841,19 +701,11 @@
     },
     {
         "question": "Q. What characterized the Old School faction?",
-        "answer": "A. The Old School faction was characterized by a commitment to traditional Reformed theology, strict adherence to the Westminster Confession of Faith, skepticism of revivalist fervor, and an emphasis on the importance of a well-educated ministry, proper theological training, and the maintenance of established church order and discipline."
+        "answer": "A. The Old School faction was characterized by a commitment to traditional Reformed theology, strict adherence to the Westminster Confession of Faith, skepticism of revivalist fervor, and an emphasis on the importance of a well-educated ministry, proper theological training, and the maintenance of established church order and discipline.<br><br>Key figures in the Old School camp included Archibald Alexander and Charles Hodge of Princeton Theological Seminary, who advocated for confessional fidelity and theological precision."
     },
     {
         "question": "Q. What characterized the New School faction?",
-        "answer": "A. The New School faction was characterized by a more open approach to revivalism, a willingness to accommodate evangelical zeal, and an emphasis on personal piety and the experiential aspects of faith, as well as a more inclusive and flexible approach to theology and ecclesiastical practice."
-    },
-    {
-        "question": "Q. Who were some key figures in the Old School camp?",
-        "answer": "A. Key figures in the Old School camp included Archibald Alexander and Charles Hodge of Princeton Theological Seminary, who advocated for confessional fidelity and theological precision."
-    },
-    {
-        "question": "Q. Who were some key figures in the New School camp?",
-        "answer": "A. Key figures in the New School camp included Albert Barnes, Nathaniel Taylor, Charles Finney, and Lyman Beecher, who were known for their more liberal views on revivalism and theological openness."
+        "answer": "A. The New School faction was characterized by a more open approach to revivalism, a willingness to accommodate evangelical zeal, and an emphasis on personal piety and the experiential aspects of faith, as well as a more inclusive and flexible approach to theology and ecclesiastical practice.<br><br>Key figures in the New School camp included Albert Barnes, Nathaniel Taylor, Charles Finney, and Lyman Beecher, who were known for their more liberal views on revivalism and theological openness."
     },
     {
         "question": "Q. What was the Gardiner Spring Resolution?",
