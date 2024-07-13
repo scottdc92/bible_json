@@ -1,534 +1,266 @@
 [
     {
-        "question": "Q. What is the short outline of the book of Genesis?",
-        "answer": "<table><tr><td>1-11</td><td>Primeval History</td></tr><tr><td>12-36</td><td>Early Patriarchal History</td></tr><tr><td>37-50</td><td>Joseph Narrative</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Genesis?",
+        "answer": "A. God created all things and covenants with humanity to bring salvation.<br><br><table><tr><td>1-2</td><td>Creation</td></tr><tr><td>3-4</td><td>Fall and Cain</td></tr><tr><td>5-10</td><td>Noah</td></tr><tr><td>11</td><td>Tower of Babel</td></tr><tr><td>12-24</td><td>Abraham</td></tr><tr><td>25-26</td><td>Isaac</td></tr><tr><td>27-36</td><td>Jacob</td></tr><tr><td>37-50</td><td>Joseph</td></tr></table>"
     },
     {
-        "question": "Q. What is the detailed outline of the book of Genesis?",
-        "answer": "<table><tr><td>1-2</td><td>Creation</td></tr><tr><td>3-4</td><td>Fall and Cain</td></tr><tr><td>5-10</td><td>Noah</td></tr><tr><td>11</td><td>Tower of Babel</td></tr><tr><td>12-24</td><td>Abraham</td></tr><tr><td>25-26</td><td>Isaac</td></tr><tr><td>27-36</td><td>Jacob</td></tr><tr><td>37-50</td><td>Joseph</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Exodus?",
+        "answer": "A. God delivers and establishes his covenant people.<br><br><table><tr><td>1-18</td><td>God’s Deliverance of Israel</td></tr><tr><td>19-24</td><td>God’s Covenant Law</td></tr><tr><td>25-40</td><td>God's Holy Dwelling</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Exodus?",
-        "answer": "<table><tr><td>1-18</td><td>God’s Deliverance of Israel</td></tr><tr><td>19-24</td><td>God’s Covenant Law</td></tr><tr><td>25-40</td><td>God's Holy Dwelling</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Leviticus?",
+        "answer": "A. God provides atonement so his covenant people may dwell with him.<br><br><table><tr><td>1-7</td><td>The Sacrifices the Lord Requires</td></tr><tr><td>8-10</td><td>THe Priests the Lord Desires</td></tr><tr><td>11-15</td><td>Recognzing and Remedying Uncleanness</td></tr><tr><td>17-25</td><td>Living as a Holy Nation</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Leviticus?",
-        "answer": "<table><tr><td>1-7</td><td>The Sacrifices the Lord Requires</td></tr><tr><td>8-10</td><td>THe Priests the Lord Desires</td></tr><tr><td>11-15</td><td>Recognzing and Remedying Uncleanness</td></tr><tr><td>17-25</td><td>Living as a Holy Nation</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Numbers?",
+        "answer": "A. Israel fails to trust and obey God, and wanders in the wilderness for 40 years.<br><br><table><tr><td>1-10</td><td>Preparing Israel's 1st Army at Sinai</td></tr><tr><td>11-25</td><td>Failure of Israel's 1st Army & Wandering in the Desert</td></tr><tr><td>26-36</td><td>Preparing Israel's 2nd Army for Conquest</td></tr><tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Numbers?",
-        "answer": "<table><tr><td>1-10</td><td>Preparing Israel's 1st Army at Sinai</td></tr><tr><td>11-25</td><td>Failure of Israel's 1st Army & Wandering in the Desert</td></tr><tr><td>26-36</td><td>Preparing Israel's 2nd Army for Conquest</td></tr><tr></table>"
+        "question": "Q. Summarize and outline the book of Deuteronomy?",
+        "answer": "A. God gives the law to Israel a second time.<br><br><table><tr><td>1-4</td><td>Historical Prologue</td></tr><tr><td>5-26</td><td>Restating the Law</td></tr><tr><td>27-30</td><td>Blessings and Curses</td></tr><tr><td>31-34</td><td>Transition to Joshua</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Deuteronomy?",
-        "answer": "<table><tr><td>1-4</td><td>Historical Prologue</td></tr><tr><td>5-26</td><td>Restating the Law</td></tr><tr><td>27-30</td><td>Blessings and Curses</td></tr><tr><td>31-34</td><td>Transition to Joshua</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Joshua?",
+        "answer": "A. Joshua leads Israel to conquer the promised land.<br><br><table><tr><td>1-5</td><td>Prologue & Entering the Promised Land</td></tr><tr><td>6-12</td><td>Taking the Promised Land</td></tr><tr><td>13-21</td><td>Dividing the Land</td></tr><tr><td>22-24</td><td>Serving the Lord in the Land</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Joshua?",
-        "answer": "<table><tr><td>1-5</td><td>Prologue & Entering the Promised Land</td></tr><tr><td>6-12</td><td>Taking the Promised Land</td></tr><tr><td>13-21</td><td>Dividing the Land</td></tr><tr><td>22-24</td><td>Serving the Lord in the Land</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Judges?",
+        "answer": "A. Cycle of Israel sinning and God sending a judge.<br><br><table><tr><td>1:1-3:6</td><td>Roots of Israel’s Unfaithfulness</td></tr><tr><td>3:7-16:31</td><td>Deuteronomic cycle: Major Judges</td></tr><tr><td>17-21</td><td>Depth of Israel’s Unfaithfulness</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Judges?",
-        "answer": "<table><tr><td>1:1-3:6</td><td>Roots of Israel’s Unfaithfulness</td></tr><tr><td>3:7-16:31</td><td>Deuteronomic cycle: Major Judges</td></tr><tr><td>17-21</td><td>Depth of Israel’s Unfaithfulness</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Ruth?",
+        "answer": "A. God is faithful to redeem in the midst of rebellion and loss.<br><br><table><tr><td>1</td><td>Tragedy & return to Bethlehem</td></tr><tr><td>2</td><td>Ruth meets Boaz</td></tr><tr><td>3</td><td>Naomi’s plan</td></tr><tr><td>4</td><td>Boaz Redeems Ruth</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Ruth?",
-        "answer": "<table><tr><td>1</td><td>Tragedy & return to Bethlehem</td></tr><tr><td>2</td><td>Ruth meets Boaz</td></tr><tr><td>3</td><td>Naomi’s plan</td></tr><tr><td>4</td><td>Boaz Redeems Ruth</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Samuel?",
+        "answer": "A. Transition from theocracy to monarchy.<br><br><table><tr><td>1-3</td><td>Samuel & Shiloh traditions</td></tr><tr><td>4-6</td><td>The Ark</td></tr><tr><td>7-12</td><td>Monarchy instituted</td></tr><tr><td>13-15</td><td>Saul’s reign</td></tr><tr><td>16-31</td><td>David’s rise</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Samuel?",
-        "answer": "<table><tr><td>1-3</td><td>Samuel & Shiloh traditions</td></tr><tr><td>4-6</td><td>The Ark</td></tr><tr><td>7-12</td><td>Monarchy instituted</td></tr><tr><td>13-15</td><td>Saul’s reign</td></tr><tr><td>16-31</td><td>David’s rise</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Samuel?",
+        "answer": "A. God appoints David and makes a covenant with him.<br><br><table><tr><td>1-12</td><td>David’s Rise and Rule</td></tr><tr><td>13-19</td><td>Absalom’s Rebellion</td></tr><tr><td>20-24</td><td>David Numbers the People</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Samuel?",
-        "answer": "<table><tr><td>1-12</td><td>David’s Rise and Rule</td></tr><tr><td>13-19</td><td>Absalom’s Rebellion</td></tr><tr><td>20-24</td><td>David Numbers the People</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Kings?",
+        "answer": "A. Prosperity under Solomon, but disobedience leads to judgment and to a divided kingdom.<br><br><table><tr><td>1-11</td><td>Transition from David and Solomon’s Reign</td></tr><tr><td>12-16</td><td>Kingdom Divided</td></tr><tr><td>17-22</td><td>Elijah the prophet</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Kings?",
-        "answer": "<table><tr><td>1-11</td><td>Last Days of David and Solomon’s Reign</td></tr><tr><td>12-16</td><td>Kingdom Divided</td></tr><tr><td>17-22</td><td>Elijah the prophet</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Kings?",
+        "answer": "A. The divided kingdoms both fall, Israel (North) and Judah (South).<br><br><table><tr><td>1-17</td><td>Apostasy leading Fall of Israel (722 BC)</td></tr><tr><td>18-25</td><td>Judah to the Fall of Jerusalem</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Kings?",
-        "answer": "<table><tr><td>1-17</td><td>Apostasy leading Fall of Israel (722 BC)</td></tr><tr><td>18-25</td><td>Judah to the Fall of Jerusalem</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Chronicles?",
+        "answer": "A. History of Israel from Adam through the death of David.<br><br><table><tr><td>1-9</td><td>Genealogies</td></tr><tr><td>10-29</td><td>David’s Reign and United Kingdom</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Chronicles?",
-        "answer": "<table><tr><td>1-9</td><td>Genealogies</td></tr><tr><td>10-29</td><td>David’s Reign and United Kingdom</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Chronicles?",
+        "answer": "A. History of Israel from Solomon through exile of Judah.<br><br><table><tr><td>1-9</td><td>Reign of Solomon</td></tr><tr><td>10-36</td><td>Divided Kingdom and Exile</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Chronicles?",
-        "answer": "<table><tr><td>1-9</td><td>Reign of Solomon</td></tr><tr><td>10-36</td><td>Divided Kingdom and Exile</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Ezra?",
+        "answer": "A. A remnant returns to restore the temple, and Ezra brings reforms.<br><br><table><tr><td>1-6</td><td>Temple Reestablished Against Oppositions</td></tr><tr><td>9-10</td><td>Law Reestablished against Foreign Corruption</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Ezra?",
-        "answer": "<table><tr><td>1-6</td><td>Temple Reestablished Against Oppositions</td></tr><tr><td>9-10</td><td>Law Reestablished against Foreign Corruption</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Nehemiah?",
+        "answer": "A. Covenant renewal and rebuilding the wall and community.<br><br><table><tr><td>1-7</td><td>Rebuilding the Walls</td></tr><tr><td>8-10</td><td>Reading of the Law</td></tr><tr><td>11-13</td><td>Reforming the People</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Nehemiah?",
-        "answer": "<table><tr><td>1-7</td><td>Rebuilding the Walls</td></tr><tr><td>8-10</td><td>Reading of the Law</td></tr><tr><td>11-13</td><td>Reforming the People</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Esther?",
+        "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia.<br><br><table><tr><td>1-2</td><td>Esther’s rise to power</td></tr><tr><td>3-6</td><td>Mordecai’s resistance and plot against the Jews</td></tr><tr><td>7-8</td><td>Haman hanged & Esther saves Jews</td></tr><tr><td>9-10</td><td>Ester and Mordecai in the Persian Court</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Esther?",
-        "answer": "<table><tr><td>1-2</td><td>Esther’s rise to power</td></tr><tr><td>3-6</td><td>Mordecai’s resistance and plot against the Jews</td></tr><tr><td>7-8</td><td>Haman hanged & Esther saves Jews</td></tr><tr><td>9-10</td><td>Ester and Mordecai in the Persian Court</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Job?",
+        "answer": "A. Satan is subject to God’s authority and Job’s faith is tested.<br><br><table><tr><td>1-2</td><td>Prologue – Job’s test</td></tr><tr><td>3-31</td><td>Dialogue with friends (Eliphaz, Bildad, & Zophar)</td></tr><tr><td>32-37</td><td>Elihu’s speeches</td></tr><tr><td>38-42</td><td>God’s discourses & Job’s restoration</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Job?",
-        "answer": "<table><tr><td>1-2</td><td>Prologue – Job’s test</td></tr><tr><td>3-31</td><td>Dialogue with friends (Eliphaz, Bildad, & Zophar)</td></tr><tr><td>32-37</td><td>Elihu’s speeches</td></tr><tr><td>38-42</td><td>God’s discourses & Job’s restoration</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Psalms?",
+        "answer": "A. Songs of praise, prayer, lament, wisdom, victory, remembrance.<br><br><table><tr><td>1-41</td><td>Book I (David’s conflict with Saul)</td></tr><tr><td>42-72</td><td>Book II (David’s kingship)</td></tr><tr><td>73-89</td><td>Book III (8th-century Assyrian crisis)</td></tr><tr><td>90-106</td><td>Book IV (Destruction of Temple & Exile)</td></tr><tr><td>107-150</td><td>Book V (Return from Exile)</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Psalms?",
-        "answer": "<table><tr><td>1-41</td><td>Book I (David’s conflict with Saul)</td></tr><tr><td>42-72</td><td>Book II (David’s kingship)</td></tr><tr><td>73-89</td><td>Book III (8th-century Assyrian crisis)</td></tr><tr><td>90-106</td><td>Book IV (Destruction of Temple & Exile)</td></tr><tr><td>107-150</td><td>Book V (Return from Exile)</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Proverbs?",
+        "answer": "A. Wise axioms and warnings primarily from Solomon.<br><br><table><tr><td>1-9</td><td>Prologue and reflections about wisdom</td></tr><tr><td>10:1-22:16</td><td>Proverbs of Solomon</td></tr><tr><td>22-24</td><td>Words of the wise (anonymous)</td></tr><tr><td>25-29</td><td>More proverbs of Solomon</td></tr><tr><td>30</td><td>Proverbs of Agur</td></tr><tr><td>31</td><td>Proverbs of Lemuel</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Proverbs?",
-        "answer": "<table><tr><td>1-9</td><td>Prologue and reflections about wisdom</td></tr><tr><td>10:1-22:16</td><td>Proverbs of Solomon</td></tr><tr><td>22-24</td><td>Words of the wise (anonymous)</td></tr><tr><td>25-29</td><td>More proverbs of Solomon</td></tr><tr><td>30</td><td>Proverbs of Agur</td></tr><tr><td>31</td><td>Proverbs of Lemuel</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Ecclesiastes?",
+        "answer": "A. The vanity of life apart from God.<br><br><table><tr><td>1:1-11</td><td>No satisfaction in the world</td></tr><tr><td>1:12-12:8</td><td>Satisfaction sought in the world</td></tr><tr><td>12:9-14</td><td>Satisfaction found in God</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Ecclesiastes?",
-        "answer": "<table><tr><td>1:1-11</td><td>No satisfaction in the world</td></tr><tr><td>1:12-12:8</td><td>Satisfaction sought in the world</td></tr><tr><td>12:9-14</td><td>Satisfaction found in God</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Song of Solomon?",
+        "answer": "A. Love song between a groom and bride.<br><br><table><tr><td>1-2</td><td>Lovers Desire One Another</td></tr><tr><td>3:1-6:3</td><td>Shepherdess Dreams</td></tr><tr><td>6:4-8:4</td><td>Lovers Desire One Another</td></tr><tr><td>8:5-14</td><td>Lovers are Married</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Song of Solomon?",
-        "answer": "<table><tr><td>1-2</td><td>Lovers Desire One Another</td></tr><tr><td>3:1-6:3</td><td>Shepherdess Dreams</td></tr><tr><td>6:4-8:4</td><td>Lovers Desire One Another</td></tr><tr><td>8:5-14</td><td>Lovers are Married</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Isaiah?",
+        "answer": "A. Warning of future judgment and promise of a coming messiah.<br><br><table><tr><td>1-39</td><td>God Judges his Rebellious People/td></tr><tr><td>40-55</td><td>God Consoles his Exiled People</td></tr><tr><td>56-66</td><td>God Promises Salvation</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Isaiah?",
-        "answer": "<table><tr><td>1-39</td><td>God Judges his Rebellious People/td></tr><tr><td>40-55</td><td>God Consoles his Exiled People</td></tr><tr><td>56-66</td><td>God Promises Salvation</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Jeremiah?",
+        "answer": "A. Judgment through Babylon captivity, and  God makes a new covenant.<br><br><table><tr><td>1-20</td><td>Jeremiah warns Judah and Wrestles with God</td></tr><tr><td>21-25</td><td>Jeremiah delivers God’s Judgment</td></tr><tr><td>26-36</td><td>Jerusalem is subject to God’s Word</td></tr><tr><td>37-52</td><td>Jerusalem’s Fall</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Jeremiah?",
-        "answer": "<table><tr><td>1-20</td><td>Jeremiah warns Judah and Wrestles with God</td></tr><tr><td>21-25</td><td>Jeremiah delivers God’s Judgment</td></tr><tr><td>26-36</td><td>Jerusalem is subject to God’s Word</td></tr><tr><td>37-52</td><td>Jerusalem’s Fall</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Lamentations?",
+        "answer": "A. Jeremiah’s lament and sorrow over the fall of Jerusalem.<br><br><table><tr><td>1-2</td><td>Lament for Jerusalem & Zion</td></tr><tr><td>3</td><td>Jeremiah's grief and hope</td></tr><tr><td>4-5</td><td>Horror of the siege & petition</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Lamentations?",
-        "answer": "<table><tr><td>1-2</td><td>Lament for Jerusalem & Zion</td></tr><tr><td>3</td><td>Jeremiah's grief and hope</td></tr><tr><td>4-5</td><td>Horror of the siege & petition</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Ezekiel?",
+        "answer": "A. The destruction and exile of Judah because of their sin and promise of future of restoration.<br><br><table><tr><td>1-24</td><td>Ezekiel's Vision of Judgment Glorious Restoration</td></tr><tr><td>25-32</td><td>Ezekiel's Oracles of Judgment Against the Nations</td></tr>><tr><td>33-48</td><td>Ezekiel's Vision of Judgment Glorious Restoration</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Ezekiel?",
-        "answer": "<table><tr><td>1-24</td><td>Ezekiel's Vision of Judgment Glorious Restoration</td></tr><tr><td>25-32</td><td>Ezekiel's Oracles of Judgment Against the Nations</td></tr>><tr><td>33-48</td><td>Ezekiel's Vision of Judgment Glorious Restoration</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Daniel?",
+        "answer": "A. God’s protects Daniel in exile and prophecy of future history.<br><br><table><tr><td>1-6</td><td>Daniel’s Stories of God’s Sovereignty</td></tr><tr><td>7-12</td><td>Daniel’s Visions of God’s Sovereignty</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Daniel?",
-        "answer": "<table><tr><td>1-6</td><td>Daniel’s Stories of God’s Sovereignty</td></tr><tr><td>7-12</td><td>Daniel’s Visions of God’s Sovereignty</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Hosea?",
+        "answer": "A. Israel compared to an adulterous wife and God the faithful husband.<br><br><table><tr><td>1-3</td><td>Hosea's Marriage</td></tr><tr><td>4-10</td><td>Israel's unfaithfulness & judgment</td></tr><tr><td>11-14</td><td>God's faithfulness</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Hosea?",
-        "answer": "<table><tr><td>1-3</td><td>Hosea's Marriage</td></tr><tr><td>4-10</td><td>Israel's unfaithfulness & judgment</td></tr><tr><td>11-14</td><td>God's faithfulness</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Joel?",
+        "answer": "A. Call to repentance because the Day of the Lord is coming.<br><br><table><tr><td>1</td><td>Invasion of locusts & Call to repentance</td></tr><tr><td>2</td><td>Day of the Lord / Spirit poured out</td></tr><tr><td>3</td><td>Judgment of the nations</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Joel?",
-        "answer": "<table><tr><td>1</td><td>Invasion of locusts & Call to repentance</td></tr><tr><td>2</td><td>Day of the Lord / Spirit poured out</td></tr><tr><td>3</td><td>Judgment of the nations</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Amos?",
+        "answer": "A. Judgment against Israel and Judah.<br><br><table><tr><td>1-2</td><td>Oracles Against the Nations</td></tr><tr><td>3-6</td><td>Oracles Against Israel</td></tr><tr><td>7-9</td><td>Vision of Judgment</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Amos?",
-        "answer": "<table><tr><td>1-2</td><td>Oracles Against the Nations</td></tr><tr><td>3-6</td><td>Oracles Against Israel</td></tr><tr><td>7-9</td><td>Vision of Judgment</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Obadiah?",
+        "answer": "A. Promised judgment against Edom.<br><br><table><tr><td>1:1-14</td><td>Judgment against Edom</td></tr><tr><td>1:15-21</td><td>Day of the Lord</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Obadiah?",
-        "answer": "<table><tr><td>1:1-14</td><td>Judgment against Edom</td></tr><tr><td>1:15-21</td><td>Day of the Lord</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Jonah?",
+        "answer": "A. God demonstrates mercy to wicked nation that repents.<br><br><table><tr><td>1-2</td><td>1<sub>st</sub> Commission of Jonah</td></tr><tr><td>3-4</td><td>2<sub>nd</sub> Commission of Jonah</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Jonah?",
-        "answer": "<table><tr><td>1-2</td><td>1<sub>st</sub> Commission of Jonah</td></tr><tr><td>3-4</td><td>2<sub>nd</sub> Commission of Jonah</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Micah?",
+        "answer": "A. Oracles of judgment and deliverance.<br><br><table><tr><td>1-2</td><td>Destruction & exile of the people & remnant restored</td></tr><tr><td>3-5</td><td>Destruction of rulers/prophets & restored people with Messiah King</td></tr><tr><td>6-7</td><td>Israel breaks the covenant & God keeps His covenant</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Micah?",
-        "answer": "<table><tr><td>1-2</td><td>Destruction & exile of the people & remnant restored</td></tr><tr><td>3-5</td><td>Destruction of rulers/prophets & restored people with Messiah King</td></tr><tr><td>6-7</td><td>Israel breaks the covenant & God keeps His covenant</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Nahum?",
+        "answer": "A. Judgment against Nineveh showing God's vengeance on his enemies.<br><br><table><tr><td>1</td><td>Yahweh as Divine Warior</td></tr><tr><td>2</td><td>Nineveh Judged but Israel/Judah Restored</td></tr><tr><td>3</td><td>Nineveh Mocked</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Nahum?",
-        "answer": "<table><tr><td>1</td><td>Yahweh as Divine Warior</td></tr><tr><td>2</td><td>Nineveh Judged but Israel/Judah Restored</td></tr><tr><td>3</td><td>Nineveh Mocked</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Habakkuk?",
+        "answer": "A. God promises all will be judged.<br><br><table><tr><td>1:1-11</td><td>Judah's sin & oracle of judgment against Judah</td></tr><tr><td>1:12-2:20</td><td>God's justice & oracle against Babylon</td></tr><tr><td>3</td><td>Request for mercy</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Habakkuk?",
-        "answer": "<table><tr><td>1:1-11</td><td>Judah's sin & oracle of judgment against Judah</td></tr><tr><td>1:12-2:20</td><td>God's justice & oracle against Babylon</td></tr><tr><td>3</td><td>Request for mercy</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Zephaniah?",
+        "answer": "A. Announcement of the coming Day of the Lord for all nations.<br><br><table><tr><td>1</td><td>The Day of the Lord Will Come Against Judah</td></tr><tr><td>2</td><td>The Day of the Lord Will Come Against Judah's Enemies</td></tr><tr><td>2</td><td>The Day of the Lord Means Jugdment and Restoration</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Zephaniah?",
-        "answer": "<table><tr><td>1</td><td>The Day of the Lord Will Come Against Judah</td></tr><tr><td>2</td><td>The Day of the Lord Will Come Against Judah's Enemies</td></tr><tr><td>2</td><td>The Day of the Lord Means Jugdment and Restoration</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Haggai?",
+        "answer": "A. Encouraging Israel to rebuild the temple.<br><br><table><tr><td>1</td><td>Repent and Rebuild</td></tr><tr><td>2:1-9</td><td>Rebuilding will Lead to Glory</td></tr><tr><td>2:10-19</td><td>Rebuilding will Lead to Blessing</td></tr><tr><td>2:20ß-23</td><td>Rebuilding Promised by God</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Haggai?",
-        "answer": "<table><tr><td>1</td><td>Repent and Rebuild</td></tr><tr><td>2:1-9</td><td>Rebuilding will Lead to Glory</td></tr><tr><td>2:10-19</td><td>Rebuilding will Lead to Blessing</td></tr><tr><td>2:20ß-23</td><td>Rebuilding Promised by God</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Zechariah?",
+        "answer": "A. Encouragement to Israel to finish rebuilding the temple.<br><br><table><tr><td>1-8</td><td>Zechariah’s 8 Visions</td></tr><tr><td>9-14</td><td>Zechariah’s 2 Oracles</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Zechariah?",
-        "answer": "<table><tr><td>1-8</td><td>Zechariah’s 8 Visions</td></tr><tr><td>9-14</td><td>Zechariah’s 2 Oracles</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Malachi?",
+        "answer": "A. Judgment in the coming Day of the Lord.<br><br><table><tr><td>1-4:3</td><td>Six Disputations</td></tr><tr><td>4:4-6</td><td>Prediction of the Day of the Lord</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Malachi?",
-        "answer": "<table><tr><td>1-4:3</td><td>Six Disputations</td></tr><tr><td>4:4-6</td><td>Prediction of the Day of the Lord</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Matthew?",
+        "answer": "A. An account of Jesus’ life, death, and resurrection, focusing on Jesus’ role as the true king of the Jews.<br><br><table><tr><td>1-2</td><td>Birth Prologue</td></tr><tr><td>3-7</td><td>Works of the Kingdom</td></tr><tr><td>8-10</td><td>Nature of the Kingdom</td></tr><tr><td>14-18</td><td>Authority of the Kingdom</td></tr><tr><td>19-25</td><td>Blessings and Judgments of the Kingdom</td></tr><tr><td>26-28</td><td>Passion and Resurrection</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Matthew?",
-        "answer": "<table><tr><td>1-2</td><td>Birth Prologue</td></tr><tr><td>3-7</td><td>Works of the Kingdom</td></tr><tr><td>8-10</td><td>Nature of the Kingdom</td></tr><tr><td>14-18</td><td>Authority of the Kingdom</td></tr><tr><td>19-25</td><td>Blessings and Judgments of the Kingdom</td></tr><tr><td>26-28</td><td>Passion and Resurrection</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Mark?",
+        "answer": "A. Action packed account of Jesus’ earthly ministry highlighting Jesus’ authority and servanthood.<br><br><table><tr><td>1-8:26</td><td>Preaching the kingdom of God</td></tr><tr><td>8:27-10:52</td><td>Cost of the kingdom of God</td></tr><tr><td>11-16</td><td>Bringing in the Kingdom of God</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Mark?",
-        "answer": "<table><tr><td>1-8:26</td><td>Preaching the kingdom of God</td></tr><tr><td>8:27-10:52</td><td>Cost of the kingdom of God</td></tr><tr><td>11-16</td><td>Bringing in the Kingdom of God</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Luke?",
+        "answer": "A. Chronological gospel based on eye-witness testimony emphasizing God’s plan including the Gentiles.<br><br><table><tr><td>1-2</td><td>Birth & childhood of Jesus</td></tr><tr><td>3-4:13</td><td>Jesus & John the Baptist</td></tr><tr><td>4:14-9:62</td><td>Jesus’ ministry in Galilee</td></tr><tr><td>10-19</td><td>Journey to Jerusalem</td></tr><tr><td>20-21</td><td>Jesus’ ministry in Jerusalem</td></tr><tr><td>22-24</td><td>Death and Resurrection</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Luke?",
-        "answer": "<table><tr><td>1-2</td><td>Birth & childhood of Jesus</td></tr><tr><td>3-4:13</td><td>Jesus & John the Baptist</td></tr><tr><td>4:14-9:62</td><td>Jesus’ ministry in Galilee</td></tr><tr><td>10-19</td><td>Journey to Jerusalem</td></tr><tr><td>20-21</td><td>Jesus’ ministry in Jerusalem</td></tr><tr><td>22-24</td><td>Death and Resurrection</td></tr></table>"
+        "question": "Q. Summarize and outline the book of John?",
+        "answer": "A. Theological account of Jesus’ ministry written for all to believe Jesus is the Christ, the Son of God.<br><br><table><tr><td>1:1-18</td><td>Prologue</td></tr><tr><td>1:19-12:50</td><td>\"Book of Signs\"</td></tr><tr><td>13-20</td><td>\"Book of the Passion\"</td></tr><tr><td>21</td><td>Epilogue</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of John?",
-        "answer": "<table><tr><td>1:1-18</td><td>Prologue</td></tr><tr><td>1:19-12:50</td><td>\"Book of Signs\"</td></tr><tr><td>13-20</td><td>\"Book of the Passion\"</td></tr><tr><td>21</td><td>Epilogue</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Acts?",
+        "answer": "A. Continuation of Luke’s gospel providing early church history focusing on the spread of the church after Christ’s ascension and Pentecost.<br><br><table><tr><td>1:1-11</td><td>Commission by Jesus</td></tr><tr><td>1:12-8:3</td><td>To Jerusalem (Pentecost, Peter, John & Stephen)</td></tr><tr><td>8:4-12:25</td><td>To Judea & Samaria (Philip, Peter, & Antioch)</td></tr><tr><td>13-14</td><td>To ends of earth: Paul’s first missionary journey</td></tr><tr><td>15</td><td>Jerusalem Council</td></tr><tr><td>16-18</td><td>To ends of earth: Paul’s second missionary journey</td></tr><tr><td>19-20</td><td>To ends of earth: Paul’s third missionary journey</td></tr><tr><td>21-28</td><td>To ends of earth: Paul journey to Jerusalem & Rome</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Acts?",
-        "answer": "<table><tr><td>1:1-11</td><td>Commission by Jesus</td></tr><tr><td>1:12-8:3</td><td>To Jerusalem (Pentecost, Peter, John & Stephen)</td></tr><tr><td>8:4-12:25</td><td>To Judea & Samaria (Philip, Peter, & Antioch)</td></tr><tr><td>13-14</td><td>To ends of earth: Paul’s first missionary journey</td></tr><tr><td>15</td><td>Jerusalem Council</td></tr><tr><td>16-18</td><td>To ends of earth: Paul’s second missionary journey</td></tr><tr><td>19-20</td><td>To ends of earth: Paul’s third missionary journey</td></tr><tr><td>21-28</td><td>To ends of earth: Paul journey to Jerusalem & Rome</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Romans?",
+        "answer": "A. Letter to the Gentile Church to present God’s plan of salvation and righteousness for all mankind.<br><br><table><tr><td>1:1-17</td><td>Introduction and Gospel oprovidingf God’s Righteousness</td></tr><tr><td>1:18-3:20</td><td>God’s Righteousness Reveals the Sinfulness of All</td></tr><tr><td>3:21-8:39</td><td>God’s Righteousness Reveals the Salvation for All</td></tr><tr><td>9-11</td><td>God’s Righteousness Reveals Interconnection between All</td></tr><tr><td>12-16</td><td>God’s Righteousness Reveals the Moral Demands</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Romans?",
-        "answer": "<table><tr><td>1:1-17</td><td>Introduction and Gospel of God’s Righteousness</td></tr><tr><td>1:18-3:20</td><td>God’s Righteousness Reveals the Sinfulness of All</td></tr><tr><td>3:21-8:39</td><td>God’s Righteousness Reveals the Salvation for All</td></tr><tr><td>9-11</td><td>God’s Righteousness Reveals Interconnection between All</td></tr><tr><td>12-16</td><td>God’s Righteousness Reveals the Moral Demands</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Corinthians?",
+        "answer": "A. Disciplinary letter with instruction and correction about various problems.<br><br><table><tr><td>1:1-9</td><td>Greeting</td></tr><tr><td>1:10-4:21</td><td>First Set of Problems: Divisions and Factions</td></tr><tr><td>5-7</td><td>Second Set of Problems: Sexual Integrity</td></tr><tr><td>8-11:1</td><td>Third Set of Problems: Food Offered to Idols</td></tr><tr><td>11:2-14:40</td><td>Fourth Set of Problems: Public Worship in the Church</td></tr><tr><td>15</td><td>Fifth Set of Problems: Resurrection</td></tr><tr><td>16</td><td>Closing</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Corinthians?",
-        "answer": "<table><tr><td>1:1-9</td><td>Greeting</td></tr><tr><td>1:10-4:21</td><td>First Set of Problems: Divisions and Factions</td></tr><tr><td>5-7</td><td>Second Set of Problems: Sexual Integrity</td></tr><tr><td>8-11:1</td><td>Third Set of Problems: Food Offered to Idols</td></tr><tr><td>11:2-14:40</td><td>Fourth Set of Problems: Public Worship in the Church</td></tr><tr><td>15</td><td>Fifth Set of Problems: Resurrection</td></tr><tr><td>16</td><td>Closing</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Corinthians?",
+        "answer": "A. Letter refuting false teachers who challenged Paul’s apostolic authority.<br><br><table><tr><td>1-7</td><td>Paul’s Defense of His Apostolic Ministry: A Historical Account</td></tr><tr><td>8-9</td><td>The Gentile Church’s Offering</td></tr><tr><td>10-13</td><td>Pau’s Defense of His Apostolic Ministry: Response to \"Super-apostles\"</td></tr><tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Corinthians?",
-        "answer": "<table><tr><td>1-7</td><td>Paul’s Defense of His Apostolic Ministry: A Historical Account</td></tr><tr><td>8-9</td><td>The Gentile Church’s Offering</td></tr><tr><td>10-13</td><td>Pau’s Defense of His Apostolic Ministry: Response to \"Super-apostles\"</td></tr><tr></table>"
+        "question": "Q. Summarize and outline the book of Galatians?",
+        "answer": "A. Do not add circumcision to justification by faith alone.<br><br><table><tr><td>1:1-9</td><td>Opening</td></tr><tr><td>1:10-2:21</td><td>Paul’s Defense</td></tr><tr><td>3:1-5:12</td><td>Paul’s Appeal to the Galatians</td></tr><tr><td>5:13-6:10</td><td>Life in the Spirit</td></tr><tr><td>6:11-18</td><td>Final Warnings</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Galatians?",
-        "answer": "<table><tr><td>1:1-9</td><td>Opening</td></tr><tr><td>1:10-2:21</td><td>Paul’s Defense</td></tr><tr><td>3:1-5:12</td><td>Paul’s Appeal to the Galatians</td></tr><tr><td>5:13-6:10</td><td>Life in the Spirit</td></tr><tr><td>6:11-18</td><td>Final Warnings</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Ephesians?",
+        "answer": "A. Salvation unites us to Christ which changes the way we live.<br><br><table><tr><td>1-3</td><td>Our position in Christ</td></tr><tr><td>4-6</td><td>Our practice in Christ</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Ephesians?",
-        "answer": "<table><tr><td>1-3</td><td>Our position in Christ</td></tr><tr><td>4-6</td><td>Our practice in Christ</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Philippians?",
+        "answer": "A. How to have joy in Christ regardless of circumstances.<br><br><table><tr><td>1</td><td>Philosophy for Christian Living</td></tr><tr><td>2</td><td>Pattern for Christian Living</td></tr><tr><td>3</td><td>Prize for Christian Living</td></tr><tr><td>4</td><td>Power for Christian Living</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Philippians?",
-        "answer": "<table><tr><td>1</td><td>Philosophy for Christian Living</td></tr><tr><td>2</td><td>Pattern for Christian Living</td></tr><tr><td>3</td><td>Prize for Christian Living</td></tr><tr><td>4</td><td>Power for Christian Living</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Colossians?",
+        "answer": "A. Praising Christ’s person and work, and living out our union with Christ.<br><br><table><tr><td>1:1-14</td><td>Greeting</td></tr><tr><td>1:15-29</td><td>Christ’s person & work</td></tr><tr><td>2</td><td>Christ as answer to doctrinal errors</td></tr><tr><td>3-4</td><td>Union with Christ as basis for Christian living</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Colossians?",
-        "answer": "<table><tr><td>1:1-14</td><td>Greeting</td></tr><tr><td>1:15-29</td><td>Christ’s person & work</td></tr><tr><td>2</td><td>Christ as answer to doctrinal errors</td></tr><tr><td>3-4</td><td>Union with Christ as basis for Christian living</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Thessalonians?",
+        "answer": "A. An encouragement in Godly living in the face of persecution until Christ returns.<br><br><table><tr><td>1</td><td>An exemplary church</td></tr><tr><td>2</td><td>A model minister</td></tr><tr><td>3:1-4:12</td><td>A holy life</td></tr><tr><td>4:13-5:28</td><td>Coming of the Lord</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Thessalonians?",
-        "answer": "<table><tr><td>1</td><td>An exemplary church</td></tr><tr><td>2</td><td>A model minister</td></tr><tr><td>3:1-4:12</td><td>A holy life</td></tr><tr><td>4:13-5:28</td><td>Coming of the Lord</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Thessalonians?",
+        "answer": "A. How to stand firm until the coming of Jesus.<br><br><table><tr><td>1</td><td>Coming of the Lord & Comfort</td></tr><tr><td>2</td><td>Coming of the Lord & Day of the Lord</td></tr><tr><td>3</td><td>Coming of the Lord and practical Christian living</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Thessalonians?",
-        "answer": "<table><tr><td>1</td><td>Coming of the Lord & Comfort</td></tr><tr><td>2</td><td>Coming of the Lord & Day of the Lord</td></tr><tr><td>3</td><td>Coming of the Lord and practical Christian living</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Timothy?",
+        "answer": "A. Instruction on how to lead a church with sound teaching and a godly example.<br><br><table><tr><td>1</td><td>Instruction in Right Belief</td></tr><tr><td>2-3</td><td>Instructions for the Church and Its Officers</td></tr><tr><td>4-6</td><td>Instruction for True Leaders</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Timothy?",
-        "answer": "<table><tr><td>1</td><td>Instruction in Right Belief</td></tr><tr><td>2-3</td><td>Instructions for the Church and Its Officers</td></tr><tr><td>4-6</td><td>Instruction for True Leaders</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Timothy?",
+        "answer": "A. Encouragement to preach the word and persevere in the faith.<br><br><table><tr><td>1</td><td>Apostasy and pastoral fidelity</td></tr><tr><td>2</td><td>Apostasy and spiritual conflict</td></tr><tr><td>3</td><td>Apostasy and the Word of God</td></tr><tr><td>4</td><td>Apostasy and a faithful Lord</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Timothy?",
-        "answer": "<table><tr><td>1</td><td>Apostasy and pastoral fidelity</td></tr><tr><td>2</td><td>Apostasy and spiritual conflict</td></tr><tr><td>3</td><td>Apostasy and the Word of God</td></tr><tr><td>4</td><td>Apostasy and a faithful Lord</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Titus?",
+        "answer": "A. Pastoral letter containing instructions about faith and conduct and ministry.<br><br><table><tr><td>1</td><td>Who Should Teach</td></tr><tr><td>2</td><td>What to Teach and How to Live</td></tr><tr><td>3</td><td>What to Do with Factions and False Teachers</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Titus?",
-        "answer": "<table><tr><td>1</td><td>Who Should Teach</td></tr><tr><td>2</td><td>What to Teach and How to Live</td></tr><tr><td>3</td><td>What to Do with Factions and False Teachers</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Philemon?",
+        "answer": "A. Letter to Philemon to ask him to accept Onesimus as a brother in Christ.<br><br><table><tr><td>1:1-7</td><td>Greeting</td></tr><tr><td>1:8-21</td><td>Plea for Onesimus</td></tr><tr><td>1:22-25</td><td>Closing</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Philemon?",
-        "answer": "<table><tr><td>1:1-7</td><td>Greeting</td></tr><tr><td>1:8-21</td><td>Plea for Onesimus</td></tr><tr><td>1:22-25</td><td>Closing</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Hebrews?",
+        "answer": "A. Christ is superior in every way; don't turn back to old ways.<br><br><table><tr><td>1-2</td><td>Superiority of Christ to prophets and angels</td></tr><tr><td>3-4</td><td>Superiority of Christ to Moses & Joshua</td></tr><tr><td>5-8:5</td><td>Superiority of Christ’s priesthood</td></tr><tr><td>8:6-10:39</td><td>Superiority of New Covenant to Old Covenant</td></tr><tr><td>11-13</td><td>Superiority of faith</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Hebrews?",
-        "answer": "<table><tr><td>1-2</td><td>Superiority of Christ to prophets and angels</td></tr><tr><td>3-4</td><td>Superiority of Christ to Moses & Joshua</td></tr><tr><td>5-8:5</td><td>Superiority of Christ’s priesthood</td></tr><tr><td>8:6-10:39</td><td>Superiority of New Covenant to Old Covenant</td></tr><tr><td>11-13</td><td>Superiority of faith</td></tr></table>"
+        "question": "Q. Summarize and outline the book of James?",
+        "answer": "A. Live out your faith in action.<br><br><table><tr><td>1</td><td>Faith tested by trials</td></tr><tr><td>2</td><td>Faith proved by works</td></tr><tr><td>3-5</td><td>Faith evidenced by conduct in persecution</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of James?",
-        "answer": "<table><tr><td>1</td><td>Faith tested by trials</td></tr><tr><td>2</td><td>Faith proved by works</td></tr><tr><td>3-5</td><td>Faith evidenced by conduct in persecution</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 Peter?",
+        "answer": "A. Remember the temporary nature of suffering and our future inheritance.<br><br><table><tr><td>1</td><td>Present suffering & future inheritance</td></tr><tr><td>2-4:6</td><td>Our suffering in view of Christ’s suffering</td></tr><tr><td>4:7-5:14</td><td>Our suffering in view of Christ’s advent</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 Peter?",
-        "answer": "<table><tr><td>1</td><td>Present suffering & future inheritance</td></tr><tr><td>2-4:6</td><td>Our suffering in view of Christ’s suffering</td></tr><tr><td>4:7-5:14</td><td>Our suffering in view of Christ’s advent</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 Peter?",
+        "answer": "A. Remember Christ and be cautious of false teachers.<br><br><table><tr><td>1</td><td>Christian growth</td></tr><tr><td>2</td><td>Antidote to error</td></tr><tr><td>3</td><td>Certainty of the future</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 Peter?",
-        "answer": "<table><tr><td>1</td><td>Christian growth</td></tr><tr><td>2</td><td>Antidote to error</td></tr><tr><td>3</td><td>Certainty of the future</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 1 John?",
+        "answer": "A. Exposing false Gnostic teachers and offering assurance of salvation.<br><br><table><tr><td>1:1-2:2</td><td>God is Light</td></tr><tr><td>2:3-4:21</td><td>God is Love</td></tr><tr><td>5</td><td>God is Life</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 1 John?",
-        "answer": "<table><tr><td>1:1-2:2</td><td>God is Light</td></tr><tr><td>2:3-4:21</td><td>God is Love</td></tr><tr><td>5</td><td>God is Life</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 2 John?",
+        "answer": "A. Walk in truth and love.<br><br><table><tr><td>1-3</td><td>Greeting</td></tr><tr><td>4-11</td><td>Truth & Love</td></tr><tr><td>12-13</td><td>Closing</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 2 John?",
-        "answer": "<table><tr><td>1-3</td><td>Greeting</td></tr><tr><td>4-11</td><td>Truth & Love</td></tr><tr><td>12-13</td><td>Closing</td></tr></table>"
+        "question": "Q. Summarize and outline the book of 3 John?",
+        "answer": "A. Support itinerant teachers and imitate what is good.<br><br><table><tr><td>1-4</td><td>Greeting</td></tr><tr><td>5-12</td><td>Support & opposition</td></tr><tr><td>13-15</td><td>Closing</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of 3 John?",
-        "answer": "<table><tr><td>1-4</td><td>Greeting</td></tr><tr><td>5-12</td><td>Support & opposition</td></tr><tr><td>13-15</td><td>Closing</td></tr></table>"
+        "question": "Q. Summarize and outline the book of Jude?",
+        "answer": "A. Contend for the faith and beware of false teachers.<br><br><table><tr><td>1:1-4</td><td>Greeting</td></tr><tr><td>1:5-16</td><td>Judgment on false teaching</td></tr><tr><td>1:17-23</td><td>Perseverance</td></tr></table>"
     },
     {
-        "question": "Q. What is the outline of the book of Jude?",
-        "answer": "<table><tr><td>1:1-4</td><td>Greeting</td></tr><tr><td>1:5-16</td><td>Judgment on false teaching</td></tr><tr><td>1:17-23</td><td>Perseverance</td></tr></table>"
-    },
-    {
-        "question": "Q. What is the outline of the book of Revelation?",
-        "answer": "<table><tr><td>1</td><td>Prologue</td></tr><tr><td>2-3</td><td>Letters to Seven Churches</td></tr><tr><th colspan=\"2\">7 Recapitulations – Heavenly Visions</th></tr><tr><td>4-7</td><td>Cycle One: Scroll and Seven Seals</td></tr><tr><td>8-11</td><td>Cycle Two: Seven Angels and Seven Trumpets</td></tr><tr><td>12-14</td><td>Cycle Three: Seven symbolic histories</td></tr><tr><td>15-16</td><td>Cycle Four: Seven bowls of God’s wrath</td></tr><tr><td>17-19:10</td><td>Cycle Five: Judgment on Babylon and Vindication of the Church</td></tr><tr><td>19:11-21</td><td>Cycle Six: The Final Battle</td></tr><tr><td>20-21:8</td><td>Cycle Seven: The Reign of the Saints and the Last Judgment</td></tr><tr><td>21:9-22:5</td><td>The New Jerusalem</td></tr><tr><td>22:6-21</td><td>Final Exhortation and Blessing</td></tr></table>"
-    },
-    {
-        "question": "Q. Summarize Genesis",
-        "answer": "A. God created all things and covenants with humanity to bring salvation."
-    },
-    {
-        "question": "Q. Summarize Exodus",
-        "answer": "A. God delivers and establishes his covenant people."
-    },
-    {
-        "question": "Q. Summarize Leviticus",
-        "answer": "A. God provides atonement so his covenant people may dwell with him."
-    },
-    {
-        "question": "Q. Summarize Numbers",
-        "answer": "A. Israel fails to trust and obey God, and wanders in the wilderness for 40 years."
-    },
-    {
-        "question": "Q. Summarize Deuteronomy",
-        "answer": "A. God gives the law to Israel a second time."
-    },
-    {
-        "question": "Q. Summarize Joshua",
-        "answer": "A. Joshua leads Israel to conquer the promised land."
-    },
-    {
-        "question": "Q. Summarize Judges",
-        "answer": "A. Cycle of Israel sinning and God sending a judge."
-    },
-    {
-        "question": "Q. Summarize Ruth",
-        "answer": "A. God is faithful to redeem in the midst of rebellion and loss."
-    },
-    {
-        "question": "Q. Summarize 1 Samuel",
-        "answer": "A. Transition from theocracy to monarchy."
-    },
-    {
-        "question": "Q. Summarize 2 Samuel",
-        "answer": "A. God appoints David and makes a covenant with him."
-    },
-    {
-        "question": "Q. Summarize 1 Kings",
-        "answer": "A. Prosperity under Solomon, but disobedience leads to judgment and to a divided kingdom."
-    },
-    {
-        "question": "Q. Summarize 2 Kings",
-        "answer": "A. The divided kingdoms both fall, Israel (North) and Judah (South)."
-    },
-    {
-        "question": "Q. Summarize 1 Chronicles",
-        "answer": "A. History of Israel from Adam through the death of David."
-    },
-    {
-        "question": "Q. Summarize 2 Chronicles",
-        "answer": "A. History of Israel from Solomon through exile of Judah."
-    },
-    {
-        "question": "Q. Summarize Ezra",
-        "answer": "A. A remnant returns to restore the temple, and Ezra brings reforms."
-    },
-    {
-        "question": "Q. Summarize Nehemiah",
-        "answer": "A. Covenant renewal and rebuilding the wall and community."
-    },
-    {
-        "question": "Q. Summarize Esther",
-        "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia."
-    },
-    {
-        "question": "Q. Summarize Job",
-        "answer": "A. Satan is subject to God’s authority and Job’s faith is tested."
-    },
-    {
-        "question": "Q. Summarize Psalms",
-        "answer": "A. Songs of praise, prayer, lament, wisdom, victory, remembrance"
-    },
-    {
-        "question": "Q. Summarize Proverbs",
-        "answer": "A. Wise axioms and warnings primarily from Solomon."
-    },
-    {
-        "question": "Q. Summarize Ecclesiastes",
-        "answer": "A. The vanity of life apart from God."
-    },
-    {
-        "question": "Q. Summarize Song of Solomon",
-        "answer": "A. Love song between a groom and bride."
-    },
-    {
-        "question": "Q. Summarize Isaiah",
-        "answer": "A. Warning of future judgment and promise of a coming messiah."
-    },
-    {
-        "question": "Q. Summarize Jeremiah",
-        "answer": "A. Judgment through Babylon captivity, and  God makes a new covenant."
-    },
-    {
-        "question": "Q. Summarize Lamentations",
-        "answer": "A. Jeremiah’s lament and sorrow over the fall of Jerusalem."
-    },
-    {
-        "question": "Q. Summarize Ezekiel",
-        "answer": "A. The destruction and exile of Judah because of their sin and promise of future of restoration."
-    },
-    {
-        "question": "Q. Summarize Daniel",
-        "answer": "A. God’s protects Daniel in exile and prophecy of future history."
-    },
-    {
-        "question": "Q. Summarize Hosea",
-        "answer": "A. Israel compared to an adulterous wife and God the faithful husband."
-    },
-    {
-        "question": "Q. Summarize Joel",
-        "answer": "A. Call to repentance because the Day of the Lord is coming."
-    },
-    {
-        "question": "Q. Summarize Amos",
-        "answer": "A. Judgment against Israel and Judah."
-    },
-    {
-        "question": "Q. Summarize Obadiah",
-        "answer": "A. Promised judgment against Edom."
-    },
-    {
-        "question": "Q. Summarize Jonah",
-        "answer": "A. God demonstrates mercy to wicked nation that repents."
-    },
-    {
-        "question": "Q. Summarize Micah",
-        "answer": "A. Oracles of judgment and deliverance."
-    },
-    {
-        "question": "Q. Summarize Nahum",
-        "answer": "A. Judgment against Nineveh showing God's vengeance on his enemies."
-    },
-    {
-        "question": "Q. Summarize Habakkuk",
-        "answer": "A. God promises all will be judged."
-    },
-    {
-        "question": "Q. Summarize Zephaniah",
-        "answer": "A. Announcement of the coming Day of the Lord for all nations."
-    },
-    {
-        "question": "Q. Summarize Haggai",
-        "answer": "A. Encouraging Israel to rebuild the temple."
-    },
-    {
-        "question": "Q. Summarize Zechariah",
-        "answer": "A. Encouragement to Israel to finish rebuilding the temple."
-    },
-    {
-        "question": "Q. Summarize Malachi",
-        "answer": "A. Judgment in the coming Day of the Lord."
-    },
-    {
-        "question": "Q. Summarize Matthew",
-        "answer": "A. An account of Jesus’ life, death, and resurrection, focusing on Jesus’ role as the true king of the Jews."
-    },
-    {
-        "question": "Q. Summarize Mark",
-        "answer": "A. Action packed account of Jesus’ earthly ministry highlighting Jesus’ authority and servanthood."
-    },
-    {
-        "question": "Q. Summarize Luke",
-        "answer": "A. Chronological historical gospel based on eye-witness testimony emphasizing God’s plan including the Gentiles."
-    },
-    {
-        "question": "Q. Summarize John",
-        "answer": "A. Theological account of Jesus’ ministry written for all to believe Jesus is the Christ, the Son of God."
-    },
-    {
-        "question": "Q. Summarize Acts",
-        "answer": "A. Continuation of Luke’s gospel which provides early church history focusing on the spread of the church after Christ’s ascension and Pentecost."
-    },
-    {
-        "question": "Q. Summarize Romans",
-        "answer": "A. Letter to the Gentile Church to present God’s plan of salvation and righteousness for all mankind."
-    },
-    {
-        "question": "Q. Summarize 1 Corinthians",
-        "answer": "A. Disciplinary letter with instruction and correction about various problems."
-    },
-    {
-        "question": "Q. Summarize 2 Corinthians",
-        "answer": "A. Letter refuting false teachers who challenged Paul’s apostolic authority."
-    },
-    {
-        "question": "Q. Summarize Galatians",
-        "answer": "A. Do not add circumcision to justification by faith alone."
-    },
-    {
-        "question": "Q. Summarize Ephesians",
-        "answer": "A. Salvation unites us to Christ which changes the way we live."
-    },
-    {
-        "question": "Q. Summarize Philippians",
-        "answer": "A. How to have joy in Christ regardless of circumstances."
-    },
-    {
-        "question": "Q. Summarize Colossians",
-        "answer": "A. Praising Christ’s person and work, and living out our union with Christ."
-    },
-    {
-        "question": "Q. Summarize 1 Thessalonians",
-        "answer": "A. An encouragement in Godly living in the face of persecution until Christ returns."
-    },
-    {
-        "question": "Q. Summarize 2 Thessalonians",
-        "answer": "A. How to stand firm until the coming of Jesus."
-    },
-    {
-        "question": "Q. Summarize 1 Timothy",
-        "answer": "A. Instruction on how to lead a church with sound teaching and a godly example."
-    },
-    {
-        "question": "Q. Summarize 2 Timothy",
-        "answer": "A. Encouragement to preach the word and persevere in the faith."
-    },
-    {
-        "question": "Q. Summarize Titus",
-        "answer": "A. Pastoral letter containing instructions about faith and conduct and ministry."
-    },
-    {
-        "question": "Q. Summarize Philemon",
-        "answer": "A. Letter to Philemon to ask him to accept Onesimus as a brother in Christ."
-    },
-    {
-        "question": "Q. Summarize Hebrews",
-        "answer": "A. Christ is superior in every way; don't turn back to old ways."
-    },
-    {
-        "question": "Q. Summarize James",
-        "answer": "A. Live out your faith in action."
-    },
-    {
-        "question": "Q. Summarize 1 Peter",
-        "answer": "A. Remember the temporary nature of suffering and our future inheritance."
-    },
-    {
-        "question": "Q. Summarize 2 Peter",
-        "answer": "A. Remember Christ and be cautious of false teachers."
-    },
-    {
-        "question": "Q. Summarize 1 John",
-        "answer": "A. Exposing false Gnostic teachers and offering assurance of salvation."
-    },
-    {
-        "question": "Q. Summarize 2 John",
-        "answer": "A. Walk in truth and love."
-    },
-    {
-        "question": "Q. Summarize 3 John",
-        "answer": "A. Support itinerant teachers and imitate what is good."
-    },
-    {
-        "question": "Q. Summarize Jude",
-        "answer": "A. Contend for the faith and beware of false teachers."
-    },
-    {
-        "question": "Q. Summarize Revelation",
-        "answer": "A. Apocalyptic letter repeating the cycle of God wining and the return of Christ."
+        "question": "Q. Summarize and outline the book of Revelation?",
+        "answer": "A. Apocalyptic letter repeating the cycle of God wining and the return of Christ.<br><br><table><tr><td>1</td><td>Prologue</td></tr><tr><td>2-3</td><td>Letters to Seven Churches</td></tr><tr><th colspan=\"2\">7 Recapitulations – Heavenly Visions</th></tr><tr><td>4-7</td><td>Cycle One: Scroll and Seven Seals</td></tr><tr><td>8-11</td><td>Cycle Two: Seven Angels and Seven Trumpets</td></tr><tr><td>12-14</td><td>Cycle Three: Seven symbolic histories</td></tr><tr><td>15-16</td><td>Cycle Four: Seven bowls of God’s wrath</td></tr><tr><td>17-19:10</td><td>Cycle Five: Judgment on Babylon and Vindication of the Church</td></tr><tr><td>19:11-21</td><td>Cycle Six: The Final Battle</td></tr><tr><td>20-21:8</td><td>Cycle Seven: The Reign of the Saints and the Last Judgment</td></tr><tr><td>21:9-22:5</td><td>The New Jerusalem</td></tr><tr><td>22:6-21</td><td>Final Exhortation and Blessing</td></tr></table>"
     }
 ]
