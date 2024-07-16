@@ -13,7 +13,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Numbers?",
-        "answer": "A. Israel fails to trust and obey God, and wanders in the wilderness for 40 years.<br><br><table><tr><td>1-10</td><td>Preparing Israel's 1st Army at Sinai</td></tr><tr><td>11-25</td><td>Failure of Israel's 1st Army & Wandering in the Desert</td></tr><tr><td>26-36</td><td>Preparing Israel's 2nd Army for Conquest</td></tr><tr></table>"
+        "answer": "A. Israel fails to trust and obey God, and wanders in the wilderness for 40 years.<br><br><table><tr><td>1-10</td><td>Preparing Israel's 1<sup>st</sup> Army at Sinai</td></tr><tr><td>11-25</td><td>Failure of Israel's 1<sup>st</sup> Army & Wandering in the Desert</td></tr><tr><td>26-36</td><td>Preparing Israel's 2<sup>nd</sup> Army for Conquest</td></tr><tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Deuteronomy?",
@@ -41,7 +41,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of 1 Kings?",
-        "answer": "A. Prosperity under Solomon, but disobedience leads to judgment and to a divided kingdom.<br><br><table><tr><td>1-11</td><td>Transition from David and Solomon’s Reign</td></tr><tr><td>12-16</td><td>Kingdom Divided</td></tr><tr><td>17-22</td><td>Elijah the prophet</td></tr></table>"
+        "answer": "A. Prosperity under Solomon, but disobedience leads to judgment and to a divided kingdom.<br><br><table><tr><td>1-11</td><td>Transition from David to Solomon’s Reign</td></tr><tr><td>12-16</td><td>Kingdom Divided</td></tr><tr><td>17-22</td><td>Elijah the prophet</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of 2 Kings?",
@@ -65,7 +65,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Esther?",
-        "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia.<br><br><table><tr><td>1-2</td><td>Esther’s rise to power</td></tr><tr><td>3-6</td><td>Mordecai’s resistance and plot against the Jews</td></tr><tr><td>7-8</td><td>Haman hanged & Esther saves Jews</td></tr><tr><td>9-10</td><td>Ester and Mordecai in the Persian Court</td></tr></table>"
+        "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia.<br><br><table><tr><td>1-2</td><td>Crown – Esther’s Coronation</td></tr><tr><td>3-6</td><td>Conspiracy – Haman's Plot and Mordecai’s Rise to Power</td></tr><tr><td>7-8</td><td>Crash – Haman's Demise & the Jewish People's Deliverance</td></tr><tr><td>9-10</td><td>Celebration – Liberation and Celebration</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Job?",
@@ -97,11 +97,11 @@
     },
     {
         "question": "Q. Summarize and outline the book of Lamentations?",
-        "answer": "A. Jeremiah’s lament and sorrow over the fall of Jerusalem.<br><br><table><tr><td>1-2</td><td>Lament for Jerusalem & Zion</td></tr><tr><td>3</td><td>Jeremiah's grief and hope</td></tr><tr><td>4-5</td><td>Horror of the siege & petition</td></tr></table>"
+        "answer": "A. Jeremiah’s lament and sorrow over the fall of Jerusalem.<br><br><table><tr><td>1-2</td><td>Desolation and Destruction of Jerusalem</td></tr><tr><td>3</td><td>Distraught Prophet</td></tr><tr><td>4</td><td>Defeated People</td></tr><tr><td>5</td><td>Prayer for the People</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Ezekiel?",
-        "answer": "A. The exile of Judah because of their sin and promise of future restoration.<br><br><table><tr><td>1-24</td><td>Judgment Coming to Jerusalem</td></tr><tr><td>25-32</td><td>Judgment Coming to the Nations</td></tr>><tr><td>33-48</td><td>Restoration of God's People</td></tr></table>"
+        "answer": "A. The exile of Judah because of their sin and promise of future restoration.<br><br><table><tr><td>1-24</td><td>Judgment Coming to Jerusalem</td></tr><tr><td>25-32</td><td>Judgment Coming to the Nations</td></tr><tr><td>33-48</td><td>Restoration of God's People</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Daniel?",
@@ -125,7 +125,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Jonah?",
-        "answer": "A. God demonstrates mercy to wicked nation that repents.<br><br><table><tr><td>1-2</td><td>1<sub>st</sub> Commission of Jonah</td></tr><tr><td>3-4</td><td>2<sub>nd</sub> Commission of Jonah</td></tr></table>"
+        "answer": "A. God demonstrates mercy to wicked nation that repents.<br><br><table><tr><td>1</td><td>Fleeing from God's Mission</td></tr><tr><td>2</td><td>Jonah's Prayer of Repentance</td></tr><tr><td>3</td><td>Fulfilling God's Mission</td></tr><tr><td>4</td><td>Questioning God's Mercy</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Micah?",
@@ -137,7 +137,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Habakkuk?",
-        "answer": "A. God promises everyone will be judged.<br><br><table><tr><td>1:1-11</td><td>Oracle of judgment against Judah</td></tr><tr><td>1:12-2:20</td><td>Oracle against Babylon</td></tr><tr><td>3</td><td>Request for mercy</td></tr></table>"
+        "answer": "A. God promises everyone will be judged.<br><br><table><tr><td>1:1-11</td><td>Oracle against Judah</td></tr><tr><td>1:12-2:20</td><td>Oracle against Babylon</td></tr><tr><td>3</td><td>Request for mercy</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Zephaniah?",
@@ -217,7 +217,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of 2 Timothy?",
-        "answer": "A. Encouragement to preach the word and persevere in the faith.<br><br><table><tr><td>1</td><td>Apostasy and pastoral fidelity</td></tr><tr><td>2</td><td>Apostasy and spiritual conflict</td></tr><tr><td>3</td><td>Apostasy and the Word of God</td></tr><tr><td>4</td><td>Apostasy and a faithful Lord</td></tr></table>"
+        "answer": "A. Encouragement to preach the word and persevere in the faith.<br><br><table><tr><td>1-2</td><td>Commit – Encouragement for Timothy</td></tr><tr><td>3-4</td><td>Contend – Warning of Difficulties Ahead</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Titus?",
@@ -233,7 +233,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of James?",
-        "answer": "A. Live out your faith in action.<br><br><table><tr><td>1</td><td>Faith tested by trials</td></tr><tr><td>2</td><td>Faith proved by works</td></tr><tr><td>3-5</td><td>Faith evidenced by conduct in persecution</td></tr></table>"
+        "answer": "A. Live out your faith in action.<br><br><table><tr><td>1-3</td><td>Genuine Faith</td></tr><tr><td>4</td><td>Warnings against Worldliness</td></tr><tr><td>5</td><td>The Return of the Lord</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of 1 Peter?",
