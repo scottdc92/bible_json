@@ -9,7 +9,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Leviticus?",
-        "answer": "A. God provides atonement so his covenant people may dwell with him.<br><br><table><tr><td>1-7</td><td>The Sacrifices the Lord Requires</td></tr><tr><td>8-10</td><td>The Priests the Lord Desires</td></tr><tr><td>11-15</td><td>Recognzing and Remedying Uncleanness</td></tr><tr><td>17-25</td><td>Living as a Holy Nation</td></tr></table>"
+        "answer": "A. God provides atonement so his covenant people may dwell with him.<br><br><table><tr><td>1-7</td><td>The Sacrifices the Lord Requires</td></tr><tr><td>8-10</td><td>The Priests the Lord Desires</td></tr><tr><td>11-15</td><td>Recognzing and Remedying Uncleanness</td></tr><tr><td>16</td><td>Day of Atonement</td></tr><tr><td>17-25</td><td>Living as a Holy Nation</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Numbers?",
@@ -17,7 +17,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Deuteronomy?",
-        "answer": "A. God gives the law to Israel a second time.<br><br><table><tr><td>1-4</td><td>Historical Prologue</td></tr><tr><td>5-26</td><td>Restating the Law</td></tr><tr><td>27-30</td><td>Blessings and Curses</td></tr><tr><td>31-34</td><td>Transition to Joshua</td></tr></table>"
+        "answer": "A. Second giving of the law.<br><br><table><tr><td>1-4</td><td>Historical Prologue</td></tr><tr><td>5-26</td><td>Restating the Law</td></tr><tr><td>27-30</td><td>Blessings and Curses</td></tr><tr><td>31-34</td><td>Transition to Joshua</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Joshua?",
@@ -33,7 +33,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of 1 Samuel?",
-        "answer": "A. Transition from theocracy to monarchy.<br><br><table><tr><td>1-3</td><td>Samuel & Shiloh traditions</td></tr><tr><td>4-6</td><td>The Ark</td></tr><tr><td>7-12</td><td>Monarchy instituted</td></tr><tr><td>13-15</td><td>Saul’s reign</td></tr><tr><td>16-31</td><td>David’s rise</td></tr></table>"
+        "answer": "A. Transition from theocracy to monarchy.<br><br><table><tr><td>1-3</td><td>Samuel</td></tr><tr><td>4-6</td><td>The Ark</td></tr><tr><td>7-12</td><td>Monarchy instituted</td></tr><tr><td>13-15</td><td>Saul’s reign</td></tr><tr><td>16-31</td><td>David’s rise</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of 2 Samuel?",
@@ -57,7 +57,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Ezra?",
-        "answer": "A. A remnant returns to restore the temple, and Ezra brings reforms.<br><br><table><tr><td>1-6</td><td>Temple Reestablished Against Oppositions</td></tr><tr><td>9-10</td><td>Law Reestablished against Foreign Corruption</td></tr></table>"
+        "answer": "A. A remnant returns to restore the temple, and Ezra brings reforms.<br><br><table><tr><td>1-6</td><td>Return from Babylon Led by Zerubbabel</td></tr><tr><td>7-10</td><td>Return from Babylon Led by Ezra</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Nehemiah?",
@@ -221,7 +221,7 @@
     },
     {
         "question": "Q. Summarize and outline the book of Titus?",
-        "answer": "A. Pastoral letter containing instructions about faith and conduct and ministry.<br><br><table><tr><td>1</td><td>Who Should Teach</td></tr><tr><td>2</td><td>What to Teach and How to Live</td></tr><tr><td>3</td><td>What to Do with Factions and False Teachers</td></tr></table>"
+        "answer": "A. Pastoral letter about faith and conduct and ministry.<br><br><table><tr><td>1</td><td>Who Should Teach</td></tr><tr><td>2</td><td>What to Teach and How to Live</td></tr><tr><td>3</td><td>What to Do with Factions and False Teachers</td></tr></table>"
     },
     {
         "question": "Q. Summarize and outline the book of Philemon?",
@@ -261,6 +261,6 @@
     },
     {
         "question": "Q. Summarize and outline the book of Revelation?",
-        "answer": "A. Apocalyptic letter repeating the cycle of God wining and the return of Christ.<br><br><table><tr><td>1</td><td>Prologue</td></tr><tr><td>2-3</td><td>Letters to Seven Churches</td></tr><tr><th colspan=\"2\">7 Recapitulations – Heavenly Visions</th></tr><tr><td>4-7</td><td>Cycle One: Scroll and Seven Seals</td></tr><tr><td>8-11</td><td>Cycle Two: Seven Angels and Seven Trumpets</td></tr><tr><td>12-14</td><td>Cycle Three: Seven symbolic histories</td></tr><tr><td>15-16</td><td>Cycle Four: Seven bowls of God’s wrath</td></tr><tr><td>17-19:10</td><td>Cycle Five: Judgment on Babylon and Vindication of the Church</td></tr><tr><td>19:11-21</td><td>Cycle Six: The Final Battle</td></tr><tr><td>20-21:8</td><td>Cycle Seven: The Reign of the Saints and the Last Judgment</td></tr><tr><td>21:9-22:5</td><td>The New Jerusalem</td></tr><tr><td>22:6-21</td><td>Final Exhortation and Blessing</td></tr></table>"
+        "answer": "A. Apocalyptic letter repeating the cycle of God wining and the return of Christ.<br><br><table><tr><td>1</td><td>Prologue</td></tr><tr><td>2-3</td><td>Letters to Seven Churches</td></tr><tr><th colspan=\"2\">7 Recapitulations – Heavenly Visions</th></tr><tr><td>4-7</td><td>Cycle One: Scroll and Seven Seals</td></tr><tr><td>8-11</td><td>Cycle Two: Seven Angels and Seven Trumpets</td></tr><tr><td>12-14</td><td>Cycle Three: Seven symbolic histories</td></tr><tr><td>15-16</td><td>Cycle Four: Seven bowls of God’s wrath</td></tr><tr><td>17-19:10</td><td>Cycle Five: Judgment on Babylon and Vindication of the Church</td></tr><tr><td>19:11-21</td><td>Cycle Six: The Final Battle</td></tr><tr><td>20-21:8</td><td>Cycle Seven: The Reign of the Saints and the Last Judgment</td></tr><tr><td>21:9-22:21</td><td>The New Jerusalem and Final Exhortation</td></tr></table>"
     }
 ]
