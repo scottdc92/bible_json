@@ -8,8 +8,8 @@
         "answer": "A. Rom. 8; Eph. 3; Gal. 4"
     },
     {
-        "question": "Q. Ananias and Sapphira",
-        "answer": "A. Acts 5"
+        "question": "Q. All in Adam",
+        "answer": "A. Rom. 5"
     },
     {
         "question": "Q. Armor of God",
@@ -20,36 +20,12 @@
         "answer": "A. Mark 16; Luke 24; Acts 1"
     },
     {
-        "question": "Q. Babel",
-        "answer": "A. Gen. 11"
-    },
-    {
         "question": "Q. Baptism",
         "answer": "A. Matt 28; Acts 2, 16; 1 Cor. 10; Col. 2"
     },
     {
-        "question": "Q. Beatitudes",
-        "answer": "A. Matt. 5"
-    },
-    {
-        "question": "Q. Believer’s status from death to resurrection",
-        "answer": "A. 2 Cor. 5"
-    },
-    {
-        "question": "Q. Bereans",
-        "answer": "A. Acts 17"
-    },
-    {
         "question": "Q. Biblical Discipline",
         "answer": "A. Matt. 18; 1 Cor. 5"
-    },
-    {
-        "question": "Q. Branch of Jesse",
-        "answer": "A. Is. 11"
-    },
-    {
-        "question": "Q. Cannon Closed",
-        "answer": "A. Heb. 1"
     },
     {
         "question": "Q. Christ’s Superiority",
@@ -88,28 +64,12 @@
         "answer": "A. 1 Cor. 8-10; Rom. 14"
     },
     {
-        "question": "Q. Christian Walk",
-        "answer": "A. Col. 2; 1 John 1"
-    },
-    {
         "question": "Q. Church (As Christ’s body)",
         "answer": "A. 1 Cor. 12; Eph. 4-5"
     },
     {
         "question": "Q. Church (Attendance)",
         "answer": "A. Heb. 10; Rom. 12; 1 Cor. 12; Eph. 4; James 3; Matt. 5-7"
-    },
-    {
-        "question": "Q. Church (Discipline)",
-        "answer": "A. Matt. 18; 1 Cor. 5; Gal. 6; Titus 1"
-    },
-    {
-        "question": "Q. Church (Unity of)",
-        "answer": "A. John 17; Eph. 4"
-    },
-    {
-        "question": "Q. Circumcision",
-        "answer": "A. Gen. 17"
     },
     {
         "question": "Q. Civil Government",
@@ -120,16 +80,20 @@
         "answer": "A. John 14; Matt. 5; Deut. 11, 16"
     },
     {
-        "question": "Q. Cornelius converted",
-        "answer": "A. Acts 10"
-    },
-    {
-        "question": "Q. Correcting a brother",
-        "answer": "A. Matt. 18"
-    },
-    {
         "question": "Q. Covenant blessings/curses",
         "answer": "A. Deut. 28"
+    },
+    {
+        "question": "Q. Covenant of Redemption",
+        "answer": "A. Ps. 2, 110; Luke 2"
+    },
+    {
+        "question": "Q. Covenant of Works",
+        "answer": "A. Gen 2-3; Hos. 6"
+    },
+    {
+        "question": "Q. Covenant of Grace",
+        "answer": "A. Jer. 31-32; Ezek. 34; Heb. 8"
     },
     {
         "question": "Q. Covenant with Abraham",
@@ -142,10 +106,6 @@
     {
         "question": "Q. David’s Confession",
         "answer": "A. Psalm 51"
-    },
-    {
-        "question": "Q. David’s Prayer",
-        "answer": "A. 2 Sam. 22; Psalm 18"
     },
     {
         "question": "Q. Davidic Covenant",
@@ -164,14 +124,6 @@
         "answer": "A. John 1, 10; Phil. 2; Col. 1-2; Heb. 1"
     },
     {
-        "question": "Q. Doctrinal Purity",
-        "answer": "A. Acts 20; Jude 1; 1 Timothy 1"
-    },
-    {
-        "question": "Q. Elect lady",
-        "answer": "A. 2 John 1"
-    },
-    {
         "question": "Q. Elijah on Mount Carmel (prophets of Baal)",
         "answer": "A. 1 Kings 18"
     },
@@ -180,28 +132,12 @@
         "answer": "A. Luke 24"
     },
     {
-        "question": "Q. Ethiopian Eunuch conversion",
-        "answer": "A. Acts 8"
-    },
-    {
-        "question": "Q. Exodus from Egypt",
-        "answer": "A. Ex. 12"
-    },
-    {
         "question": "Q. Faith and Works",
         "answer": "A. Rom. 2; Titus 3; James 2"
     },
     {
-        "question": "Q. Family",
-        "answer": "A. 1 Cor. 7; Eph. 5-6; Col. 3"
-    },
-    {
         "question": "Q. Feeding the 5000",
         "answer": "A. Matt. 14; Mark 6; Luke 9; John 6"
-    },
-    {
-        "question": "Q. Fiery Furnace",
-        "answer": "A. Dan. 3"
     },
     {
         "question": "Q. Filling with Holy Spirit",
@@ -212,30 +148,6 @@
         "answer": "A. Rom. 7; Gal. 5"
     },
     {
-        "question": "Q. Food offered to Idols",
-        "answer": "A. 1 Cor. 8"
-    },
-    {
-        "question": "Q. Fruit of the Spirit",
-        "answer": "A. Gal. 5"
-    },
-    {
-        "question": "Q. Future Judgement",
-        "answer": "A. Matt. 24-25"
-    },
-    {
-        "question": "Q. Giving",
-        "answer": "A. 1 Cor. 16; 2 Cor. 8-9"
-    },
-    {
-        "question": "Q. God at Mount Sinai",
-        "answer": "A. Ex. 19"
-    },
-    {
-        "question": "Q. Golden Calf",
-        "answer": "A. Ex. 32"
-    },
-    {
         "question": "Q. Good Samaritan",
         "answer": "A. Luke 10"
     },
@@ -244,28 +156,12 @@
         "answer": "A. Matt. 28; Mark 16; Luke 24; John 21; Acts 1"
     },
     {
-        "question": "Q. Great Invitation",
-        "answer": "A. Matt. 11"
-    },
-    {
-        "question": "Q. Grieve with Hope",
-        "answer": "A. 1 Thess. 4"
-    },
-    {
-        "question": "Q. Hall of Faith",
-        "answer": "A. Heb. 11"
-    },
-    {
         "question": "Q. Heaven and Hell",
         "answer": "A. Matt. 3, 10, 18, 25; Mark 9; Luke 12, 16; John 5, 15; 2 Peter 2; Rev. 20"
     },
     {
         "question": "Q. High Priestly Prayer",
         "answer": "A. John 17"
-    },
-    {
-        "question": "Q. Holy Spirit at Pentecost",
-        "answer": "A. Acts 2"
     },
     {
         "question": "Q. Holy Spirit as Comforter",
@@ -278,10 +174,6 @@
     {
         "question": "Q. Husbands and Wives",
         "answer": "A. Eph. 5; 1 Peter 3"
-    },
-    {
-        "question": "Q. Hymn of Christ",
-        "answer": "A. Phil. 2"
     },
     {
         "question": "Q. I Am the bread of life",
@@ -328,52 +220,24 @@
         "answer": "A. John 6; Rom. 11; Eph. 2"
     },
     {
-        "question": "Q. Jacob’s Ladder",
-        "answer": "A. Gen. 28"
-    },
-    {
-        "question": "Q. Jericho Fall",
-        "answer": "A. Joshua 6"
-    },
-    {
         "question": "Q. Jerusalem Council",
         "answer": "A. Acts 15"
-    },
-    {
-        "question": "Q. John Baptist Born",
-        "answer": "A. Matt. 1; Luke 1"
-    },
-    {
-        "question": "Q. Justice (God’s Judgment)",
-        "answer": "A. Rom. 1-3"
     },
     {
         "question": "Q. Justification by Grace thru faith",
         "answer": "A. Rom. 1-5; Gal. 1-5; Eph. 2"
     },
     {
-        "question": "Q. Keys to the Kingdom",
-        "answer": "A. Matt. 16"
-    },
-    {
         "question": "Q. Last Supper",
         "answer": "A. Matt. 26; Mark 14; Luke 22; John 13; 1 Cor. 11"
     },
     {
-        "question": "Q. Law (summary)",
-        "answer": "A. Lev. 19; Deut. 6, 11; Mark 12, Luke 10, Matt. 22; Rom. 3"
+        "question": "Q. Law Summarized",
+        "answer": "A. Lev. 19; Deut. 6, 11; Matt. 22; Mark 12, Luke 10"
     },
     {
         "question": "Q. Law and Grace",
         "answer": "A. Rom. 3; Gal. 3"
-    },
-    {
-        "question": "Q. Lawsuits among believers",
-        "answer": "A. 1 Cor. 6"
-    },
-    {
-        "question": "Q. Lazarus raised from dead",
-        "answer": "A. John 11"
     },
     {
         "question": "Q. Life in the Spirit",
@@ -382,18 +246,6 @@
     {
         "question": "Q. Limited Atonement",
         "answer": "A. John 6; Rom. 11; Eph. 1"
-    },
-    {
-        "question": "Q. Lion’s Den",
-        "answer": "A. Daniel 6"
-    },
-    {
-        "question": "Q. Living Sacrifices",
-        "answer": "A. Rom. 12"
-    },
-    {
-        "question": "Q. Living Stones",
-        "answer": "A. 1 Peter 2"
     },
     {
         "question": "Q. Lord’s Day",
@@ -408,68 +260,12 @@
         "answer": "A. Matt. 26; Mark 14; Luke 22; 1 Cor. 11"
     },
     {
-        "question": "Q. Loss of believing spouse",
-        "answer": "A. 2 Cor. 12, Psalm 73, Phil. 4; John 11"
-    },
-    {
-        "question": "Q. Love as fulfillment of Law",
-        "answer": "A. Matt. 22"
-    },
-    {
-        "question": "Q. Love chapter",
-        "answer": "A. 1 Cor. 13"
-    },
-    {
-        "question": "Q. Love Neighbor as self",
-        "answer": "A. Deut. 6"
-    },
-    {
-        "question": "Q. Love of God",
-        "answer": "A. John 3; 1 John 3"
-    },
-    {
-        "question": "Q. Marriage",
-        "answer": "A. Gen. 2; Matt. 19; Mark 10; 1 Cor. 7; Eph. 5; 1 Peter 3"
-    },
-    {
         "question": "Q. Millennium",
         "answer": "A. Rev. 20"
     },
     {
-        "question": "Q. Mary and Martha",
-        "answer": "A. Luke 10; John 11"
-    },
-    {
-        "question": "Q. Melchizedek",
-        "answer": "A. Gen. 14; Heb. 7"
-    },
-    {
-        "question": "Q. Message to 7 Churches",
-        "answer": "A. Rev. 2-3"
-    },
-    {
         "question": "Q. Ministry",
         "answer": "A. Matt. 28; 2 Cor. 2-6; Eph. 6; Col. 1; 1 and 2 Tim.; Titus; Heb. 10; James 5"
-    },
-    {
-        "question": "Q. Money",
-        "answer": "A. Matt. 6; 13 (parable of Sower); 19; Luke 12; James 5"
-    },
-    {
-        "question": "Q. More Than Conquerors",
-        "answer": "A. Rom. 8"
-    },
-    {
-        "question": "Q. Moses struck rock",
-        "answer": "A. Num. 20"
-    },
-    {
-        "question": "Q. Moses with Pharaoh",
-        "answer": "A. Ex. 4-12"
-    },
-    {
-        "question": "Q. Mystery of gospel",
-        "answer": "A. Eph. 1-3"
     },
     {
         "question": "Q. Nature of God",
@@ -480,56 +276,24 @@
         "answer": "A. Rom. 3; Heb. 11"
     },
     {
-        "question": "Q. New Adam (Justified by Faith)",
-        "answer": "A. Rom. 5"
-    },
-    {
         "question": "Q. New Covenant",
         "answer": "A. Jer. 31; Ezek. 36; Heb. 8"
     },
     {
         "question": "Q. New Heaven and New Earth",
-        "answer": "A. Rev. 21"
-    },
-    {
-        "question": "Q. Nicodemus",
-        "answer": "A. John 3"
-    },
-    {
-        "question": "Q. No Division or Party Spirit",
-        "answer": "A. 1 Cor. 1, 3"
-    },
-    {
-        "question": "Q. Offering of Isaac",
-        "answer": "A. Gen. 22"
+        "answer": "A. Rev. 21-22"
     },
     {
         "question": "Q. Old Man/New Man",
         "answer": "A. Rom 7; Eph. 4"
     },
     {
-        "question": "Q. Old Testament Law, continued significance today",
-        "answer": "A. 1 Cor. 10"
-    },
-    {
         "question": "Q. Olivet Discourse",
         "answer": "A. Matt. 24-25; Mark 13; Luke 21"
     },
     {
-        "question": "Q. One another",
-        "answer": "A. Col. 3"
-    },
-    {
-        "question": "Q. Outpouring of Holy Spirit",
-        "answer": "A. Acts 2"
-    },
-    {
         "question": "Q. Parables of the Kingdom",
         "answer": "A. Matt. 13; Mark 4; Luke 13"
-    },
-    {
-        "question": "Q. Passover",
-        "answer": "A. Ex. 12"
     },
     {
         "question": "Q. Paul’s Conversion",
@@ -540,24 +304,12 @@
         "answer": "A. Acts 17"
     },
     {
-        "question": "Q. Penitential Psalms",
-        "answer": "A. 6, 32, 38, 51, 102, 143, 130"
-    },
-    {
-        "question": "Q. Pentecost",
-        "answer": "A. Acts 2"
-    },
-    {
         "question": "Q. Perseverance of the Saints",
         "answer": "A. John 10 ('No one will snatch them out of my hand');<br><br>Phil. 1 ('He who began')"
     },
     {
         "question": "Q. Peter’s Confession",
         "answer": "A. Matt. 16; Mark 8; Luke 9"
-    },
-    {
-        "question": "Q. Philippian jailer",
-        "answer": "A. Acts 16"
     },
     {
         "question": "Q. Predestination",
@@ -574,14 +326,6 @@
     {
         "question": "Q. Qualifications for church officers",
         "answer": "A. 1 Tim. 3; Titus 1; Acts 6-8"
-    },
-    {
-        "question": "Q. Reconciliation",
-        "answer": "A. Matt. 5; 18; Luke 22; Rom. 5, 15; 2 Cor. 5; Gal. 6; Phil. 2; Col. 3"
-    },
-    {
-        "question": "Q. Regeneration",
-        "answer": "A. John 3; 1 Peter 1; James 1"
     },
     {
         "question": "Q. Resurrection of Christ (event)",
@@ -604,14 +348,6 @@
         "answer": "A. Luke 16"
     },
     {
-        "question": "Q. Riches and the peril thereof",
-        "answer": "A. Matt. 19; Luke 6; James 1; 5"
-    },
-    {
-        "question": "Q. Righteousness of God",
-        "answer": "A. Rom. 1-3"
-    },
-    {
         "question": "Q. Road to Emmaus",
         "answer": "A. Luke 24"
     },
@@ -620,16 +356,8 @@
         "answer": "A. Rom. 6; 1 Cor. 10"
     },
     {
-        "question": "Q. Samaritan Woman at Well",
-        "answer": "A. John 4"
-    },
-    {
         "question": "Q. Sanctification",
         "answer": "A. Rom. 6-8; Eph. 4; 1 John"
-    },
-    {
-        "question": "Q. Saul’s Conversion",
-        "answer": "A. Acts 9"
     },
     {
         "question": "Q. Scripture",
@@ -652,68 +380,48 @@
         "answer": "A. John 8; Rom. 1; 1 Cor. 6; 2 Peter 2; Jude 8"
     },
     {
-        "question": "Q. Shepherd",
-        "answer": "A. Numbers 27; Gen. 48; Psalm 23; John 10; 1 Peter 2, 5"
-    },
-    {
-        "question": "Q. Slavery",
-        "answer": "A. Eph. 6; Philemon"
-    },
-    {
-        "question": "Q. Speaking in tongues",
-        "answer": "A. Mark 16; Acts 2, 10, 19; 1 Cor. 12, 14"
-    },
-    {
-        "question": "Q. Spiritual Gifts",
-        "answer": "A. Rom. 12; 1 Cor. 12, 14; Eph. 4"
-    },
-    {
-        "question": "Q. Stephen Stoned",
-        "answer": "A. Acts 7"
-    },
-    {
-        "question": "Q. Stewardship",
-        "answer": "A. 1 Cor. 16; 2 Cor. 9"
-    },
-    {
         "question": "Q. Submission",
         "answer": "A. 1 Peter 2; Rom. 13; Eph. 5"
-    },
-    {
-        "question": "Q. Substitutionary death",
-        "answer": "A. Rom. 3"
-    },
-    {
-        "question": "Q. Suffering",
-        "answer": "A. Matt. 10; Acts 5; Rom. 5, 8; 2 Cor. 1, 4, 5, 12; 1 Thess. 1; 2 Thess. 1; 2 Tim. 1, 2; Heb. 2, 11; James 1; 1 Peter 4"
-    },
-    {
-        "question": "Q. Temptation (evil desires)",
-        "answer": "A. James 1; 1 John 2"
-    },
-    {
-        "question": "Q. Temptation of Jesus",
-        "answer": "A. Matt. 4; Mark 1; Luke 4"
     },
     {
         "question": "Q. Ten Commandments",
         "answer": "A. Ex. 20; Deut. 5"
     },
     {
-        "question": "Q. Test of true Prophet",
-        "answer": "A. Deut. 13, 18; 1 Kings 13"
+        "question": "Q. Three Healing Miracles",
+        "answer": "A. Mark 5 – Heals bleeding woman;<br><br>John 5 – Jesus heals man by the pool;<br><br>John 11 – Resurrects Lazarus"
+    },
+    {
+        "question": "Q. Three Nature Miracles",
+        "answer": "A. Mark 4 – Calms the storm;<br><br>John 2 – Wedding at Cana;<br><br>Matt. 14 – Feeds 5,000"
+    },
+    {
+        "question": "Q. Three Miracles in Matthew",
+        "answer": "A. Matthew 8 – Calms the storm;<br><br>Matthew 14 – Feeds 5,000 and walks on water;<br><br>Matthew 15 – Canaanite Woman"
+    },
+    {
+        "question": "Q. Three Miracles in Mark",
+        "answer": "A. Mark 2 – Heals a Paralytic;<br><br>Mark 4 – Calms the storm;<br><br>Mark 5 – Heals woman bleeding/Jarius daughter;<br><br>Mark 6 – Feeds 5,000 and walks on water"
+    },
+    {
+        "question": "Q. Three Miracles in Luke",
+        "answer": "A. Luke 8 – Calms the storm;<br><br>Luke 8 – Heals Jarius Daughter;<br><br>Luke 9 – Feeds 5,000"
+    },
+    {
+        "question": "Q. Three Miracles in John",
+        "answer": "A. John 2 – Wedding at Cana;<br><br>John 5 – Healing at the Pool;<br><br>John 11 – Resurrection of Lazarus"
+    },
+    {
+        "question": "Q. Three Parables only in Luke",
+        "answer": "A. Luke 12 – Parable of the Rich Fool<br><br>Luke 15 – Parable of the Prodigal Son;<br><br>Luke 16 – Parable of the Rich Man and Lazarus"
     },
     {
         "question": "Q. Three Uses of the Law",
         "answer": "A. (1) Law as mirror (schoolmaster/teacher) — Gal. 3<br>(2) Law restraining evil — 2 Thess. 2<br>(3) Law as guide — John 14"
     },
     {
-        "question": "Q. Tithing",
-        "answer": "A. Lev. 27; Num. 18; Mark 12; 1 Cor. 16"
-    },
-    {
         "question": "Q. Total Depravity",
-        "answer": "A. Rom. 1-3"
+        "answer": "A. Rom. 3, 6"
     },
     {
         "question": "Q. Transfiguration of Jesus",
@@ -740,27 +448,11 @@
         "answer": "A. John 13-14"
     },
     {
-        "question": "Q. Valley of Dry Bones",
-        "answer": "A. Ezek. 37"
-    },
-    {
         "question": "Q. Virgin Birth",
         "answer": "A. Isaiah 7; Matt. 1; Luke 1"
     },
     {
-        "question": "Q. Visitation of Sick",
-        "answer": "A. Ps. 22, 23, 51; Is. 53"
-    },
-    {
-        "question": "Q. Wedding at Cana",
-        "answer": "A. John 2"
-    },
-    {
         "question": "Q. Women in the church",
         "answer": "A. Rom. 16; 1 Cor. 7, 14; 1 Tim. 2; 2 Tim. 3; Titus 3"
-    },
-    {
-        "question": "Q. Work",
-        "answer": "A. Eph. 6; 1 Thess. 4-5; 2 Thess. 3"
     }
 ]
