@@ -4,10 +4,6 @@
         "answer": "A. Gen. 12"
     },
     {
-        "question": "Q. Adoption",
-        "answer": "A. Rom. 8; Eph. 3; Gal. 4"
-    },
-    {
         "question": "Q. All in Adam",
         "answer": "A. Rom. 5"
     },
@@ -38,10 +34,6 @@
     {
         "question": "Q. Christ’s Humiliation",
         "answer": "A. Phil. 2; Heb. 2"
-    },
-    {
-        "question": "Q. Christ’s Judgement seat",
-        "answer": "A. 2 Cor. 5; Matt. 25"
     },
     {
         "question": "Q. Christ’s Priesthood",
@@ -136,40 +128,16 @@
         "answer": "A. Rom. 2; Titus 3; James 2"
     },
     {
-        "question": "Q. Feeding the 5000",
-        "answer": "A. Matt. 14; Mark 6; Luke 9; John 6"
-    },
-    {
-        "question": "Q. Filling with Holy Spirit",
-        "answer": "A. Eph. 5"
-    },
-    {
         "question": "Q. Flesh versus Spirit",
         "answer": "A. Rom. 7; Gal. 5"
-    },
-    {
-        "question": "Q. Good Samaritan",
-        "answer": "A. Luke 10"
     },
     {
         "question": "Q. Great Commission",
         "answer": "A. Matt. 28; Mark 16; Luke 24; John 21; Acts 1"
     },
     {
-        "question": "Q. Heaven and Hell",
-        "answer": "A. Matt. 3, 10, 18, 25; Mark 9; Luke 12, 16; John 5, 15; 2 Peter 2; Rev. 20"
-    },
-    {
         "question": "Q. High Priestly Prayer",
         "answer": "A. John 17"
-    },
-    {
-        "question": "Q. Holy Spirit as Comforter",
-        "answer": "A. John 14"
-    },
-    {
-        "question": "Q. Holy Spirit Person and Work",
-        "answer": "A. Gen. 1; Matt. 28; John 3, 14, 16; Acts 1-2; Rom. 8"
     },
     {
         "question": "Q. Husbands and Wives",
@@ -208,14 +176,6 @@
         "answer": "A. Phil. 2"
     },
     {
-        "question": "Q. Importance of Preaching",
-        "answer": "A. Rom. 10"
-    },
-    {
-        "question": "Q. Infant Baptism",
-        "answer": "A. Acts 2, 10, 16; Col. 2; Gal. 3; 1 Cor. 7; Rom. 2; Gen. 17; Matt. 18, 28"
-    },
-    {
         "question": "Q. Irrestible Grace",
         "answer": "A. John 6; Rom. 11; Eph. 2"
     },
@@ -228,10 +188,6 @@
         "answer": "A. Rom. 1-5; Gal. 1-5; Eph. 2"
     },
     {
-        "question": "Q. Last Supper",
-        "answer": "A. Matt. 26; Mark 14; Luke 22; John 13; 1 Cor. 11"
-    },
-    {
         "question": "Q. Law Summarized",
         "answer": "A. Lev. 19; Deut. 6, 11; Matt. 22; Mark 12, Luke 10"
     },
@@ -240,16 +196,8 @@
         "answer": "A. Rom. 3; Gal. 3"
     },
     {
-        "question": "Q. Life in the Spirit",
-        "answer": "A. Gal. 5; Rom. 8; Eph. 5"
-    },
-    {
         "question": "Q. Limited Atonement",
         "answer": "A. John 6; Rom. 11; Eph. 1"
-    },
-    {
-        "question": "Q. Lord’s Day",
-        "answer": "A. Isaiah 58; Ex. 20; Dt. 5; Heb. 4; Rev. 1; Matt. 12"
     },
     {
         "question": "Q. Lord’s Prayer",
@@ -257,19 +205,11 @@
     },
     {
         "question": "Q. Lord’s Supper",
-        "answer": "A. Matt. 26; Mark 14; Luke 22; 1 Cor. 11"
+        "answer": "A. Matt. 26; Mark 14; Luke 22; John 13; 1 Cor. 11"
     },
     {
         "question": "Q. Millennium",
         "answer": "A. Rev. 20"
-    },
-    {
-        "question": "Q. Ministry",
-        "answer": "A. Matt. 28; 2 Cor. 2-6; Eph. 6; Col. 1; 1 and 2 Tim.; Titus; Heb. 10; James 5"
-    },
-    {
-        "question": "Q. Nature of God",
-        "answer": "A. Col. 1-2; Heb. 1"
     },
     {
         "question": "Q. Necessity of Faith",
@@ -316,12 +256,8 @@
         "answer": "A. Matt. 11; Rom. 8-11; Eph. 1, 11; 1 Peter 1"
     },
     {
-        "question": "Q. Prodigal Son",
-        "answer": "A. Luke 15"
-    },
-    {
         "question": "Q. Prophecies of Christ",
-        "answer": "A. Isaiah 9; 53; Micah 5; Gen. 3 2 Sam. 22; Psalm 18"
+        "answer": "A. Isaiah 9; 53; Micah 5; Gen. 3; 2 Sam. 22; Psalm 18"
     },
     {
         "question": "Q. Qualifications for church officers",
@@ -336,20 +272,8 @@
         "answer": "A. 1 Cor. 15; 1 Thess. 4; Rev. 20"
     },
     {
-        "question": "Q. Return of Christ",
-        "answer": "A. Matt. 24-25; Mark 13; Luke 17, 21; 1 Thess. 4-5; 2 Thess. 1-2; Heb. 9; 2 Peter 3; Rev. 20-21"
-    },
-    {
         "question": "Q. Revelation of God in nature",
         "answer": "A. Rom. 1; Psalm 19"
-    },
-    {
-        "question": "Q. Rich man and Lazarus",
-        "answer": "A. Luke 16"
-    },
-    {
-        "question": "Q. Road to Emmaus",
-        "answer": "A. Luke 24"
     },
     {
         "question": "Q. Sacraments as Means of Grace",
@@ -372,16 +296,8 @@
         "answer": "A. Matt. 5-8; Luke 6"
     },
     {
-        "question": "Q. Sermon on the Plain",
-        "answer": "A. Luke 7"
-    },
-    {
         "question": "Q. Sexual Impurity",
         "answer": "A. John 8; Rom. 1; 1 Cor. 6; 2 Peter 2; Jude 8"
-    },
-    {
-        "question": "Q. Submission",
-        "answer": "A. 1 Peter 2; Rom. 13; Eph. 5"
     },
     {
         "question": "Q. Ten Commandments",
@@ -413,7 +329,7 @@
     },
     {
         "question": "Q. Three Parables only in Luke",
-        "answer": "A. Luke 12 – Parable of the Rich Fool<br><br>Luke 15 – Parable of the Prodigal Son;<br><br>Luke 16 – Parable of the Rich Man and Lazarus"
+        "answer": "A. Luke 10 – Good Samaritan;<br><br>Luke 12 – Parable of the Rich Fool<br><br>Luke 15 – Parable of the Prodigal Son;<br><br>Luke 16 – Parable of the Rich Man and Lazarus"
     },
     {
         "question": "Q. Three Uses of the Law",
@@ -450,9 +366,5 @@
     {
         "question": "Q. Virgin Birth",
         "answer": "A. Isaiah 7; Matt. 1; Luke 1"
-    },
-    {
-        "question": "Q. Women in the church",
-        "answer": "A. Rom. 16; 1 Cor. 7, 14; 1 Tim. 2; 2 Tim. 3; Titus 3"
     }
 ]
