@@ -17,7 +17,7 @@
 	},
 	{
 		"question": "Q. Which books are pre-exilic and post-exilic in the Historical books?",
-		"answer": "A. Pre-exilic: Joshua, Judges, Ruth, 1 & 2 Samuel, 1 & 2 Kings, 1 & 2 Chr.. Post-exilic: Ezra, Nehemiah, Esther."
+		"answer": "A. Pre-exilic: Joshua, Judges, Ruth, 1 & 2 Samuel, 1 & 2 Kings, 1 & 2 Chr.<br><br>Post-exilic: Ezra, Nehemiah, Esther."
 	},
 	{
 		"question": "Q. What books are considered wisdom literature?",
@@ -37,7 +37,7 @@
 	},
 	{
 		"question": "Q. What are the minor prophets, their location, and pre/post exile?",
-		"answer": "A. The minor prophets are Hosea (Israel), Joel (Judah), Amos (Israel), Obadiah (Judah), Jonah (Israel), Micah (Judah), Nahum (Judah), Habakkuk (Judah), Zephaniah (Judah), Haggai (Judah), Zechariah (Judah), Malachi (Judah). Pre-exilic: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah. Post-exilic: Haggai, Zechariah, Malachi."
+		"answer": "A. The minor prophets are Hosea (Israel), Joel (Judah), Amos (Israel), Obadiah (Judah), Jonah (Israel), Micah (Judah), Nahum (Judah), Habakkuk (Judah), Zephaniah (Judah), Haggai (Judah), Zechariah (Judah), Malachi (Judah).<br><br>Pre-exilic: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah.<br><br>Post-exilic: Haggai, Zechariah, Malachi."
 	},
 	{
 		"question": "Q. What are the general literary divisions of the Old Testament?",
@@ -456,7 +456,7 @@
 		"answer": "A. Confess their sin (Neh. 9:2)"
 	},
 	{
-		"question": "Q. What did Israel do in chapter 10?",
+		"question": "Q. What did Israel do in Nehemiah 10?",
 		"answer": "A. Renew the covenant"
 	},
 	{
@@ -466,58 +466,6 @@
 	{
 		"question": "Q. Which sin does Nehemiah address at the close of the book?",
 		"answer": "A. Intermarriage (Neh. 13:23-27), just as Ezra does"
-	},
-	{
-		"question": "Q. What is the canonical setting of Esther?",
-		"answer": "A. In Persia during Israel’s exile"
-	},
-	{
-		"question": "Q. What are the key themes of Esther?",
-		"answer": "A. Divine providence and human responsibility, Absurdity of wickedness"
-	},
-	{
-		"question": "Q. What is notably absent in Esther?",
-		"answer": "A. Mention of God or the LORD."
-	},
-	{
-		"question": "Q. In Esther, which feast did not require the Jews to travel to Jerusalem to celebrate it?",
-		"answer": "A. Purim"
-	},
-	{
-		"question": "Q. What is the canonical setting of the book of Job?",
-		"answer": "A. Outside the land of Israel and likely during the time of the patriarchs."
-	},
-	{
-		"question": "Q. Which Psalms are directly Messianic?",
-		"answer": "A. All Psalms point to Christ, but some do so more directly: Psalm 2, 22, 45, 72, 110"
-	},
-	{
-		"question": "Q. List two penitential Psalms.",
-		"answer": "A. Psalms 32 and 51"
-	},
-	{
-		"question": "Q. How many books are the Psalms divided into?",
-		"answer": "A. Five – 1-42, 42-72, 73-89, 90-106, 107-150"
-	},
-	{
-		"question": "Q. What are the different types of Psalms generally identified?",
-		"answer": "A. Laments (Penitential), Praise, Kingdom, Thanksgiving, Wisdom, Remembrance, Imprecatory"
-	},
-	{
-		"question": "Q. What are some of the reoccurring themes?",
-		"answer": "A. Monotheism, Creation and Fall, Election and Covenant, Covenant membership and God’s Faithfulness"
-	},
-	{
-		"question": "Q. Who are some of the authors of the Psalms?",
-		"answer": "A. David, Sons of Korah, Asaph, Solomon, Moses, Anonymous"
-	},
-	{
-		"question": "Q. What are the Songs of Ascent?",
-		"answer": "A. Songs sung during the trip to the temple (Ps. 120-134)"
-	},
-	{
-		"question": "Q. What is the purpose of the book of Psalms?",
-		"answer": "A. The purpose of the book of Psalms is to reveal the proper response of worship on the part of God’s covenant people to his acts in history."
 	},
 	{
 		"question": "Q. What is the canonical setting of Esther?",
@@ -840,7 +788,7 @@
 		"answer": "A. The marriage relationship between Hosea and the prostitute Gomer is a picture of the relationship between God and his people Israel."
 	},
 	{
-		"question": "Q. Where is Hosea 1:10 quotes in the NT and what is the relevance?",
+		"question": "Q. Where is Hosea 1:10 quoted in the NT and what is the relevance?",
 		"answer": "A. Rom. 9:26; not all hope is lost and Christ is the fulfillment."
 	},
 	{
