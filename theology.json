@@ -1,1014 +1,978 @@
 [
-    {
-        "question": "Q. What is revelation in a theological context?",
-        "answer": "A. Revelation is God's action of making himself and his will known to humanity. It is necessary because it is impossible for humanity to know God without God making himself known (Deut. 29:29; Rom. 11:33-34; Ps. 145:3)."
-    },
-    {
-        "question": "Q. What is general revelation (also known as natural revelation)?",
-        "answer": "A. General revelation, or book of nature (Psalm 19), is the revelation of God through creation, God's self-disclosure through his works. We receive it by reason and perception. It shows that there is a God and that humans are accountable to him, but cannot save mankind."
-    },
-    {
-        "question": "Q. What are some biblical references for general revelation?",
-        "answer": "A. Psalm 19:1-6; Acts 17; Romans 1-2"
-    },
-    {
-        "question": "Q. What is special revelation?",
-        "answer": "A. Special Revelation is God's self-disclosure through speech and written testimony received by faith, revealing to us all our spiritual benefits (Rom. 8) and how we must be saved (Eph. 2:8-9)."
-    },
-    {
-        "question": "Q. What are some biblical references for special revelation?",
-        "answer": "A. Psalm 19:7-12; 2 Peter 1:20-21; 2 Timothy 3:15-16; Hebrews 1:1-2"
-    },
-    {
-        "question": "Q. What are the 'attributes' of Scripture?",
-        "answer": "A. The 'attributes' of Scripture are its necessity, inspiration, authority, self-authentication, sufficiency, perspicuity, and finality."
-    },
-    {
-        "question": "Q. What is the necessity of Scripture?",
-        "answer": "A. Scripture is necessary because no one can divine the mind of God. His purpose and will have to be revealed by special revelation for us to know it. Scripture is necessary for saving faith, often called 'the seed of the church', and remains necessary until time ends (Rom. 10:17)."
-    },
-    {
-        "question": "Q. What is meant by the inspiration of Scripture?",
-        "answer": "A. Inspiration means that all Scripture is God-breathed (2 Tim. 3:16). The Holy Spirit's superintendence extends to the choice of words, making Him the primary author. Therefore, the Bible is the Word of God. It's God's special revelation, a product of His direct intellectual superintending of the writers. The inspired Scriptures are the very words of God and thus the absolute and immutable authoritative rule for faith and practice. (2 Tim. 3:16, Heb. 1:1-2, 2 Pet. 1:21)"
-    },
-    {
-        "question": "Q. What is plenary, verbal inspiration?",
-        "answer": "A. Plenary, verbal inspiration refers to the belief that the inspiration of Scripture extends to every word written in them, such that not a single word in the original autographa was written outside the influence of the Holy Spirit."
-    },
-    {
-        "question": "Q. What is the inerrancy of Scripture?",
-        "answer": "A. Inerrancy means that Scripture is without error in the original autographs. The term 'inerrant,' as applied to the Scriptures, means that the Bible is free from any falsehood, fraud, or deceit."
-    },
-    {
-        "question": "Q. What is meant by the infallibility of Scripture?",
-        "answer": "A. Infallibility means that Scripture, because it is God's Word, is unable to err. When applied to Scripture, 'infallible' means that it will not mislead those who read it, and that it is true and reliable in all it asserts."
-    },
-    {
-        "question": "Q. What do we mean when we say that Scripture is inerrant?",
-        "answer": "A. When we say Scripture is inerrant, we mean that the autographs (original manuscripts) were completely without error."
-    },
-    {
-        "question": "Q. What is the difference between 'inspiration' and 'illumination'?",
-        "answer": "A. Inspiration is the act of the Holy Spirit whereby He sovereignly guided and directed the authors of Scripture as they wrote. Illumination refers to the work of the Holy Spirit in believers which aids them in understanding the meaning of Scripture and its application to their lives."
-    },
-    {
-        "question": "Q. What is the 'canon' of Scripture?",
-        "answer": "A. The word 'canon' means a rule or standard. In the Christian Church, the canon refers to the list of 66 books recognized by the Church as the inspired and authoritative Word of God, given to direct the church's faith and life."
-    },
-    {
-        "question": "Q. How can the concept of canon be defended scripturally?",
-        "answer": "A. The concept of canon is present in Scripture itself. Warnings against adding or subtracting from God's Word, such as in Deuteronomy 4:2 and Revelation 22:18, indicate that there is a specific group of writings that are the authoritative Word of God, and all other writings are not."
-    },
-    {
-        "question": "Q. How is the canon seen in the Old Testament and how is it defended?",
-        "answer": "A. By the time of Jesus, the Jews had recognized the 39 books of the OT as God's authoritative canon, designated as 'the Law, the Prophets and the Writings.' Jesus affirms this in Matthew 5:17; 7:12; Luke 24:27, 44. Jesus' non-use of the Apocrypha in his teachings suggests he didn't consider it canonical."
-    },
-    {
-        "question": "Q. How is the canon seen in the New Testament and how is it defended?",
-        "answer": "A. The apostles recognized their authoritative office and the authoritative body of teaching entrusted to them. They viewed their own writings as authoritative, canonical Scripture inspired by God. This is evident in 2 Peter 3:2, 15-16; 1 Thessalonians 2:13; 1 Timothy 5:18 (which cites Luke 10:7 as Scripture); Hebrews 2:2-3; and 1 Peter 1:12."
-    },
-    {
-        "question": "Q. Describe the formation of the New Testament canon.",
-        "answer": "A. The idea of a canon was natural to early Christians due to the Old Testament's history. Much of the canon was in place before church council decisions. By mid-2nd century, there was consensus on 21-22 NT books. Disputed books included 2 Peter, Jude, James, and 2-3 John. Paul's letters were circulated as Scripture (2 Peter 3:16), and 1 Timothy 5:18 quotes Jesus' words as Scripture. Justin Martyr used the current fourfold Gospel in the mid-2nd century. 4th century councils resolved disputes over the remaining books."
-    },
-    {
-        "question": "Q. What determines which books belong in the canon?",
-        "answer": "A. Apostolicity: written by the apostles or their associates (Luke & Paul; Mark & Peter). Orthodoxy: conforms to the teachings of the apostles and the books written by them. Catholicity: accepted early and by a majority of the Church."
-    },
-    {
-        "question": "Q. What do the Scriptures principally teach?",
-        "answer": "A. The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man (Jn. 20:31; Deut. 29:29)."
-    },
-    {
-        "question": "Q. What is the authority of Scripture?",
-        "answer": "A. Scripture is inherently authoritative by virtue of its Holy Spirit inspiration. It holds historical authority in that it is 100% historically reliable. It holds normative authority in that it is God’s rule of life and conduct. (2 Tim 3:16-17)"
-    },
-    {
-        "question": "Q. What is the sufficiency of Scripture?",
-        "answer": "A. The “sufficiency” of scripture posits that the cannon is closed. We have nothing to add and there will be nothing to add – the scriptures are sufficient as they reveal the mysteries of the covenant of Grace which is completely fulfilled in Jesus Christ, the Alpha and Omega of our faith and existence. Scripture is complete, containing all that is needed for God's glory and for man's salvation, faith, and life. (WCF 1.6)"
-    },
-    {
-        "question": "Q. What is the pastoral relevance of the sufficiency of Scripture?",
-        "answer": "A. Tthe sufficiency of Scripture ensures that all aspects of pastoral ministry are rooted in God’s complete and authoritative Word."
-    },
-    {
-        "question": "Q. What is meant by the perspicuity of Scripture?",
-        "answer": "A. The perspicuity of Scripture refers to its clarity and understandability. It means that:<br><br>1. Scripture was given to ordinary people in common language of their day.<br>2. It was written in simple language that could be understood in its plain sense by those of sound mind who spoke the common language.<br>3. The knowledge of saving faith is clearly and simply presented in Scripture.<br>4. Anyone who earnestly seeks salvation can gain this knowledge for themselves without depending on the church or priesthood.<br>5. This doesn't mean everyone can understand all spiritual mysteries without the Holy Spirit's illumination.<br><br>This concept is supported by Psalm 19:7-8 and the Westminster Confession of Faith 1.7."
-    },
-    {
-        "question": "Q. What is the Reformation principle of private interpretation?",
-        "answer": "A. The Reformation's principle of private interpretation is the right of individual believers to interpret Scripture without the aid of a priest or any other authority. This principle is tied to the perspicuity (clarity) of Scripture and recognizes the continuity between the Old and New Testaments."
-    },
-    {
-        "question": "Q. What is meant by the Reformation doctrine of sola scriptura?",
-        "answer": "A. Sola scriptura (lit., 'Scripture alone') means that the Scriptures alone are the word of God, and there exists no unwritten word outside or alongside them with equal authority to bind the conscience. This implies the doctrine of analogia fidei, which states that the infallible rule for interpreting Scripture is Scripture itself."
-    },
-    {
-        "question": "Q. What is the Roman Catholic viewpoint on Scripture?",
-        "answer": "A. The Roman Catholic Church believes Scripture is the divinely inspired Word of God, but they believe their authority derives from the church. They view Scriptures as insufficient for faith and life without the divinely inspired interpretation of the church magisterium and the continuing revelations of the Pope."
-    },
-    {
-        "question": "Q. What is the Mormon viewpoint on Scripture?",
-        "answer": "A. Mormons affirm that The Book of Mormon, purportedly translated from golden tablets by Joseph Smith in the early 19th century, is equal in authority with the Old and New Testaments. This view inherently denies the sufficiency of Scripture."
-    },
-    {
-        "question": "Q. What is the Barthian viewpoint on Scripture?",
-        "answer": "A. The Barthian view asserts that the Bible is not revelation from God per se, but rather human testimony about God's revelations of himself in history. Thus, the Scriptures are seen as one step removed from the real divine revelation."
-    },
-    {
-        "question": "Q. How does the Westminster Confession of Faith describe the Trinity?",
-        "answer": "A. In the unity of the Godhead there are three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten, nor proceeding; the Son is eternally begotten of the Father; the Holy Ghost eternally proceeding from the Father and the Son. (WCF 2.3)"
-    },
-    {
-        "question": "Q. What is Perichoresis?",
-        "answer": "A. Perichoresis refers to the mutual indwelling within the Trinity. It holds together the threeness and oneness of God. Biblical references include Matthew 3:16-17 and 28:18-20."
-    },
-    {
-        "question": "Q. What are the personal properties of the Trinity?",
-        "answer": "A. God the Father decrees (Dan 4:34-35; Eph 1:1-4). The Son is the eternally begotten son (filiation) of the Father, begotten not made (John 1:1,14; Heb 1:5; Ps. 2). The Spirit proceeds from the Father and the Son (John 15:26-27)."
-    },
-    {
-        "question": "Q. Describe eternal generation.",
-        "answer": "A. Eternal generation refers to the Son being begotten of the Father within the Godhead (ad intra). It is eternal, not temporally bound, and apart from creation. The Son is eternally begotten, of the same essence/substance as the Father, affirming their coequality. The Father is unbegotten, the Son is begotten, and the Son is a subsistence of the one divine nature, not a production of another nature. Eternal generation does not cause change or involve priority or inferiority."
-    },
-    {
-        "question": "Q. How is the deity of Christ demonstrated in Scripture?",
-        "answer": "A. Christ's deity is shown through:<br>1. Attributes, works, and worship proper to God alone<br>2. Title 'son of man' in gospels (Matt 9:1-8), referring to the divine Messiah in Daniel 7<br>3. Creation of the world (John 1:1; Col. 1:15-19)<br>4. Titles 'son of God' and 'Christ/messiah' (Matt 16:16)<br>5. Divine acts like forgiving sins (Matt 9:1-8)<br>6. Direct claims in Scripture (Phil. 2:6; Col. 2:9; John 1:1)<br>7. Christ's own claims of divinity and oneness with the Father (Matt 9:1-8; John 8:54-58; 10:30)"
-    },
-    {
-        "question": "Q. How is the personhood of the Holy Spirit demonstrated in Scripture?",
-        "answer": "A. The Holy Spirit's personhood is shown by:<br>1. Being called God (Acts 5:9)<br>2. Named with the Godhead (Matt. 28)<br>3. Working in the elect, applying spiritual benefits (Eph 1:13-14; John 14:26; 15:26; 16)<br>4. Illuminating knowledge about God (1 Cor 2:10-14)<br>5. Interceding for believers (Rom. 8:26)<br>6. Anointing Christ for His mission (Matt 3:16; 4:1)"
-    },
-    {
-        "question": "Q. How is the deity of the Holy Spirit demonstrated in Scripture?",
-        "answer": "A. The Holy Spirit's deity is evident through:<br>1. Names: Called 'God' in Acts 5:3-4 and 1 Cor. 2:10-11<br>2. Attributes: Knowing the thoughts of God (1 Cor. 2:10-11)<br>3. Works: Active in creating the world (Gen. 1:2)<br>4. Worship: Included in baptismal formula (Matt. 28:19)<br>5. Identification with Father and Son (2 Cor. 13:14)"
-    },
-    {
-        "question": "Q. How is the Spirit identified with the Father and the Son?",
-        "answer": "A. The Spirit is identified with:<br>1. The Father: John 15:26<br>2. The Son: Gal. 4:6<br>3. All three are present at Jesus' baptism (Mark 1)"
-    },
-    {
-        "question": "Q. What are some of the works of the Holy Spirit?",
-        "answer": "A. The works of the Holy Spirit include:<br>1. Revelation of Truth (John 14)<br>2. Power (2 Tim. 1:7)<br>3. Comfort (John 14)<br>4. Prayer (Rom. 8)<br>5. Enabling our service (1 Cor. 12)"
-    },
-    {
-        "question": "Q. What is the biblical theology of the person and work of the Holy Spirit?",
-        "answer": "A. The biblical theology includes:<br>1. The Spirit is a comforter (John 16)<br>2. The Spirit does the work of sanctification (Rom 8:13-14; 2 Thess. 2:13)<br>3. The Spirit illumines hearts to God (1 Cor 2:12-15)<br>4. The fruit of the Spirit (Gal 5:22-23)<br>5. Spiritual gifts (Rom. 12, 1 Cor. 12)"
-    },
-    {
-        "question": "Q. What are the Ontological and Economic Trinity?",
-        "answer": "A. The Ontological Trinity refers to God as He is in Himself, describing the relationship between the persons in themselves without respect to creation or redemption.<br>The Economic Trinity refers to God as He has revealed Himself to us, describing the relationship of the persons of the Trinity in the work of redemption and creation.<br>This distinction is important as it maintains that there is mystery in the Triune God beyond our capabilities to fully understand."
-    },
-    {
-        "question": "Q. Formulate the orthodox doctrine of the Trinity. What is the biblical evidence for it?",
-        "answer": "A. There is but one only, living, and true God (Deut. 6:4) who exists in three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Spirit (Matt 3:16-17; Matt 28:19; 2 Cor 13:14). The Father is of none, neither begotten, not proceeding; the Son is eternally begotten of the Father (John 1:14, 18); the Holy Spirit eternally proceeding from the Father and the Son (John 15:26)."
-    },
-    {
-        "question": "Q. What are the incommunicable attributes of God?",
-        "answer": "A. Incommunicable attributes of God are:<br>1. Aseity – God exists in himself (Gen 1:1; Dan 3:34-35; Jn 1:1-3; Ps 33:11; John 5:26)<br>2. Immutable – God does not change (Mal. 3:6; Num 23:19; Dan 3:35; Ps 33:11; Heb 6:17)<br>3. Infinity – (Ps 145:3; Acts 17:27)<br>4. Omniscient – (Psalm 115:3; 1 John 3:20)<br>5. Omnipotent – (Luke 1:37)<br>6. Omnipresent – (Psalm 139)"
-    },
-    {
-        "question": "Q. What are the communicable attributes of God?",
-        "answer": "A. Communicable attributes of God are:<br>1. Wisdom – (Rom. 11:33)<br>2. Love – (John 3:16; Eph. 2:8-9)<br>3. Grace – (Eph 2:7-9)<br>4. Justice – (Micah 6:8)<br>5. Holiness – (Is. 6:3; Rev. 4:8)<br>6. Righteousness – (Psalm 1; Psalm 2:7)"
-    },
-    {
-        "question": "Q. Explain the doctrine of the incarnation.",
-        "answer": "A. The eternal Son, the second person of the Trinity, took on flesh (in carne) and dwelt among us. Jesus Christ, while remaining fully God, became fully human. The doctrine of the incarnation is essential to the atoning work of Jesus by his living a perfect life while being truly human, thereby fulfilling the law's demands."
-    },
-    {
-        "question": "Q. Defend God’s immutability in light of the incarnation.",
-        "answer": "A. The Son of God in his divine nature remained eternally unchanged, though in Jesus’ humanity he experienced growth and change. No change occurred within the nature or being of God or any of the persons of the Godhead, but in Jesus are two distinct natures in one person (WLC 36). God’s will and eternal decrees are immutable."
-    },
-    {
-        "question": "Q. What do we mean when we say that the Scriptures are inspired by God?",
-        "answer": "A. God used human writers with their own backgrounds, vocations, experiences, etc., to communicate the Word of God through the inspiration of the Holy Spirit. The author is both the human and God."
-    },
-    {
-        "question": "Q. What is theodicy?",
-        "answer": "A. A philosophical attempt to defend the justice and goodness of God, especially in view of evil. It is the study of the question: 'If God is both omnipotent and perfectly good, how can He then permit evil and suffering?'"
-    },
-    {
-        "question": "Q. Is God Responsible for Sin?",
-        "answer": "A. Did He decree it? – His eternal decree ‘rendered the entrance of sin into the world certain, but this may not be interpreted to make God the cause of sin in the sense of being its responsible author.’ Such a thing would be impossible as He is the Holy God (Isaiah 6:3) and He neither can be tempted nor tempt (James 1:13).<br>Did He permit it? – Sin having its origin in the angelic world (Jude 6) and in the human race (Rom. 5:12) it must be said that God did permit sin, insofar as He gave His creatures capacity of choice, and they chose to sin (rebel against and disobey God).<br>Who is the ultimate cause of all things? – God is the first and ultimate cause (Rom. 11:36). All things are under His control (He is sovereign) – therefore ‘the work of God always has the priority, for man is dependent on God in all that he does.’ By His permissive will, sin and evil entered the world, their origin being in the will of the creature, not the Creator. It is a mystery why He permitted sin and evil, so we must accept the tension, understanding that He is both sovereign and good."
-    },
-    {
-        "question": "Q. Respond to the question about the existence of evil and natural disasters.",
-        "answer": "A. There are many views of theodicy, but ultimately evil is allowed to exist by God, who is not the author of sin. We do not always know the purpose of events, but as God uses all things to His glory, we will see God carry out justice against evil and iniquities, and renew creation, which was introduced to things such as natural disasters because of humanity's sin."
-    },
-    {
-        "question": "Q. What is the Moral Argument for God's existence (Kant)?",
-        "answer": "A. The moral argument asserts that the existence of objective moral values and duties implies a moral lawgiver. Since objective moral values exist and we experience a sense of moral obligation, this points to the existence of a higher moral authority, identified as God."
-    },
-    {
-        "question": "Q. What is the Cosmological Argument for God's existence (Aquinas)?",
-        "answer": "A. The cosmological argument asserts that everything that exists has a cause. Since the universe exists, it must have a cause, identified as God. Aquinas formulated this in several ways:<br>1. Argument from motion: everything in motion must have been set in motion by something else<br>2. Argument from contingency: everything contingent must have a necessary being as its cause"
-    },
-    {
-        "question": "Q. What is the Teleological Argument for God's existence (Paley)?",
-        "answer": "A. The teleological argument posits that the order and complexity of the universe suggest the presence of a purposeful designer. Paley used the analogy of a watchmaker: just as the intricate design of a watch implies a watchmaker, so too does the intricate design of the universe imply a divine Designer."
-    },
-    {
-        "question": "Q. What is the Ontological Argument for God's existence (Anselm)?",
-        "answer": "A. The ontological argument is a conceptual argument that begins with the definition of God as the greatest conceivable being. Anselm argued that existing in reality is greater than existing merely in the mind. Therefore, if God, as the greatest conceivable being, exists in the mind, He must also exist in reality."
-    },
-    {
-        "question": "Q. What place do classical arguments for God's existence have today?",
-        "answer": "A. Classical arguments are neither useless nor fully sufficient. By God's grace, humanity possesses reason, so these arguments may be valid in the process of persuading others that Christianity is not illogical nor opposed to reason."
-    },
-    {
-        "question": "Q. What's the difference between infralapsarian, supralapsarian, and Amyraldianism?",
-        "answer": "A. These terms refer to different views on the logical order of God's decrees. The infralapsarian position is the most common. (Note: A full explanation would require more detail about each position.)"
-    },
-    {
-        "question": "Q. What is the position of the Westminster Standards on the order of God's decrees?",
-        "answer": "A. The question doesn't provide specific information about the Westminster Standards' position on this issue."
-    },
-    {
-        "question": "Q. What are the decrees of God?",
-        "answer": "A. The decrees of God are his eternal purpose, according to the counsel of his will, whereby, for his own glory, he has foreordained whatsoever comes to pass (Isaiah 46:9-11; Ephesians 1:11). Although God foreknows everything that will come to pass, he did not decree anything because he foresaw it in the future. All things are decreed according to the counsel of his will (Romans 9:16; Ephesians 1:11; Isaiah 14:24)."
-    },
-    {
-        "question": "Q. What important note is mentioned regarding the decrees of God?",
-        "answer": "A. The information mentions that there is a table that should be known, but the content of this table is not provided in the given text."
-    },
-    {
-        "question": "Q. What is the Amyraldian view of God's decrees?",
-        "answer": "A. In the Amyraldian view, God's decree of salvation logically precedes His decree of election. This allowed Amyrald to postulate a universal design in the atonement while still holding to predestination."
-    },
-    {
-        "question": "Q. How do biblical and historical theology relate to systematic theology?",
-        "answer": "A. Biblical and historical theology are foundational to systematic theology. Theology is developed through exegesis and synthesis of different passages of Scripture, considering what the church has believed throughout history."
-    },
-    {
-        "question": "Q. What is the relationship between practical theology and systematic theology?",
-        "answer": "A. Practical theology is the result of systematic theology. The church's practice is ordered according to theological beliefs derived from systematic theology."
-    },
-    {
-        "question": "Q. What is the role of systematic theology in relation to biblical interpretation?",
-        "answer": "A. Systematic theology assesses how a passage is connected with the rest of Scripture regarding a specific topic or theme, providing a comprehensive understanding of biblical teachings."
-    },
-    {
-        "question": "Q. How do the four disciplines of theology (biblical, historical, practical, and systematic) relate to each other?",
-        "answer": "A. 1. Biblical and historical theology form the foundation for systematic theology.<br>2. Systematic theology synthesizes biblical teachings and historical understanding.<br>3. Practical theology applies the insights from systematic theology to church practice.<br>4. Systematic theology connects individual passages to broader biblical themes and topics."
-    },
-    {
-        "question": "Q. What is the nature of man?",
-        "answer": "A. Man was created in the image of God, with a body and a soul (Gen. 2:7; Matt. 10:28). Due to Adam's first transgression, all people are now born with a sinful nature (Rom. 5:12-21; Ps. 51:5)."
-    },
-    {
-        "question": "Q. What is the four-fold state of man?",
-        "answer": "A. 1. Created: possible to sin (Gen. 1:26-31; 3)<br>2. Fallen: not possible not to sin (Gen. 6:5; Rom. 3:9-18)<br>3. Redeemed: possible not to sin (Rom. 6:17; Eph. 4:22-23)<br>4. Glorified: not possible to sin (2 Peter 3:13; 1 Cor. 15:49)"
-    },
-    {
-        "question": "Q. Where did man’s soul come from?",
-        "answer": "A. Three options outlined by Buswell:<br>1. Pre-existence<br>2. Traducianism - souls inherited from parents via mediate origin<br>3. Creationism - where God creates each new soul immediately and does not bring souls into existence through secondary means.<br>Pre-existence is ruled out as absent from the Bible; but the other two options are more difficult to discern. Arguments for both are complex and speculative. Berkhof concludes that creationism is the correct view while Buswell concludes for traducianism saying, '... I do not feel that it can be firmly established on the grounds of any explicit scriptural teaching; and it does seem to me that to go beyond the facts of experience and the teachings of scripture in this matter is futile.'"
-    },
-    {
-        "question": "Q. Is there any good remaining in a fallen, sinful man? Explain.",
-        "answer": "A. Man is defiled in all the parts and faculties of the soul and body, and as a result he is unable to do any spiritual good (Rom. 3:9-20; Gen. 6:5). He may do many praiseworthy things in relation to his fellow man, but even his best works are defective in relation to God, because they are not done out of love for God or obedience to Him (Isa. 64:6; Heb. 11:6)."
-    },
-    {
-        "question": "Q. In what ways does man sin? (WLC 25)",
-        "answer": "A. Sins of Omission: failure to do that which the law commands (James 4:17).<br>Sins of Commission: doing that which the law forbids (Lev. 5:17)."
-    },
-    {
-        "question": "Q. Was Adam's will before he sinned free? Explain.",
-        "answer": "A. Before the fall, Adam had the freedom to do that which was good and pleasing to God, but also had the possibility of falling from it (Gen. 1:31; Eccl. 7:29)."
-    },
-    {
-        "question": "Q. What is the guilt and corruption of sin?",
-        "answer": "A. Hoekema says, ‘Original sin includes both guilt and pollution (real corruption). Guilt is a judicial or legal concept describing one’s relationship to the law... the doctrine of original sin does not mean that we are involved in the guilt of Adam’s sin because he acted as our representative when he committed the first sin... another aspect of original sin is pollution. Pollution, in distinction from guilt, is a moral concept; it has to do with our moral condition rather than with our status before the law.<br>We can define original pollution (the pollution involved in original sin) as the corruption of our nature that is the result of sin and produces sin. As a necessary implication of our involvement in Adam’s guilt, all humans are born in a state of corruption.” He goes on to distinguish between depravity (failure to love God as the motivating principle of life) and spiritual inability (i.e. inability to completely please God by keeping His law and inability to change the direction of one’s life from self-love to love for God.)"
-    },
-    {
-        "question": "Q. What are the consequences of sin according to the Westminster Larger Catechism (WLC 27)?",
-        "answer": "A. The fall brought upon mankind:<br>1. Loss of communion with God<br>2. God's displeasure and curse<br>3. Being children of wrath by nature<br>4. Bondage to Satan<br>5. Liability to all punishments in this world and the next"
-    },
-    {
-        "question": "Q. What are the punishments of sin in this world according to WLC 28?",
-        "answer": "A. Punishments of sin in this world are:<br>Inward: blindness of mind, reprobate sense, strong delusions, hardness of heart, horror of conscience, vile affections<br>Outward: God's curse upon creatures, evils befalling our bodies, names, estates, relations, employments, and death itself"
-    },
-    {
-        "question": "Q. What are the punishments of sin in the world to come according to WLC 29?",
-        "answer": "A. 1. Everlasting separation from the comfortable presence of God<br>2. Most grievous torments in soul and body<br>3. Without intermission, in hellfire forever"
-    },
-    {
-        "question": "Q. What is original sin according to the Westminster Shorter Catechism (WSC 18)?",
-        "answer": "A. Original sin includes:<br>1. The guilt of Adam's first sin<br>2. Lack of original righteousness<br>3. Corruption of the whole nature<br>It is distinct from actual sins, which are specific acts of disobedience that come from original sin."
-    },
-    {
-        "question": "Q. How does Hoekema define original sin and actual sin?",
-        "answer": "A. Hoekema says, 'Original sin is the sinful state and condition in which every human being is born; actual sin, however, is the sins of act, word, or thought that people commit.'"
-    },
-    {
-        "question": "Q. What is the difference between original sin and actual sins?",
-        "answer": "A. Original sin is inherited and affects man's nature or state. Actual sins flow out of original sin, and include the sinful acts, whether exterior or interior, committed by an individual."
-    },
-    {
-        "question": "Q. What scriptural proofs does Berkhof provide for original sin?",
-        "answer": "A. Berkhof's scriptural proofs: Romans 5:12-19; Ephesians 2:3; 1 Corinthians 15:22"
-    },
-    {
-        "question": "Q. What is the relationship between original sin and moral obligation?",
-        "answer": "A. The total depravity and total inability of original sin do not relieve man of moral obligation, as the inability is self-imposed and has a moral origin, not due to any limitation imposed by God on man's being."
-    },
-    {
-        "question": "Q. How does Roman Catholic theology view original sin?",
-        "answer": "A. Roman Catholics view original sin as the loss of the supernatural gift (donum superadditum) with which Adam was endowed before the fall, and which enabled him to do meritorious works, eliminated and restored in baptism."
-    },
-    {
-        "question": "Q. What is the Pelagian view of original sin?",
-        "answer": "A. Pelagianism denies original sin, claiming that man is born morally neutral with the ability to fulfill God's law."
-    },
-    {
-        "question": "Q. How do Reformed and Presbyterian theology view original sin?",
-        "answer": "A. Original sin is the sinful state and corrupted condition in which all men are born as a result of Adam's first transgression, including both guilt and pollution."
-    },
-    {
-        "question": "Q. How does God's foreordination of all things relate to man's will?",
-        "answer": "A. God decrees all things, and nothing changes his will (Dan 4:34-35), yet man is still culpable for his decisions (Acts 2:23)."
-    },
-    {
-        "question": "Q. What does it mean that man was created in the image of God?",
-        "answer": "A. Man was created in the moral and personal attributes of God, endued with knowledge, righteousness, and true holiness, to rule over other creatures (WSC #10)."
-    },
-    {
-        "question": "Q. How does being created in the image of God relate to gender roles?",
-        "answer": "A. Gen. 1:27 shows that being in the image of God includes gender differences and complementarities, making both male and female equal in dignity and worth, yet neither fully reflects the image of God without the other, with a necessary complementary relationship between the genders."
-    },
-    {
-        "question": "Q. Describe the orthodox doctrine of the person of Christ?",
-        "answer": "A. The Son of God, the second person in the Trinity, took upon Him man's nature, with all essential properties and common infirmities, yet without sin, being conceived by the power of the Holy Ghost, in the womb of the Virgin Mary, so that two whole, perfect, and distinct natures, the Godhead and the manhood, were inseparably joined together in one person, without conversion, composition, or confusion."
-    },
-    {
-        "question": "Q. What are the evidences of Christ's deity?",
-        "answer": "A. Jesus has the nature of God (Col 1:15), titles of God (John 1:1, 18), attributes of God (John 1:14, 17), works of God (John 1:3; Col 1:16), and worship due God (Heb 1:6)."
-    },
-    {
-        "question": "Q. What are the evidences of Christ's humanity?",
-        "answer": "A. Jesus experienced incarnation (John 1), human weakness (John 4:6), human emotions (John 2:16; 11:35-36), and human experiences (Luke 2:52)."
-    },
-    {
-        "question": "Q. Describe Christ's nature?",
-        "answer": "A. Jesus Christ, being two whole, perfect, and distinct natures, the Godhead and the manhood, were inseparably joined together in one person, without conversion, composition, or confusion (WCF 8.2), being wholly human and wholly divine in a hypostatic union."
-    },
-    {
-        "question": "Q. Describe Christ's will?",
-        "answer": "A. Christ had two wills (Dyothelitism), being fully human and fully divine, as opposed to Monothelitism (one will) which was declared an error at the Third Council of Constantinople (681)."
-    },
-    {
-        "question": "Q. Describe Christ's person?",
-        "answer": "A. Christ is one person with two natures."
-    },
-    {
-        "question": "Q. What are Christ's offices?",
-        "answer": "A. Christ executes the offices of Prophet, Priest, and King: revealing God's will for salvation, offering Himself as a sacrifice to reconcile us to God, and subduing and defending us as King."
-    },
-    {
-        "question": "Q. What is a Redeemer?",
-        "answer": "A. A Redeemer is one who saves or delivers others from captivity or poverty (depravity) by paying the required price."
-    },
-    {
-        "question": "Q. Who is the only Redeemer of God's elect?",
-        "answer": "A. The Lord Jesus Christ, the eternal Son of God, Who became man, is the only Redeemer of God's chosen, being God and man in two distinct natures and one person forever (WSC 21)."
-    },
-    {
-        "question": "Q. What is Christ's Atonement?",
-        "answer": "A. Christ's redeeming act whereby He paid the required price to effect justification, redemption, and adoption of God's elect by sacrifice of His own righteous life in unjust death on a cross in place of the sinful lives of those He redeems."
-    },
-    {
-        "question": "Q. Why was Atonement necessary?",
-        "answer": "A. Atonement was necessary because man was dead in his sin, unable to do anything to earn or merit God's favor, and God is just and must punish sin, but God is merciful and provided a way for sin-sick man to become His righteous friends (Eph. 2:1-2; Rom. 6:23; Ex. 34:7; Gal. 4:4-5)."
-    },
-    {
-        "question": "Q. What is the Ransom to Satan theory of atonement?",
-        "answer": "A. Origen's view that Christ's death paid the price to purchase the release of sinners from Satan, with Christ's death being a ransom, and a price was paid, but without deception, and ultimately defeating the devil."
-    },
-    {
-        "question": "Q. What is the Satisfaction theory of atonement?",
-        "answer": "A. Anselm's view that God's honor, affected by the fall, required either satisfaction or punishment, and the God-man's death, having infinite value, restored God's honor by making satisfaction, which is actually a satisfaction through punishment, restoring God's justice."
-    },
-    {
-        "question": "Q. What is the Moral-Influence theory of atonement?",
-        "answer": "A. Abelard's view that Christ died to show God's love for us, removing our fear and ignorance of God, but this view is too subjective to be biblical, and the cross does show God's love, casting out fear of objective torment."
-    },
-    {
-        "question": "Q. What is the Example/Recapitulation theory of atonement?",
-        "answer": "A. A Pelagian Anthropology & Arian Christology view that the human Jesus demonstrated perfect love for God, which we must imitate to be saved, but this view is flawed."
-    },
-    {
-        "question": "Q. What is the Governmental theory of atonement?",
-        "answer": "A. A view that God, as moral governor, put Christ to death to display his hatred towards sin and maintain his moral government, but this view is subjective, rejects penal substitution, and makes Christ a penal example to further God's government."
-    },
-    {
-        "question": "Q. What is the Penal Substitutionary Atonement theory?",
-        "answer": "A. The view that the atonement was intended to propitiate God's wrath, reconciling sinners to Him, through a vicarious atonement where Christ atoned for sin, obtaining eternal redemption for man, by paying the price of penal justice we deserve."
-    },
-    {
-        "question": "Q. What is universal atonement, and why is it refuted?",
-        "answer": "A. Universal atonement is the idea that Christ's atoning sacrifice is for all people without exception, but it is refuted because it is inconsistent with Scripture's teaching on God's elect, and if some are condemned despite Christ's atonement, then it is lacking in efficacy."
-    },
-    {
-        "question": "Q. What is universalism, and why is it refuted?",
-        "answer": "A. Universalism is the belief that all people will ultimately be saved and reconciled to God, but it is refuted because it fails to do justice to sin and its consequences, diminishes Jesus' final judgment, and undermines the importance of evangelism and mission."
-    },
-    {
-        "question": "Q. Does the atonement of Christ save actually or potentially?",
-        "answer": "A. Christ's atonement saves actually and completely, with no insufficiency in its nature or application."
-    },
-    {
-        "question": "Q. What is the 'extra Calvinisticum'?",
-        "answer": "A. The extra Calvinisticum is a Calvinistic doctrine which states that Christ's divine nature continued to be omnipresent outside the flesh while he was on earth. The existence of the human Logos outside the body. The Logos existed not only inside the body but also outside the body. In His divine nature there is no place where He is not and in His human nature, He is local. The characteristics of His divine and human nature are not mixed together. Christ did not cease performing the functions of Col. 1:17 and Heb. 1:3 once he was incarnated."
-    },
-    {
-        "question": "Q. What is the doctrine of ubiquity?",
-        "answer": "A. The doctrine of ubiquity is the Lutheran doctrine which states that Christ's divine attribute of omnipresence is communicated to his human nature. This violates the Chalcedonian doctrine of the hypostatic union: two distinct natures (divine and human) in one person, with the distinction and property of each nature being preserved."
-    },
-    {
-        "question": "Q. What are the two states of Christ?",
-        "answer": "A. The two states of Christ are his humiliation and his exaltation (Phil. 2:6-11; Heb. 2:5-9).<br>Humiliation: consisted in being born under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried and continuing under the power of death for a time (Phil. 2:6-8; Heb. 2:6-7).<br>Exaltation: consists in his resurrection, ascension, session at the Father's right hand, and in coming to judge the world at the last day (Phil. 2:9-11; Heb. 2:7-9)."
-    },
-    {
-        "question": "Q. What is the humiliation of Christ?",
-        "answer": "A. Christ was humiliated: by being born as a man and born into a poor family; by being made subject to the law and suffering the miseries of this life, the anger of God, and the curse of death on the cross; and by being buried and remaining under the power of death for a time. (WSC 27)<br>This is the state of Christ where He emptied Himself of His Glory by becoming a servant (man), in His conception, birth, life, death, and resurrection (Phil. 2:6-8)."
-    },
-    {
-        "question": "Q. What is Kenosis?",
-        "answer": "A. Self-emptying, from Phil. 2:6-7. This has caused much controversy as to how and to what extent Christ emptied Himself. Some extremists say He emptied Himself of all divine attributes by becoming man – but our confession says He emptied Himself of only His glory by humbling Himself by becoming man. Jesus was not divested of his divine attributes but entered into human flesh with his divine attributes intact."
-    },
-    {
-        "question": "Q. Why did the Mediator have to be fully God and fully man?",
-        "answer": "A. Only God could provide a sacrifice sufficient to atone for the sins of all his people, but only a man could pay the punishment for other men (Heb. 2:17; 7:23-28)."
-    },
-    {
-        "question": "Q. Explain and defend the doctrine of the Communication of Properties.",
-        "answer": "A. The properties of both the human and divine natures are now the properties of the person and are therefore ascribed to the person. The person of Christ can be almighty, omniscient, and omnipresent; while also being limited in knowledge and power, and subject to human want and miseries. (Berkhof, p 324)"
-    },
-    {
-        "question": "Q. Defend the Virgin Birth.",
-        "answer": "A. In the Old Testament there is prophecy that the virgin will give birth to a son and name Him Immanuel (Isaiah 7:14); and the angel of the Lord speaks this prophecy to Joseph to confirm that Mary is this virgin. Joseph did not have relations with Mary until after Jesus was born (Matt. 1:20-23). Mary even questions, “How can this be, since I am a virgin?” (Luke 1:34)"
-    },
-    {
-        "question": "Q. Define and distinguish the active and passive obedience of Christ.",
-        "answer": "A. Active obedience – his voluntary humiliation of becoming human and living in perfect and complete obedience to the law (Phil. 3:9; Gal. 4:4).<br>Passive obedience – suffering and death on the cross for sinners (Isaiah 53:6; Phil. 2:8; Gal. 3:13)."
-    },
-    {
-        "question": "Q. What happened in the Resurrection of Christ?",
-        "answer": "A. Christ rose bodily from the dead on the third day (John 20:19-28).<br>“Glorified Body” – Christ’s resurrected state whereby the body is animated and guided wholly by the Spirit, free from sinful inclinations (1 Cor. 6:13-14), imperishable from sickness and decay, glorious and powerful (1 Cor. 15:42-43)."
-    },
-    {
-        "question": "Q. What is covenant theology?",
-        "answer": "A. Covenant theology is the way in which God relates to humankind and stresses the unity of God’s plan of redemption throughout the entirety of Scripture. Though there are particular covenants, each of them serves God’s greater, overarching covenant of redemption throughout all of Scripture."
-    },
-    {
-        "question": "Q. What is a covenant?",
-        "answer": "A. A binding contract between two parties which has stipulations and actions required of each party. “A bond in blood sovereignly administered.”"
-    },
-    {
-        "question": "Q. How is covenant theology expressed in the Westminster Confession of Faith?",
-        "answer": "A. The WCF does not touch on the Covenant of Redemption. In WCF 7, the Divine's teach the necessity for the covenant relationship because mankind needs the condescension of God to even glorify him."
-    },
-    {
-        "question": "Q. What is the Covenant of Redemption?",
-        "answer": "A. The Covenant of Redemption is the theological description of the agreement between God the Father and God the Son to provide for the salvation of sinful humanity by Christ’s death on the cross. WSC 20 states that God, out of His mere good pleasure, from all eternity, elected some to everlasting life, and entered into a covenant of grace to deliver them from sin and misery, bringing them into salvation by a Redeemer. WLC 31 states that the covenant of grace was made with Christ as the second Adam, and in Him with all the elect as His seed."
-    },
-    {
-        "question": "Q. What is the scriptural basis for the Covenant of Redemption?",
-        "answer": "A. Scripture references include: Ps. 2; 110; Rom. 3:25; 1 Jn. 2:2; Luke 2:49; Eph. 1."
-    },
-    {
-        "question": "Q. What are the distinctives of the Covenant of Redemption?",
-        "answer": "A. Parties of the Covenant: God the Father (planned redemption and sent the Son), Jesus Christ the Son (agrees to be sent and accomplish the work), and the Holy Spirit (applies work of Christ sealing us unto salvation).<br>Promise of the Covenant: That God will give all the elect to Christ for His own possession.<br>Condition of the Covenant: That Christ undergoes humiliation in His incarnation, sinless life, temptation, suffering, and death on a cross to satisfy God's justice and avert God's wrath from the elect, purchasing righteousness for them so they can enter into eternal life in heaven with Him as His bride, the church.<br>Penalty of the Covenant: Possibly Christ's self-malediction if He does not fulfill, akin to the torch passing through the pieces of animal in the Abrahamic covenant (not scripturally clear).<br>Sign(s)/ Seal(s) of the Covenant: The life, death, and resurrection of Jesus Christ show both His victory over death and sin, with His resurrection and ascension serving as our surety and seal of this covenant."
-    },
-    {
-        "question": "Q. What is the Covenant of Works?",
-        "answer": "A. The Covenant of Works is the covenant entered into at creation between man and God. A perfect relationship with God could be enjoyed if humans maintained perfect obedience to God’s law. The parties are God and Adam as the representative of all mankind. WCF 7.2 states that the first covenant made with man was a covenant of works, wherein life was promised to Adam, and in him to his posterity, upon condition of perfect and personal obedience. WSC 12 states that when God had created man, He entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon the pain of death."
-    },
-    {
-        "question": "Q. What is the scriptural basis for the Covenant of Works?",
-        "answer": "A. Scripture references include: Gen. 2:17; 3:15; Hos. 6:7; Jer. 33:20-21; Rom. 5:12-19."
-    },
-    {
-        "question": "Q. What are the distinctives of the Covenant of Works?",
-        "answer": "A. Contracting Parties of the Covenant: God (Suzerain/ Creator) and Adam (Vassal/ Creature).<br>Promise of the Covenant: Eternal life (implied based on the curse of the covenant being death).<br>Condition of the Covenant: Perfect obedience (Gen. 2:17).<br>Penalty of the Covenant: Death (as in separation from the source of life – God).<br>Sign/ Seal of the Covenant: The tree of life (this is not as concrete, but Adam had to depart from its presence as part of his penalty for Covenant violation)."
-    },
-    {
-        "question": "Q. What is the relation of the Covenant of Works to the Covenant of Redemption?",
-        "answer": "A. The covenant of works is the mirror image of the covenant of redemption."
-    },
-    {
-        "question": "Q. What is the Covenant of Grace?",
-        "answer": "A. The Covenant of Grace is the relationship into which God entered to provide, by grace, the promise of salvation to sinful humanity. It extends throughout the Old Testament by means of various covenants to its final fulfillment in Christ."
-    },
-    {
-        "question": "Q. What are the distinctives of the Covenant of Grace?",
-        "answer": "A. Parties of the Covenant: God the Father and the 'elect' purchased by Christ.<br>Promise of the Covenant: Salvation which includes: election, calling, regeneration, conversion (faith and repentance), justification, adoption, sanctification, and glorification leading to eternal life and relationship with God in heaven.<br>Condition of the Covenant: Application of the blood of the atoning sacrifice of Christ through faith which averts the wrath of God by providing justification to God for sinful men.<br>Penalty of the Covenant: Death (as in eternal separation from God).<br>Sign(s)/ Seal(s) of the Covenant: Circumcision and Passover in the Old Testament; Baptism and the Lord's Supper in the New Testament."
-    },
-    {
-        "question": "Q. Defend the Covenant of Works from Scripture.",
-        "answer": "A. Adam, our federal head, disobeyed; we, along with him, suffer the consequences of his sin as in the curse, sinfulness is imputed to us. Also, Jesus Christ fulfilled the stipulations of the covenant of works by living a righteous life – as such, as the Second Adam, His righteousness is imputed to those who believe so it is as if believers perfectly fulfilled their part in the covenant of works."
-    },
-    {
-        "question": "Q. What are the dispensations under the Covenant of Grace?",
-        "answer": "A. The Covenant of Grace is manifest throughout multiple administrations, or dispensations, building upon each other.<br>1. The Noahic Covenant: One specific outworking of the covenant of grace. In it God promises to never again destroy the earth. It is a covenant of preservation. The rainbow is given as a sign in Genesis 9:20-22.<br>2. The Abrahamic Covenant: One specific outworking of the covenant of grace. In it God promises Abraham seed and land; the sign is circumcision. In this outworking, all nations are to be blessed. It is a continuation of the promise of seed in Gen. 3:15.<br>3. The Mosaic Covenant: One specific outworking of the covenant of grace. In it God gives His law detailing how His people are to live in His presence. (Ex. 19-24)<br>4. The Davidic Covenant: In 2 Sam. 7 God promised David that his line will always have a king on the throne.<br>5. The New Covenant: In Jeremiah 31:31-34 and Ezekiel 36:25ff, God promises to extend his covenant people beyond Israel, bringing sinners (even Gentiles) into fellowship with him. This is completely fulfilled in the life and work of Jesus Christ (Hebrews)."
-    },
-    {
-        "question": "Q. What is the relationship between the Old and New Covenant?",
-        "answer": "A. The New Covenant, described in Jeremiah 31:31-34, 32:37ff., Heb 8:6ff., etc., is between God and His 'elect' purchased by the obedience of Christ. It is the complete fulfillment of other dispensations of the Covenant of Grace found in the work of Christ. Eternal life and relationship with God or eternal separation from God are based on belief (faith) in the person of Christ, His life, and work to achieve salvation for God's 'elect' as described in the gospels and Acts. Signs are Baptism and Communion. Final fulfillment will be realized at Christ's second coming and the ushering in of a new Holy Order.<br>In Hebrews, it is clear that Jesus Christ, as the New Covenant mediator, is the complete fulfillment of every Old Covenant hope, dream, responsibility, and stipulation to set apart God’s Holy people.<br>They are distinct but the same in substance, containing God’s promise and the fulfillment thereof to set apart a people for Himself by redeeming them from the curse of sin in Jesus Christ. The New covenant is superior to the Old and displaces it by fulfilling it completely. The Old and New covenants differ in the way God administers them.<br>Scripture references: Jeremiah 31:31-34; 2 Cor. 3:3-6; 6:16-18; Gal. 3:23-25; 4:1-7; Hebrews 7:20-22, 28; 8:6, 8-10, 13; 9:15; 10:9; Rev. 21:2-3."
-    },
-    {
-        "question": "Q. What is Dispensational Theology?",
-        "answer": "A. Dispensationalism is a theological framework that divides Scripture into seven dispensations and asserts that God relates differently with humanity in each one. Dispensationalists claim the church began at Pentecost after national Israel failed to accept Jesus as their national king. Thus, they understand the church as a temporary “parenthesis” in God’s redemptive plan which will begin again in a future, earthly millennial reign. Two prominent dispensationalists are John MacArthur and Charles Ryrie.<br>Other key doctrines include:<br>1. Separation between Israel and the church<br>2. Pre-tribulational rapture<br>3. Future literal fulfillment of OT prophecies concerning Israel."
-    },
-    {
-        "question": "Q. How were people of the Old Testament saved?",
-        "answer": "A. By faith; the people of the Old Testament looked forward to the coming Messiah to the extent He had been revealed. They trusted God according to the knowledge they had, anticipating His work of redemption. By virtue of the death of Christ ratified in the New Covenant (Luke 22:20; Heb. 11:1-2; 12:1-2)."
-    },
-    {
-        "question": "Q. What is sin?",
-        "answer": "A. Sin is any want of conformity unto, or transgression of, the law of God. (WSC 14)"
-    },
-    {
-        "question": "Q. What is damnation?",
-        "answer": "A. Eternal condemnation to hell."
-    },
-    {
-        "question": "Q. What is the proper relationship of faith, works, and justification?",
-        "answer": "A. We are justified by faith alone, but our faith is never alone and always accompanied by good works."
-    },
-    {
-        "question": "Q. What is the definition and biblical support for the ordo salutis as a whole and in each of its parts?",
-        "answer": "A. Whole: Rom. 8:28-29 (union with Christ: Rom. 6, 8:9)<br>Election: Eph. 1, 2<br>Calling: Rom. 1:6<br>Regeneration: Jn. 3<br>Faith/Repentance (Conversion): Acts 2, Acts 11; Rom. 1:17<br>Justification: Rom. 3<br>Adoption: Rom. 8<br>Sanctification: Rom. 6:19, 1 Cor. 6<br>Glorification: Rom 8"
-    },
-    {
-        "question": "Q. What is union with Christ and what is its relationship with the ordo salutis?",
-        "answer": "A. Union with Christ is the central doctrine of salvation in which the Holy Spirit unites us to Christ, so as God looks at us, He sees the work and righteousness of Jesus, and from which the redemptive benefits of Christ, or ordo salutis, 'spring.'"
-    },
-    {
-        "question": "Q. Define the outward and inward calls of the gospel.",
-        "answer": "A. The outward call of the gospel is any sharing of the gospel and proclamation of the good news and is like the seed broadcast, not determined by the hearer’s response.<br>The inward call of the gospel is the working of the Holy Spirit in the individual’s heart, regenerating them and giving the gift of faith and repentance."
-    },
-    {
-        "question": "Q. Define faith and repentance. What is their relationship?",
-        "answer": "A. Faith is trusting in God’s promises of salvation, believing though not seeing. Repentance is acknowledging sin and turning from it unto Christ. It is not mere remorse. Faith and repentance are fruits of the Spirit’s regeneration, and one is not present without the other."
-    },
-    {
-        "question": "Q. What are the Five Points of Calvinism?",
-        "answer": "A. The Five Points of Calvinism, summarized by the acrostic TULIP, are: Total Depravity, Unconditional Election, Limited (Particular) Atonement, Irresistible Grace, and Perseverance of the Saints."
-    },
-    {
-        "question": "Q. What is Total Depravity?",
-        "answer": "A. Total Depravity is the doctrine that every aspect of man's life (mind, will, spirit, body, etc.) is affected by the fall and is in an estate of sin, yet man is not as bad as he can be due to God's common grace. (Rom. 1:18-3:23; Isaiah 53:6; Rom. 7-8)"
-    },
-    {
-        "question": "Q. What is Unconditional Election?",
-        "answer": "A. Unconditional Election is the doctrine that God's election cannot be affected by any other power, including man, and that He has foreordained all things, and no power of hell or scheme of man can pluck us from his hand. (Rom. 8:29-30; Rom. 9-11; Eph. 1; John 6)"
-    },
-    {
-        "question": "Q. What is Limited (Particular) Atonement?",
-        "answer": "A. Limited (Particular) Atonement is the doctrine that Christ by his death paid the penalty for the elect, and not for those who would be condemned to hell. (John 6:37, 44-46, 65; Rom. 11; Eph. 1)"
-    },
-    {
-        "question": "Q. What is Irresistible Grace?",
-        "answer": "A. Irresistible Grace is the doctrine that those to whom God calls in his saving grace cannot resist and his call if fully efficacious. (John 6:65; Rom. 11; Eph. 2:8-9)"
-    },
-    {
-        "question": "Q. What is Perseverance of the Saints?",
-        "answer": "A. Perseverance of the Saints is the doctrine that those who are called will remain regenerate in this life, and cannot completely fall away. (James; Eph. 2:10)"
-    },
-    {
-        "question": "Q. What is double predestination and equal ultimacy?",
-        "answer": "A. Double predestination is the doctrine that God chooses some for salvation and others for damnation, while equal ultimacy is the mistaken view that God causes sin and unbelief in the reprobate, which is condemned by the Canons of Dort."
-    },
-    {
-        "question": "Q. What is the difference between total depravity, partial depravity, and absolute depravity?",
-        "answer": "A. Total depravity means all aspects of humanity are affected by the fall, yet man is not as bad as he can be due to God's common grace. Partial depravity means some aspects are affected, while part good. Absolute depravity means man is completely and utterly depraved in all aspects."
-    },
-    {
-        "question": "Q. What is the relationship between God's sovereignty and man's responsibility?",
-        "answer": "A. God is an all-knowing and fully sovereign God, yet humanity is responsible for turning from sin and towards God, confessing Jesus Christ as Lord, and following Him, with two extreme positions (hyper-Calvinist and Arminian) erring by overemphasizing one or the other."
-    },
-    {
-        "question": "Q. What is the error of hyper-Calvinism?",
-        "answer": "A. Hyper-Calvinism overemphasizes God's sovereignty, erring on the side of not evangelizing and calling people to repent and follow Christ, because God will ultimately save those he has ordained to save, and fails to consider the means by which God has chosen to spread the seed of the gospel."
-    },
-    {
-        "question": "Q. What is the error of Arminianism?",
-        "answer": "A. Arminianism struggles to account for God's sovereignty and the sinful estate of humanity, emphasizing human responsibility and capacity in responding to the gospel call, and fails to recognize that those who repent and are delivered from sin do not merit it of their own efforts but are indebted solely to the grace of God."
-    },
-    {
-        "question": "Q. What is the difference between common grace and prevenient grace?",
-        "answer": "A. Common grace is a grace provided to all as we are made in God's image, benefiting all, while prevenient grace is the idea of a grace that precedes the sinner's repentance and faith, giving them the ability to respond to God's call, though it is not effectual and certain as with the traditional Reformed view."
-    },
-    {
-        "question": "Q. What is the extent of God's sovereignty?",
-        "answer": "A. God has ordained whatsoever comes to pass, but does not destroy the will of the creature, nor has he decreed based on something foreseen in the future."
-    },
-    {
-        "question": "Q. What is the difference between Predestination, Election, and Reprobation?",
-        "answer": "A. Predestination is the counsel of God concerning fallen man, including election and reprobation. Election is God's eternal act of choosing some for special grace and salvation, while Reprobation is God's decree to pass some by with special grace and punish them for their sins."
-    },
-    {
-        "question": "Q. Will any for whom Christ died be lost?",
-        "answer": "A. No, Jesus's work on the cross is fully effective and sufficient to pay for all the sins of the elect, and not one of His people will be lost."
-    },
-    {
-        "question": "Q. Does God grieve when Christ is rejected?",
-        "answer": "A. In one sense, God is grieved by Israel's rejection of God, but God is impassible and not subject to pain or suffering, and His grief is not the same as human grief."
-    },
-    {
-        "question": "Q. What are the practical results of believing in the doctrine of election?",
-        "answer": "A. Gratitude for God's gracious adoption, understanding that salvation ultimately rests with God, confidence and comfort in evangelism, and motivation to fulfill the Great Commission based on demonstrated love for God."
-    },
-    {
-        "question": "Q. What is the relationship of law and grace in the Reformed tradition?",
-        "answer": "A. The law serves as a mirror, restrains evil, and reveals what is pleasing to God, with the three purposes being reflected in Rom 7, Gal 3:24, and Matt 5:17-18 respectively."
-    },
-    {
-        "question": "Q. What is the biblical theology for the assurance of salvation?",
-        "answer": "A. Assurance of hope in salvation, recognition that some with the appearance of salvation will fall away, believers will still struggle in sin, and sanctification is the work of the Spirit leading to glorification, as seen in 1 John 5:13, Heb 6, Rom 6-7, and Rom 8."
-    },
-    {
-        "question": "Q. What is effectual calling?",
-        "answer": "A. Effectual calling is the work of God's Spirit where we are convinced of our sin and misery, enlightened to the knowledge of Christ, with a will renewed, and both persuaded and enabled to embrace Jesus Christ. (WSC 31)"
-    },
-    {
-        "question": "Q. What is the relationship between 1 Timothy 2:3-4 and Romans 9:15-16?",
-        "answer": "A. These two verses describe human responsibility and God's sovereignty respectively."
-    },
-    {
-        "question": "Q. On what is God's decision to call a person based?",
-        "answer": "A. On God's free and special grace alone, not on anything foreseen in man. (Rom 9:11, Eph 2:4-5, 8-9)"
-    },
-    {
-        "question": "Q. How can infants be called?",
-        "answer": "A. Through the Spirit, who works when and how he pleases. (WCF 10.3)"
-    },
-    {
-        "question": "Q. Is Jesus really the only way of salvation?",
-        "answer": "A. Jesus is the only way to the Father (John 14:6), and faith comes by hearing (Rom. 10:17). Yet, the Spirit may work in elect persons who are not capable of being outwardly called by the ministry of the Word. (WCF 10.3)"
-    },
-    {
-        "question": "Q. What is justification?",
-        "answer": "A. Justification is an act of God's free grace in which he pardons our sins, accepts us as righteous in his sight, for the righteousness of Christ imputed to us and received by faith (WSC 33; Rom. 3:24; 2 Cor. 5:21; Phil. 3:9)"
-    },
-    {
-        "question": "Q. When is a Christian justified?",
-        "answer": "A. Though decreed from all eternity to justify the elect, justification occurs when the Holy Spirit applies Christ to the individual (WCF 11.4)."
-    },
-    {
-        "question": "Q. What happens when a Christian sins after being justified?",
-        "answer": "A. The forgiveness of sins is applied to past, present, and future sins. God continues to forgive the sins of the justified."
-    },
-    {
-        "question": "Q. What is the doctrine of adoption?",
-        "answer": "A. Adoption is an act of God's free grace in which we are received into the number and given the rights to all the privileges of the sons of God (WSC 34; John 1:12; 1 John 3:1)"
-    },
-    {
-        "question": "Q. What is the doctrine of sanctification?",
-        "answer": "A. The work of God's grace whereby the whole person is renewed in the image of God and are enabled more and more to die unto sin and live unto righteousness (WSC 35; Ezek. 36:25-27; Rom. 6:6)"
-    },
-    {
-        "question": "Q. What is the relationship between justification and baptism?",
-        "answer": "A. Justification is an act on God's part, while baptism is a sacrament and a sign and seal of the covenant of grace, and does not effectually save nor cause one to be justified."
-    },
-    {
-        "question": "Q. Why is justification called an 'act' and sanctification a 'work'?",
-        "answer": "A. Justification is an 'act' in that there is a moment in time in which an individual is moved from being condemned to justified, while sanctification is an ongoing work of God's grace that continues throughout the life of the believer."
-    },
-    {
-        "question": "Q. Can anyone become perfect or be completely sanctified in this life?",
-        "answer": "A. No, the corruption of sin remains, and the Christian continues in war against the flesh, though with the help of the Spirit. (Phil. 3:12; 1 John 1:10)"
-    },
-    {
-        "question": "Q. What are some Scripture references concerning justification by faith?",
-        "answer": "A. Ephesians 2:8-9, Galatians 2:16, Philippians 3:9, Romans 3:21-26"
-    },
-    {
-        "question": "Q. What is saving faith?",
-        "answer": "A. The faith, which is of grace, that enables the elect to believe and thereby save their souls."
-    },
-    {
-        "question": "Q. Where does saving faith come from?",
-        "answer": "A. This is the work of the Spirit and wrought by the ministry of the Word, increased and strengthened by the administration of the sacraments and prayer."
-    },
-    {
-        "question": "Q. What does saving faith believe?",
-        "answer": "A. Saving faith believes whatever is revealed in the Word. (John 4:42; Acts 24:14)"
-    },
-    {
-        "question": "Q. Is all faith alike?",
-        "answer": "A. Faith may vary and some Christians may experience different degrees (Heb 5:13-14)."
-    },
-    {
-        "question": "Q. What is repentance?",
-        "answer": "A. Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience. (WSC 87)"
-    },
-    {
-        "question": "Q. In what sense is repentance 'necessary'?",
-        "answer": "A. No sinner may expect pardon apart from repentance (Luke 13:3)."
-    },
-    {
-        "question": "Q. How ought we to confess our sins?",
-        "answer": "A. By private confession to God, praying for the pardon of our sins (Ps 32:5-6)."
-    },
-    {
-        "question": "Q. What are good works?",
-        "answer": "A. Good works are those things commanded by God in Scripture (Rom 12:2; Heb 13:21)."
-    },
-    {
-        "question": "Q. What is the relation of good works to faith?",
-        "answer": "A. Good works are the fruit and evidence of faith (James 2:18, 22). James and Romans approach justification from different perspectives, with good works being the justification, or vindication, of faith."
-    },
-    {
-        "question": "Q. Are good works necessary for salvation?",
-        "answer": "A. We would never be able to perform even the duty required (Luke 17:10)."
-    },
-    {
-        "question": "Q. Can our good works save us?",
-        "answer": "A. Good works will not merit pardon from sin and cannot satisfy the debt of our prior sin (Eph 2:8-9)."
-    },
-    {
-        "question": "Q. Can unbelievers do good works?",
-        "answer": "A. Unbelievers may do things which are good to others and themselves, but because they proceed from a heart not purified by faith, their work is not done to the right end—the glory of God—they are not pleasing to God (Gen 4:3-5)."
-    },
-    {
-        "question": "Q. What is the doctrine of perseverance?",
-        "answer": "A. Those whom God has effectually called and sanctified, cannot fall away from the state of grace, but will persevere unto the end (John 10:28-29)."
-    },
-    {
-        "question": "Q. Can a saved person later be eternally lost? Defend with scripture proofs.",
-        "answer": "A. No (Phil 1:6)."
-    },
-    {
-        "question": "Q. On what does a believer’s persevering depend? Defend with scripture proofs.",
-        "answer": "A. Their salvation does not depend upon their own free will, but on God’s decree of election (2 Tim 2:18-19)."
-    },
-    {
-        "question": "Q. Can a person be sure he is saved? Defend with scripture proofs.",
-        "answer": "A. Yes, because their hope and assurance are in the promises of God (Heb 6:11-19; 1 John 3:24)."
-    },
-    {
-        "question": "Q. Should a person be sure he is saved? Defend with scripture proofs.",
-        "answer": "A. It is the Christian’s duty (2 Peter 1:10)."
-    },
-    {
-        "question": "Q. How could a person know he is saved? On what could such assurance be based?",
-        "answer": "A. Assurance is grounded in the infallible assurance of faith, founded upon the promises of salvation, and is enabled by the Spirit with an internal witness."
-    },
-    {
-        "question": "Q. What should a person do who lacks assurance of salvation?",
-        "answer": "A. Daily repent of their sins and turn to Jesus, who offers life, with full assurance God will forgive our sins (1 John 1:9). While we desire to make our calling and election sure, our assurance is ultimately tied to the promises of God, who does not change."
-    },
-    {
-        "question": "Q. What are the three Confessional grounds for the assurance of salvation?",
-        "answer": "A. By faith grounded upon the truth of God’s promises, by the Spirit enabling them to discern in themselves those graces to which the promises of life are made, and bearing witness with their spirits that they are the children of God (WLC 80)."
-    },
-    {
-        "question": "Q. What does Scripture teach about apostasy?",
-        "answer": "A. Apostasy is described in passages like 1 Timothy 4:1, Hebrews 6:4-6, and 2 Peter 2:20-22 and acknowledges it is a real possibility. In the Parable of the Sower, Jesus describes the four soils the seed falls in, and three result in some type of growth, yet in the end only one results in lasting growth with the other two dying because of not having a root or not being able to endure tribulation. At the same time, Scripture teaches God will finish the good work He began (Philippians 1:6) and it is impossible for Jesus to lose any the Father has given Him (John 10:27-29)."
-    },
-    {
-        "question": "Q. What is the universal or catholic church?",
-        "answer": "A. It is the invisible church, consisting of all who are elect throughout time (WCF 25.1)."
-    },
-    {
-        "question": "Q. What is the visible church?",
-        "answer": "A. The visible church consists of those throughout the world professing Christ, and their children (WCF 25.2)."
-    },
-    {
-        "question": "Q. What are the attributes of the church? Prove from scripture.",
-        "answer": "A. Holy (Eph 1), catholic/unity (Eph 4), and apostolic (Matt 28). Think of the Nicene Creed — 'One, holy, catholic & apostolic...'"
-    },
-    {
-        "question": "Q. What are the marks of the church? Prove from scripture.",
-        "answer": "A. The preaching of the Word (2 Tim 4:1-2), administration of the sacraments (1 Cor 11), and church discipline (Matt 16 & 18)."
-    },
-    {
-        "question": "Q. Who is the head of the church? Prove from scripture.",
-        "answer": "A. Jesus Christ (Col 1:18)."
-    },
-    {
-        "question": "Q. Define three basic forms of church government.",
-        "answer": "A. Episcopalian church government consists of a hierarchy of priests and bishops who have final authority in the government of the church.<br>Presbyterian church government affirms the importance of the 'connectional' nature of the church; that is, that each local congregation is 'connected' both doctrinally and in practice to other local congregations via presbyteries and the General Assembly. Each local church is governed by a session, each session is accountable to a presbytery, and every presbytery accountable to the General Assembly.<br>A Congregational church government views each local church as autonomous and self-governing, and sees no place for any official, governmental connection between local churches."
-    },
-    {
-        "question": "Q. What are the principles of Presbyterian church government?",
-        "answer": "A. Christ is the head of His church & the source of all its authority; Christ exercises His authority through the Word and His Spirit.<br>Christ has endowed His church with authority—with specific authority to its officers.<br>Each local church is ruled by a session, comprised of teaching and ruling elders called by Christ and recognized by the members of the church as their leaders.<br>Each local church is represented by chosen members of its session within a presbytery, a church court comprised of teaching and ruling elders from each church within a certain geographical area.<br>The denomination as a whole is represented in the General Assembly, which serves as the highest court of the church."
-    },
-    {
-        "question": "Q. What is the role of women in the church? Support from scripture.",
-        "answer": "A. Women are co-heirs and co-laborers of the kingdom."
-    },
-    {
-        "question": "Q. What authority does the church possess?",
-        "answer": "A. The authority of the church is ministerial and declarative. It has the authority to retain and remit sins (WCF 30.2)."
-    },
-    {
-        "question": "Q. What is the purpose of church censures?",
-        "answer": "A. For the reclaiming and restoration of the offending brethren, deterring similar offences, purging that which might corrupt the whole, vindicating the honor of Christ, and preventing the wrath of God (WCF 30.3)."
-    },
-    {
-        "question": "Q. What censures may the church impose?",
-        "answer": "A. Admonition, suspension from the Lord’s Supper for a season, and excommunication from the church (WCF 30.4)."
-    },
-    {
-        "question": "Q. Identify some Scripture passages that support the practice of church discipline.",
-        "answer": "A. Matt 16, 18; 1 Cor 5-6; 2 Cor 2."
-    },
-    {
-        "question": "Q. What are the major Millennial views?",
-        "answer": "A. Amillennial – The millennium describes the present reign of the souls of deceased believers with Christ in heaven. The present form of God’s kingdom will be followed by Christ’s return, the general resurrection, the final judgment, and Christ’s continuing reign over the perfect kingdom on the new earth in the eternal state.<br>Pre-Millennial – The present form of God’s kingdom is moving toward a grand climax when Christ will return, the first resurrection will occur, and his kingdom will find expression in a literal, visible reign of peace and righteousness on the earth in space-time history. After the final resurrection, the last judgment, and the renewal of the heavens and the earth, this future, temporal kingdom will merge into the eternal kingdom, and the Lord will reign forever on the new earth.<br>  - Historical Premillennialism – view of many church fathers<br>  - Dispensational Premillennialism (Pre-tribulation) – Secret/invisible rapture of the church with a 7-year tribulation then restored theocracy of Israel with a true thousand-year reign<br>Post-Millennial – The world will eventually be Christianized, resulting in a long period of peace and prosperity called the millennium. This future period will close with Christ’s second coming, the resurrection of the dead, the final judgment, and the eternal state."
-    },
-    {
-        "question": "Q. What are the main interpretive approaches to Revelation and other prophetic literature?",
-        "answer": "A. Preterist – God’s judgment is brought on Israel in 70 AD for their apostasy.<br>Historicist – Chronological outline of the history of the church with the enemy/symbols being whatever major enemy of the time.<br>Futurist – Macro picture of Revelation which deals with future events (all Dispensationalists are Futurists but not all Futurists are Dispensational).<br>Idealist – Not historical but only depictions of principles and symbolic representation of God’s war against Satan.<br>Iterist – Eclectic view which sees issues both historical and future and symbols as characteristic of having multiple applications/manifestations."
-    },
-    {
-        "question": "Q. What are the 5 characteristics of Christ’s return?",
-        "answer": "A. 1. Personal and physical<br>2. Visible to the whole world, and sudden<br>3. Glory and triumph<br>4. Clouds of heaven his chariot, angels of heaven his bodyguard, saints his escort<br>5. Every knee will bow"
-    },
-    {
-        "question": "Q. What is annihilationism and is it compatible with Scripture?",
-        "answer": "A. Annihilationism is the view that evil and wicked, including all unsaved human beings, will no longer exist after this life rather than existing in Hell for eternity. It is not compatible with Scripture."
-    },
-    {
-        "question": "Q. What is the difference between dispensational premillennialism and covenantal premillennialism?",
-        "answer": "A. The main difference between dispensational and covenantal premillennialism is the sharp distinction between Jew and Gentile that the former maintains. Covenantal premillennialism asserts that there is one people of God comprised of both Jews and Gentiles that will find its fulfillment in the millennium. Dispensational premillennialism, on the other hand, claims that the millennium will concern primarily the establishment of a Jewish kingdom."
-    },
-    {
-        "question": "Q. Discuss the Biblical usage of the term 'last days'. Give scriptural proofs.",
-        "answer": "A. The Bible uses the term 'last days' to refer to the time period between the first and second comings of Christ. Peter announces in his sermon at Pentecost that the 'last days' predicted by the prophet Joel had dawned on the crowd who witnessed the speaking of foreign languages (Acts 2:17). The author to the Hebrews refers to his present time as 'these last days' in which God has spoken to his people by his Son (Heb 1:2). (Cf. also 2 Tim 3:1; Jas 5:3; 2 Pet 3:3)"
-    },
-    {
-        "question": "Q. What is the final judgment?",
-        "answer": "A. The final judgment will occur at the second coming, at which time God will judge by Christ both apostate angels and all men, who will give an account of what they have done in the body, whether good or evil. The final judgment will manifest God’s mercy in the eternal salvation of the elect, and his justice in the damnation of the reprobate."
-    },
-    {
-        "question": "Q. What is death? How is it related to sin?",
-        "answer": "A. Physical death is the termination of physical life by the separation of body and soul. Death is a positive punishment for sin."
-    },
-    {
-        "question": "Q. What is the state of man after death?",
-        "answer": "A. At death, body and soul are separated. The souls of believers are received into heaven where they behold the face of Christ and wait for the redemption of their bodies. The wicked, at death, are cast into hell to endure torments until the resurrection and the judgment."
-    },
-    {
-        "question": "Q. Does Scripture teach a further probation (Purgatory) following death? 'Soul-sleep?' Discuss.",
-        "answer": "A. Scripture does not teach the existence of either a further probation such as Purgatory or 'soul-sleep.' The possibility of a further probation is eliminated by the sufficiency of Christ’s atonement and the imputation of his active obedience. His work has perfectly qualified believers to be in God’s presence, and they need no further probation. The doctrine of 'soul-sleep' is negated by passages like Philippians 1:23 in which Paul states that it would be 'better' to be with Christ than to remain here. This would not make sense if a person remained unconscious during the time before the resurrection."
-    },
-    {
-        "question": "Q. Prove from Scripture that the bodies of believers will be raised on the last day.",
-        "answer": "A. The clearest passage dealing with the resurrection of the bodies of believers is 1 Corinthians 15. Paul explains that 'flesh and blood cannot inherit the kingdom of God', but that at the sound of the trumpet on the last day believers will receive imperishable, heavenly bodies like that of Christ (vv. 50-54). He explains earlier in the chapter that the resurrection takes place even though our bodies die and are buried, just like a seed must die in order to produce wheat (v. 37). Also, in Romans 8:23, Paul speaks of our ultimate hope as 'the redemption of our bodies.' (Cf. also Phil 3:21)"
-    },
-    {
-        "question": "Q. Who is the Holy Spirit?",
-        "answer": "A. The Holy Spirit is the third person of the Trinity, equal in power and glory with the Father and the Son. He eternally proceeds from the Father and the Son, and it is by His work that believers become partakers of the benefits of the work of Christ."
-    },
-    {
-        "question": "Q. What is the Spirit’s function today?",
-        "answer": "A. The Holy Spirit’s function today is the same as in the past; however, in NT redemption, the Holy Spirit’s role gains a new emphasis. In the Old Testament, the Holy Spirit prepared God’s people for the coming of the Son through the revelation of God’s Word (2 Peter 1:21) and acts of providence. Now, the Holy Spirit counsels God’s people to understand God’s revealed Word (John 14:16). Throughout history, the Holy Spirit has been the agent of salvation and involved in the work of building God’s kingdom."
-    },
-    {
-        "question": "Q. What do New Testament passages teach concerning the work of the Holy Spirit?",
-        "answer": "A. How He comes – In the form of a dove upon Christ (John 1:32); in the form of tongues of fire upon those at Pentecost (Acts 2); He comes to us through the hearing of the Word (Rom. 10-11).<br>How He works – In our hearts and with the word: The Spirit gives life; the flesh counts for nothing. The words I have spoken to you are spirit and they are life (John 6:63).<br>What He does – See questions above.<br>What His ministry is today – The Holy Spirit “mediates knowledge of, and union and communion with the physically withdrawn, ascended, and glorified savior (John 14:15-26, 16:14). He does the work of effectual calling in which He convinces us of our sin and misery, enlightens our minds in the knowledge of Christ, and renews our wills, persuades and enables us to embrace Jesus Christ (WSC 31)."
-    },
-    {
-        "question": "Q. Distinguish between the gifts and fruit of the Spirit.",
-        "answer": "A. Gifts of the Spirit (Rom. 12; 1 Cor. 12-14; Eph. 4) are given to believers in different measure and are essential to the building of God’s church; Fruits of the Spirit (Gal. 5:22-23) deal with personal transformation of character in the life of an individual believer.<br>The gifts of the Spirit are those works given to individual Christians to use in the service of others for the building up of the common good (Rom 12:6-8; 1 Cor 12:4-11). These gifts differ from person to person, so that not everyone has the same spiritual gift in the church. The fruit of the Spirit, on the other hand, concerns the inner motives and attitudes of the believer, and will come to expression in all Christians (Gal 5:22)."
-    },
-    {
-        "question": "Q. Does the Spirit give gifts today?",
-        "answer": "A. Yes! The Holy Spirit equips men with gifts to enable them to build God’s Kingdom on earth. In Rom. 12 and 1 Cor. 12-14, many gifts are described which are indisputably given in the church today: serving, teaching, encouragement, leading, evangelism, etc. – these gifts are all essential for building God’s church."
-    },
-    {
-        "question": "Q. Are there gifts mentioned in Scripture not given today?",
-        "answer": "A. Yes! Certain gifts mentioned in scripture (prophecy [as revelation], tongues, miracles, healing) seem to be strictly associated with the establishment of apostolic authority and the church."
-    },
-    {
-        "question": "Q. What was the purpose of these gifts?",
-        "answer": "A. These gifts were given to reveal God’s gospel message and to confirm the messenger and his message."
-    },
-    {
-        "question": "Q. Were signs and wonders always present with the apostles?",
-        "answer": "A. No, signs and wonders were not always present with the apostles. For example, Paul left the sick Trophimus behind in Ephesus and his own thorn in the flesh was not removed."
-    },
-    {
-        "question": "Q. What is the significance of Hebrews 2:3b-4 in relation to these gifts?",
-        "answer": "A. Hebrews 2:3b-4 provides the same perspective: how shall we escape if we ignore such a great salvation? This salvation, which was first announced by the Lord, was confirmed to us by those who heard him. God also testified to it by signs, wonders and various miracles, and gifts of the Holy Spirit distributed according to his will."
-    },
-    {
-        "question": "Q. When did God typically perform miracles?",
-        "answer": "A. Those times in history that involved miracles were times in which God was revealing His message through His prophets. The New Testament times are no different."
-    },
-    {
-        "question": "Q. What is a miracle? Do miracles occur today?",
-        "answer": "A. Miracles are God working outside, above, and against his ordinary means of providence (WCF 5.3).<br>Miracles are events of divine intervention with the purpose of providing evidence that Jesus and the apostles were who they were presenting themselves as. I do not believe miracles occur in the same manner, but I do believe God is capable of entering into his creation and performing works that we are not capable of explaining."
-    },
-    {
-        "question": "Q. How would you respond to a Mormon's claim that Jesus' statements in the gospels, such as 'I and the Father are One' and 'I am the vine, and you are the branches', prove that He was claiming to be very God?",
-        "answer": "A. These statements uphold the monotheism of the Old Testament, as seen in the Old Testament references in Matthew, and demonstrate Jesus' divinity as the second person of the Trinity."
-    },
-    {
-        "question": "Q. How would you respond to a Jehovah's Witness' claim that John 1:1 should be translated as 'The Word was a God'?",
-        "answer": "A. Based on the Colwell principle, an anarthrous noun before the verb is definite, so John 1:1 should be translated as 'The Word was God', affirming Jesus' divinity."
-    },
-    {
-        "question": "Q. How would you respond to a Charismatic's claim that 1 Cor. 12-14 shows that tongues are the most inferior of all the gifts toward building God's Kingdom, and that love is the most superior gift?",
-        "answer": "A. While love is a crucial aspect of building God's Kingdom, 1 Cor. 12-14 actually presents a balanced view of spiritual gifts, with prophecy and clear speaking of God's truths being highly valued alongside love."
-    },
-    {
-        "question": "Q. What is the moral law and its three uses?",
-        "answer": "A. The moral law (contrasted with the ceremonial law) is the use of the Ten Commandments as the law setting norms for the people.<br>The three uses of the moral law are (1) as a mirror to reflect our own sinfulness and need for salvation, (2) as a 'civil use' to restrain evil and be a law for all people, and (3) to guide the Christian in good works and what pleases God."
-    },
-    {
-        "question": "Q. What laws besides the moral law did God give His people under the Old Covenant?",
-        "answer": "A. In addition to the moral law, God also gave the ceremonial, or sacrificial law."
-    },
-    {
-        "question": "Q. Are believers under obligation to the law today? Defend with scripture proofs.",
-        "answer": "A. Under the New Covenant, believers are not required to keep the ceremonial law as Christ was the once-for-all sacrifice (Heb.), but the moral law remains."
-    },
-    {
-        "question": "Q. Can believers keep God’s law? Explain and defend your answer with Scripture proofs.",
-        "answer": "A. Believers, remaining in a state of sinfulness, are not able to perfectly keep God’s law in this life."
-    },
-    {
-        "question": "Q. What is the 'Lordship Controversy?'",
-        "answer": "A. A dispute arising primarily in non-denominational and Evangelical churches in the late 20th century regarding the relationship between faith and works. The question centers on whether one must accept Christ’s lordship over their lives.<br>If Jesus is one’s savior, they must recognize Christ as their Lord, and thereby submit to the moral laws laid forth in Scripture and continued through the teaching of Christ. Paul and the early Christians first spoke of their belief and identification as 'the Way' (Acts 9:2; 19:9; 22:4, etc.). This is both a connection with Jesus identifying himself as 'the way, the truth, and the life' (John 14:6) and a description of their new life and patterns because of Christ’s call upon their life. One day every knee with bow and tongue confess that Jesus is Lord."
-    },
-    {
-        "question": "Q. What is 'Christian Liberty?' Explain and defend with scripture proofs.",
-        "answer": "A. As WCF 20.1 states, the liberty Christ purchased is 'freedom from the guilt of sin, the condemning wrath of God, the curse of the moral law; and in their being delivered from this present evil world, bondage to Satan, and dominion of sin, from the evil of afflictions, the sting of death, the victory of the grave, and everlasting damnation; as also in their free access to God, and their yielding obedience unto him, not out of slavish fear, but a child-like love and willing mind.'<br>Christian liberty relates to decisions not specified in nor transgress the moral law. The matter of circumcision was declared to be a matter of Christian liberty and conscience in Acts 15 as it was not a requirement. The same is applied to dietary issues in many cultures.<br>Christian liberty means that the conscience of others cannot be unduly bound to matters not clear from Scripture."
-    },
-    {
-        "question": "Q. Who or what is Lord of the conscience? Defend with scripture proofs.",
-        "answer": "A. The Lord alone (Rom. 14; James 4)."
-    },
-    {
-        "question": "Q. How does Christian liberty bear on the Christian’s obligation to the state?",
-        "answer": "A. If the power is lawful, and exercised in a lawful manner, the Christian has the responsibility to obey or else be found resisting the ordinance of God (WCF 20.4)."
-    },
-    {
-        "question": "Q. What is the 'regulative principle?' Defend with scripture proofs.",
-        "answer": "A. The acceptable way of worshipping God is instituted by himself and therefore limited to his own revealed will, and that he is not to be worshipped according to the imaginations and devices of men, or the suggestions of Satan (Exod. 20; Deut. 12; Lev. 10; Matt. 15; Col. 2)."
-    },
-    {
-        "question": "Q. Who is to be worshiped? Defend with scripture proofs.",
-        "answer": "A. Worship is to be given to God the Father, Son, and Holy Spirit alone (Matt. 4; John 5; 2 Cor. 13)."
-    },
-    {
-        "question": "Q. What are the ordinary parts/elements of worship? How are they differentiated from other aspects of worship?",
-        "answer": "A. The elements of worship are those fixed and unchanging aspects of worship and include reading and hearing, praying, and singing of Scripture (Psalms, hymns, and spiritual songs), along with the observance of the sacraments. They can further include a call to worship, invocation, confession, declaration of pardon, and a benediction.<br>The elements of worship may have different forms and circumstances (time, seating, etc.), but the element is always the priority."
-    },
-    {
-        "question": "Q. Are Christians under obligation to keep a Sabbath? Defend with scripture proofs.",
-        "answer": "A. The Sabbath, being a day set apart for observance and rest from the point of creation and established in the law of Moses, continues today and we are responsible for observing this pattern (Ex. 20; Acts 20; 1 Cor. 16)."
-    },
-    {
-        "question": "Q. If so, how should the Sabbath be kept? Defend with scripture proofs.",
-        "answer": "A. By general preparation of our affairs in advance, so there might be a full observance of a holy rest from worldly employments and recreations, and devote our time to public and private worship, and duties of necessity and mercy."
-    },
-    {
-        "question": "Q. Differentiate between the 'Continental' and 'Westminster' views of the Sabbath.",
-        "answer": "A. The diversity should not be exaggerated. Often, they are described in a way equating the 'Continental' perspective with Calvin’s view and less rigorous than the 'Westminster' or British view. The Continental view does not necessarily forbid recreational activities."
-    },
-    {
-        "question": "Q. Should a Christian ever take an oath or vow? Explain and defend with scripture proofs.",
-        "answer": "A. A Christian may take an oath (2 Chr. 6; 2 Cor. 1); however, it must be done with reverence and holy fear (Deut. 6; Lev. 19)."
-    },
-    {
-        "question": "Q. What should be our attitude toward civil authorities? Defend with scripture proofs.",
-        "answer": "A. God has ordained the civil magistrates and they rule over the people for his glory and the public good (Rom. 13; 1 Peter 2). Christians are to pray for those in authority and to honor them."
-    },
-    {
-        "question": "Q. What is the relationship between church and state?",
-        "answer": "A. The state carries the sword but may not assume the administration of the Word and sacrament. The state has the authority and duty to take order."
-    },
-    {
-        "question": "Q. By whom and for what purpose was marriage designed? Defend with scripture proofs.",
-        "answer": "A. God ordained marriage for the mutual help of husband and wife, the increase of mankind, and for preventing uncleanness (Gen. 2; Mal. 2; 1 Cor. 7)."
-    },
-    {
-        "question": "Q. Who may (and who may not) be lawfully married? Defend with scripture proofs.",
-        "answer": "A. All sorts of people may marry, yet it is the duty of the Christian to marry only in the Lord (1 Cor. 7)."
-    },
-    {
-        "question": "Q. Under what circumstances is divorce permissible? Defend with scripture proofs.",
-        "answer": "A. Adultery and willful desertion (Mat. 19; 1 Cor. 7)."
-    },
-    {
-        "question": "Q. Is divorce an option for those abused by their spouses (physical or otherwise)? Defend.",
-        "answer": "A. Yes. The covenant to love and cherish is broken, as abuse is contrary to willing good for the other (love)."
-    },
-    {
-        "question": "Q. May those who have been divorced remarry? Defend with scripture proofs.",
-        "answer": "A. 1 Corinthians 7 provides a principle of being properly divorced and an allowance for remarriage. Under the conditions of Matthew 19 there are circumstances in which remarriage would constitute adultery."
-    },
-    {
-        "question": "Q. What is the state of a person’s soul between death and final resurrection?",
-        "answer": "A. A person’s soul immediately goes to heaven or hell upon death, which is the doorway to judgment. There it remains until the final resurrection in which body and soul are reunited."
-    },
-    {
-        "question": "Q. If only Scripture is infallible and sufficient, why do we need confessions and creeds? What sort of authority, if any, ought a confession to have in a reformed church?",
-        "answer": "A. Even though only Scripture is infallible and sufficient, the church needs confessions and creeds in order to set forth in summary form what we believe the whole Bible teaches. False teachers have historically always quoted Scripture to defend their beliefs. Therefore, it is important that the church confess publicly what it is they believe and employ that confession as a standard against which all teaching may be measured. Furthermore, the Scriptures themselves give evidence of confessions or 'sound doctrine' recognized by the early church that were not themselves part of Scripture (1 Tim 6:3-5; Titus 1:9; 2:1; Jude 3). Therefore, confessions are formulated out of obedience to what the Scriptures teach.<br>The confessions and creeds, though subordinate in authority to the Word of God, should be used as the authoritative standard to evaluate the orthodoxy of ministers desiring to serve in the church."
-    }
+  {
+    "question": "Q. What is revelation in a theological context?",
+    "answer": "A. Revelation is God's action of making himself and his will known to humanity. It is necessary because it is impossible for humanity to know God without God making himself known (Deut. 29:29; Rom. 11:33-34; Ps. 145:3)."
+  },
+  {
+    "question": "Q. What is general revelation (also known as natural revelation) with biblical references?",
+    "answer": "A. General revelation, or book of nature (Psalm 19), is the revelation of God through creation, God's self-disclosure through his works. We receive it by reason and perception. It shows that there is a God and that humans are accountable to him, but cannot save mankind.<br><br>Psalm 19:1-6; Acts 17; Romans 1-2"
+  },
+  {
+    "question": "Q. What is special revelation?",
+    "answer": "A. Special Revelation is God's self-disclosure through speech and written testimony received by faith, revealing to us all our spiritual benefits (Rom. 8) and how we must be saved (Eph. 2:8-9).<br><br>Psalm 19:7-12; 2 Peter 1:20-21; 2 Timothy 3:15-16; Hebrews 1:1-2"
+  },
+  {
+    "question": "Q. What are the 'attributes' of Scripture?",
+    "answer": "A. The 'attributes' of Scripture are its necessity, authority, sufficiency, and perspicuity."
+  },
+  {
+    "question": "Q. What is the necessity of Scripture?",
+    "answer": "A. Scripture is necessary because no one can divine the mind of God. His purpose and will have to be revealed by special revelation for us to know it. Scripture is necessary for saving faith, often called 'the seed of the church', and remains necessary until time ends (Rom. 10:17)."
+  },
+  {
+    "question": "Q. What is the authority of Scripture?",
+    "answer": "A. Scripture is inherently authoritative by virtue of its Holy Spirit inspiration. It holds historical authority in that it is 100% historically reliable. It holds normative authority in that it is God’s rule of life and conduct. (2 Tim 3:16-17)"
+  },
+  {
+    "question": "Q. What is the sufficiency of Scripture?",
+    "answer": "A. The “sufficiency” of scripture posits that the cannon is closed. We have nothing to add and there will be nothing to add – the scriptures are sufficient as they reveal the mysteries of the covenant of Grace which is completely fulfilled in Jesus Christ, the Alpha and Omega of our faith and existence. Scripture is complete, containing all that is needed for God's glory and for man's salvation, faith, and life. (WCF 1.6) The sufficiency of Scripture ensures that all aspects of pastoral ministry are rooted in God’s complete and authoritative Word."
+  },
+  {
+    "question": "Q. What is meant by the perspicuity of Scripture?",
+    "answer": "A. Scripture was given in a common, simple language that can be understood in its plain sense by those of sound mind; the knowledge of saving faith is clearly and simply presented in Scripture, allowing anyone who earnestly seeks salvation to easily gain this knowledge for themselves, without relying on the church or a priesthood (WCF 1.7; Psalm 19:7-8)."
+  },
+  {
+    "question": "Q. What is meant by the inspiration of Scripture?",
+    "answer": "A. Inspiration means that all Scripture is God-breathed (2 Tim. 3:16). The Holy Spirit's superintendence extends to the choice of words, making Him the primary author. Therefore, the Bible is the Word of God. It's God's special revelation, a product of His direct intellectual superintending of the writers. The inspired Scriptures are the very words of God and thus the absolute and immutable authoritative rule for faith and practice. (2 Tim. 3:16, Heb. 1:1-2, 2 Pet. 1:21)"
+  },
+  {
+    "question": "Q. What is plenary, verbal inspiration?",
+    "answer": "A. Plenary, verbal inspiration refers to the belief that the inspiration of Scripture extends to every word written in them, such that not a single word in the original autographa was written outside the influence of the Holy Spirit."
+  },
+  {
+    "question": "Q. What is the inerrancy of Scripture?",
+    "answer": "A. Inerrancy means that Scripture is without error in the original autographs. The term 'inerrant,' as applied to the Scriptures, means that the Bible is free from any falsehood, fraud, or deceit."
+  },
+  {
+    "question": "Q. What is meant by the infallibility of Scripture?",
+    "answer": "A. Infallibility means that Scripture, because it is God's Word, is unable to err. When applied to Scripture, 'infallible' means that it will not mislead those who read it, and that it is true and reliable in all it asserts."
+  },
+  {
+    "question": "Q. What is the difference between 'inspiration' and 'illumination'?",
+    "answer": "A. Inspiration is the act of the Holy Spirit whereby He sovereignly guided and directed the authors of Scripture as they wrote. Illumination refers to the work of the Holy Spirit in believers which aids them in understanding the meaning of Scripture and its application to their lives."
+  },
+  {
+    "question": "Q. What is the 'canon' of Scripture and defend it with biblical text?",
+    "answer": "A. The word 'canon' means a rule or standard. In the Christian Church, the canon refers to the list of 66 books recognized by the Church as the inspired and authoritative Word of God, given to direct the church's faith and life.<br><br>The concept of canon is present in Scripture itself. Warnings against adding or subtracting from God's Word, such as in Deuteronomy 4:2 and Revelation 22:18, indicate that there is a specific group of writings that are the authoritative Word of God, and all other writings are not."
+  },
+  {
+    "question": "Q. How is the canon seen in the Old Testament and how is it defended?",
+    "answer": "A. By the time of Jesus, the Jews had recognized the 39 books of the OT as God's authoritative canon, designated as 'the Law, the Prophets and the Writings.' Jesus affirms this in Matthew 5:17; 7:12; Luke 24:27, 44. Jesus' non-use of the Apocrypha in his teachings suggests he didn't consider it canonical."
+  },
+  {
+    "question": "Q. How is the canon seen in the New Testament and how is it defended?",
+    "answer": "A. The apostles recognized their authoritative office and the authoritative body of teaching entrusted to them. They viewed their own writings as authoritative, canonical Scripture inspired by God. This is evident in 2 Peter 3:2, 15-16; 1 Thessalonians 2:13; 1 Timothy 5:18 (which cites Luke 10:7 as Scripture); Hebrews 2:2-3; and 1 Peter 1:12."
+  },
+  {
+    "question": "Q. Describe the formation of the New Testament canon.",
+    "answer": "A. The idea of a canon was natural to early Christians due to the Old Testament's history. Much of the canon was in place before church council decisions. By mid-2nd century, there was consensus on 21-22 NT books. Disputed books included 2 Peter, Jude, James, and 2-3 John. Paul's letters were circulated as Scripture (2 Peter 3:16), and 1 Timothy 5:18 quotes Jesus' words as Scripture. Justin Martyr used the current fourfold Gospel in the mid-2nd century. 4th century councils resolved disputes over the remaining books."
+  },
+  {
+    "question": "Q. What determines which books belong in the canon?",
+    "answer": "A. Apostolicity: written by the apostles or their associates (Luke & Paul; Mark & Peter).<br>Orthodoxy: conforms to the teachings of the apostles and the books written by them.<br>Catholicity: accepted early and by a majority of the Church."
+  },
+  {
+    "question": "Q. What do the Scriptures principally teach?",
+    "answer": "A. The Scriptures principally teach what man is to believe concerning God, and what duty God requires of man (Jn. 20:31; Deut. 29:29). (WSC 3)"
+  },
+  {
+    "question": "Q. What is the Reformation principle of private interpretation?",
+    "answer": "A. The Reformation's principle of private interpretation is the right of individual believers to interpret Scripture without the aid of a priest or any other authority. This principle is tied to the perspicuity (clarity) of Scripture and recognizes the continuity between the Old and New Testaments."
+  },
+  {
+    "question": "Q. Explain the redemptive-historical hermeneutical approach?",
+    "answer": "A. The redemptive-historical hermeneutic interprets Scripture as a unified story of God's redemption, seeing each passage in light of its contribution to the overall narrative of salvation through Jesus Christ."
+  },
+  {
+    "question": "Q. What is the most basic rule of interpreation flowing from the Reformation?",
+    "answer": "A. Scripture interprets Scripture, the analogy of faith."
+  },
+  {
+    "question": "Q. What is meant by the Reformation doctrine of sola scriptura?",
+    "answer": "A. Sola scriptura means that the Scriptures alone are the word of God, and there exists no unwritten word outside or alongside them with equal authority to bind the conscience. This implies the doctrine of <em>analogia fidei</em>, which states that the infallible rule for interpreting Scripture is Scripture itself."
+  },
+  {
+    "question": "Q. What is the Roman Catholic viewpoint on Scripture?",
+    "answer": "A. The Roman Catholic Church believes Scripture is the divinely inspired Word of God, but they believe their authority derives from the church. They view Scriptures as insufficient for faith and life without the divinely inspired interpretation of the church magisterium and the continuing revelations of the Pope."
+  },
+  {
+    "question": "Q. What is the Mormon viewpoint on Scripture?",
+    "answer": "A. Mormons affirm that The Book of Mormon, purportedly translated from golden tablets by Joseph Smith in the early 19th century, is equal in authority with the Old and New Testaments. This view inherently denies the sufficiency of Scripture."
+  },
+  {
+    "question": "Q. What is the Barthian viewpoint on Scripture?",
+    "answer": "A. The Barthian view asserts that the Bible is not revelation from God per se, but rather human testimony about God's revelations of himself in history. Thus, the Scriptures are seen as one step removed from the real divine revelation."
+  },
+  {
+    "question": "Q. Explain the doctrine of the Trinity?",
+    "answer": "A. Short: There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.(WSC 6)<br>Long: In the unity of the Godhead there are three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten, nor proceeding; the Son is eternally begotten of the Father; the Holy Ghost eternally proceeding from the Father and the Son. (WCF 2.3)"
+  },
+  {
+    "question": "Q. What is Perichoresis?",
+    "answer": "A. Perichoresis refers to the mutual indwelling within the Trinity. It holds together the threeness and oneness of God. Biblical references include Matthew 3:16-17 and 28:18-20."
+  },
+  {
+    "question": "Q. What are the personal properties of the Trinity?",
+    "answer": "A. God the Father decrees (Dan 4:34-35; Eph 1:1-4). The Son is the eternally begotten son (filiation) of the Father, begotten not made (John 1:1,14; Heb 1:5; Ps. 2). The Spirit proceeds from the Father and the Son (John 15:26-27)."
+  },
+  {
+    "question": "Q. Describe eternal generation.",
+    "answer": "A. Eternal generation refers to the Son being begotten of the Father within the Godhead (ad intra). It is eternal, not temporally bound, and apart from creation. The Son is eternally begotten, of the same essence/substance as the Father, affirming their coequality. The Father is unbegotten, the Son is begotten, and the Son is a subsistence of the one divine nature, not a production of another nature. Eternal generation does not cause change or involve priority or inferiority."
+  },
+  {
+    "question": "Q. How is the deity of Christ demonstrated in Scripture?",
+    "answer": "A. Christ's deity is shown through:<br>1. Attributes, works, and worship proper to God alone<br>2. Title 'son of man' in gospels (Matt 9), referring to the divine Messiah in Daniel 7<br>3. Creation of the world (John 1; Col. 1)<br>4. Titles 'son of God' and 'Christ/messiah' (Matt 16:16)<br>5. Divine acts like forgiving sins (Matt 9)<br>6. Direct claims in Scripture (Phil. 2; Col. 2; John 1)<br>7. Christ's own claims of divinity and oneness with the Father (Matt 9; John 8; 10)"
+  },
+  {
+    "question": "Q. How is the personhood of the Holy Spirit demonstrated in Scripture?",
+    "answer": "A. The Holy Spirit's personhood is shown by:<br>1. Being called God (Acts 5:9)<br>2. Named with the Godhead (Matt. 28)<br>3. Working in the elect, applying spiritual benefits (Eph 1:13-14; John 14:26; 15:26; 16)<br>4. Illuminating knowledge about God (1 Cor 2:10-14)<br>5. Interceding for believers (Rom. 8:26)<br>6. Anointing Christ for His mission (Matt 3:16; 4:1)"
+  },
+  {
+    "question": "Q. How is the deity of the Holy Spirit demonstrated in Scripture?",
+    "answer": "A. The Holy Spirit's deity is evident through:<br>1. Names: Called 'God' in Acts 5:3-4 and 1 Cor. 2:10-11<br>2. Attributes: Knowing the thoughts of God (1 Cor. 2:10-11)<br>3. Works: Active in creating the world (Gen. 1:2)<br>4. Worship: Included in baptismal formula (Matt. 28:19)<br>5. Identification with Father and Son (2 Cor. 13:14)"
+  },
+  {
+    "question": "Q. How is the Spirit identified with the Father and the Son?",
+    "answer": "A. The Spirit is identified with:<br>1. The Father: John 15:26<br>2. The Son: Gal. 4:6<br>3. All three are present at Jesus' baptism (Mark 1)"
+  },
+  {
+    "question": "Q. What are some of the works of the Holy Spirit?",
+    "answer": "A. The works of the Holy Spirit include:<br>1. Revelation of Truth (John 14)<br>2. Power (2 Tim. 1:7)<br>3. Comfort (John 14)<br>4. Prayer (Rom. 8)<br>5. Enabling our service (1 Cor. 12)"
+  },
+  {
+    "question": "Q. What are the Ontological and Economic Trinity?",
+    "answer": "A. The Ontological Trinity refers to God as He is in Himself, describing the relationship between the persons in themselves without respect to creation or redemption. There is but one only, living, and true God (Deut. 6:4) who exists in three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Spirit (Matt 3:16-17; Matt 28:19; 2 Cor 13:14). The Father is of none, neither begotten, not proceeding; the Son is eternally begotten of the Father (John 1:14, 18); the Holy Spirit eternally proceeding from the Father and the Son (John 15:26).<br><br>The Economic Trinity refers to God as He has revealed Himself to us, describing the relationship of the persons of the Trinity in the work of redemption and creation.<br>This distinction is important as it maintains that there is mystery in the Triune God beyond our capabilities to fully understand."
+  },
+  {
+    "question": "Q. What are the incommunicable attributes of God?",
+    "answer": "A. Incommunicable attributes of God are:<br>1. Self-Existence/Aseity – God exists in himself (Gen 1:1; Dan 3:34-35; Jn 1:1-3; Ps 33:11; John 5:26)<br>2. Immutable – God does not change (Mal. 3:6; Num 23:19; Dan 3:35; Ps 33:11; Heb 6:17)<br>3. Infinity – (Ps 145:3; Acts 17:27)<br>4. Omniscient – (Psalm 115:3; 1 John 3:20)<br>5. Omnipotent – (Luke 1:37)<br>6. Omnipresent (Psalm 139; Jer. 23; Acts 17)"
+  },
+  {
+    "question": "Q. What are the communicable attributes of God?",
+    "answer": "A. Communicable attributes of God are:1. Holiness – (Is. 6:3; Rev. 4:8)<br><br>2. Wisdom – (Rom. 11:33)<br>3. Love – (John 3:16; Eph. 2:8-9)<br>4. Grace – (Eph 2:7-9)<br>5. Justice – (Micah 6:8)<br>6. Truth (John 3:33; cf. Num. 23:19; Isa. 45:19; John 14:6)<br>7. Righteousness – (Psalm 1; Psalm 2:7)"
+  },
+  {
+    "question": "Q. Explain the doctrine of the incarnation.",
+    "answer": "A. The eternal Son, the second person of the Trinity, took on flesh (in carne) and dwelt among us. Jesus Christ, while remaining fully God, became fully human. The doctrine of the incarnation is essential to the atoning work of Jesus by his living a perfect life while being truly human, thereby fulfilling the law's demands."
+  },
+  {
+    "question": "Q. Defend God’s immutability in light of the incarnation.",
+    "answer": "A. The Son of God in his divine nature remained eternally unchanged, though in Jesus’ humanity he experienced growth and change. No change occurred within the nature or being of God or any of the persons of the Godhead, but in Jesus are two distinct natures in one person (WLC 36). God’s will and eternal decrees are immutable."
+  },
+  {
+    "question": "Q. What do we mean when we say that the Scriptures are inspired by God?",
+    "answer": "A. God used human writers with their own backgrounds, vocations, experiences, etc., to communicate the Word of God through the inspiration of the Holy Spirit. The author is both the human and God."
+  },
+  {
+    "question": "Q. What is theodicy?",
+    "answer": "A. A philosophical attempt to defend the justice and goodness of God, especially in view of evil. It is the study of the question: 'If God is both omnipotent and perfectly good, how can He then permit evil and suffering?'"
+  },
+  {
+    "question": "Q. Is God Responsible for Sin?",
+    "answer": "A. Did He decree it? – His eternal decree ‘rendered the entrance of sin into the world certain, but this may not be interpreted to make God the cause of sin in the sense of being its responsible author.’ Such a thing would be impossible as He is the Holy God (Isaiah 6:3) and He neither can be tempted nor tempt (James 1:13).<br>Did He permit it? – Sin having its origin in the angelic world (Jude 6) and in the human race (Rom. 5:12) it must be said that God did permit sin, insofar as He gave His creatures capacity of choice, and they chose to sin (rebel against and disobey God).<br>Who is the ultimate cause of all things? – God is the first and ultimate cause (Rom. 11:36). All things are under His control (He is sovereign) – therefore ‘the work of God always has the priority, for man is dependent on God in all that he does.’ By His permissive will, sin and evil entered the world, their origin being in the will of the creature, not the Creator. It is a mystery why He permitted sin and evil, so we must accept the tension, understanding that He is both sovereign and good."
+  },
+  {
+    "question": "Q. Respond to the question about the existence of evil and natural disasters.",
+    "answer": "A. There are many views of theodicy, but ultimately evil is allowed to exist by God, who is not the author of sin. We do not always know the purpose of events, but as God uses all things to His glory, we will see God carry out justice against evil and iniquities, and renew creation, which was introduced to things such as natural disasters because of humanity's sin."
+  },
+  {
+    "question": "Q. What is the Moral Argument for God's existence (Kant)?",
+    "answer": "A. The moral argument asserts that the existence of objective moral values and duties implies a moral lawgiver. Since objective moral values exist and we experience a sense of moral obligation, this points to the existence of a higher moral authority, identified as God."
+  },
+  {
+    "question": "Q. What is the Cosmological Argument for God's existence (Aquinas)?",
+    "answer": "A. The cosmological argument asserts that everything that exists has a cause. Since the universe exists, it must have a cause, identified as God. Aquinas formulated this in several ways:<br>1. Argument from motion: everything in motion must have been set in motion by something else<br>2. Argument from contingency: everything contingent must have a necessary being as its cause"
+  },
+  {
+    "question": "Q. What is the Teleological Argument for God's existence (Paley)?",
+    "answer": "A. The teleological argument posits that the order and complexity of the universe suggest the presence of a purposeful designer. Paley used the analogy of a watchmaker: just as the intricate design of a watch implies a watchmaker, so too does the intricate design of the universe imply a divine Designer."
+  },
+  {
+    "question": "Q. What is the Ontological Argument for God's existence (Anselm)?",
+    "answer": "A. The ontological argument is a conceptual argument that begins with the definition of God as the greatest conceivable being. Anselm argued that existing in reality is greater than existing merely in the mind. Therefore, if God, as the greatest conceivable being, exists in the mind, He must also exist in reality."
+  },
+  {
+    "question": "Q. What place do classical arguments for God's existence have today?",
+    "answer": "A. Classical arguments are neither useless nor fully sufficient. By God's grace, humanity possesses reason, so these arguments may be valid in the process of persuading others that Christianity is not illogical nor opposed to reason."
+  },
+  {
+    "question": "Q. What's the difference between infralapsarian, supralapsarian, and Amyraldianism?",
+    "answer": "A. These terms refer to different views on the logical order of God's decrees. The infralapsarian position is the most common. (Note: A full explanation would require more detail about each position.)"
+  },
+  {
+    "question": "Q. What is the position of the Westminster Standards on the order of God's decrees?",
+    "answer": "A. The question doesn't provide specific information about the Westminster Standards' position on this issue."
+  },
+  {
+    "question": "Q. What are the decrees of God?",
+    "answer": "A. The decrees of God are his eternal purpose, according to the counsel of his will, whereby, for his own glory, he has foreordained whatsoever comes to pass (Isaiah 46:9-11; Ephesians 1:11). Although God foreknows everything that will come to pass, he did not decree anything because he foresaw it in the future. All things are decreed according to the counsel of his will (Romans 9:16; Ephesians 1:11; Isaiah 14:24)."
+  },
+  {
+    "question": "Q. What important note is mentioned regarding the decrees of God?",
+    "answer": "A. The information mentions that there is a table that should be known, but the content of this table is not provided in the given text."
+  },
+  {
+    "question": "Q. What is the Amyraldian view of God's decrees?",
+    "answer": "A. In the Amyraldian view, God's decree of salvation logically precedes His decree of election. This allowed Amyrald to postulate a universal design in the atonement while still holding to predestination."
+  },
+  {
+    "question": "Q. How do biblical and historical theology relate to systematic theology?",
+    "answer": "A. Biblical and historical theology are foundational to systematic theology. Theology is developed through exegesis and synthesis of different passages of Scripture, considering what the church has believed throughout history."
+  },
+  {
+    "question": "Q. What is the relationship between practical theology and systematic theology?",
+    "answer": "A. Practical theology is the result of systematic theology. The church's practice is ordered according to theological beliefs derived from systematic theology."
+  },
+  {
+    "question": "Q. What is the role of systematic theology in relation to biblical interpretation?",
+    "answer": "A. Systematic theology assesses how a passage is connected with the rest of Scripture regarding a specific topic or theme, providing a comprehensive understanding of biblical teachings."
+  },
+  {
+    "question": "Q. How do the four disciplines of theology (biblical, historical, practical, and systematic) relate to each other?",
+    "answer": "A. 1. Biblical and historical theology form the foundation for systematic theology.<br>2. Systematic theology synthesizes biblical teachings and historical understanding.<br>3. Practical theology applies the insights from systematic theology to church practice.<br>4. Systematic theology connects individual passages to broader biblical themes and topics."
+  },
+  {
+    "question": "Q. What is the nature of man?",
+    "answer": "A. Man was created in the image of God, with a body and a soul (Gen. 2:7; Matt. 10:28). Due to Adam's first transgression, all people are now born with a sinful nature (Rom. 5:12-21; Ps. 51:5)."
+  },
+  {
+    "question": "Q. What is the four-fold state of man?",
+    "answer": "A. 1. Created: possible to sin (Gen. 1:26-31; 3)<br>2. Fallen: not possible not to sin (Gen. 6:5; Rom. 3:9-18)<br>3. Redeemed: possible not to sin (Rom. 6:17; Eph. 4:22-23)<br>4. Glorified: not possible to sin (2 Peter 3:13; 1 Cor. 15:49)"
+  },
+  {
+    "question": "Q. Is there any good remaining in a fallen, sinful man? Explain.",
+    "answer": "A. Man is defiled in all the parts and faculties of the soul and body, and as a result he is unable to do any spiritual good (Rom. 3:9-20; Gen. 6:5). He may do many praiseworthy things in relation to his fellow man, but even his best works are defective in relation to God, because they are not done out of love for God or obedience to Him (Isa. 64:6; Heb. 11:6)."
+  },
+  {
+    "question": "Q. In what ways does man sin? (WLC 25)",
+    "answer": "A. Sins of Omission: failure to do that which the law commands (James 4:17).<br>Sins of Commission: doing that which the law forbids (Lev. 5:17)."
+  },
+  {
+    "question": "Q. Was Adam's will before he sinned free? Explain.",
+    "answer": "A. Before the fall, Adam had the freedom to do that which was good and pleasing to God, but also had the possibility of falling from it (Gen. 1:31; Eccl. 7:29)."
+  },
+  {
+    "question": "Q. What are the consequences of sin according to the Westminster Larger Catechism (WLC 27)?",
+    "answer": "A. The fall brought upon mankind:<br>1. Loss of communion with God<br>2. God's displeasure and curse<br>3. Being children of wrath by nature<br>4. Bondage to Satan<br>5. Liability to all punishments in this world and the next"
+  },
+  {
+    "question": "Q. What are the punishments of sin in this world according to WLC 28?",
+    "answer": "A. Punishments of sin in this world are:<br>Inward: blindness of mind, reprobate sense, strong delusions, hardness of heart, horror of conscience, vile affections<br>Outward: God's curse upon creatures, evils befalling our bodies, names, estates, relations, employments, and death itself"
+  },
+  {
+    "question": "Q. What are the punishments of sin in the world to come according to WLC 29?",
+    "answer": "A. 1. Everlasting separation from the comfortable presence of God<br>2. Most grievous torments in soul and body<br>3. Without intermission, in hellfire forever"
+  },
+  {
+    "question": "Q. What is original sin according to the Westminster Shorter Catechism (WSC 18)?",
+    "answer": "A. Original sin includes:<br>1. The guilt of Adam's first sin<br>2. Lack of original righteousness<br>3. Corruption of the whole nature<br>It is distinct from actual sins, which are specific acts of disobedience that come from original sin.<br><br>Romans 5:12-19; Ephesians 2:3; 1 Corinthians 15:22"
+  },
+  {
+    "question": "Q. What is the difference between original sin and actual sins?",
+    "answer": "A. Original sin is inherited and affects man's nature or state. Actual sins flow out of original sin, and include the sinful acts, whether exterior or interior, committed by an individual."
+  },
+  {
+    "question": "Q. What is the relationship between original sin and moral obligation?",
+    "answer": "A. The total depravity and total inability of original sin do not relieve man of moral obligation, as the inability is self-imposed and has a moral origin, not due to any limitation imposed by God on man's being."
+  },
+  {
+    "question": "Q. How does Roman Catholic theology view original sin?",
+    "answer": "A. Roman Catholics view original sin as the loss of the supernatural gift (donum superadditum) with which Adam was endowed before the fall, and which enabled him to do meritorious works, eliminated and restored in baptism."
+  },
+  {
+    "question": "Q. What is the Pelagian view of original sin?",
+    "answer": "A. Pelagianism denies original sin, claiming that man is born morally neutral with the ability to fulfill God's law."
+  },
+  {
+    "question": "Q. How do Reformed and Presbyterian theology view original sin?",
+    "answer": "A. Original sin is the sinful state and corrupted condition in which all men are born as a result of Adam's first transgression, including both guilt and pollution."
+  },
+  {
+    "question": "Q. How does God's foreordination of all things relate to man's will?",
+    "answer": "A. God decrees all things, and nothing changes his will (Dan 4:34-35), yet man is still culpable for his decisions (Acts 2:23)."
+  },
+  {
+    "question": "Q. What does it mean that man was created in the image of God?",
+    "answer": "A. Man was created in the moral and personal attributes of God, endued with knowledge, righteousness, and true holiness, to rule over other creatures (WSC #10)."
+  },
+  {
+    "question": "Q. How does being created in the image of God relate to gender roles?",
+    "answer": "A. Gen. 1:27 shows that being in the image of God includes gender differences and complementarities, making both male and female equal in dignity and worth, yet neither fully reflects the image of God without the other, with a necessary complementary relationship between the genders."
+  },
+  {
+    "question": "Q. Describe the orthodox doctrine of the person of Christ?",
+    "answer": "A. The Son of God, the second person in the Trinity, took upon Him man's nature, with all essential properties and common infirmities, yet without sin, being conceived by the power of the Holy Ghost, in the womb of the Virgin Mary, so that two whole, perfect, and distinct natures, the Godhead and the manhood, were inseparably joined together in one person, without conversion, composition, or confusion."
+  },
+  {
+    "question": "Q. What are the evidences of Christ's deity?",
+    "answer": "A. Jesus has the nature of God (Col 1:15), titles of God (John 1:1, 18), attributes of God (John 1:14, 17), works of God (John 1:3; Col 1:16), and worship due God (Heb 1:6)."
+  },
+  {
+    "question": "Q. What are the evidences of Christ's humanity?",
+    "answer": "A. Jesus experienced incarnation (John 1), human weakness (John 4:6), human emotions (John 2:16; 11:35-36), and human experiences (Luke 2:52)."
+  },
+  {
+    "question": "Q. Describe Christ's nature?",
+    "answer": "A. Jesus Christ, being two whole, perfect, and distinct natures, the Godhead and the manhood, were inseparably joined together in one person, without conversion, composition, or confusion (WCF 8.2), being wholly human and wholly divine in a hypostatic union."
+  },
+  {
+    "question": "Q. Describe Christ's will?",
+    "answer": "A. Christ had two wills (Dyothelitism), being fully human and fully divine, as opposed to Monothelitism (one will) which was declared an error at the Third Council of Constantinople (681)."
+  },
+  {
+    "question": "Q. Describe Christ's person?",
+    "answer": "A. Christ is one person with two natures."
+  },
+  {
+    "question": "Q. What are Christ's offices?",
+    "answer": "A. Christ executes the offices of Prophet, Priest, and King: revealing God's will for salvation, offering Himself as a sacrifice to reconcile us to God, and subduing and defending us as King."
+  },
+  {
+    "question": "Q. What is a Redeemer?",
+    "answer": "A. A Redeemer is one who saves or delivers others from captivity or poverty (depravity) by paying the required price."
+  },
+  {
+    "question": "Q. Who is the only Redeemer of God's elect?",
+    "answer": "A. The Lord Jesus Christ, the eternal Son of God, Who became man, is the only Redeemer of God's chosen, being God and man in two distinct natures and one person forever (WSC 21)."
+  },
+  {
+    "question": "Q. What is Christ's Atonement?",
+    "answer": "A. Christ's redeeming act whereby He paid the required price to effect justification, redemption, and adoption of God's elect by sacrifice of His own righteous life in unjust death on a cross in place of the sinful lives of those He redeems."
+  },
+  {
+    "question": "Q. Why was Atonement necessary?",
+    "answer": "A. Atonement was necessary because man was dead in his sin, unable to do anything to earn or merit God's favor, and God is just and must punish sin, but God is merciful and provided a way for sin-sick man to become His righteous friends (Eph. 2:1-2; Rom. 6:23; Ex. 34:7; Gal. 4:4-5)."
+  },
+  {
+    "question": "Q. What is the Ransom to Satan theory of atonement?",
+    "answer": "A. Origen's view that Christ's death paid the price to purchase the release of sinners from Satan, with Christ's death being a ransom, and a price was paid, but without deception, and ultimately defeating the devil."
+  },
+  {
+    "question": "Q. What is the Satisfaction theory of atonement?",
+    "answer": "A. Anselm's view that God's honor, affected by the fall, required either satisfaction or punishment, and the God-man's death, having infinite value, restored God's honor by making satisfaction, which is actually a satisfaction through punishment, restoring God's justice."
+  },
+  {
+    "question": "Q. What is the Moral-Influence theory of atonement?",
+    "answer": "A. Abelard's view that Christ died to show God's love for us, removing our fear and ignorance of God, but this view is too subjective to be biblical, and the cross does show God's love, casting out fear of objective torment."
+  },
+  {
+    "question": "Q. What is the Example/Recapitulation theory of atonement?",
+    "answer": "A. A Pelagian Anthropology & Arian Christology view that the human Jesus demonstrated perfect love for God, which we must imitate to be saved, but this view is flawed."
+  },
+  {
+    "question": "Q. What is the Governmental theory of atonement?",
+    "answer": "A. A view that God, as moral governor, put Christ to death to display his hatred towards sin and maintain his moral government, but this view is subjective, rejects penal substitution, and makes Christ a penal example to further God's government."
+  },
+  {
+    "question": "Q. What is the Penal Substitutionary Atonement theory?",
+    "answer": "A. The view that the atonement was intended to propitiate God's wrath, reconciling sinners to Him, through a vicarious atonement where Christ atoned for sin, obtaining eternal redemption for man, by paying the price of penal justice we deserve."
+  },
+  {
+    "question": "Q. What is universal atonement, and why is it refuted?",
+    "answer": "A. Universal atonement is the idea that Christ's atoning sacrifice is for all people without exception, but it is refuted because it is inconsistent with Scripture's teaching on God's elect, and if some are condemned despite Christ's atonement, then it is lacking in efficacy."
+  },
+  {
+    "question": "Q. What is universalism, and why is it refuted?",
+    "answer": "A. Universalism is the belief that all people will ultimately be saved and reconciled to God, but it is refuted because it fails to do justice to sin and its consequences, diminishes Jesus' final judgment, and undermines the importance of evangelism and mission."
+  },
+  {
+    "question": "Q. Does the atonement of Christ save actually or potentially?",
+    "answer": "A. Christ's atonement saves actually and completely, with no insufficiency in its nature or application."
+  },
+  {
+    "question": "Q. What is the 'extra Calvinisticum'?",
+    "answer": "A. The extra Calvinisticum is a Calvinistic doctrine which states that Christ's divine nature continued to be omnipresent outside the flesh while he was on earth. The existence of the human Logos outside the body. The Logos existed not only inside the body but also outside the body. In His divine nature there is no place where He is not and in His human nature, He is local. The characteristics of His divine and human nature are not mixed together. Christ did not cease performing the functions of Col. 1:17 and Heb. 1:3 once he was incarnated."
+  },
+  {
+    "question": "Q. What is the doctrine of ubiquity?",
+    "answer": "A. The doctrine of ubiquity is the Lutheran doctrine which states that Christ's divine attribute of omnipresence is communicated to his human nature. This violates the Chalcedonian doctrine of the hypostatic union: two distinct natures (divine and human) in one person, with the distinction and property of each nature being preserved."
+  },
+  {
+    "question": "Q. What are the two states of Christ?",
+    "answer": "A. The two states of Christ are his humiliation and his exaltation (Phil. 2:6-11; Heb. 2:5-9).<br>Humiliation: consisted in being born under the law, undergoing the miseries of this life, the wrath of God, and the cursed death of the cross; in being buried and continuing under the power of death for a time (Phil. 2:6-8; Heb. 2:6-7).<br>Exaltation: consists in his resurrection, ascension, session at the Father's right hand, and in coming to judge the world at the last day (Phil. 2:9-11; Heb. 2:7-9)."
+  },
+  {
+    "question": "Q. What is the humiliation of Christ?",
+    "answer": "A. Christ was humiliated: by being born as a man and born into a poor family; by being made subject to the law and suffering the miseries of this life, the anger of God, and the curse of death on the cross; and by being buried and remaining under the power of death for a time. (WSC 27)<br>This is the state of Christ where He emptied Himself of His Glory by becoming a servant (man), in His conception, birth, life, death, and resurrection (Phil. 2:6-8)."
+  },
+  {
+    "question": "Q. What is Kenosis?",
+    "answer": "A. Self-emptying, from Phil. 2:6-7. This has caused much controversy as to how and to what extent Christ emptied Himself. Some extremists say He emptied Himself of all divine attributes by becoming man – but our confession says He emptied Himself of only His glory by humbling Himself by becoming man. Jesus was not divested of his divine attributes but entered into human flesh with his divine attributes intact."
+  },
+  {
+    "question": "Q. Why did the Mediator have to be fully God and fully man?",
+    "answer": "A. Only God could provide a sacrifice sufficient to atone for the sins of all his people, but only a man could pay the punishment for other men (Heb. 2:17; 7:23-28)."
+  },
+  {
+    "question": "Q. Explain and defend the doctrine of the Communication of Properties.",
+    "answer": "A. The properties of both the human and divine natures are now the properties of the person and are therefore ascribed to the person. The person of Christ can be almighty, omniscient, and omnipresent; while also being limited in knowledge and power, and subject to human want and miseries. (Berkhof, p 324)"
+  },
+  {
+    "question": "Q. Defend the Virgin Birth.",
+    "answer": "A. In the Old Testament there is prophecy that the virgin will give birth to a son and name Him Immanuel (Isaiah 7:14); and the angel of the Lord speaks this prophecy to Joseph to confirm that Mary is this virgin. Joseph did not have relations with Mary until after Jesus was born (Matt. 1:20-23). Mary even questions, “How can this be, since I am a virgin?” (Luke 1:34)"
+  },
+  {
+    "question": "Q. Define and distinguish the active and passive obedience of Christ.",
+    "answer": "A. Active obedience – his voluntary humiliation of becoming human and living in perfect and complete obedience to the law (Phil. 3:9; Gal. 4:4).<br>Passive obedience – suffering and death on the cross for sinners (Isaiah 53:6; Phil. 2:8; Gal. 3:13)."
+  },
+  {
+    "question": "Q. What happened in the Resurrection of Christ?",
+    "answer": "A. Christ rose bodily from the dead on the third day (John 20:19-28).<br>“Glorified Body” – Christ’s resurrected state whereby the body is animated and guided wholly by the Spirit, free from sinful inclinations (1 Cor. 6:13-14), imperishable from sickness and decay, glorious and powerful (1 Cor. 15:42-43)."
+  },
+  {
+    "question": "Q. What is covenant theology?",
+    "answer": "A. Covenant theology is the way in which God relates to humankind and stresses the unity of God’s plan of redemption throughout the entirety of Scripture. Though there are particular covenants, each of them serves God’s greater, overarching covenant of redemption throughout all of Scripture."
+  },
+  {
+    "question": "Q. What is a covenant?",
+    "answer": "A. A binding contract between two parties which has stipulations and actions required of each party. “A bond in blood sovereignly administered.”"
+  },
+  {
+    "question": "Q. How is covenant theology expressed in the Westminster Confession of Faith?",
+    "answer": "A. The WCF does not touch on the Covenant of Redemption. In WCF 7, the Divine's teach the necessity for the covenant relationship because mankind needs the condescension of God to even glorify him."
+  },
+  {
+    "question": "Q. What is the Covenant of Redemption?",
+    "answer": "A. The Covenant of Redemption is the theological description of the agreement between God the Father and God the Son to provide for the salvation of sinful humanity by Christ’s death on the cross. WSC 20 states that God, out of His mere good pleasure, from all eternity, elected some to everlasting life, and entered into a covenant of grace to deliver them from sin and misery, bringing them into salvation by a Redeemer. WLC 31 states that the covenant of grace was made with Christ as the second Adam, and in Him with all the elect as His seed."
+  },
+  {
+    "question": "Q. What is the scriptural basis for the Covenant of Redemption?",
+    "answer": "A. Scripture references include: Ps. 2; 110; Rom. 3:25; 1 Jn. 2:2; Luke 2:49; Eph. 1."
+  },
+  {
+    "question": "Q. What are the distinctives of the Covenant of Redemption?",
+    "answer": "A. Parties of the Covenant: God the Father (planned redemption and sent the Son), Jesus Christ the Son (agrees to be sent and accomplish the work), and the Holy Spirit (applies work of Christ sealing us unto salvation).<br>Promise of the Covenant: That God will give all the elect to Christ for His own possession.<br>Condition of the Covenant: That Christ undergoes humiliation in His incarnation, sinless life, temptation, suffering, and death on a cross to satisfy God's justice and avert God's wrath from the elect, purchasing righteousness for them so they can enter into eternal life in heaven with Him as His bride, the church.<br>Penalty of the Covenant: Possibly Christ's self-malediction if He does not fulfill, akin to the torch passing through the pieces of animal in the Abrahamic covenant (not scripturally clear).<br>Sign(s)/ Seal(s) of the Covenant: The life, death, and resurrection of Jesus Christ show both His victory over death and sin, with His resurrection and ascension serving as our surety and seal of this covenant."
+  },
+  {
+    "question": "Q. What is the Covenant of Works?",
+    "answer": "A. The Covenant of Works is the covenant entered into at creation between man and God. A perfect relationship with God could be enjoyed if humans maintained perfect obedience to God’s law. The parties are God and Adam as the representative of all mankind. WCF 7.2 states that the first covenant made with man was a covenant of works, wherein life was promised to Adam, and in him to his posterity, upon condition of perfect and personal obedience. WSC 12 states that when God had created man, He entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon the pain of death."
+  },
+  {
+    "question": "Q. What is the scriptural basis for the Covenant of Works?",
+    "answer": "A. Scripture references include: Gen. 2:17; 3:15; Hos. 6:7; Jer. 33:20-21; Rom. 5:12-19."
+  },
+  {
+    "question": "Q. What are the distinctives of the Covenant of Works?",
+    "answer": "A. Contracting Parties of the Covenant: God (Suzerain/ Creator) and Adam (Vassal/ Creature).<br>Promise of the Covenant: Eternal life (implied based on the curse of the covenant being death).<br>Condition of the Covenant: Perfect obedience (Gen. 2:17).<br>Penalty of the Covenant: Death (as in separation from the source of life – God).<br>Sign/ Seal of the Covenant: The tree of life (this is not as concrete, but Adam had to depart from its presence as part of his penalty for Covenant violation)."
+  },
+  {
+    "question": "Q. What is the relation of the Covenant of Works to the Covenant of Redemption?",
+    "answer": "A. The covenant of works is the mirror image of the covenant of redemption."
+  },
+  {
+    "question": "Q. What is the Covenant of Grace?",
+    "answer": "A. The Covenant of Grace is the relationship into which God entered to provide, by grace, the promise of salvation to sinful humanity. It extends throughout the Old Testament by means of various covenants to its final fulfillment in Christ."
+  },
+  {
+    "question": "Q. What are the distinctives of the Covenant of Grace?",
+    "answer": "A. Parties of the Covenant: God the Father and the 'elect' purchased by Christ.<br>Promise of the Covenant: Salvation which includes: election, calling, regeneration, conversion (faith and repentance), justification, adoption, sanctification, and glorification leading to eternal life and relationship with God in heaven.<br>Condition of the Covenant: Application of the blood of the atoning sacrifice of Christ through faith which averts the wrath of God by providing justification to God for sinful men.<br>Penalty of the Covenant: Death (as in eternal separation from God).<br>Sign(s)/ Seal(s) of the Covenant: Circumcision and Passover in the Old Testament; Baptism and the Lord's Supper in the New Testament."
+  },
+  {
+    "question": "Q. Defend the Covenant of Works from Scripture.",
+    "answer": "A. Adam, our federal head, disobeyed; we, along with him, suffer the consequences of his sin as in the curse, sinfulness is imputed to us. Also, Jesus Christ fulfilled the stipulations of the covenant of works by living a righteous life – as such, as the Second Adam, His righteousness is imputed to those who believe so it is as if believers perfectly fulfilled their part in the covenant of works."
+  },
+  {
+    "question": "Q. What are the dispensations under the Covenant of Grace?",
+    "answer": "A. The Covenant of Grace is manifest throughout multiple administrations, or dispensations, building upon each other.<br>1. The Noahic Covenant: One specific outworking of the covenant of grace. In it God promises to never again destroy the earth. It is a covenant of preservation. The rainbow is given as a sign in Genesis 9:20-22.<br>2. The Abrahamic Covenant: One specific outworking of the covenant of grace. In it God promises Abraham seed and land; the sign is circumcision. In this outworking, all nations are to be blessed. It is a continuation of the promise of seed in Gen. 3:15.<br>3. The Mosaic Covenant: One specific outworking of the covenant of grace. In it God gives His law detailing how His people are to live in His presence. (Ex. 19-24)<br>4. The Davidic Covenant: In 2 Sam. 7 God promised David that his line will always have a king on the throne.<br>5. The New Covenant: In Jeremiah 31:31-34 and Ezekiel 36:25ff, God promises to extend his covenant people beyond Israel, bringing sinners (even Gentiles) into fellowship with him. This is completely fulfilled in the life and work of Jesus Christ (Hebrews)."
+  },
+  {
+    "question": "Q. What is the relationship between the Old and New Covenant?",
+    "answer": "A. The New Covenant, described in Jeremiah 31:31-34, 32:37ff., Heb 8:6ff., etc., is between God and His 'elect' purchased by the obedience of Christ. It is the complete fulfillment of other dispensations of the Covenant of Grace found in the work of Christ. Eternal life and relationship with God or eternal separation from God are based on belief (faith) in the person of Christ, His life, and work to achieve salvation for God's 'elect' as described in the gospels and Acts. Signs are Baptism and Communion. Final fulfillment will be realized at Christ's second coming and the ushering in of a new Holy Order.<br>In Hebrews, it is clear that Jesus Christ, as the New Covenant mediator, is the complete fulfillment of every Old Covenant hope, dream, responsibility, and stipulation to set apart God’s Holy people.<br>They are distinct but the same in substance, containing God’s promise and the fulfillment thereof to set apart a people for Himself by redeeming them from the curse of sin in Jesus Christ. The New covenant is superior to the Old and displaces it by fulfilling it completely. The Old and New covenants differ in the way God administers them.<br>Scripture references: Jeremiah 31:31-34; 2 Cor. 3:3-6; 6:16-18; Gal. 3:23-25; 4:1-7; Hebrews 7:20-22, 28; 8:6, 8-10, 13; 9:15; 10:9; Rev. 21:2-3."
+  },
+  {
+    "question": "Q. What is Dispensational Theology?",
+    "answer": "A. Dispensationalism is a theological framework that divides Scripture into seven dispensations and asserts that God relates differently with humanity in each one. Dispensationalists claim the church began at Pentecost after national Israel failed to accept Jesus as their national king. Thus, they understand the church as a temporary “parenthesis” in God’s redemptive plan which will begin again in a future, earthly millennial reign. Two prominent dispensationalists are John MacArthur and Charles Ryrie.<br>Other key doctrines include:<br>1. Separation between Israel and the church<br>2. Pre-tribulational rapture<br>3. Future literal fulfillment of OT prophecies concerning Israel."
+  },
+  {
+    "question": "Q. How were people of the Old Testament saved?",
+    "answer": "A. By faith; the people of the Old Testament looked forward to the coming Messiah to the extent He had been revealed. They trusted God according to the knowledge they had, anticipating His work of redemption. By virtue of the death of Christ ratified in the New Covenant (Luke 22:20; Heb. 11:1-2; 12:1-2)."
+  },
+  {
+    "question": "Q. What is sin?",
+    "answer": "A. Sin is any want of conformity unto, or transgression of, the law of God. (WSC 14)"
+  },
+  {
+    "question": "Q. What is damnation?",
+    "answer": "A. Eternal condemnation to hell."
+  },
+  {
+    "question": "Q. What is the proper relationship of faith, works, and justification?",
+    "answer": "A. We are justified by faith alone, but our faith is never alone and always accompanied by good works."
+  },
+  {
+    "question": "Q. What is the definition and biblical support for the ordo salutis as a whole and in each of its parts?",
+    "answer": "A. Whole: Rom. 8:28-29 (union with Christ: Rom. 6, 8:9)<br>Election: Eph. 1, 2<br>Calling: Rom. 1:6<br>Regeneration: Jn. 3<br>Faith/Repentance (Conversion): Acts 2, Acts 11; Rom. 1:17<br>Justification: Rom. 3<br>Adoption: Rom. 8<br>Sanctification: Rom. 6:19, 1 Cor. 6<br>Glorification: Rom 8"
+  },
+  {
+    "question": "Q. What is union with Christ and what is its relationship with the ordo salutis?",
+    "answer": "A. Union with Christ is the central doctrine of salvation in which the Holy Spirit unites us to Christ, so as God looks at us, He sees the work and righteousness of Jesus, and from which the redemptive benefits of Christ, or ordo salutis, 'spring.'"
+  },
+  {
+    "question": "Q. Define the outward and inward calls of the gospel.",
+    "answer": "A. The outward call of the gospel is any sharing of the gospel and proclamation of the good news and is like the seed broadcast, not determined by the hearer’s response.<br>The inward call of the gospel is the working of the Holy Spirit in the individual’s heart, regenerating them and giving the gift of faith and repentance."
+  },
+  {
+    "question": "Q. Define faith and repentance. What is their relationship?",
+    "answer": "A. Faith is trusting in God’s promises of salvation, believing though not seeing. Repentance is acknowledging sin and turning from it unto Christ. It is not mere remorse. Faith and repentance are fruits of the Spirit’s regeneration, and one is not present without the other."
+  },
+  {
+    "question": "Q. What are the Five Points of Calvinism?",
+    "answer": "A. The Five Points of Calvinism, summarized by the acrostic TULIP, are: Total Depravity, Unconditional Election, Limited (Particular) Atonement, Irresistible Grace, and Perseverance of the Saints."
+  },
+  {
+    "question": "Q. What is Total Depravity?",
+    "answer": "A. Total Depravity is the doctrine that every aspect of man's life (mind, will, spirit, body, etc.) is affected by the fall and is in an estate of sin, yet man is not as bad as he can be due to God's common grace. (Rom. 1:18-3:23; Isaiah 53:6; Rom. 7-8)"
+  },
+  {
+    "question": "Q. What is Unconditional Election?",
+    "answer": "A. Unconditional Election is the doctrine that God's election cannot be affected by any other power, including man, and that He has foreordained all things, and no power of hell or scheme of man can pluck us from his hand. (Rom. 8:29-30; Rom. 9-11; Eph. 1; John 6)"
+  },
+  {
+    "question": "Q. What is Limited (Particular) Atonement?",
+    "answer": "A. Limited (Particular) Atonement is the doctrine that Christ by his death paid the penalty for the elect, and not for those who would be condemned to hell. (John 6:37, 44-46, 65; Rom. 11; Eph. 1)"
+  },
+  {
+    "question": "Q. What is Irresistible Grace?",
+    "answer": "A. Irresistible Grace is the doctrine that those to whom God calls in his saving grace cannot resist and his call if fully efficacious. (John 6:65; Rom. 11; Eph. 2:8-9)"
+  },
+  {
+    "question": "Q. What is Perseverance of the Saints?",
+    "answer": "A. Perseverance of the Saints is the doctrine that those who are called will remain regenerate in this life, and cannot completely fall away. (James; Eph. 2:10)"
+  },
+  {
+    "question": "Q. What is double predestination and equal ultimacy?",
+    "answer": "A. Double predestination is the doctrine that God chooses some for salvation and others for damnation, while equal ultimacy is the mistaken view that God causes sin and unbelief in the reprobate, which is condemned by the Canons of Dort."
+  },
+  {
+    "question": "Q. What is the difference between total depravity, partial depravity, and absolute depravity?",
+    "answer": "A. Total depravity means all aspects of humanity are affected by the fall, yet man is not as bad as he can be due to God's common grace. Partial depravity means some aspects are affected, while part good. Absolute depravity means man is completely and utterly depraved in all aspects."
+  },
+  {
+    "question": "Q. What is the relationship between God's sovereignty and man's responsibility?",
+    "answer": "A. God is an all-knowing and fully sovereign God, yet humanity is responsible for turning from sin and towards God, confessing Jesus Christ as Lord, and following Him, with two extreme positions (hyper-Calvinist and Arminian) erring by overemphasizing one or the other."
+  },
+  {
+    "question": "Q. What is the error of hyper-Calvinism?",
+    "answer": "A. Hyper-Calvinism overemphasizes God's sovereignty, erring on the side of not evangelizing and calling people to repent and follow Christ, because God will ultimately save those he has ordained to save, and fails to consider the means by which God has chosen to spread the seed of the gospel."
+  },
+  {
+    "question": "Q. What is the error of Arminianism?",
+    "answer": "A. Arminianism struggles to account for God's sovereignty and the sinful estate of humanity, emphasizing human responsibility and capacity in responding to the gospel call, and fails to recognize that those who repent and are delivered from sin do not merit it of their own efforts but are indebted solely to the grace of God."
+  },
+  {
+    "question": "Q. What is the difference between common grace and prevenient grace?",
+    "answer": "A. Common grace is a grace provided to all as we are made in God's image, benefiting all, while prevenient grace is the idea of a grace that precedes the sinner's repentance and faith, giving them the ability to respond to God's call, though it is not effectual and certain as with the traditional Reformed view."
+  },
+  {
+    "question": "Q. What is the extent of God's sovereignty?",
+    "answer": "A. God has ordained whatsoever comes to pass, but does not destroy the will of the creature, nor has he decreed based on something foreseen in the future."
+  },
+  {
+    "question": "Q. What is the difference between Predestination, Election, and Reprobation?",
+    "answer": "A. Predestination is the counsel of God concerning fallen man, including election and reprobation. Election is God's eternal act of choosing some for special grace and salvation, while Reprobation is God's decree to pass some by with special grace and punish them for their sins."
+  },
+  {
+    "question": "Q. Will any for whom Christ died be lost?",
+    "answer": "A. No, Jesus's work on the cross is fully effective and sufficient to pay for all the sins of the elect, and not one of His people will be lost."
+  },
+  {
+    "question": "Q. Does God grieve when Christ is rejected?",
+    "answer": "A. In one sense, God is grieved by Israel's rejection of God, but God is impassible and not subject to pain or suffering, and His grief is not the same as human grief."
+  },
+  {
+    "question": "Q. What are the practical results of believing in the doctrine of election?",
+    "answer": "A. Gratitude for God's gracious adoption, understanding that salvation ultimately rests with God, confidence and comfort in evangelism, and motivation to fulfill the Great Commission based on demonstrated love for God."
+  },
+  {
+    "question": "Q. What is the relationship of law and grace in the Reformed tradition?",
+    "answer": "A. The law serves as a mirror, restrains evil, and reveals what is pleasing to God, with the three purposes being reflected in Rom 7, Gal 3:24, and Matt 5:17-18 respectively."
+  },
+  {
+    "question": "Q. What is the biblical theology for the assurance of salvation?",
+    "answer": "A. Assurance of hope in salvation, recognition that some with the appearance of salvation will fall away, believers will still struggle in sin, and sanctification is the work of the Spirit leading to glorification, as seen in 1 John 5:13, Heb 6, Rom 6-7, and Rom 8."
+  },
+  {
+    "question": "Q. What is effectual calling?",
+    "answer": "A. Effectual calling is the work of God's Spirit where we are convinced of our sin and misery, enlightened to the knowledge of Christ, with a will renewed, and both persuaded and enabled to embrace Jesus Christ. (WSC 31)"
+  },
+  {
+    "question": "Q. What is the relationship between 1 Timothy 2:3-4 and Romans 9:15-16?",
+    "answer": "A. These two verses describe human responsibility and God's sovereignty respectively."
+  },
+  {
+    "question": "Q. On what is God's decision to call a person based?",
+    "answer": "A. On God's free and special grace alone, not on anything foreseen in man. (Rom 9:11, Eph 2:4-5, 8-9)"
+  },
+  {
+    "question": "Q. How can infants be called?",
+    "answer": "A. Through the Spirit, who works when and how he pleases. (WCF 10.3)"
+  },
+  {
+    "question": "Q. Is Jesus really the only way of salvation?",
+    "answer": "A. Jesus is the only way to the Father (John 14:6), and faith comes by hearing (Rom. 10:17). Yet, the Spirit may work in elect persons who are not capable of being outwardly called by the ministry of the Word. (WCF 10.3)"
+  },
+  {
+    "question": "Q. What is justification?",
+    "answer": "A. Justification is an act of God's free grace in which he pardons our sins, accepts us as righteous in his sight, for the righteousness of Christ imputed to us and received by faith (WSC 33; Rom. 3:24; 2 Cor. 5:21; Phil. 3:9)"
+  },
+  {
+    "question": "Q. When is a Christian justified?",
+    "answer": "A. Though decreed from all eternity to justify the elect, justification occurs when the Holy Spirit applies Christ to the individual (WCF 11.4)."
+  },
+  {
+    "question": "Q. What happens when a Christian sins after being justified?",
+    "answer": "A. The forgiveness of sins is applied to past, present, and future sins. God continues to forgive the sins of the justified."
+  },
+  {
+    "question": "Q. What is the doctrine of adoption?",
+    "answer": "A. Adoption is an act of God's free grace in which we are received into the number and given the rights to all the privileges of the sons of God (WSC 34; John 1:12; 1 John 3:1)"
+  },
+  {
+    "question": "Q. What is the doctrine of sanctification?",
+    "answer": "A. The work of God's grace whereby the whole person is renewed in the image of God and are enabled more and more to die unto sin and live unto righteousness (WSC 35; Ezek. 36:25-27; Rom. 6:6)"
+  },
+  {
+    "question": "Q. What is the relationship between justification and baptism?",
+    "answer": "A. Justification is an act on God's part, while baptism is a sacrament and a sign and seal of the covenant of grace, and does not effectually save nor cause one to be justified."
+  },
+  {
+    "question": "Q. Why is justification called an 'act' and sanctification a 'work'?",
+    "answer": "A. Justification is an 'act' in that there is a moment in time in which an individual is moved from being condemned to justified, while sanctification is an ongoing work of God's grace that continues throughout the life of the believer."
+  },
+  {
+    "question": "Q. Can anyone become perfect or be completely sanctified in this life?",
+    "answer": "A. No, the corruption of sin remains, and the Christian continues in war against the flesh, though with the help of the Spirit. (Phil. 3:12; 1 John 1:10)"
+  },
+  {
+    "question": "Q. What are some Scripture references concerning justification by faith?",
+    "answer": "A. Ephesians 2:8-9, Galatians 2:16, Philippians 3:9, Romans 3:21-26"
+  },
+  {
+    "question": "Q. What is saving faith?",
+    "answer": "A. The faith, which is of grace, that enables the elect to believe and thereby save their souls."
+  },
+  {
+    "question": "Q. Where does saving faith come from?",
+    "answer": "A. This is the work of the Spirit and wrought by the ministry of the Word, increased and strengthened by the administration of the sacraments and prayer."
+  },
+  {
+    "question": "Q. What does saving faith believe?",
+    "answer": "A. Saving faith believes whatever is revealed in the Word. (John 4:42; Acts 24:14)"
+  },
+  {
+    "question": "Q. Is all faith alike?",
+    "answer": "A. Faith may vary and some Christians may experience different degrees (Heb 5:13-14)."
+  },
+  {
+    "question": "Q. What is repentance?",
+    "answer": "A. Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience. (WSC 87)"
+  },
+  {
+    "question": "Q. In what sense is repentance 'necessary'?",
+    "answer": "A. No sinner may expect pardon apart from repentance (Luke 13:3)."
+  },
+  {
+    "question": "Q. How ought we to confess our sins?",
+    "answer": "A. By private confession to God, praying for the pardon of our sins (Ps 32:5-6)."
+  },
+  {
+    "question": "Q. What are good works?",
+    "answer": "A. Good works are those things commanded by God in Scripture (Rom 12:2; Heb 13:21)."
+  },
+  {
+    "question": "Q. What is the relation of good works to faith?",
+    "answer": "A. Good works are the fruit and evidence of faith (James 2:18, 22). James and Romans approach justification from different perspectives, with good works being the justification, or vindication, of faith."
+  },
+  {
+    "question": "Q. Are good works necessary for salvation?",
+    "answer": "A. We would never be able to perform even the duty required (Luke 17:10)."
+  },
+  {
+    "question": "Q. Can our good works save us?",
+    "answer": "A. Good works will not merit pardon from sin and cannot satisfy the debt of our prior sin (Eph 2:8-9)."
+  },
+  {
+    "question": "Q. Can unbelievers do good works?",
+    "answer": "A. Unbelievers may do things which are good to others and themselves, but because they proceed from a heart not purified by faith, their work is not done to the right end—the glory of God—they are not pleasing to God (Gen 4:3-5)."
+  },
+  {
+    "question": "Q. What is the doctrine of perseverance?",
+    "answer": "A. Those whom God has effectually called and sanctified, cannot fall away from the state of grace, but will persevere unto the end (John 10:28-29)."
+  },
+  {
+    "question": "Q. Can a saved person later be eternally lost? Defend with scripture proofs.",
+    "answer": "A. No (Phil 1:6)."
+  },
+  {
+    "question": "Q. On what does a believer’s persevering depend? Defend with scripture proofs.",
+    "answer": "A. Their salvation does not depend upon their own free will, but on God’s decree of election (2 Tim 2:18-19)."
+  },
+  {
+    "question": "Q. Can a person be sure he is saved? Defend with scripture proofs.",
+    "answer": "A. Yes, because their hope and assurance are in the promises of God (Heb 6:11-19; 1 John 3:24)."
+  },
+  {
+    "question": "Q. Should a person be sure he is saved? Defend with scripture proofs.",
+    "answer": "A. It is the Christian’s duty (2 Peter 1:10)."
+  },
+  {
+    "question": "Q. How could a person know he is saved? On what could such assurance be based?",
+    "answer": "A. Assurance is grounded in the infallible assurance of faith, founded upon the promises of salvation, and is enabled by the Spirit with an internal witness."
+  },
+  {
+    "question": "Q. What should a person do who lacks assurance of salvation?",
+    "answer": "A. Daily repent of their sins and turn to Jesus, who offers life, with full assurance God will forgive our sins (1 John 1:9). While we desire to make our calling and election sure, our assurance is ultimately tied to the promises of God, who does not change."
+  },
+  {
+    "question": "Q. What are the three Confessional grounds for the assurance of salvation?",
+    "answer": "A. By faith grounded upon the truth of God’s promises, by the Spirit enabling them to discern in themselves those graces to which the promises of life are made, and bearing witness with their spirits that they are the children of God (WLC 80)."
+  },
+  {
+    "question": "Q. What does Scripture teach about apostasy?",
+    "answer": "A. Apostasy is described in passages like 1 Timothy 4:1, Hebrews 6:4-6, and 2 Peter 2:20-22 and acknowledges it is a real possibility. In the Parable of the Sower, Jesus describes the four soils the seed falls in, and three result in some type of growth, yet in the end only one results in lasting growth with the other two dying because of not having a root or not being able to endure tribulation. At the same time, Scripture teaches God will finish the good work He began (Philippians 1:6) and it is impossible for Jesus to lose any the Father has given Him (John 10:27-29)."
+  },
+  {
+    "question": "Q. What is the universal or catholic church?",
+    "answer": "A. It is the invisible church, consisting of all who are elect throughout time (WCF 25.1)."
+  },
+  {
+    "question": "Q. What is the visible church?",
+    "answer": "A. The visible church consists of those throughout the world professing Christ, and their children (WCF 25.2)."
+  },
+  {
+    "question": "Q. What are the attributes of the church? Prove from scripture.",
+    "answer": "A. Holy (Eph 1), catholic/unity (Eph 4), and apostolic (Matt 28). Think of the Nicene Creed — 'One, holy, catholic & apostolic...'"
+  },
+  {
+    "question": "Q. What are the marks of the church? Prove from scripture.",
+    "answer": "A. The preaching of the Word (2 Tim 4:1-2), administration of the sacraments (1 Cor 11), and church discipline (Matt 16 & 18)."
+  },
+  {
+    "question": "Q. Who is the head of the church? Prove from scripture.",
+    "answer": "A. Jesus Christ (Col 1:18)."
+  },
+  {
+    "question": "Q. Define three basic forms of church government.",
+    "answer": "A. Episcopalian church government consists of a hierarchy of priests and bishops who have final authority in the government of the church.<br>Presbyterian church government affirms the importance of the 'connectional' nature of the church; that is, that each local congregation is 'connected' both doctrinally and in practice to other local congregations via presbyteries and the General Assembly. Each local church is governed by a session, each session is accountable to a presbytery, and every presbytery accountable to the General Assembly.<br>A Congregational church government views each local church as autonomous and self-governing, and sees no place for any official, governmental connection between local churches."
+  },
+  {
+    "question": "Q. What are the principles of Presbyterian church government?",
+    "answer": "A. Christ is the head of His church & the source of all its authority; Christ exercises His authority through the Word and His Spirit.<br>Christ has endowed His church with authority—with specific authority to its officers.<br>Each local church is ruled by a session, comprised of teaching and ruling elders called by Christ and recognized by the members of the church as their leaders.<br>Each local church is represented by chosen members of its session within a presbytery, a church court comprised of teaching and ruling elders from each church within a certain geographical area.<br>The denomination as a whole is represented in the General Assembly, which serves as the highest court of the church."
+  },
+  {
+    "question": "Q. What is the role of women in the church? Support from scripture.",
+    "answer": "A. Women are co-heirs and co-laborers of the kingdom."
+  },
+  {
+    "question": "Q. What authority does the church possess?",
+    "answer": "A. The authority of the church is ministerial and declarative. It has the authority to retain and remit sins (WCF 30.2)."
+  },
+  {
+    "question": "Q. What is the purpose of church censures?",
+    "answer": "A. For the reclaiming and restoration of the offending brethren, deterring similar offences, purging that which might corrupt the whole, vindicating the honor of Christ, and preventing the wrath of God (WCF 30.3)."
+  },
+  {
+    "question": "Q. What censures may the church impose?",
+    "answer": "A. Admonition, suspension from the Lord’s Supper for a season, and excommunication from the church (WCF 30.4)."
+  },
+  {
+    "question": "Q. Identify some Scripture passages that support the practice of church discipline.",
+    "answer": "A. Matt 16, 18; 1 Cor 5-6; 2 Cor 2."
+  },
+  {
+    "question": "Q. What are the major Millennial views?",
+    "answer": "A. Amillennial – The millennium describes the present reign of the souls of deceased believers with Christ in heaven. The present form of God’s kingdom will be followed by Christ’s return, the general resurrection, the final judgment, and Christ’s continuing reign over the perfect kingdom on the new earth in the eternal state.<br>Pre-Millennial – The present form of God’s kingdom is moving toward a grand climax when Christ will return, the first resurrection will occur, and his kingdom will find expression in a literal, visible reign of peace and righteousness on the earth in space-time history. After the final resurrection, the last judgment, and the renewal of the heavens and the earth, this future, temporal kingdom will merge into the eternal kingdom, and the Lord will reign forever on the new earth.<br>  - Historical Premillennialism – view of many church fathers<br>  - Dispensational Premillennialism (Pre-tribulation) – Secret/invisible rapture of the church with a 7-year tribulation then restored theocracy of Israel with a true thousand-year reign<br>Post-Millennial – The world will eventually be Christianized, resulting in a long period of peace and prosperity called the millennium. This future period will close with Christ’s second coming, the resurrection of the dead, the final judgment, and the eternal state."
+  },
+  {
+    "question": "Q. What are the main interpretive approaches to Revelation and other prophetic literature?",
+    "answer": "A. Preterist – God’s judgment is brought on Israel in 70 AD for their apostasy.<br>Historicist – Chronological outline of the history of the church with the enemy/symbols being whatever major enemy of the time.<br>Futurist – Macro picture of Revelation which deals with future events (all Dispensationalists are Futurists but not all Futurists are Dispensational).<br>Idealist – Not historical but only depictions of principles and symbolic representation of God’s war against Satan.<br>Iterist – Eclectic view which sees issues both historical and future and symbols as characteristic of having multiple applications/manifestations."
+  },
+  {
+    "question": "Q. What are the 5 characteristics of Christ’s return?",
+    "answer": "A. 1. Personal and physical<br>2. Visible to the whole world, and sudden<br>3. Glory and triumph<br>4. Clouds of heaven his chariot, angels of heaven his bodyguard, saints his escort<br>5. Every knee will bow"
+  },
+  {
+    "question": "Q. What is annihilationism and is it compatible with Scripture?",
+    "answer": "A. Annihilationism is the view that evil and wicked, including all unsaved human beings, will no longer exist after this life rather than existing in Hell for eternity. It is not compatible with Scripture."
+  },
+  {
+    "question": "Q. What is the difference between dispensational premillennialism and covenantal premillennialism?",
+    "answer": "A. The main difference between dispensational and covenantal premillennialism is the sharp distinction between Jew and Gentile that the former maintains. Covenantal premillennialism asserts that there is one people of God comprised of both Jews and Gentiles that will find its fulfillment in the millennium. Dispensational premillennialism, on the other hand, claims that the millennium will concern primarily the establishment of a Jewish kingdom."
+  },
+  {
+    "question": "Q. Discuss the Biblical usage of the term 'last days'. Give scriptural proofs.",
+    "answer": "A. The Bible uses the term 'last days' to refer to the time period between the first and second comings of Christ. Peter announces in his sermon at Pentecost that the 'last days' predicted by the prophet Joel had dawned on the crowd who witnessed the speaking of foreign languages (Acts 2:17). The author to the Hebrews refers to his present time as 'these last days' in which God has spoken to his people by his Son (Heb 1:2). (Cf. also 2 Tim 3:1; Jas 5:3; 2 Pet 3:3)"
+  },
+  {
+    "question": "Q. What is the final judgment?",
+    "answer": "A. The final judgment will occur at the second coming, at which time God will judge by Christ both apostate angels and all men, who will give an account of what they have done in the body, whether good or evil. The final judgment will manifest God’s mercy in the eternal salvation of the elect, and his justice in the damnation of the reprobate."
+  },
+  {
+    "question": "Q. What is death? How is it related to sin?",
+    "answer": "A. Physical death is the termination of physical life by the separation of body and soul. Death is a positive punishment for sin."
+  },
+  {
+    "question": "Q. What is the state of man after death?",
+    "answer": "A. At death, body and soul are separated. The souls of believers are received into heaven where they behold the face of Christ and wait for the redemption of their bodies. The wicked, at death, are cast into hell to endure torments until the resurrection and the judgment."
+  },
+  {
+    "question": "Q. Does Scripture teach a further probation (Purgatory) following death? 'Soul-sleep?' Discuss.",
+    "answer": "A. Scripture does not teach the existence of either a further probation such as Purgatory or 'soul-sleep.' The possibility of a further probation is eliminated by the sufficiency of Christ’s atonement and the imputation of his active obedience. His work has perfectly qualified believers to be in God’s presence, and they need no further probation. The doctrine of 'soul-sleep' is negated by passages like Philippians 1:23 in which Paul states that it would be 'better' to be with Christ than to remain here. This would not make sense if a person remained unconscious during the time before the resurrection."
+  },
+  {
+    "question": "Q. Prove from Scripture that the bodies of believers will be raised on the last day.",
+    "answer": "A. The clearest passage dealing with the resurrection of the bodies of believers is 1 Corinthians 15. Paul explains that 'flesh and blood cannot inherit the kingdom of God', but that at the sound of the trumpet on the last day believers will receive imperishable, heavenly bodies like that of Christ (vv. 50-54). He explains earlier in the chapter that the resurrection takes place even though our bodies die and are buried, just like a seed must die in order to produce wheat (v. 37). Also, in Romans 8:23, Paul speaks of our ultimate hope as 'the redemption of our bodies.' (Cf. also Phil 3:21)"
+  },
+  {
+    "question": "Q. Who is the Holy Spirit?",
+    "answer": "A. The Holy Spirit is the third person of the Trinity, equal in power and glory with the Father and the Son. He eternally proceeds from the Father and the Son, and it is by His work that believers become partakers of the benefits of the work of Christ."
+  },
+  {
+    "question": "Q. What is the Spirit’s function today?",
+    "answer": "A. The Holy Spirit’s function today is the same as in the past; however, in NT redemption, the Holy Spirit’s role gains a new emphasis. In the Old Testament, the Holy Spirit prepared God’s people for the coming of the Son through the revelation of God’s Word (2 Peter 1:21) and acts of providence. Now, the Holy Spirit counsels God’s people to understand God’s revealed Word (John 14:16). Throughout history, the Holy Spirit has been the agent of salvation and involved in the work of building God’s kingdom."
+  },
+  {
+    "question": "Q. What do New Testament passages teach concerning the work of the Holy Spirit?",
+    "answer": "A. How He comes – In the form of a dove upon Christ (John 1:32); in the form of tongues of fire upon those at Pentecost (Acts 2); He comes to us through the hearing of the Word (Rom. 10-11).<br>How He works – In our hearts and with the word: The Spirit gives life; the flesh counts for nothing. The words I have spoken to you are spirit and they are life (John 6:63).<br>What He does – See questions above.<br>What His ministry is today – The Holy Spirit “mediates knowledge of, and union and communion with the physically withdrawn, ascended, and glorified savior (John 14:15-26, 16:14). He does the work of effectual calling in which He convinces us of our sin and misery, enlightens our minds in the knowledge of Christ, and renews our wills, persuades and enables us to embrace Jesus Christ (WSC 31)."
+  },
+  {
+    "question": "Q. Distinguish between the gifts and fruit of the Spirit.",
+    "answer": "A. Gifts of the Spirit (Rom. 12; 1 Cor. 12-14; Eph. 4) are given to believers in different measure and are essential to the building of God’s church; Fruits of the Spirit (Gal. 5:22-23) deal with personal transformation of character in the life of an individual believer.<br>The gifts of the Spirit are those works given to individual Christians to use in the service of others for the building up of the common good (Rom 12:6-8; 1 Cor 12:4-11). These gifts differ from person to person, so that not everyone has the same spiritual gift in the church. The fruit of the Spirit, on the other hand, concerns the inner motives and attitudes of the believer, and will come to expression in all Christians (Gal 5:22)."
+  },
+  {
+    "question": "Q. Does the Spirit give gifts today?",
+    "answer": "A. Yes! The Holy Spirit equips men with gifts to enable them to build God’s Kingdom on earth. In Rom. 12 and 1 Cor. 12-14, many gifts are described which are indisputably given in the church today: serving, teaching, encouragement, leading, evangelism, etc. – these gifts are all essential for building God’s church."
+  },
+  {
+    "question": "Q. Are there gifts mentioned in Scripture not given today?",
+    "answer": "A. Yes! Certain gifts mentioned in scripture (prophecy [as revelation], tongues, miracles, healing) seem to be strictly associated with the establishment of apostolic authority and the church."
+  },
+  {
+    "question": "Q. What was the purpose of these gifts?",
+    "answer": "A. These gifts were given to reveal God’s gospel message and to confirm the messenger and his message."
+  },
+  {
+    "question": "Q. Were signs and wonders always present with the apostles?",
+    "answer": "A. No, signs and wonders were not always present with the apostles. For example, Paul left the sick Trophimus behind in Ephesus and his own thorn in the flesh was not removed."
+  },
+  {
+    "question": "Q. What is the significance of Hebrews 2:3b-4 in relation to these gifts?",
+    "answer": "A. Hebrews 2:3b-4 provides the same perspective: how shall we escape if we ignore such a great salvation? This salvation, which was first announced by the Lord, was confirmed to us by those who heard him. God also testified to it by signs, wonders and various miracles, and gifts of the Holy Spirit distributed according to his will."
+  },
+  {
+    "question": "Q. When did God typically perform miracles?",
+    "answer": "A. Those times in history that involved miracles were times in which God was revealing His message through His prophets. The New Testament times are no different."
+  },
+  {
+    "question": "Q. What is a miracle? Do miracles occur today?",
+    "answer": "A. Miracles are God working outside, above, and against his ordinary means of providence (WCF 5.3).<br>Miracles are events of divine intervention with the purpose of providing evidence that Jesus and the apostles were who they were presenting themselves as. I do not believe miracles occur in the same manner, but I do believe God is capable of entering into his creation and performing works that we are not capable of explaining."
+  },
+  {
+    "question": "Q. How would you respond to a Mormon's claim that Jesus' statements in the gospels, such as 'I and the Father are One' and 'I am the vine, and you are the branches', prove that He was claiming to be very God?",
+    "answer": "A. These statements uphold the monotheism of the Old Testament, as seen in the Old Testament references in Matthew, and demonstrate Jesus' divinity as the second person of the Trinity."
+  },
+  {
+    "question": "Q. How would you respond to a Jehovah's Witness' claim that John 1:1 should be translated as 'The Word was a God'?",
+    "answer": "A. Based on the Colwell principle, an anarthrous noun before the verb is definite, so John 1:1 should be translated as 'The Word was God', affirming Jesus' divinity."
+  },
+  {
+    "question": "Q. How would you respond to a Charismatic's claim that 1 Cor. 12-14 shows that tongues are the most inferior of all the gifts toward building God's Kingdom, and that love is the most superior gift?",
+    "answer": "A. While love is a crucial aspect of building God's Kingdom, 1 Cor. 12-14 actually presents a balanced view of spiritual gifts, with prophecy and clear speaking of God's truths being highly valued alongside love."
+  },
+  {
+    "question": "Q. What is the moral law and its three uses?",
+    "answer": "A. The moral law (contrasted with the ceremonial law) is the use of the Ten Commandments as the law setting norms for the people.<br>The three uses of the moral law are (1) as a mirror to reflect our own sinfulness and need for salvation, (2) as a 'civil use' to restrain evil and be a law for all people, and (3) to guide the Christian in good works and what pleases God."
+  },
+  {
+    "question": "Q. What laws besides the moral law did God give His people under the Old Covenant?",
+    "answer": "A. In addition to the moral law, God also gave the ceremonial, or sacrificial law."
+  },
+  {
+    "question": "Q. Are believers under obligation to the law today? Defend with scripture proofs.",
+    "answer": "A. Under the New Covenant, believers are not required to keep the ceremonial law as Christ was the once-for-all sacrifice (Heb.), but the moral law remains."
+  },
+  {
+    "question": "Q. Can believers keep God’s law? Explain and defend your answer with Scripture proofs.",
+    "answer": "A. Believers, remaining in a state of sinfulness, are not able to perfectly keep God’s law in this life."
+  },
+  {
+    "question": "Q. What is the 'Lordship Controversy?'",
+    "answer": "A. A dispute arising primarily in non-denominational and Evangelical churches in the late 20th century regarding the relationship between faith and works. The question centers on whether one must accept Christ’s lordship over their lives.<br>If Jesus is one’s savior, they must recognize Christ as their Lord, and thereby submit to the moral laws laid forth in Scripture and continued through the teaching of Christ. Paul and the early Christians first spoke of their belief and identification as 'the Way' (Acts 9:2; 19:9; 22:4, etc.). This is both a connection with Jesus identifying himself as 'the way, the truth, and the life' (John 14:6) and a description of their new life and patterns because of Christ’s call upon their life. One day every knee with bow and tongue confess that Jesus is Lord."
+  },
+  {
+    "question": "Q. What is 'Christian Liberty?' Explain and defend with scripture proofs.",
+    "answer": "A. As WCF 20.1 states, the liberty Christ purchased is 'freedom from the guilt of sin, the condemning wrath of God, the curse of the moral law; and in their being delivered from this present evil world, bondage to Satan, and dominion of sin, from the evil of afflictions, the sting of death, the victory of the grave, and everlasting damnation; as also in their free access to God, and their yielding obedience unto him, not out of slavish fear, but a child-like love and willing mind.'<br>Christian liberty relates to decisions not specified in nor transgress the moral law. The matter of circumcision was declared to be a matter of Christian liberty and conscience in Acts 15 as it was not a requirement. The same is applied to dietary issues in many cultures.<br>Christian liberty means that the conscience of others cannot be unduly bound to matters not clear from Scripture."
+  },
+  {
+    "question": "Q. Who or what is Lord of the conscience? Defend with scripture proofs.",
+    "answer": "A. The Lord alone (Rom. 14; James 4)."
+  },
+  {
+    "question": "Q. How does Christian liberty bear on the Christian’s obligation to the state?",
+    "answer": "A. If the power is lawful, and exercised in a lawful manner, the Christian has the responsibility to obey or else be found resisting the ordinance of God (WCF 20.4)."
+  },
+  {
+    "question": "Q. What is the 'regulative principle?' Defend with scripture proofs.",
+    "answer": "A. The acceptable way of worshipping God is instituted by himself and therefore limited to his own revealed will, and that he is not to be worshipped according to the imaginations and devices of men, or the suggestions of Satan (Exod. 20; Deut. 12; Lev. 10; Matt. 15; Col. 2)."
+  },
+  {
+    "question": "Q. Who is to be worshiped? Defend with scripture proofs.",
+    "answer": "A. Worship is to be given to God the Father, Son, and Holy Spirit alone (Matt. 4; John 5; 2 Cor. 13)."
+  },
+  {
+    "question": "Q. What are the ordinary parts/elements of worship? How are they differentiated from other aspects of worship?",
+    "answer": "A. The elements of worship are those fixed and unchanging aspects of worship and include reading and hearing, praying, and singing of Scripture (Psalms, hymns, and spiritual songs), along with the observance of the sacraments. They can further include a call to worship, invocation, confession, declaration of pardon, and a benediction.<br>The elements of worship may have different forms and circumstances (time, seating, etc.), but the element is always the priority."
+  },
+  {
+    "question": "Q. Are Christians under obligation to keep a Sabbath? Defend with scripture proofs.",
+    "answer": "A. The Sabbath, being a day set apart for observance and rest from the point of creation and established in the law of Moses, continues today and we are responsible for observing this pattern (Ex. 20; Acts 20; 1 Cor. 16)."
+  },
+  {
+    "question": "Q. If so, how should the Sabbath be kept? Defend with scripture proofs.",
+    "answer": "A. By general preparation of our affairs in advance, so there might be a full observance of a holy rest from worldly employments and recreations, and devote our time to public and private worship, and duties of necessity and mercy."
+  },
+  {
+    "question": "Q. Differentiate between the 'Continental' and 'Westminster' views of the Sabbath.",
+    "answer": "A. The diversity should not be exaggerated. Often, they are described in a way equating the 'Continental' perspective with Calvin’s view and less rigorous than the 'Westminster' or British view. The Continental view does not necessarily forbid recreational activities."
+  },
+  {
+    "question": "Q. Should a Christian ever take an oath or vow? Explain and defend with scripture proofs.",
+    "answer": "A. A Christian may take an oath (2 Chr. 6; 2 Cor. 1); however, it must be done with reverence and holy fear (Deut. 6; Lev. 19)."
+  },
+  {
+    "question": "Q. What should be our attitude toward civil authorities? Defend with scripture proofs.",
+    "answer": "A. God has ordained the civil magistrates and they rule over the people for his glory and the public good (Rom. 13; 1 Peter 2). Christians are to pray for those in authority and to honor them."
+  },
+  {
+    "question": "Q. What is the relationship between church and state?",
+    "answer": "A. The state carries the sword but may not assume the administration of the Word and sacrament. The state has the authority and duty to take order."
+  },
+  {
+    "question": "Q. By whom and for what purpose was marriage designed? Defend with scripture proofs.",
+    "answer": "A. God ordained marriage for the mutual help of husband and wife, the increase of mankind, and for preventing uncleanness (Gen. 2; Mal. 2; 1 Cor. 7)."
+  },
+  {
+    "question": "Q. Who may (and who may not) be lawfully married? Defend with scripture proofs.",
+    "answer": "A. All sorts of people may marry, yet it is the duty of the Christian to marry only in the Lord (1 Cor. 7)."
+  },
+  {
+    "question": "Q. Under what circumstances is divorce permissible? Defend with scripture proofs.",
+    "answer": "A. Adultery and willful desertion (Mat. 19; 1 Cor. 7)."
+  },
+  {
+    "question": "Q. Is divorce an option for those abused by their spouses (physical or otherwise)? Defend.",
+    "answer": "A. Yes. The covenant to love and cherish is broken, as abuse is contrary to willing good for the other (love)."
+  },
+  {
+    "question": "Q. May those who have been divorced remarry? Defend with scripture proofs.",
+    "answer": "A. 1 Corinthians 7 provides a principle of being properly divorced and an allowance for remarriage. Under the conditions of Matthew 19 there are circumstances in which remarriage would constitute adultery."
+  },
+  {
+    "question": "Q. What is the state of a person’s soul between death and final resurrection?",
+    "answer": "A. A person’s soul immediately goes to heaven or hell upon death, which is the doorway to judgment. There it remains until the final resurrection in which body and soul are reunited."
+  },
+  {
+    "question": "Q. If only Scripture is infallible and sufficient, why do we need confessions and creeds? What sort of authority, if any, ought a confession to have in a reformed church?",
+    "answer": "A. Even though only Scripture is infallible and sufficient, the church needs confessions and creeds in order to set forth in summary form what we believe the whole Bible teaches. False teachers have historically always quoted Scripture to defend their beliefs. Therefore, it is important that the church confess publicly what it is they believe and employ that confession as a standard against which all teaching may be measured. Furthermore, the Scriptures themselves give evidence of confessions or 'sound doctrine' recognized by the early church that were not themselves part of Scripture (1 Tim 6:3-5; Titus 1:9; 2:1; Jude 3). Therefore, confessions are formulated out of obedience to what the Scriptures teach.<br>The confessions and creeds, though subordinate in authority to the Word of God, should be used as the authoritative standard to evaluate the orthodoxy of ministers desiring to serve in the church."
+  }
 ]
