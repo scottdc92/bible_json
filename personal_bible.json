@@ -308,7 +308,7 @@
     "answer": "A. Matt 16, 18; 1 Cor 5-6; 2 Cor 2."
   },
   {
-    "question": "Q. Who is the head of the Presbyterian Church in America?",
+    "question": "Q. Who is the head of the Church?",
     "answer": "A. Jesus Christ is the King and Head of the Church (Preface)."
   },
   {
@@ -332,10 +332,6 @@
     "answer": "A. Only Presbytery has the authority to organize a church (5-8)."
   },
   {
-    "question": "Q. What are non-communing members of a church?",
-    "answer": "A. The children of believing parents (6-1)."
-  },
-  {
     "question": "Q. What are communing members of a church?",
     "answer": "A. Those who have made a profession of faith in Christ, have been baptized, and have been admitted by the Session to the Lord’s Table (6-2)."
   },
@@ -344,7 +340,7 @@
     "answer": "A. No. These offices are given to men only (7-2)."
   },
   {
-    "question": "",
+    "question": "What other terms are used for elders?",
     "answer": "As he has the oversight of the flock of Christ, he is termed <em>bishop</em> or <em>pastor</em>. As it is his duty to be spiritually fruitful, dignified, and prudent, an example to the flock, and to govern well in the house and Kingdom of Christ, he is termed <em>presbyter</em> or <em>elder</em>. As he expounds the Word, and by sound doctrine both exhorts and convinces the gainsayer, he is termed <em>teacher</em> (8-1)."
   },
   {
@@ -396,14 +392,6 @@
     "answer": "A. To receive and issue appeals, complaints, and references from lower courts; to bear testimony against errors in doctrines; to decide in all controversies of doctrine and discipline; to oversee Presbyteries, reviewing their records, devising means of promoting and enlarging the Church, to erect new Presbyteries and to divide and to unite existing Presbyteries with their consent; to superintend necessary agencies; to superintend the affairs of the whole church; to unite with other ecclesiastical bodies (14-6)."
   },
   {
-    "question": "Q. Who calls the pastor?",
-    "answer": "A. The congregation (20-2)."
-  },
-  {
-    "question": "Q. May an assistant pastor be called to an associate pastor position?",
-    "answer": "A. Yes (22-2)."
-  },
-  {
     "question": "Q. Who must consent to a pastoral call or the dissolution of a pastoral relationship?",
     "answer": "A. The congregation, the minister, and the Presbytery (23-1)."
   },
@@ -442,10 +430,6 @@
   {
     "question": "Q. How often should a lower court’s records (Session, Presbytery) be reviewed by a higher court (Presbytery, GA)? (40-1)",
     "answer": "A. At least once a year."
-  },
-  {
-    "question": "Q. Are their fixed forms for public worship? (47-6)",
-    "answer": "A. The Lord Jesus Christ has prescribed no fixed forms for public worship but, in the interest of life and power in worship, has given His Church a large measure of liberty in this matter… There is true liberty only where the rules of God’s Word are observed and the Spirit of the Lord is, that all things must be done decently and in order, and that God’s people should serve Him with reverence and in the beauty of holiness. From its beginning to its end a service of public worship should be characterized by that simplicity which is an evidence of sincerity and by that beauty and dignity which are a manifestation of holiness."
   },
   {
     "question": "Q. What are the proper elements of a worship service? (47-9)",
