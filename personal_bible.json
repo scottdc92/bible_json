@@ -272,10 +272,6 @@
     "answer": "A. Biblical principles include: the plurality of elders (Acts 14; 20; Titus 1; 1 Pet. 5), connectionalism (Acts 15; Gal. 1:1-10; 1 Cor. 12), and representative government (Acts 6; 1 Cor. 16). This approach ensures that churches are governed by a team of leaders who are accountable to one another and to the congregation, and that decisions are made in a way that is guided by Scripture (2 Tim. 3; 2 Pet. 1). By following these principles, Presbyterianism seeks to promote unity, diversity, and biblical fidelity in the church (Eph. 4; 1 Cor. 12)."
   },
   {
-    "question": "Q. What is the universal or catholic church?",
-    "answer": "A. It is the invisible church, consisting of all who are elect throughout time (WCF 25.1)."
-  },
-  {
     "question": "Q. What is the visible church?",
     "answer": "A. The visible church consists of those throughout the world professing Christ, and their children (WCF 25.2)."
   },
@@ -300,10 +296,6 @@
     "answer": "A. Christ is the head of His church & the source of all its authority; Christ exercises His authority through the Word and His Spirit.<br>Christ has endowed His church with authority—with specific authority to its officers.<br>Each local church is ruled by a session, comprised of teaching and ruling elders called by Christ and recognized by the members of the church as their leaders.<br>Each local church is represented by chosen members of its session within a presbytery, a church court comprised of teaching and ruling elders from each church within a certain geographical area.<br>The denomination as a whole is represented in the General Assembly, which serves as the highest court of the church."
   },
   {
-    "question": "Q. What is the role of women in the church? Support from scripture.",
-    "answer": "A. Women are co-heirs and co-laborers of the kingdom."
-  },
-  {
     "question": "Q. What authority does the church possess?",
     "answer": "A. The authority of the church is ministerial and declarative. It has the authority to retain and remit sins (WCF 30.2)."
   },
@@ -312,20 +304,12 @@
     "answer": "A. For the reclaiming and restoration of the offending brethren, deterring similar offences, purging that which might corrupt the whole, vindicating the honor of Christ, and preventing the wrath of God (WCF 30.3)."
   },
   {
-    "question": "Q. What censures may the church impose?",
-    "answer": "A. Admonition, suspension from the Lord’s Supper for a season, and excommunication from the church (WCF 30.4)."
-  },
-  {
     "question": "Q. Identify some Scripture passages that support the practice of church discipline.",
     "answer": "A. Matt 16, 18; 1 Cor 5-6; 2 Cor 2."
   },
   {
     "question": "Q. Who is the head of the Presbyterian Church in America?",
     "answer": "A. Jesus Christ is the King and Head of the Church (Preface)."
-  },
-  {
-    "question": "Q. Why do we hold to the representative, or Presbyterian, form of government?",
-    "answer": "A. Because we believe it is Scriptural (1-1)."
   },
   {
     "question": "Q. Who are the officers of the Church, according to Scripture?",
@@ -356,60 +340,36 @@
     "answer": "A. Those who have made a profession of faith in Christ, have been baptized, and have been admitted by the Session to the Lord’s Table (6-2)."
   },
   {
-    "question": "Q. Who is entitled to all the rights and privileges of the church?",
-    "answer": "A. Only communing members (6-4)."
-  },
-  {
     "question": "Q. Can women serve as teaching or ruling elders?",
     "answer": "A. No. These offices are given to men only (7-2)."
   },
   {
-    "question": "Q. What is the difference in authority of ruling and teaching elders?",
-    "answer": "A. None. They possess the same authority (8-9)."
-  },
+    "question": "",
+    "answer": "As he has the oversight of the flock of Christ, he is termed <em>bishop</em> or <em>pastor</em>. As it is his duty to be spiritually fruitful, dignified, and prudent, an example to the flock, and to govern well in the house and Kingdom of Christ, he is termed <em>presbyter</em> or <em>elder</em>. As he expounds the Word, and by sound doctrine both exhorts and convinces the gainsayer, he is termed <em>teacher</em> (8-1)."
+  }
   {
     "question": "Q. What are the responsibilities of a ruling elder?",
     "answer": "A. To govern, to discipline and to oversee the church; to visit in the homes; to teach; to pray with and for the people (8-3)."
   },
   {
-    "question": "Q. What the duties of a deacon?",
+    "question": "Q. What are the responsibilities of a deacon?",
     "answer": "A. To help those in need; to encourage stewardship in the members of the church; to collect and to distribute the gifts of the people; to care for the property of the church, both real and personal (9-2)."
-  },
-  {
-    "question": "Q. In what do deacons need the consent of the congregation?",
-    "answer": "A. In matters of special importance affecting the property of the church (9-2)."
   },
   {
     "question": "Q. What is the relation between the deacons and the Session?",
     "answer": "A. The deacons are under the supervision and authority of the Session (9-2)."
   },
   {
-    "question": "Q. How often shall the deacons meet?",
-    "answer": "A. At least once a quarter (9-4)."
-  },
-  {
     "question": "Q. What are the courts of the church?",
     "answer": "A. Sessions, Presbyteries, and the General Assembly (10-2)."
-  },
-  {
-    "question": "Q. Who is the moderator of the Session?",
-    "answer": "A. The pastor (10-3)."
   },
   {
     "question": "Q. What is the jurisdiction of each church court?",
     "answer": "A. The Session, over a single church; the Presbytery, over ministers, Sessions and churches within a prescribed district; the General Assembly over the whole Church (11-4)."
   },
   {
-    "question": "Q. Who composes the Session?",
-    "answer": "A. The pastor, associate pastor(s), and ruling elders (12-1)."
-  },
-  {
     "question": "Q. What are the duties of the Session?",
     "answer": "A. To maintain the spiritual government of the church; to receive and to dismiss members; to examine, to ordain, and to install ruling elders and deacons; to oversee the work of the deacons; to oversee all the organizations of the church; to order special collections; to appoint representatives to Presbytery; to require faithfulness on the part of these officers (12-5)."
-  },
-  {
-    "question": "Q. How often show a session meet?",
-    "answer": "A. At least quarterly. Additionally the pastor has the ability to convene the Session, and when two RE’s request (12-6)."
   },
   {
     "question": "Q. Who composes the Presbytery?",
@@ -424,24 +384,16 @@
     "answer": "A. To receive and to issue appeals, complaints, and references; to receive candidates for the ministry; to examine and license candidates; to receive, to dismiss, to ordain, to install, and to remove and to judge ministers; to oversee its member churches, reviewing the records of Sessions, establishing and dissolving pastoral relationships, uniting and dividing churches, addressing evils in churches, dissolving and dismissing churches, and to propose to the General Assembly measures concerning the Church-at-Large (13-9)."
   },
   {
-    "question": "Q. Who composes the General Assembly?",
-    "answer": "A. All teaching elders, ruling elders from each congregation in ratio of two for each 350 members or fraction thereof, and one additional ruling elder for each additional 500 communing members or fraction thereof (14-2)."
-  },
-  {
-    "question": "Q. Who composes the General Assembly?",
-    "answer": "A. All teaching elders, ruling elders from each congregation in ratio of two for each 350 members or fraction thereof, and one additional ruling elder for each additional 500 communing members or fraction thereof (14-2)."
-  },
-  {
     "question": "Q. What are the 5 permanent committees of the General Assembly?",
     "answer": "A. Administrative Committee (AC), CDM, MNA, MTW, RUF (Program Committees)"
   },
   {
-    "question": "Q. What are the powers of General Assembly?",
-    "answer": "A. To receive and issue appeals, complaints, and references from lower courts; to bear testimony against errors in doctrines; to decide in all controversies of doctrine and discipline; to oversee Presbyteries, reviewing their records, devising means of promoting and enlarging the Church, to erect new Presbyteries and to divide and to unite existing Presbyteries with their consent; to superintend necessary agencies; to superintend the affairs of the whole church; to unite with other ecclesiastical bodies (14-6)."
+    "question": "Q. What are the 5 agencies of the PCA?",
+    "answer": "A. Covenant College, Covenant Theological Seminary, Geneva Benefits, PCA Foundation, Ridge Haven Conference Center"
   },
   {
-    "question": "Q. Who calls men to church office?",
-    "answer": "A. God, by the Holy Spirit (16-1)."
+    "question": "Q. What are the powers of General Assembly?",
+    "answer": "A. To receive and issue appeals, complaints, and references from lower courts; to bear testimony against errors in doctrines; to decide in all controversies of doctrine and discipline; to oversee Presbyteries, reviewing their records, devising means of promoting and enlarging the Church, to erect new Presbyteries and to divide and to unite existing Presbyteries with their consent; to superintend necessary agencies; to superintend the affairs of the whole church; to unite with other ecclesiastical bodies (14-6)."
   },
   {
     "question": "Q. Who calls the pastor?",
@@ -452,11 +404,7 @@
     "answer": "A. Yes (22-2)."
   },
   {
-    "question": "Q. Who must consent to a pastoral call?",
-    "answer": "A. The congregation, the minister, and the Presbytery (23-1)."
-  },
-  {
-    "question": "Q. Who must consent to the dissolution of a pastoral relationship?",
+    "question": "Q. Who must consent to a pastoral call or the dissolution of a pastoral relationship?",
     "answer": "A. The congregation, the minister, and the Presbytery (23-1)."
   },
   {
@@ -464,24 +412,12 @@
     "answer": "A. Congregation submits names; a time of training is held; Session examines those whose names have been nominated and trained, and then submits those approved to a congregational meeting; congregation elects by a majority vote (24-1, 3)."
   },
   {
-    "question": "Q. Who presides at a congregational meeting?",
-    "answer": "A. The pastor (24-2)."
-  },
-  {
     "question": "Q. Who is entitled to vote at a congregational meeting?",
     "answer": "A. All communing members in good and regular standing (24-3)."
   },
   {
-    "question": "Q. Is an officer who is re-elected to the same office re-ordained?",
-    "answer": "A. No. Ordination is perpetual. He is re-installed (24-6, 7)."
-  },
-  {
     "question": "Q. How can the Office of Deacon or Ruling Elder be dissolved?",
     "answer": "A. By rotation; by resignation after conference with the Session; by action of the congregation; by deposition after trial; by one year’s inactivity (24-7, 8, 9)."
-  },
-  {
-    "question": "Q. What constitutes a quorum for a congregational meeting?",
-    "answer": "A. It varies. For a church not more than 100 members, it is 1⁄4 of the communing members. For a church of more than 100 and not more than 300 members, it is 1/5. For a church of more than 300 and not more than 500 members, it is 1/6. For a church of more than 500 and not more than 700 members, it is 1/7. For a church more than 700 members, it is 100 of the communing members of a church (25-2)."
   },
   {
     "question": "Q. What are the responsibilities of the officers of a corporation?",
@@ -492,10 +428,6 @@
     "answer": "A. To the local church (25-9)."
   },
   {
-    "question": "Q. Can a congregation withdraw from the Presbyterian Church in America and retain its property?",
-    "answer": "A. Yes. The relationship to the PCA is voluntary. A church may withdraw at any time and no higher court may claim its property (25-9, 11)."
-  },
-  {
     "question": "Q. What is the constitution of the Presbyterian Church in America?",
     "answer": "A. The constitution which is subject to and subordinate to the Scriptures consists of its doctrinal standards set forth in the Westminster Confession of Faith, the Larger and Shorter Catechisms and the Book of Church Order (26-1)."
   },
@@ -504,104 +436,12 @@
     "answer": "A. Discipline is the exercise of authority given the church by the Lord Jesus Christ to instruct and guide its members and to promote its purity and welfare."
   },
   {
-    "question": "Q. What is the purpose of discipline? (27-3)",
-    "answer": "A. The exercise of discipline is highly important and necessary. In its proper usage discipline maintains the Glory of God, the purity of his church, the keeping and reclaiming of disobedient sinners. Discipline is for the purpose of godliness (1 Timothy 4:7); therefore, it demands a self-examination under Scripture."
-  },
-  {
-    "question": "Q. How should discipline be given? (27-4)",
-    "answer": "A. The power which Christ has given the church is for building up, and not for destruction. It is to be exercised as under a dispensation of mercy and not of wrath…the Church acts as a tender mother, correcting her children for their good, that every one of them may be presented faultless in the day of the Lord Jesus."
-  },
-  {
-    "question": "Q. What is the basis of all discipline? (27-5)",
-    "answer": "A. Scriptural law is the basis of all discipline. Proper disciplinary principles are set forth in the Scriptures and must be followed (Matthew 18:15-16; Galatians 6:1). See 27-5 for the 4 steps."
-  },
-  {
-    "question": "Q. Who is primarily responsible for the spiritual instruction and training of children? (28-1)",
-    "answer": "A. The spiritual nurture, instruction and training of the children of the Church are committed by God primarily to their parents."
-  },
-  {
-    "question": "Q. What is an offense? (29-1)",
-    "answer": "A. An offense is anything in the doctrines or practice of a Church member professing faith in Christ which is contrary to the Word of God."
-  },
-  {
-    "question": "Q. What kinds of censures exist? (30-1)",
-    "answer": "A. Admonition, suspension from the sacraments, excommunication, suspension from office, and deposition from office."
-  },
-  {
     "question": "Q. Where is original jurisdiction for members and ministers? (31-1)",
     "answer": "A. Original jurisdiction (the right first or an initially to hear and determine) in relation to ministers of the Gospel shall be in the Presbytery of which the minister is a member, except in cases as provided in BCO 34-1. Original jurisdiction for church members shall be in the Session of the church in which he/she is a member, except in cases as provided in BCO 33-1."
   },
   {
-    "question": "Q. What happens when an accused person refuses to obey a citation? (32-6)",
-    "answer": "A. When an accused person shall refuse to obey a citation, he shall be cited a second time. The second citation shall be accompanied with a notice that if he does not appear at the time appointed (unless providentially hindered, which he must make known to the court) he shall be dealt with for his contumacy."
-  },
-  {
-    "question": "Q. What is the proper procedure for the trial of a case? (32-15)",
-    "answer": "A. Six steps: the moderator shall charge the court; the indictment shall be read and the answer of the accused heard; the witnesses for the prosecutor and then those for the accused shall be examined; the parties shall be heard: first, the prosecutor, and then the accused, and the prosecutor shall close; the role shall be called, and the members may express their opinion in the case; and the vote shall be taken, the verdict announced and judgment entered on the records."
-  },
-  {
-    "question": "Q. What happens to a minister when he is accused of an offense? (34-4)",
-    "answer": "A. When a minister accused of an offense is found contumacious (32-6), he shall be immediately suspended from the sacraments and his office for his contumacy. Record shall be made of the fact and of the charges under which he was arraigned, and the censure shall be made public. The censure shall in no case be removed until the offender has not only repented of his contumacy, but has also given satisfaction in relation to the charges against him. If after further endeavor by the court to bring the accused to a sense of his guilt, he persists in his contumacy, he shall be deposed and excommunicated from the Church."
-  },
-  {
-    "question": "Q. Who is a competent witness? (35-1)",
-    "answer": "A. All persons of proper age and intelligence are competent witnesses, except such as do not believe in the existence of God, or a future state of rewards and punishments… It belongs to the court to judge the degree of credibility to be attached to all evidence."
-  },
-  {
-    "question": "Q. How should church censures be administered? (36-2)",
-    "answer": "A. Church censures and the modes of administering them should be suited to the nature of the offenses. For private offenses, censure should be administered in the presence of the court alone, or in private by one or more members of the court. In the case of public offenses, the degree of censure and mode of administering it shall be within the discretion of the court."
-  },
-  {
-    "question": "Q. What happens when a member or officer seeks to withdraw to another denomination? (38-3)",
-    "answer": "A. If at the time of the attempt to withdraw he is in good standing, the irregularity shall be recorded, his new membership acknowledged, and his name removed from the role. But if at the time of the attempt to withdraw there is a record of an investigation in process (31-2) or there are charges (32-3) concerning the member or minister, the court of original jurisdiction may retain his name on the role and conduct the case, communicating the outcome upon completion of the proceedings to that member or minister. If the court does not conduct the case, his new membership shall be acknowledged, his name removed from the role, and, at the request of the receiving branch, the matters under investigation or the charges shall be communicated to them."
-  },
-  {
-    "question": "Q. What happens to a member who willfully neglects the church for one year or more? (38-4)",
-    "answer": "A. When a member of a particular church has willfully neglected the church for a period of one year, or has made it known that he has no intention of fulfilling the church vows, then the Session, continuing to exercise pastoral discipline in the spirit of Galatians 6:1, shall remind the member, if possible both in person and in writing, of the declarations and promises by which he entered into a solemn covenant with God and His Church (BCO 57-5, nos. 3-5), and warn him that, if he persists, his name shall be erased from the role. If after diligently pursuing such pastoral discipline, and after further inquiry and due delay, the Session is of the judgment that the member will not fulfill his membership obligations in this or any other branch of the Visible Church, then the Session shall erase his name from the role. This erasure is an act of pastoral discipline without process. The Session shall notify the person, if possible, whose name has been removed. If a member thus warned makes a written request for process, the Session shall grant such a request."
-  },
-  {
-    "question": "Q. How are the acts and decisions of a lower court supervised by a higher court? (39-1)",
-    "answer": "A. The acts and decisions of a lower court are brought under the supervision of a higher court in one or another of the following modes: review and control; reference; appeal; and complaint."
-  },
-  {
     "question": "Q. How often should a lower court’s records (Session, Presbytery) be reviewed by a higher court (Presbytery, GA)? (40-1)",
     "answer": "A. At least once a year."
-  },
-  {
-    "question": "Q. What is a reference? (41-1)",
-    "answer": "A. A reference is a written representation and application made by a lower court to a higher for advice or other action on a matter pending before the lower court, and is ordinarily to be made to the next higher court."
-  },
-  {
-    "question": "Q. What is an appeal? (42-1)",
-    "answer": "A. An appeal is the transfer to a higher court of a judicial case on which judgment has been rendered in a lower court, and is allowable only to the party against whom the decision has been rendered. The parties shall be known as the appellant and appellee."
-  },
-  {
-    "question": "Q. What is a complaint? (43-1)",
-    "answer": "A. A complaint is a written representation made against some act or decision of a court of the Church."
-  },
-  {
-    "question": "Q. What is a dissent? (45-2)",
-    "answer": "A. A dissent is a declaration on the part of one or more members of a minority, expressing a different opinion from the majority in its action on any issue before the court, and may be accompanied with the reasons on which it is founded."
-  },
-  {
-    "question": "Q. What is a protest? (45-3)",
-    "answer": "A. A protest is a more solemn and formal declaration by members of a minority, bearing their testimony against what they deem an improper or erroneous action on any issue before the court, and is generally accompanied with the reasons on which it is founded."
-  },
-  {
-    "question": "Q. What is an objection? (45-4)",
-    "answer": "A. An objection is a declaration by one or more members of a court who did not have the right to vote on an appeal or complaint, expressing a different opinion from the decision of the court and may be accompanied with the reasons on which it is founded."
-  },
-  {
-    "question": "Q. What is an associate member? (46-4)",
-    "answer": "A. Associate members are those believers temporarily residing in a location other than their permanent homes. Such believers may become associate members of a particular church without ceasing to be communicant members of their home churches. They shall have all the rights and privileges of that church, with the exception of voting in a congregational or corporation meeting, and holding an office in that church."
-  },
-  {
-    "question": "Q. Where do we derive the principles of public worship? (47-1)",
-    "answer": "A. Since the Holy Scriptures are the only infallible rule of faith and practice, the principles of public worship must be derived from the Bible, and from no other source."
-  },
-  {
-    "question": "Q. What is the end of public worship? (47-3)",
-    "answer": "A. The end of public worship is the glory of God. His people should engage in all its several parts with an eye single to His glory."
   },
   {
     "question": "Q. Are their fixed forms for public worship? (47-6)",
@@ -610,49 +450,5 @@
   {
     "question": "Q. What are the proper elements of a worship service? (47-9)",
     "answer": "A. The reading of Holy Scripture, singing of psalms and hymns, the offering of prayer, the preaching of the Word, the presentation of offerings, confessing the faith and observing the Sacraments; and on special occasions taking oaths."
-  },
-  {
-    "question": "Q. How should the rest of the Lord’s Day be observed? (48-7)",
-    "answer": "A. In prayer, in devotional reading, and especially in the study of the Scriptures, meditation, catechizing, religious conversation, the singing of songs, hymns, or spiritual songs; visiting the sick, relieving the poor, teaching the ignorant, holy resting, and in performing such like duties of piety, charity, and mercy."
-  },
-  {
-    "question": "Q. What embodies a full and comprehensive prayer? (52-2, an extensive answer)",
-    "answer": "A. Adoring the glory and perfections of God; giving thanks to Him; making humble confession of sin, both original and actual; making earnest supplication for the pardon of sin, and peace with God; pleading from every principle warranted in Scripture; and intercession and petition for others."
-  },
-  {
-    "question": "Q. What is involved from the parents in presenting a child for baptism? (56-4)",
-    "answer": "A. The minister is to exhort the parents to the careful performance of their duty, requiring: that they teach the child to read the Word of God; that they instruct him in the principles of our holy religion (the Scriptures and the WCF and Catechisms); that they pray with and for him; and that they set an example of piety and godliness before him; and endeavor, by all the means of God’s appointment, to bring up their child in the nurture and admonition of the Lord."
-  },
-  {
-    "question": "Q. How do unbaptized people apply for admission into the church? (57-3)",
-    "answer": "A. Ordinarily, after giving satisfaction with respect to their knowledge and piety, make a public profession of their faith, in the presence of the congregation, and thereupon is baptized."
-  },
-  {
-    "question": "Q. How are baptized persons admitted by the Session to the Lord’s Table? (57-4)",
-    "answer": "A. It is recommended, as edifying and proper, that baptized persons, when admitted by the Session to the Lord’s Table, make a public profession of their faith in the presence of the congregation. But in all cases, there should be a clear recognition of their previous relation to the church as baptized members."
-  },
-  {
-    "question": "Q. How often should communion be observed in a local church? (58-1)",
-    "answer": "A. Frequently; the stated times to be determined by the Session of each congregation, for edification."
-  },
-  {
-    "question": "Q. Who is invited to the Lord’s Table? (58-4)",
-    "answer": "A. The minister may either invite all those who profess the true religion, and are communicants in good standing in any evangelical church, to participate in the ordinance; or may invite those who have been approved by the Session, after having given indication of their desire to participate."
-  },
-  {
-    "question": "Q. What is proper for a funeral? (61-1)",
-    "answer": "A. The singing of appropriate psalms or hymns; the reading of some suitable portion or portions of Scripture, with such remarks as it may seem proper to the minister to make; prayer in which the bereaved shall be especially remembered, and God’s grace sought on their behalf, that they may be sustained and comforted in their sorrow, and that their affliction may be blessed to their spiritual good."
-  },
-  {
-    "question": "Q. In addition to public worship, what other kinds of worship are encouraged? (63-1, 63-2)",
-    "answer": "A. It is the duty of each person in secret, and of every family in private, to worship God. Secret worship is spent in prayer, reading the Scriptures, holy meditation, and serious self-examination."
-  },
-  {
-    "question": "Q. How should family worship be observed? (63-3)",
-    "answer": "A. Family worship consists in prayer, reading the Scriptures, and singing praises; or in some briefer form of outspoken recognition of God."
-  },
-  {
-    "question": "Q. What is the task of parents in religious education? (63-4, 63-6)",
-    "answer": "A. Parents should instruct their children in the Word of God, and in the principles of our holy religion. The reading of devotional literature should be encouraged and every proper opportunity should be embraced for religious instruction… Parents should co-operate with the Church by setting their children an example in regular and punctual attendance upon the sessions of the church school and the services of the sanctuary, by assisting them in the preparation of their lessons, and by leading them in the consistent application of the teachings of the Gospel in their daily activities."
   }
 ]
