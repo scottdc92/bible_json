@@ -1,7 +1,7 @@
 [
   {
-    "question": "Q. Summarize and outline the book of Genesis?",
-    "answer": "A. God created all things and covenants with humanity to bring salvation.<br><br><table><tr><td>1-2</td><td>Creation</td></tr><tr><td>3-4</td><td>Fall and Cain</td></tr><tr><td>5-10</td><td>Noah</td></tr><tr><td>11</td><td>Tower of Babel</td></tr><tr><td>12-24</td><td>Abraham</td></tr><tr><td>25-26</td><td>Isaac</td></tr><tr><td>27-36</td><td>Jacob</td></tr><tr><td>37-50</td><td>Joseph</td></tr></table>"
+    "question": "Walk through the Romans Road (share the gospel).",
+    "answer": "<ul>Our Condition and Its Severity<li>Rom. 3:23 – for all have sinned and fall short of the glory of God, </li><li>Rom. 6:23 – For the wages of sin is death…</li></ul><ul>Our Hope<li>Rom. 6:23 – but the gift of God is eternal life in Christ Jesus our Lord.</li><li>Rom. 5:8 – but God shows his love for us in that while we were still sinners, Christ died for us</li></ul><ul>Our Response<li>Rom. 10:9 – because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</li></ul><ul>Our Assurance<li>Rom. 5:1 – Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.</li><li>Rom. 8:1 – There is therefore now no condemnation for those who are in Christ Jesus.</li></ul>"
   },
   {
     "question": "Q. Summarize and outline the book of Exodus?",
@@ -92,14 +92,6 @@
     "answer": "A. Theological account of Jesus’ ministry written for all to believe Jesus is the Christ, the Son of God.<br><br><table><tr><td>1:1-18</td><td>Prologue</td></tr><tr><td>1:19-12:50</td><td>\"Book of Signs\"</td></tr><tr><td>13-20</td><td>\"Book of the Passion\"</td></tr><tr><td>21</td><td>Epilogue</td></tr></table>"
   },
   {
-    "question": "Q. Summarize and outline the book of Acts?",
-    "answer": "A. Early church history focusing on the spread of the church after Christ’s ascension and Pentecost.<br><br><table><tr><td>1-7</td><td>The Church in Jerusalem</td></tr><tr><td>8-12</td><td>The Church in Judea, Samaria, and Antioch</td></tr><tr><td>13-14</td><td>First Missionary Journey of Paul</td></tr><tr><td>15</td><td>Jerusalem Council</td></tr><tr><td>16-18</td><td>Second Missionary Journey of Paul</td></tr><tr><td>19-21</td><td>Third Missionary Journey of Paul</td></tr><tr><td>22-28</td><td>From Jerusalem to Rome</td></tr></table>"
-  },
-  {
-    "question": "Q. Summarize and outline the book of Romans?",
-    "answer": "A. God’s plan of salvation and righteousness for all mankind.<br><br><table><tr><td>1:1-17</td><td>The Righteousness of God</td></tr><tr><td>1:18-3:20</td><td>The Lack of and Need for the Righteousness of God</td></tr><tr><td>3:21-8:39</td><td>The Gift of the Righteousness of God</td></tr><tr><td>9-11</td><td>A Challenge to the Righteousness of God</td></tr><tr><td>12-16</td><td>The Moral Demands of the Rightouesness of God</td></tr></table>"
-  },
-  {
     "question": "Q. Summarize and outline the book of Galatians?",
     "answer": "A. Do not add circumcision to justification by faith alone.<br><br><table><tr><td>1-2</td><td>Opening & Paul’s Defense</td></tr><tr><td>3:1-5:12</td><td>Paul’s Appeal to the Galatians</td></tr><tr><td>5:13-6:10</td><td>Life in the Spirit</td></tr><tr><td>6:11-18</td><td>Final Warnings</td></tr></table>"
   },
@@ -114,10 +106,6 @@
   {
     "question": "Q. Summarize and outline the book of James?",
     "answer": "A. Live out your faith in action.<br><br><table><tr><td>1-3</td><td>Genuine Faith</td></tr><tr><td>4</td><td>Warnings against Worldliness</td></tr><tr><td>5</td><td>The Return of the Lord</td></tr></table>"
-  },
-  {
-    "question": "Q. Summarize and outline the book of 1 John?",
-    "answer": "A. God is love; walk in His light and love.<br><br><table><tr><td>1</td><td>God is Light</td></tr><tr><td>2-4</td><td>God is Love</td></tr><tr><td>5</td><td>God is Life</td></tr></table>"
   },
   {
     "question": "Q. Summarize and outline the book of Jude?",
@@ -181,7 +169,7 @@
   },
   {
     "question": "Q. Limited Atonement",
-    "answer": "A. John 6 – 'No one can come to Me unless the Father who sent Me draws him';<br>John 10 – 'I am the good shepherd. I know my own and my own know me...'"
+    "answer": "A. Matt. 20 – ransom for many;<br>John 10 – 'I am the good shepherd. I know my own and my own know me...';<br>Acts 20 – purchased the church with his blood"
   },
   {
     "question": "Q. Irrestible Grace",
@@ -204,12 +192,24 @@
     "answer": "A. 1 Kings 18"
   },
   {
-    "question": "Q. Emmaus Road",
-    "answer": "A. Luke 24"
-  },
-  {
     "question": "Q. Faith and Works",
     "answer": "A. Rom. 2; Titus 3; James 2"
+  },
+  {
+    "question": "Q. Lord’s Supper",
+    "answer": "A. Matt. 26; Mark 14; Luke 22; John 13; 1 Cor. 11"
+  },
+  {
+    "question": "Q. Nebuchadnezzar’s Dreams",
+    "answer": "A. Dan. 2"
+  },
+  {
+    "question": "Q. Olivet Discourse",
+    "answer": "A. Matt. 24-25; Mark 13; Luke 21"
+  },
+  {
+    "question": "Q. Qualifications for church officers",
+    "answer": "A. 1 Tim. 3; Titus 1; Acts 6-8"
   },
   {
     "question": "Q. Scripture",
@@ -268,12 +268,12 @@
     "answer": "A. The relationship into which God entered to provide, by grace, the promise of salvation and eternal life to sinful humanity. It extends throughout the Old Testament by means of various covenants to its final fulfillment in Christ. God promises to be a God to us and our offspring, mankind is to respond by saving faith in Jesus Christ. Scripture references include Jer. 31-32; Ezek. 34, 36-37; 2 Cor. 6; Heb. 8"
   },
   {
-    "question": "Q. What is the biblcal argument for Presbyterianism?",
-    "answer": "A. Biblical principles include: the plurality of elders (Acts 14; 20; Titus 1; 1 Pet. 5), connectionalism (Acts 15; Gal. 1:1-10; 1 Cor. 12), and representative government (Acts 6; 1 Cor. 16). This approach ensures that churches are governed by a team of leaders who are accountable to one another and to the congregation, and that decisions are made in a way that is guided by Scripture (2 Tim. 3; 2 Pet. 1). By following these principles, Presbyterianism seeks to promote unity, diversity, and biblical fidelity in the church (Eph. 4; 1 Cor. 12)."
+    "question": "References for covenants under the Covenant of Grace",
+    "answer": "Proto-euangelion – Gen. 3:15<br>Noahic – Gen. 9:12-17<br>Abrahamic – Gen. 12, 15, 17<br>Mosaic – Ex. 19-24; Deut. 28<br>Davidic – 2 Sam. 7<br.New Covenant – Jeremiah 31; Ezekiel 36"
   },
   {
-    "question": "Q. What is the visible church?",
-    "answer": "A. The visible church consists of those throughout the world professing Christ, and their children (WCF 25.2)."
+    "question": "Q. What is the biblcal argument for Presbyterianism?",
+    "answer": "A. Biblical principles include: the plurality of elders (Acts 14; 20; Titus 1; 1 Pet. 5), connectionalism (Acts 15; Gal. 1:1-10; 1 Cor. 12), and representative government (Acts 6; 1 Cor. 16). This approach ensures that churches are governed by a team of leaders who are accountable to one another and to the congregation, and that decisions are made in a way that is guided by Scripture (2 Tim. 3; 2 Pet. 1). By following these principles, Presbyterianism seeks to promote unity, diversity, and biblical fidelity in the church (Eph. 4; 1 Cor. 12)."
   },
   {
     "question": "Q. What are the attributes of the church? Prove from scripture.",
@@ -284,20 +284,12 @@
     "answer": "A. The preaching of the Word (2 Tim 4:1-2), administration of the sacraments (1 Cor 11), and church discipline (Matt 16 & 18)."
   },
   {
-    "question": "Q. Who is the head of the church? Prove from scripture.",
-    "answer": "A. Jesus Christ (Col 1:18)."
-  },
-  {
     "question": "Q. Define three basic forms of church government.",
-    "answer": "A. Episcopalian church government consists of a hierarchy of priests and bishops who have final authority in the government of the church.<br>Presbyterian church government affirms the importance of the 'connectional' nature of the church; that is, that each local congregation is 'connected' both doctrinally and in practice to other local congregations via presbyteries and the General Assembly. Each local church is governed by a session, each session is accountable to a presbytery, and every presbytery accountable to the General Assembly.<br>A Congregational church government views each local church as autonomous and self-governing, and sees no place for any official, governmental connection between local churches."
-  },
-  {
-    "question": "Q. What are the principles of Presbyterian church government?",
-    "answer": "A. Christ is the head of His church & the source of all its authority; Christ exercises His authority through the Word and His Spirit.<br>Christ has endowed His church with authority—with specific authority to its officers.<br>Each local church is ruled by a session, comprised of teaching and ruling elders called by Christ and recognized by the members of the church as their leaders.<br>Each local church is represented by chosen members of its session within a presbytery, a church court comprised of teaching and ruling elders from each church within a certain geographical area.<br>The denomination as a whole is represented in the General Assembly, which serves as the highest court of the church."
+    "answer": "A. Episcopalian church government consists of a hierarchy of priests and bishops who have final authority in the government of the church.<br>Presbyterian church government affirms the importance of the 'connectional' nature of the church (doctrinally and in practice). Each local church is governed by a session, each session is accountable to a presbytery, and every presbytery accountable to the General Assembly.<br>A Congregational church government views each local church as autonomous and self-governing."
   },
   {
     "question": "Q. What authority does the church possess?",
-    "answer": "A. The authority of the church is ministerial and declarative. It has the authority to retain and remit sins (WCF 30.2)."
+    "answer": "A. The authority of the church is ministerial and declarative."
   },
   {
     "question": "Q. What is the purpose of church censures?",
@@ -334,10 +326,6 @@
   {
     "question": "Q. What are communing members of a church?",
     "answer": "A. Those who have made a profession of faith in Christ, have been baptized, and have been admitted by the Session to the Lord’s Table (6-2)."
-  },
-  {
-    "question": "Q. Can women serve as teaching or ruling elders?",
-    "answer": "A. No. These offices are given to men only (7-2)."
   },
   {
     "question": "What other terms are used for elders?",
