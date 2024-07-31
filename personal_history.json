@@ -121,10 +121,190 @@
   },
   {
     "question": "Who was Athanasius?",
-    "answer": "4<sup>th</sup> Century Bishop of Alexandria at Nicaea (325) and fought for Trinitarian theology.<br><br>Argued against Arius and his doctrine that the Father and the Son are not of the same substance (Arianism) by saying Christ is the image of the Father and has the same nature"
+    "answer": "4<sup>th</sup> Century Bishop of Alexandria at Nicaea (325) and fought for Trinitarian theology.<br><br>Argued against Arius and his doctrine that the Father and the Son are not of the same substance (Arianism) by saying Christ is the image of the Father and has the same nature."
   },
   {
     "question": "Who was Augustine?",
-    "answer": "4<sup>th</sup> Century Bishop of Alexandria at Nicaea (325) and fought for Trinitarian theology.<br><br>Argued against Arius and his doctrine that the Father and the Son are not of the same substance (Arianism) by saying Christ is the image of the Father and has the same nature"
+    "answer": "4-5<sup>th</sup> Century Bishop of Hippo; a pivotal figure in Christian theology, whose writings and teachings helped shape the Western Christian tradition, particularly in the areas of original sin, predestination, and the nature of God's sovereignty, influencing countless theologians, including the Protestant Reformers."
+  },
+  {
+    "question": "Who was Pelagius?",
+    "answer": "4-5<sup>th</sup> Century advocate of free will and denied original sin/sinful nature.<br><br>Opposed by Augustine and declared heretic by the Council of Carthage (418)"
+  },
+  {
+    "question": "Who was St. Patrick?",
+    "answer": "4-5<sup>th</sup> Century Slave in Ireland, after freedom, returned as a bishop-evangelist to the island; emphasis on prayer, monasticism, mission and contextualization."
+  },
+  {
+    "question": "Who was Anselm?",
+    "answer": "11<sup>th</sup> Century Archbishop of Canterbury, known as the father of scholasticism, influenced by Augustine. Introduced atonement theory (satisfaction theory), developed ontological and cosmological arguments, and saw no conflict between faith and reason."
+  },
+  {
+    "question": "Who was Abelard?",
+    "answer": "11-12<sup>th</sup> Century Medieval French scholastic philosopher and theologian, and introduced the moral influence theory of atonement. Sin is a subjective problem God eliminates and denied inherited guilt."
+  },
+  {
+    "question": "Who was Bernard of Clairvaux?",
+    "answer": "11-12<sup>th</sup> Century Major reformer, last of the Church Fathers, preacher during 2nd Crusade. Experience is the goal, checked by reason and faith. Three books: general revelation (creation), special revelation (scripture), and experience."
+  },
+  {
+    "question": "Who was Aquinas?",
+    "answer": "13<sup>th</sup> Century One of the most influential theologians and philosophers in the history of Christianity. His importance lies in his systematic integration (synthesis) of Aristotelian philosophy with Christian theology, his development of key theological concepts, and his lasting impact on Western thought.<br><br>Five proofs for God’s existence: 1. Argument from Motion (Unmoved Mover), 2. Argument from Efficient Cause (Uncaused Cause), 3. Argument from  Necessity (Necessary Being): nuanced, emphasizing the distinction between necessary and contingent beings. 4. Argument from Gradation (Perfect Standard): focused on the concept of analogy and the existence of a perfect standard for comparison. 5. Argument from Teleology (Purpose and Design): focused on the idea that the order and purpose in the universe suggest the existence of an intelligent designer."
+  },
+  {
+    "question": "Who was John Wycliffe?",
+    "answer": "14<sup>th</sup> Century The “Morning Star of the Reformation.” Followers were called Lollards and was declared a heretic by Catholic Church.<br><br>Theology professor at Oxford who began renewed interest in Augustine’s understanding of faith. Translated Bible to Middle English and stressed Scripture’s authority in matters of faith.<br><br>Denied transubstantiation, the infallibility of the church in matters of faith, and criticized belief in purgatory, pilgrimages, worship of saints, and veneration of relics"
+  },
+  {
+    "question": "Who was John Hus?",
+    "answer": "14-15<sup>th</sup> Century Predecessor to the Reformation, influenced Luther. Himself influenced by Augustine and Wycliffe and put his doctrines into practice. Became a powerful Bohemian preacher preaching in the vernacular attacking the clergy’s covetousness, sloth, and luxury. Said Christ was the head of the church and denounced indulgences. Four Articles of Prague: 1. Freedom of preaching, 2. communion in both kinds, 3. poverty of the clergy, and 4. punishment of serious sins publicly. Followers were called Hussites. Excommunicated and burned at the stake in 1415."
+  },
+  {
+    "question": "Who was Erasmus?",
+    "answer": "14-15<sup>th</sup> Century Dutch rationalist humanist; Published the Greek New Testament and emphasis on inward Christian living rather than ecclesiastical reform. During Reformation, tried to reform Catholic Church from the inside as a \"middle of the road.\""
+  },
+  {
+    "question": "Explain the monastic movement.",
+    "answer": "The monastic movement originated with the Desert Fathers, such as Anthony (251-356 AD), who sought to live a life of spiritual devotion and asceticism in the wilderness, seen as a form of \"white martyrdom\" replacing physical martyrdom. As the movement evolved, two classes emerged: the monastic community and the laity. The Benedictine Rule, established by Benedict of Nursia (480-543 AD) around 530 AD, became the standard for monastic life, emphasizing community, work, and prayer, with a daily routine centered on seven services and prayers in Latin.<br><br>Later, the Mendicant orders, such as the Dominicans (founded by Dominic in 1216 AD) and Franciscans (founded by Francis in 1209 AD), emerged, characterized by their vow of poverty and reliance on begging, and became major centers of learning, reforming monasticism to focus on missionary work and evangelization, while also renewing the Church's emphasis on Scripture, catechesis, and preaching, particularly through Lenten missions."
+  },
+  {
+    "question": "Explain the major developments in the papacy.",
+    "answer": "<ul><li>Early Christianity (1st-5th centuries): The bishop of Rome, later known as the Pope, emerged as a leader among early Christian churches. The Edict of Milan (313 AD) and the Council of Nicaea (325 AD) established the Pope's authority.</li><li>Gregory the Great (590-604 AD): Gregory I, also known as Gregory the Great, increased papal power and established the papacy as a major force in Western Christianity.</li><li>Crusades (1095-1291): The papacy launched the Crusades, a series of military campaigns to reclaim the Holy Land from Muslim rule, which marked the height of papal authority and influence in Western Christianity.</li><li>Papal Supremacy (11th-12th centuries): The papacy asserted its authority over secular rulers, leading to conflicts like the Investiture Controversy (1075-1122).</li><li>Avignon Papacy (1309-1377): The papacy's relocation to Avignon, France, led to corruption and decline, culminating in the Western Schism (1378-1417).</li><li>Renaissance Papacy (1450-1520): The papacy's focus on art, architecture, and humanism led to a decline in spiritual authority and an increase in corruption, contributing to the Protestant Reformation.</li></ul>"
+  },
+  {
+    "question": "What were the crusades?",
+    "answer": "The Crusades (1095-1291) were a series of military campaigns launched by the Catholic Church in response to four centuries of Islamic attack and domination. The ideology behind the Crusades was rooted in just war, penance, pilgrimage to Jerusalem, and power. The First Crusade (1095-1099) was the most successful, but subsequent Crusades failed to achieve their goal of reclaiming the Holy Land.<br><br>Three major lasting effects on European history: Economic strain and the rise of nationalism, which contributed to the Hundred Years War (1337-1453). Scarred East-West relations and the regaining of lost territory by Islam. Marking the beginning of a new era of conflict, nationalism, and cultural exchange in European history."
+  },
+  {
+    "question": "What is scholasticism?",
+    "answer": "Scholasticism, a method of studying theology using logic, reasoning, and detailed arguments, emerged in the 11th century and flourished in medieval universities from the 12th to 14th centuries. This approach, developed by scholars like Thomas Aquinas and Anselm, declined in the 15th century but influenced the development of Protestant Scholasticism in the 16th century. Protestant Scholasticism, led by scholars like Francis Turretin and Johannes Althusius, built on the work of earlier Reformers and classical philosophers to create a comprehensive theological framework that helped establish and spread Reformed doctrines, making a significant contribution to the intellectual and doctrinal foundations of Reformed theology."
+  },
+  {
+    "question": "Explain the East-West Schism?",
+    "answer": "The East-West Schism of 1054, also known as the Great Schism, was the culmination of centuries of growing theological, political, cultural, and ecclesiastical differences between the Western Church (Roman Catholic) and the Eastern Church (Eastern Orthodox). The immediate cause was the mutual excommunication between Pope Leo IX and Patriarch Michael I Cerularius, but underlying causes included the Filioque controversy, papal supremacy, and linguistic and cultural differences. The schism had profound and enduring effects, solidifying the division between the two churches, weakening Christendom's unity, and fostering centuries of mistrust and hostility. Despite attempts at reconciliation, the division persists to this day, although modern ecumenical efforts have improved relations and dialogue between the two churches."
+  },
+  {
+    "question": "Who was William Tyndale?",
+    "answer": "Educated by John Colet (who trained Erasmus) at Oxford. Translated the New Testament into English, a major influence on the KJV. Burnt at the stake in 1536."
+  },
+  {
+    "question": "Outline the life of Martin Luther?",
+    "answer": "<ul><li>Monastic life (1507-1517) – after earning a degree in law, he was caught in a thunderstorm and vowed to become a monk. He entered the Augustinian monastary in 1507. In 1511 he was sent to the University of Wittenberg and his studies would lead to his study of Romans and Paul's theology of justification.</li><li>1517 – Nailed his 95 Theses to the door of the Castle Church in Wittenberg, critiquing the practice of selling indulgences.</li><li>1519 – Leipzig Debate against Johann Eck. Luther refused to recant and was declared a heretic.</li><li>1521 – Diet of Worms where Luther again refused to recant and exlaimed, \"Here I stand. I can do no other.\"</li><li>1529 – Marsburg Colloquy meeting with Ulrich Zwingli and other reformers (Bucer, Melanchton, Oecolampadius, etc.) discussing a unified Protestant theology, but ended in a single disagreement over the real presence of Christ in the Lord's Supper.</li><li>1530 – Luther and others drafted the Augsburg Confession, the Lutheran statement of faith.</li><li>1546 – Died</li></ul>"
+  },
+  {
+    "question": "Who was Philip Melanchton?",
+    "answer": "Worked alongside Luther at Wittenberg; friend of Luther's with a softer approach. Influenced by Erasmus and systemized Luther’s theology in Loci Communes.<br><br>Wrote commentary on Romans and the Augsburg Confession.<br><br>Opposed by Zwingli on the real presence of Christ in the Lord’s Supper at the Marsburg Colloquy (1529). Eventually altered his view to something closer to Calvin’s by 1540 and was viewed suspiciously by Lutherans."
+  },
+  {
+    "question": "Who was Ulrich Zwingli?",
+    "answer": "Swiss reformer, influenced by Erasmus; died on the battlefield.<br><br>Disagreed with Luther on the presence of Christ in the Eucharist at the Marsburg Colloquy (1529). Wrote on Covenant Theology."
+  },
+  {
+    "question": "Describe the life of John Calvin?",
+    "answer": "<ul><li>1509 – Born in France</li><li>1531-1533 – Father dies and begins studying in France but also finshes his degree in law from Orleans, and experiences a sudden conversion. Ends up fleeing Paris because of Francis I's persecution.</li><li>1534-1536 – Loses many Huguenot friends; travels to Basel, publishes the 1<sup>st</sup> edition his Institutes, and while traveling through Geneva is persuaded to stay by Farel.</li><li>1537-1541 – City Council of Geneva is presented with <em>Protestant Statement of Faith</em> but by early 1538 Farel, Calvin, and Coralt are banished for not serving the Lord's Supper. Calvin ends up Strasbourg with Martin Bucer, who is a major influence on Calvin. In 1541, Calvin finally consents to return to Geneva.</li><li>1542-1564 – Calvin remains in Geneva the rest of his life. His wife dies in 1549, deals with Servetus in 1553, publishes his 5<sup>th</sup> and final edition of the Institutes in 1559, and establishes the Genevan Academy with Theodore Beza as Rector. Calvin dies in 1564."
+  },
+  {
+    "question": "Who was John Knox?",
+    "answer": "16<sup>th</sup> Century Scottish reformer and pastor. Brought the Reformation to the English-speaking world. Founder of Presbyterianism as we know it through being influenced by Calvin’s Geneva. Wrote the first Book of Discipline and Book of Common Order."
+  },
+  {
+    "question": "Who were the Covenanters?",
+    "answer": "Groups of Scottish Presbyterians who signed and agreed to abide by religious and political oaths in order to affirm and preserve their beliefs. Notable covenants include King’s Confession of 1581 and the Solemn League and Covenant of 1643/44."
+  },
+  {
+    "question": "Who was Jacob Arminius?",
+    "answer": "16<sup>th</sup> Century Professor in Holland. Early followers became known as Remonstrants; articulated the five points of disagreement and challenged the Belgic Confession."
+  },
+  {
+    "question": "Who was Richard Baxter?",
+    "answer": "17<sup>th</sup> Century Anglican minister who served briefly as Chaplain to King Charles II. Known for taking the mediating position in political and theological disputes of his day."
+  },
+  {
+    "question": "Who was Johnathan Edwards?",
+    "answer": "18<sup>th</sup> Century Congregational minister producing one of the most thorough and broad bodies of theological writings in American history. Criticized for owning slaves. One of the leading preachers in the First Great Awakening (1735-1743), and a missionary to the Indians."
+  },
+  {
+    "question": "Who was Nicolaus von Zinzendorf?",
+    "answer": "18<sup>th</sup> Century German leader of the Moravian Pietists and had a great impact on the future of Christian missions. A group of around 200 supported over 100 overseas missions."
+  },
+  {
+    "question": "Who was George Whitefield?",
+    "answer": "18<sup>th</sup> Century Methodist evangelist but broke in 1741 because of his Calvinist beliefs. Took part in the First Great Awakening, especially in the Savannah area. In 1738 started an orphanage in Georgia and later embarked on an extensive preaching tour of the urban areas of New England."
+  },
+  {
+    "question": "Who was John Wesley?",
+    "answer": "18<sup>th</sup> Century Arminian Revivalist and founder of Methodism (with Whitefield). Convinced the activities of a group which performed dedicated acts of piety and works of charity could be empowered by grace and sustained by the formation of societies. Preached Christian perfection and opposed Calvinism."
+  },
+  {
+    "question": "Who was William Carey?",
+    "answer": "18-19<sup>th</sup> Century Missionary; Initiated organization of the Baptist Missionary Society in 1792. Sailed for India with a colleague in 1793; there his team translated and printed the Bible into several languages."
+  },
+  {
+    "question": "Who was George Müller?",
+    "answer": "19<sup>th</sup> Century Plymouth Brethren (Darbyite) who was a native of Prussia, and in 1829 went to England as a missionary to the Jews. Began and maintained orphanages at Bristol relying entirely on faith and prayer for the necessary material means."
+  },
+  {
+    "question": "Who was Charles Spurgeon?",
+    "answer": "19<sup>th</sup> Century Influential Baptist minister in England (Nonconformist tradition). In April 1854, took pastorate at Baptist Chapel, New Park Street London – stayed there for 38 years. In 1861 the Metropolitan Tabernacle was built. Considered himself to have had roots in Paul, Augustine, Calvin, and Knox."
+  },
+  {
+    "question": "Who was Charles Hodge?",
+    "answer": "19<sup>th</sup> Century The most influential American Presbyterian theologian of the 19th century and Principal of Princeton Seminary between 1851-1878. One of the greatest defenders of Calvinism in America. Rational defense of the faith, including creationism against naturalistic evolution."
+  },
+  {
+    "question": "Who was B.B. Warfield?",
+    "answer": "19<sup>th</sup> Century Professor of theology at Princeton from (1887-1921). Last great Princeton theologian before the split in 1929 that formed Westminster and the OPC. Intellectual defense of Augustinian Calvinism and inerrancy against liberalism. Warfield is best known for his painstakingly careful efforts to defend the inerrancy of the Bible. Wrote “Inspiration” essay with A. A. Hodge in 1881 which put out a carefully stated reassertion of traditional protestant belief in full infallibility and truthfulness of scripture. He wrote countless essays to clarify the Bible’s own testimony to its inspiration and to oppose those who detracted from scripture’s infallible authority."
+  },
+  {
+    "question": "Who was Charles Finney?",
+    "answer": "19-20<sup>th</sup> Century resbyterian and Congregationalist; important figure in the Second Great Awakening, becoming known as \"The Father of Modern Revivalism\" with modern methods of Revivalism.<br><br>Founded \"New School\" and used \"new measures\" of evangelism to win souls, particularly among the “backslidden” and “unconverted.”"
+  },
+  {
+    "question": "Who was D.L. Moody?",
+    "answer": "19<sup>th</sup> Century Congregationalist evangelist with profound influence in American Protestantism. Popularized gospel hymns in his meetings using proceeds to fund girl’s and boy’s schools near his hometown."
+  },
+  {
+    "question": "What was the Babylonian Captivity of the Church?",
+    "answer": "Historically refers to the Avignon Papacy from 1309-77, but the term was used by Martin Luther in 1520 to criticize the Roman Catholic Church’s sacramental system in his treatise “The Babylonian Captivity of the Church.” Luther argued that the church had distorted the true meaning of the sacraments, particularly criticizing the doctrines of transubstantiation, the withholding of the cup from the laity in the Eucharist, and the sacrament of penance. "
+  },
+  {
+    "question": "Who were the five Solas of the Reformation?",
+    "answer": "1. Sola Scriptura<br>2. Sola Fide<br>3. Sola Gratia<br>4. Sola Christus<br>5. Sola Deo Gloria"
+  },
+  {
+    "question": "Summarize the Reformation?",
+    "answer": "Groundwork for the Reformation was laid by the likes of John Hus and John Wycliffe and reached the breaking point with Martin Luther's 95 Theses in which he contested indulgences, purgatory, and justification by merit. It was clear reformation would not occur and Protestatism kicked off after Luther's excommunication in 1521. Reformed theology is summarized in the five solas, and centered around justification by faith alone, sacraments, and the supreme authority of Scripture."
+  },
+  {
+    "question": "Summarize the Counter-Reformation?",
+    "answer": "The Catholic church responded to the rise of Protestantism particuarly with the Council of Trent (1545-1563) which affirmed most Catholic doctrine, condemned Protestantism, and corrected some abuses like indulgence."
+  },
+  {
+    "question": "Summarize the events of the Synod of Dort?",
+    "answer": "The followers of Jacob Arminius wrote the Five Articles of Remonstrance (or Remonstrance) in 1610, after Arminius, had the previous year. They articulated five theological propositions and areas of disagreement over the interpretation of John Calvin. In 1611 the Counter-Remonstrance defended the Belgic Confessoin. Eventually the Dutch National Synod held in Dordrecht in 1618-19 would review and responded to the Remonstrance, and their judgments are known as the Canons of Dort, with five heads of doctrine responding to each article of the Remonstrance."
+  },
+  {
+    "question": "What was the Marrow Controversy?",
+    "answer": "18<sup>th</sup> Century controversy in the church of Scotland during the early 18th century over the free offer of the gospel—the nature of free grace and forsaking sin to come to Christ. The controversy arose in 1717 in the Presbytery of Auchterarder after William Craig would not sign a statement the Presbytery required, known as the Auchterarder Creed, “It is not sound and orthodox to teach that we must forsake sin in order to our coming to Christ.” This creed would be condemned by the General Assembly of the CoS and the two groups would be known as the “Marrow Men” and “Neonomians.”"
+  },
+  {
+    "question": "Trace Presbyterianism in the U.S.",
+    "answer": "Francis Makemie was an Ulster Scot clergyman and immigrated to help found the first presbytery (Presbytery of Philadelphia) in America in 1706. The first synod was formed in 1716 with three presbyteries. Presbyterians placed an emphasis on the education of ministers and William Tennet founded the Log College in 1727 and it continued until his death in 1746. One of the earliest issues arose over the degree of subscription to the WCF required. After being tabled for a few years, in 1729 the Adopting Act was signed allowing for ministers to state 'scruples.'<br><br>The 1730-40s brought a series of revivals that swept through the American colonies, leading to increased emphasis on personal conversion and evangelism. This in turn brought a theological dispute between traditionalists (Old Side) and revivalists (New Side) over issues such as church government, worship, and evangelism and Robert Cross' protestation in 1741.<br><br>The first national Presbyterian denomination formed in 1789 with the creation of a general assembly. The Second Great Awakening began at the close of the 18th century and would take on many moral and social issues, and result in schisms like the Cumberland Presbyterians. In 1801 the PCUSA would make the Plan of Union, an agreement with New England Congregationalist, yet within 30 years would lead to doctrinal division. During this time the Old School/New School Controversy arose—centered around differing views on theology, revivalism, and ecclesiastical governance. Old School proponents expelled four synods during the 1837 General Assembly resulting in Old School Presbyterians and New School Presbyterians.<br><br>The Old School Presbyterians passed the Gardiner Springs Resolution was passed in 1861 to support the Federal Government with many Southern ministers not participating. That December brought the formation of the PC in the Confederate States of America. They would merge with the United Synod of the South and rename themselves PCUS in 1865.<br><br>The 20th Century brough the Fundamentalist-Modernist Controversy and the Five Fundamentals in 1910, and Auburn Affirmation in 1924. Between these two issues, the OPC would be formed in 1936 and the PCA in 1873."
+  },
+  {
+    "question": "What are some of the distinctives of the Southern Presbyterian tradition?",
+    "answer": "Emphasis on the spirituality of the church, missionary focus (domestically and internationally), and emphasis on higher education. Major figures include Benjamin Morgan Palmer, James Thornwell, R.L. Dabney, and John Giradeau."
+  },
+  {
+    "question": "Explain the Modernist/Fundamentalist Controversy?",
+    "answer": "Fundamentalist were those who believed there fundamental principles which must be believed in order to be ordained by the church. The Five Fundamentals were affirmed and reaffirmed in 1910, 1916, and 1923 and included: 1.Inerrancy, 2. Virgin Birth, 3. Substitutionary Atonement, 4. Physical Resurrection of Christ, and 5. Historical Reality of Christ's Miracles.<br><br>The Modernist, who would eventually sign the Auburn Affirmation in 1924, represented a liberal response to conservatives led by Harry Emerson Fosdick. The controversy would continue and lead to conservatives like J. Gresham Machen leaving in 1936."
+  },
+  {
+    "question": "Trace the formation of the RPCES.",
+    "answer": "In 1936 the OPC was formed (originally called the Presbyterian Church of America) by J. Gresham Machen after conflict over the formation of the Independent Board of Foreign Missions. The PCofA would split in 1937 over alcohol and pre-millennialism and J. Oliver Buswell and Carl McIntire would form the BPC.<br><br>In 1956 the BPC split (Collingswood Synod and Columbus Synod) due to disagreement over the control of mission boards and seminaries with Robert Rayburn playing a critical role. Columbus Synod was renamed EPC and merged with the RPCNA to form the RPCES. In 1982 the RPCES joined the PCA."
+  },
+  {
+    "question": "Trace the formation of the PCA.",
+    "answer": "Four organizations were formed to combat the encroaching modernism of the mid-20th century.<br>1. The Presbyterian Journal started in 1942 and in 1959 G. Aiken Taylor became the editor. Functioned as the conservative mouthpiece of the church.<br>2. The Presbyterian Evangelistic Fellowship formed by William E. Hill and promoted evangelism and missions.<br>3. Concerned Presbyterians – formed by Ken Keyswas a journal seeking to inform ruling elders.<br>4. Presbyterian Churchmen United was similar to the Concerned Presbyterians but for pastors and Morton Smith was an executive committee member.<br><br>Desire was to return the church to founding principles of inerrancy, authority of Scripture, and confessional subscription. After renewal efforts were thwarted, they eventually sought to exit and begin a new denomination and the PCA was formed in 1973."
   }
 ]
