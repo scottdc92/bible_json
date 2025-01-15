@@ -1,5 +1,21 @@
 [
   {
+    "question": "Q. How many books are in the Old Testament?",
+    "answer": "A. 39"
+  },
+  {
+    "question": "Q. How many books are in the New Testament?",
+    "answer": "A. 27"
+  },
+  {
+    "question": "Q. What is the Pentateuch?",
+    "answer": "A. The first 5 books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy, also known as the Books of Moses, the Books of the Law, or the Torah."
+  },
+  {
+    "question": "Q. What are the general literary divisions of the Old Testament?",
+    "answer": "A. Pentateuch, Historical Books, Wisdom Literature, Prophets."
+  },
+  {
     "question": "Walk through the Romans Road (share the gospel).",
     "answer": "<ul>Our Condition and Its Severity<li>Rom. 3:23 – for all have sinned and fall short of the glory of God, </li><li>Rom. 6:23 – For the wages of sin is death…</li></ul><ul>Our Hope<li>Rom. 6:23 – but the gift of God is eternal life in Christ Jesus our Lord.</li><li>Rom. 5:8 – but God shows his love for us in that while we were still sinners, Christ died for us</li></ul><ul>Our Response<li>Rom. 10:9 – because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved.</li></ul><ul>Our Assurance<li>Rom. 5:1 – Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.</li><li>Rom. 8:1 – There is therefore now no condemnation for those who are in Christ Jesus.</li></ul>"
   },
@@ -128,6 +144,10 @@
     "answer": "A. Psalm 34 – God's eyes are on us;<br>John 11 – Lazarus;<br>Rom. 14 – live and die in Christ;<br>1 Thess. 4 – grieve with hope;<br>Rev. 21 – New Jerusalem"
   },
   {
+    "question": "Q. What scriptures address the topic of depression?",
+    "answer": "A. Deut. 31; Ps. 23; Matt 11; 1 Peter 5"
+  },
+  {
     "question": "Q. What scriptures address the necessity of faith?",
     "answer": "A. Rom. 3 – propitiation received by faith;<br>Heb. 11 – without faith it is impossible to please him"
   },
@@ -144,8 +164,20 @@
     "answer": "A. Incarnation: John 1;<br>Human Weakness: John 4;<br>Human Emotions: John 2, 11;<br>Human Experiences: Luke 2"
   },
   {
+    "question": "Q. What scriptures address the intermediate State",
+    "answer": "A. 1 Cor. 15; 2 Cor. 5; 1 Thess. 4"
+  },
+  {
+    "question": "Q. What scriptures address the topic of kingdom of God?",
+    "answer": "A. Matt. 6, 13, 19, 24"
+  },
+  {
     "question": "Q. What scriptures address the topic of homosexuality?",
     "answer": "A. Gen. 19; Lev. 18; Deut. 22; Judges 19; Rom. 1; 1 Cor. 6; 2 Peter 2; 1 Cor. 6; Jude 8"
+  },
+  {
+    "question": "Q. What scriptures address racial reconciliation?",
+    "answer": "A. Gen. 1; Gal. 3"
   },
   {
     "question": "Q. What scriptures address the omniscience of God?",
@@ -158,6 +190,10 @@
   {
     "question": "Q. What scriptures address marriage difficulties?",
     "answer": "A. Gen. 2 – Marriage was instituted by God;<br>Eph. 5 – Christ and the Church;<br>Matt. 12 – Being together vs divide;<br>1 Peter 3 – how to live together"
+  },
+  {
+    "question": "Q. How would you address tithing from Scripture?",
+    "answer": "A. Deut. 14 and Lev. 27 speak to the requirement in the Old Testament to set aside 10% of our firstfruits and return them to God in thanksgiving. We are encouraged in continued giving (Acts 15) and giving alms (Acts 6). In light of our future inheritance (1 Peter 1), we are freed from feeling tied and bound to worldly riches, and can act as the Gentile church in their offering (2 Cor. 8-9)"
   },
   {
     "question": "Q. Total Depravity",
@@ -180,20 +216,40 @@
     "answer": "A. John 10 – 'No one will snatch them out of my hand';<br>Eph 1 – sealed with the promised Holy Spirit;<br>Phil. 1 – 'He who began'"
   },
   {
-    "question": "Q. Christ’s Humiliation",
-    "answer": "A. Phil. 2 – 'being found in human form he humbled himself by becoming obedient to the point of death';<br>Heb. 2 – 'for a little while was made lower than the angels"
-  },
-  {
     "question": "Q. Christian liberty",
     "answer": "A. 1 Cor. 8-10; Rom. 14"
+  },
+  {
+    "question": "Q. Christ’s Humanity",
+    "answer": "A. Luke 2 – virgin birth;<br>Phil. 2 – 'taking the form of a servant';<br>Col. 2 – 'for in him the whole fullness of deity dwells bodily';<br>Heb. 2"
+  },
+  {
+    "question": "Q. Deity of Christ",
+    "answer": "A. John 1, 10; Phil. 2; Col. 1-2; Heb. 1"
   },
   {
     "question": "Q. Elijah on Mount Carmel (prophets of Baal)",
     "answer": "A. 1 Kings 18"
   },
   {
+    "question": "Q. Emmaus Road",
+    "answer": "A. Luke 24"
+  },
+  {
     "question": "Q. Faith and Works",
     "answer": "A. Rom. 2; Titus 3; James 2"
+  },
+  {
+    "question": "Q. Good Shepherd Discourse",
+    "answer": "A. John 10"
+  },
+  {
+    "question": "Q. High Priestly Prayer",
+    "answer": "A. John 17"
+  },
+  {
+    "question": "Q. Imitate Christ’s Humility",
+    "answer": "A. Phil. 2"
   },
   {
     "question": "Q. Lord’s Supper",
@@ -208,7 +264,23 @@
     "answer": "A. Matt. 24-25; Mark 13; Luke 21"
   },
   {
-    "question": "Q. Qualifications for church officers",
+    "question": "Q. Passover",
+    "answer": "A. Ex. 12"
+  },
+  {
+    "question": "Q. Paul’s Conversion",
+    "answer": "A. Acts 9 (repeated Acts 22, 26)"
+  },
+  {
+    "question": "Q. Paul’s Areopagus Sermon",
+    "answer": "A. Acts 17"
+  },
+  {
+    "question": "Q. Parable of the Prodigal Son",
+    "answer": "A. Luke 15"
+  },
+  {
+    "question": "Q. Officer qualifications",
     "answer": "A. 1 Tim. 3; Titus 1; Acts 6-8"
   },
   {
@@ -250,6 +322,10 @@
   {
     "question": "Q. Three Uses of the Law",
     "answer": "A. (1) Law as mirror (schoolmaster/teacher) — Gal. 3<br>(2) Law restraining evil — 2 Thess. 2<br>(3) Law as guide — John 14"
+  },
+  {
+    "question": "Q. Trinity)",
+    "answer": "A. Matt. 28; John 17; 2 Cor. 13;"
   },
   {
     "question": "Q. Transfiguration of Jesus",
