@@ -1,81 +1,5 @@
 [
   {
-    "question": "Q. What is the hypostatic union?",
-    "answer": "A. The union of Christ's divine and human natures, existing 'without confusion, without change, without division, without separation'."
-  },
-  {
-    "question": "Q. What is Adoptionism?",
-    "answer": "A. Christ was not divine, but a man adopted by God and imparted with the Spirit."
-  },
-  {
-    "question": "Q. What is Antinomianism?",
-    "answer": "A. Denies the need to obey the OT law. Was a popular component of Gnosticism and has persisted in various forms down through the centuries."
-  },
-  {
-    "question": "Q. What is Arianism?",
-    "answer": "A. Jesus is less than God, but more than a man (a lesser god). Denies fullness and uniqueness of Christ’s deity. “There was when He was not.” Arius believed Jesus was an intermediary between God and man, yet still a creature. He refused the divinity of Christ because he felt this would challenge his monotheistic belief. Condemned at Nicaea 325AD. Mormons and J.W.’s would have similar views. John 1 and Col. 1 would speak against this view."
-  },
-  {
-    "question": "Q. What is Apollinarianism?",
-    "answer": "A. Said that Jesus had a human body but divine mind, denying that Christ possessed a human soul, and therefore the full humanity of Christ, in order to protect the doctrine that Jesus was without sin. Condemned by the Council of Constantinople. Gregory the Theologian responded, \"What has not been assumed has not been healed.\""
-  },
-  {
-    "question": "Q. What is Docetism?",
-    "answer": "A. Jesus is wholly divine and only seemed to be a man but was truly a pure spirit-being uncontaminated by the material world. Thus, Jesus did not truly 'die' on the cross. Docetism was present as early as the 1st century, was combated by the apostle John in 1 John 4:2 and became an important aspect of Gnosticism."
-  },
-  {
-    "question": "Q. What is Donatism?",
-    "answer": "A. Fourth century North Africans who started a separate church started after the persecutions of Diocletian, when they refused to accept back into the church those who had poured a libation to the emperor or had forfeited Bibles to be burned. Highly emphasized holiness and the purity of the visible church. Primary opponent was Augustine."
-  },
-  {
-    "question": "Q. What is Eutychianism?",
-    "answer": "A. Denied the human nature of Christ (similar to Apollinarianism). Claims that Christ had two natures before the incarnation and the human nature was absorbed into the divine nature at the incarnation."
-  },
-  {
-    "question": "Q. What is Gnosticism?",
-    "answer": "A. A group of heresies, primarily in the 2nd century, that taught a radical dualism between the physical and the spiritual, proclaimed salvation through knowledge, and had a docetic view of Christ.\nViews:\n- Matter is false and evil, and it must be rejected in favor of spirit.\n- Jesus was a teacher who revealed the secret knowledge necessary for salvation.\n- Most famous form is represented by Valentinus.\n- Works include Gospel of Thomas, Gospel of Philip, and Gospel of Truth.\n- Major opponents included Irenaeus, Tertullian, and Epiphanius."
-  },
-  {
-    "question": "Q. What is Kenoticism?",
-    "answer": "A. Taught a reduction of God's deity in Christ at the incarnation; a misunderstanding of Phil. 2 with the idea Christ fully emptied himself of his deity."
-  },
-  {
-    "question": "Q. What is Marcionism?",
-    "answer": "A. 2nd century heresy that taught a strong distinction between the vengeful God of the OT and the God of the NT, and only accepted a reduced NT canon. Marcion formed a separate church that became a rival to orthodox churches. Some aspects of Marcionism were similar to Gnosticism, in that it taught Jesus was not born into the material world, but merely appeared at age 29. His sufferings were only apparent, not real."
-  },
-  {
-    "question": "Q. What is Monarchianism?",
-    "answer": "A. Third century heresy that stresses the oneness of God to such an extent that it denies the personal distinctiveness of the Son and Holy Spirit.\nTwo Forms:\n- Dynamic (Adoptionism): The Father alone is God, and the Son was merely a man who was specially endowed with the Holy Spirit. Denied the logos teaching of John.\n- Modalism/Sabellianism: God is one person who appears in three different modes: the Father, Son and Holy Spirit."
-  },
-  {
-    "question": "Q. What is Monophysitism?",
-    "answer": "A. Jesus is divine but has human attributes. The incarnate Christ had only a single, divine nature, clad in human flesh – also called Eutychianism after Eutyches, a leading defender of this doctrine."
-  },
-  {
-    "question": "Q. What is Montanism?",
-    "answer": "A. Believed dispensation of the Son had ended and church was dispensation of the Spirit which enabled \"New Prophecy\"."
-  },
-  {
-    "question": "Q. What is Nestorianism?",
-    "answer": "A. Believed that the divine and human nature of Christ were two separate persons. Condemned at the Council of Ephesus."
-  },
-  {
-    "question": "Q. What is Pelagianism?",
-    "answer": "A. Stresses the essential goodness of humanity—the fall did not taint human nature and therefore denies original sin—and divine grace gives us the free will to achieve perfection."
-  },
-  {
-    "question": "Q. What is Sabellianism/Modalism?",
-    "answer": "A. Teaches that the unipersonal God reveals himself in three ‘modes.’ Denies the real, eternal distinction of the divine persons. The three persons of the Trinity have no real and distinct existence apart from God’s interaction with the world. It is an attack on his <em>personal dignity</em>."
-  },
-  {
-    "question": "Q. What is Socinianism?",
-    "answer": "A. The Son of God did not exist until he was born a man, denying the eternal Trinity."
-  },
-  {
-    "question": "Q. What is Subordinationism?",
-    "answer": "A. Affirms a real distinction between the persons of a godhead, but the Son and Holy Spirit are subordinate to God the Father are not completely equal in power and glory. To be begotten causes the Son to be less than God, even if he is the most eminent of his creation and is an attack on his <em>true deity</em>."
-  },
-  {
     "question": "Q. What was the First Ecumenical Council?",
     "answer": "A. The Council of Nicaea, held in 325 AD.<br><br>It met to resolve the issue of Arianism, which denied the divinity of Jesus Christ. It affirmed the divinity of Jesus, declaring him to be 'of one substance' (homoousios) with God the Father."
   },
@@ -129,11 +53,11 @@
   },
   {
     "question": "Q. Who was John Wycliffe?",
-    "answer": "14<sup>th</sup> Century The “Morning Star of the Reformation.” Followers were called Lollards and was declared a heretic by Catholic Church.<br><br>Theology professor at Oxford who began renewed interest in Augustine’s understanding of faith. Translated Bible to Middle English and stressed Scripture’s authority in matters of faith.<br><br>Denied transubstantiation, the infallibility of the church in matters of faith, and criticized belief in purgatory, pilgrimages, worship of saints, and veneration of relics"
+    "answer": "14<sup>th</sup> Century preacher and theologian at Oxford. He was the “Morning Star of the Reformation.” was declared a heretic by Catholic Church.<br><br>Translated Bible to Middle English and stressed Scripture’s authority in matters of faith.Denied transubstantiation, the infallibility of the church in matters of faith, and criticized belief in purgatory, pilgrimages, worship of saints, and veneration of relics"
   },
   {
     "question": "Q. Who was John Hus?",
-    "answer": "14-15<sup>th</sup> Century Predecessor to the Reformation, influenced Luther. Himself influenced by Augustine and Wycliffe and put his doctrines into practice. Became a powerful Bohemian preacher preaching in the vernacular attacking the clergy’s covetousness, sloth, and luxury. Said Christ was the head of the church and denounced indulgences. Four Articles of Prague: 1. Freedom of preaching, 2. communion in both kinds, 3. poverty of the clergy, and 4. punishment of serious sins publicly. Followers were called Hussites. Excommunicated and burned at the stake in 1415."
+    "answer": "14-15<sup>th</sup> Century Predecessor to the Reformation, was powerful Bohemian preacher who preached in the common language, influenced Luther. Himself influenced by Augustine and Wycliffe and put his doctrines into practice. Excommunicated and burned at the stake in 1415.<br><br>Attacked the clergy’s covetousness, sloth, and luxury. Said Christ was the head of the church and denounced indulgences. Four Articles of Prague: 1. Freedom of preaching, 2. communion in both kinds, 3. poverty of the clergy, and 4. punishment of serious sins publicly. Followers were called Hussites."
   },
   {
     "question": "Q. Outline the life of Martin Luther?",
