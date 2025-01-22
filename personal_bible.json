@@ -1,19 +1,11 @@
 [
   {
-    "question": "Q. How many books are in the Old Testament?",
-    "answer": "A. 39"
-  },
-  {
-    "question": "Q. How many books are in the New Testament?",
-    "answer": "A. 27"
-  },
-  {
-    "question": "Q. What is the Pentateuch?",
-    "answer": "A. The first 5 books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy, also known as the Books of Moses, the Books of the Law, or the Torah."
-  },
-  {
     "question": "Q. What are the general literary divisions of the Old Testament?",
     "answer": "A. Pentateuch, Historical Books, Wisdom Literature, Prophets."
+  },
+  {
+    "question": "Q. What are the general literary divisions of the New Testament?",
+    "answer": "A. Gospels and Acts, Pauline Epistles, General Epistles, and Revelation."
   },
   {
     "question": "Walk through the Romans Road (share the gospel).",
@@ -56,8 +48,8 @@
     "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia.<br><br><table><tr><td>1-2</td><td>Crown – Esther’s Coronation</td></tr><tr><td>3-6</td><td>Conspiracy – Haman's Plot and Mordecai’s Rise to Power</td></tr><tr><td>7-8</td><td>Crash – Haman's Demise & the Jewish People's Deliverance</td></tr><tr><td>9-10</td><td>Celebration – Liberation and Celebration</td></tr></table>"
   },
   {
-    "question": "Q. Summarize and outline the book of Job?",
-    "answer": "A. Satan is subject to God’s authority and Job’s faith is tested.<br><br><table><tr><td>1-2</td><td>Prologue – Job’s test</td></tr><tr><td>3-31</td><td>Dialogue with friends (Eliphaz, Bildad, & Zophar)</td></tr><tr><td>32-37</td><td>Elihu’s speeches</td></tr><tr><td>38-42</td><td>God’s discourses & Job’s restoration</td></tr></table>"
+    "question": "Q. Summarize the book of Job?",
+    "answer": "A. Satan is subject to God’s authority and Job’s faith is tested."
   },
   {
     "question": "Q. Summarize and outline the book of Isaiah?",
@@ -80,20 +72,8 @@
     "answer": "A. God demonstrates mercy to wicked nation that repents. (To Israel)<br><br><table><tr><td>1</td><td>Fleeing from God's Mission</td></tr><tr><td>2</td><td>Jonah's Prayer of Repentance</td></tr><tr><td>3</td><td>Fulfilling God's Mission</td></tr><tr><td>4</td><td>Questioning God's Mercy</td></tr></table>"
   },
   {
-    "question": "Q. Summarize and outline the book of Micah?",
-    "answer": "A. Cylcles of judgment and restoration. (To Judah)<br><br><table><tr><td>1-2</td><td>Judgment of Samaria and Jerusalem</td></tr><tr><td>3-5</td><td>Judgment of Rulers and Prophets</td></tr><tr><td>6-7</td><td>Judgment of Israel and Final Restoration</td></tr></table>"
-  },
-  {
     "question": "Q. Summarize and outline the book of Haggai?",
     "answer": "A. Encouraging Israel to rebuild the temple. (To Judah)<br><br><table><tr><td>1</td><td>Repent and Rebuild</td></tr><tr><td>2</td><td>The Lord gives Glory and Blessing</td></tr></table>"
-  },
-  {
-    "question": "Q. Summarize and outline the book of Zechariah?",
-    "answer": "A. Encouragement to Israel to finish rebuilding the temple. (To Judah)<br><br><table><tr><td>1-8</td><td>Zechariah’s 8 Visions</td></tr><tr><td>9-14</td><td>Zechariah’s 2 Oracles</td></tr></table>"
-  },
-  {
-    "question": "Q. Summarize and outline the book of Malachi?",
-    "answer": "A. Judgment in the coming Day of the Lord. (To Judah)<br><br><table><tr><td>1-4:3</td><td>Six Disputations</td></tr><tr><td>4:4-6</td><td>Prediction of the Day of the Lord</td></tr></table>"
   },
   {
     "question": "Q. Summarize and outline the book of Matthew?",
@@ -112,7 +92,7 @@
     "answer": "A. Theological account of Jesus’ ministry written for all to believe Jesus is the Christ, the Son of God.<br><br><table><tr><td>1:1-18</td><td>Prologue</td></tr><tr><td>1:19-12:50</td><td>\"Book of Signs\"</td></tr><tr><td>13-20</td><td>\"Book of the Passion\"</td></tr><tr><td>21</td><td>Epilogue</td></tr></table>"
   },
   {
-    "question": "Q. Summarize and book of Galatians?",
+    "question": "Q. Summarize the book of Galatians?",
     "answer": "A. Do not add circumcision to justification by faith alone."
   },
   {
@@ -132,8 +112,8 @@
     "answer": "A. Contend for the faith and beware of false teachers."
   },
   {
-    "question": "Q. Summarize and outline the book of Revelation?",
-    "answer": "A. Apocalyptic letter repeating the cycle of God wining and the return of Christ.<br><br><table><tr><td>1</td><td>Prologue</td></tr><tr><td>2-3</td><td>Letters to Seven Churches</td></tr><tr><th colspan=\"2\">7 Recapitulations – Heavenly Visions</th></tr><tr><td>4-7</td><td>Cycle One: Scroll and Seven Seals</td></tr><tr><td>8-11</td><td>Cycle Two: Seven Angels and Seven Trumpets</td></tr><tr><td>12-14</td><td>Cycle Three: Seven symbolic histories</td></tr><tr><td>15-16</td><td>Cycle Four: Seven bowls of God’s wrath</td></tr><tr><td>17-19:10</td><td>Cycle Five: Judgment on Babylon and Vindication of the Church</td></tr><tr><td>19:11-19:21</td><td>Cycle Six: The Final Battle</td></tr><tr><td>20-21:8</td><td>Cycle Seven: The Reign of the Saints and the Last Judgment</td></tr><tr><td>21:9-22:21</td><td>The New Jerusalem and Final Exhortation</td></tr></table>"
+    "question": "Q. Summarize the book of Revelation?",
+    "answer": "A. Apocalyptic letter repeating the cycle of God wining and the return of Christ."
   },
   {
     "question": "Q. What scriptures address the topic of abortion?",
@@ -157,15 +137,19 @@
   },
   {
     "question": "Q. What scriptures address the necessity of repentance?",
-    "answer": "A. Matt. 6 – Two masters;<br>Matt. 7 – Sin leads to death, obedience to life;<br>Rom. 6 – old self is crucified;<br>Heb. 10 – Remaining in Sin;<br>Luke 24 – repentance should be proclaimed;<br>Acts 2, 3, 17;<br>Mark 13 – Always be Prepared;<br>John 3 – Only Believers;<br>Joel 2/1 John 1 – God Will Forgive the Repentant"
+    "answer": "A. Matt. 3 – Jesus calls us to repent;<br>Acts 2 – Pentecost"
   },
   {
     "question": "Q. What scriptures address forgiveness?",
-    "answer": "A. Prov. 17 – whoever covers an offense;<br>Matt. 18 – Unforgiving servant (forgive from the heart);<br>Acts 10 – everyone who believes receives forgiveness of sins;<br>Eph. 4 – don't let sun go down on anger;<br>Col. 3 – forgive each other as the Lord has forgiven you;<br>1 John 1 – confess and we will be forgiven"
+    "answer": "A. Matt. 18 – Unforgiving servant (forgive from the heart);<br>Acts 10 – everyone who believes receives forgiveness of sins;<br>Eph. 4 – don't let sun go down on anger;<br>Col. 3 – forgive each other as the Lord has forgiven you;<br>1 John 1 – confess and we will be forgiven"
   },
   {
     "question": "Q. What scriptures address the humanity of Christ?",
-    "answer": "A. Incarnation: John 1;<br>Human Weakness: John 4;<br>Human Emotions: John 2, 11;<br>Human Experiences: Luke 2"
+    "answer": "A. Phil. 2 – 'taking the form of a servant';<br>Col. 2 – 'for in him the whole fullness of deity dwells bodily';<br>Heb. 2"
+  },
+  {
+    "question": "Q. What scriptures address the deity of Christ?",
+    "answer": "A. John 1; Heb. 1; Phil. 2"
   },
   {
     "question": "Q. What scriptures address the intermediate State",
@@ -177,7 +161,7 @@
   },
   {
     "question": "Q. What scriptures address the topic of homosexuality?",
-    "answer": "A. Gen. 19; Lev. 18; Deut. 22; Judges 19; Rom. 1; 1 Cor. 6; 2 Peter 2; 1 Cor. 6; Jude 8"
+    "answer": "A. Gen. 19; Lev. 18; Deut. 22; Judges 19; Rom. 1; 1 Cor. 6; 2 Peter 2; Jude 8"
   },
   {
     "question": "Q. What scriptures address racial reconciliation?",
@@ -202,14 +186,6 @@
   {
     "question": "Q. Reference for Christian liberty",
     "answer": "A. 1 Cor. 8-10; Rom. 14"
-  },
-  {
-    "question": "Q. Reference for Christ’s Humanity",
-    "answer": "A. Luke 2 – virgin birth;<br>Phil. 2 – 'taking the form of a servant';<br>Col. 2 – 'for in him the whole fullness of deity dwells bodily';<br>Heb. 2"
-  },
-  {
-    "question": "Q. Reference for Deity of Christ",
-    "answer": "A. John 1, 10; Phil. 2; Col. 1-2; Heb. 1"
   },
   {
     "question": "Q. Reference for Elijah on Mount Carmel (prophets of Baal)",
@@ -284,10 +260,6 @@
     "answer": "A. Parable of the Sower – Matt. 13, Mark 4, Luke 8;<br>Parable of the Mustard Seed – Matt. 13, Mark 4, Luke 13;<br>Parable of the Tenants – Matt. 21, Mark 12, Luke 20"
   },
   {
-    "question": "Q. Reference for Three Uses of the Law",
-    "answer": "A. (1) Law as mirror (schoolmaster/teacher) — Gal. 3<br>(2) Law restraining evil — 2 Thess. 2<br>(3) Law as guide — John 14"
-  },
-  {
     "question": "Q. Reference for the Trinity",
     "answer": "A. Matt. 28; John 17; 2 Cor. 13;"
   },
@@ -296,19 +268,7 @@
     "answer": "A. Matt. 17; Mark 9; Luke 9"
   },
   {
-    "question": "Q. What is the Covenant of Redemption including scripture references?",
-    "answer": "A. The Covenant of Redemption is the theological description of the agreement between God the Father and God the Son to provide for the salvation of sinful humanity by Christ’s death on the cross. WSC 20 states that God, out of His mere good pleasure, from all eternity, elected some to everlasting life, and entered into a covenant of grace to deliver them from sin and misery, bringing them into salvation by a Redeemer. WLC 31 states that the covenant of grace was made with Christ as the second Adam, and in Him with all the elect as His seed.<br>Scripture references include: Ps. 2; 110; Rom. 3:25; 1 Jn. 2:2; Luke 2:49; Eph. 1."
-  },
-  {
-    "question": "Q. What is the Covenant of Works including scripture references?",
-    "answer": "A. The Covenant of Works is the covenant entered into at creation between man and God. A perfect relationship with God could be enjoyed if humans maintained perfect obedience to God’s law. The parties are God and Adam as the representative of all mankind. WCF 7.2 states that the first covenant made with man was a covenant of works, wherein life was promised to Adam, and in him to his posterity, upon condition of perfect and personal obedience. WSC 12 states that when God had created man, He entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon the pain of death.<br>Scripture references include: Gen. 2:17; 3:15; Hos. 6:7; Jer. 33:20-21; Rom. 5:12-19."
-  },
-  {
-    "question": "Q. What is the Covenant of Grace with Scripture references?",
-    "answer": "A. The relationship into which God entered to provide, by grace, the promise of salvation and eternal life to sinful humanity. It extends throughout the Old Testament by means of various covenants to its final fulfillment in Christ. God promises to be a God to us and our offspring, mankind is to respond by saving faith in Jesus Christ. Scripture references include Jer. 31-32; Ezek. 34, 36-37; 2 Cor. 6; Heb. 8"
-  },
-  {
     "question": "References for covenants under the Covenant of Grace",
-    "answer": "Proto-euangelion – Promised seed (Gen. 3:15)<br>Noahic – Promise to never again destroy by flood (Gen. 9)<br>Abrahamic – Father of a great nation (Gen. 12, 15, 17)<br>Mosaic – Law at Mount Sinai, establishing a covenant with Israel and providing guidelines for living in harmony with God (Ex. 19-24; Deut. 28)<br>Davidic – Promise of permenant dynasty (2 Sam. 7)<br.New Covenant – God promises to write his laws on the hearts of his people and to forgive their sins through the blood of Jesus Christ.(Jeremiah 31; Ezekiel 36)"
+    "answer": "Proto-euangelion – Promised seed (Gen. 3:15)<br>Noahic – Promise to never again destroy by flood (Gen. 9)<br>Abrahamic – Father of a great nation (Gen. 12, 15, 17)<br>Mosaic – Law at Mount Sinai, establishing a covenant with Israel and providing guidelines for living in harmony with God (Ex. 19-24; Deut. 28)<br>Davidic – Promise of permenant dynasty (2 Sam. 7)<br>.New Covenant – God promises to write his laws on the hearts of his people and to forgive their sins through the blood of Jesus Christ.(Jeremiah 31; Ezekiel 36)"
   }
 ]
