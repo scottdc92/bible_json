@@ -17,7 +17,7 @@
   },
   {
     "question": "Q. What is the infallibility of Scripture?",
-    "answer": "A. Infallible means that Scripture is impossible for it to have errors."
+    "answer": "A. Infallible means that it is impossible for Scripture to err."
   },
   {
     "question": "Q. What is the sufficiency of Scripture?",
@@ -48,10 +48,6 @@
     "answer": "A. Short: There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.(WSC 6)<br><br>Long: In the unity of the Godhead there are three persons, of one substance, power, and eternity: God the Father, God the Son, and God the Holy Ghost. The Father is of none, neither begotten, nor proceeding; the Son is eternally begotten of the Father; the Holy Ghost eternally proceeding from the Father and the Son. (WCF 2.3)"
   },
   {
-    "question": "Q. What are the personal properties of the Trinity?",
-    "answer": "A. God the Father decrees (Dan 4:34-35; Eph 1:1-4). The Son is the eternally begotten son (filiation) of the Father, begotten not made (John 1:1,14; Heb 1:5; Ps. 2). The Spirit proceeds from the Father and the Son (John 15:26-27)."
-  },
-  {
     "question": "Q. What is the Ontological relationships between the three persons of the Godhead?",
     "answer": "A. The Father is neither begotten nor proceeding, the Son is eternally begotten, and the Spirit proceeds from the Father and the Son."
   },
@@ -64,10 +60,6 @@
     "answer": "A. Communicable attributes of God are:<br>1. Holiness – (Is. 6:3; Rev. 4:8)<br>2. Wisdom – (Rom. 11:33)<br>3. Love – (John 3:16; Eph. 2:8-9)<br>4. Grace – (Eph 2:7-9)<br>5. Justice – (Micah 6:8)<br>6. Truth (John 3:33; cf. Num. 23:19; Isa. 45:19; John 14:6)<br>7. Righteousness – (Psalm 1; Psalm 2:7)"
   },
   {
-    "question": "Q. Explain the doctrine of the incarnation.",
-    "answer": "A. Christ, the (eternal) Son of God, became man, by taking to himself a true body and a reasonable soul, being conceived by the power of the Holy Spirit, in the womb of the Virgin Mary, and born of her, yet without sin. The doctrine of the incarnation is essential to the atoning work of Jesus by his living a perfect life while being truly human, thereby fulfilling the law's demands."
-  },
-  {
     "question": "Q. What is Sabellianism/Modalism?",
     "answer": "A. Teaches that the unipersonal God reveals himself in three ‘modes.’ Denies the real, eternal distinction of the divine persons. The three persons of the Trinity have no real and distinct existence apart from God’s interaction with the world. It is an attack on his <em>personal dignity</em>."
   },
@@ -76,8 +68,64 @@
     "answer": "A. Affirms a real distinction between the persons of a godhead, but the Son and Holy Spirit are subordinate to God the Father are not completely equal in power and glory. To be begotten causes the Son to be less than the Father and is an attack on his <em>true deity</em>."
   },
   {
-    "question": "Q. Describe Christ's nature?",
-    "answer": "A. Jesus Christ, being two whole, perfect, and distinct natures, the Godhead and the manhood, were inseparably joined together in one person, without conversion, composition, or confusion (WCF 8.2), being wholly human and wholly divine in a hypostatic union. The distinction and property of each nature being preserved (<u>without confusion, change, division, or separation</u>)."
+    "question": "Q. What is the extent of God's decrees?",
+    "answer": "A. He has foreordained whatsoever comes to pass."
+  },
+  {
+    "question": "Q. What caveats does the WCF place on God’s decree?",
+    "answer": "A. He is not the author of sin, does not destroy the will of the creature, does not destroy secondary causes, and does not decree based on something foreseen in the future."
+  },
+  {
+    "question": "Q. What's the difference between infralapsarian, supralapsarian, and Amyraldianism? (Table)",
+    "answer": "<table border=\"1\"><tbody><tr><td>Infralapsarian (Historically)</td><td>Supralapsarian (Logically/Ideally)</td><td>Amyraldian</td></tr><tr><td>Create Man in Holiness</td><td>Elect some for eternal life, and others for damnation (Hell)</td><td>Appoint all to eternal life on provision of belief</td></tr><tr><td>Permit the Fall</td><td>Create both elect and reprobate</td><td>Send Son to die for all men</td></tr><tr><td>Elect some to eternal life </td><td>Decree to permit the fall</td><td>Give special measure of Holy Spirit to some (elect) since some will not take action to repent and believe. (Grace has universal provision, but particular application.)</td></tr><tr><td>Decree to leave others reprobate</td><td>Decree to justify the elect and condemn the reprobate.</td></tr></tbody></table>"
+  },
+  {
+    "question": "Q. What is the relationship between God's sovereignty and man's responsibility?",
+    "answer": "A. God is an all-knowing and fully sovereign God, yet humanity is responsible for turning from sin and towards God, confessing Jesus Christ as Lord, and following Him, with two extreme positions (hyper-Calvinist and Arminian) erring by overemphasizing one or the other."
+  },
+  {
+    "question": "Q. What is the error of hyper-Calvinism?",
+    "answer": "A. Hyper-Calvinism overemphasizes God's sovereignty, erring on the side of not evangelizing and calling people to repent and follow Christ, because God will ultimately save those he has ordained to save, and fails to consider the means by which God has chosen to spread the seed of the gospel."
+  },
+  {
+    "question": "Q. What is the error of Arminianism?",
+    "answer": "A. Arminianism struggles to account for God's sovereignty and the sinful estate of humanity, emphasizing human responsibility and capacity in responding to the gospel call, and fails to recognize that those who repent and are delivered from sin do not merit it of their own efforts but are indebted solely to the grace of God."
+  },
+  {
+    "question": "Q. How does God execute his decrees?",
+    "answer": "A. God executes his decrees in his works of creation and providence."
+  },
+  {
+    "question": "Q. How did God create man?",
+    "answer": "A. God created man, male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures."
+  },
+  {
+    "question": "Q. Define God’s providence. Relate it to God’s decree and his use of means.  ",
+    "answer": "A. God’s works of providence are his most holy, wise, and powerful preserving and governing of all his creatures and all their actions.<br><br>God's decrees are his foreordination of all things, while his providence is the means by which he works out those decrees. God is the first cause, but he uses secondary causes or other means to work out his providence at his pleasure. God makes use of means but is free to work without, above, or against them to his own holy ends."
+  },
+  {
+    "question": "Q. What does every sin deserve?  Give Scripture references.",
+    "answer": "A. Every sin deserves God’s wrath and curse, both in this life, and that which is to come. (Rom. 2-3, 6)"
+  },
+  {
+    "question": "Q. What is a biblical covenant?  What is covenant theology and why is it important?",
+    "answer": "A. A solemn agreement established by God with humanity, often involving promises, obligations, and signs, to reveal His redemptive plan and relationship with His people.<br><br>Covenant theology provides a framework for understanding the Bible through the lens of covenants, emphasizing two overarching covenants. It highlights the unity of Scripture and God’s redemptive plan through covenants."
+  },
+  {
+    "question": "Q. How does covenant theology differ from dispensational theology?",
+    "answer": "A. Covenant theology sees a unified redemptive plan centered on Christ, interpreting Israel and the Church as one people of God.<br><br>Dispensational theology divides history into distinct periods in which God relates to humanity in specific ways. It often maintains a distinction between Israel and the Church and emphasizes the literal fulfillment of biblical prophecies regarding Israel."
+  },
+  {
+    "question": "Q. What is the covenant of works (life)? Why is it important? Defend your answer from Scripture.",
+    "answer": "A. The covenant made with Adam not only for himself, but for his posterity as he was our federal head; all mankind, descending from him by ordinary generation, sinned in him, and fell with him in his first transgression. A covenant made with Adam as the federal head of mankind in which life was promised to Adam and his posterity upon condition of perfect obedience. (Gen. 2; Rom. 5; Gal. 3)"
+  },
+  {
+    "question": "Q. Explain the doctrine of the incarnation. Why is it important?",
+    "answer": "A. Jesus, being the eternal Son of God, became man by taking to himself a true body and a reasonable soul, being conceived by the power of the Holy Spirit in the womb of the virgin Mary and born of her, yet without sin. The one who would offer himself as an atonement must be human, in order that he might fulfill the law. He must also be divine, as only his sacrifice would be efficacious."
+  },
+  {
+    "question": "Q. What are the two natures of the person of Christ and how do the two natures relate to each another?  Why is this important?",
+    "answer": "A. Jesus is truly divine and truly human and these two natures exist in a hypostatic union in which they are distinct but inseparably joined in one person. The divine does not override the human nor the human diminish the divine. There also exists the communication of attributes, such that what occurs out of one nature may be said of the whole, but does not transfer to the other nature.<br><br>As God he gives worth and efficacy to his suffering, obedience, and intercession, and satisfies God’s justice. As man he performs obedience to the law, suffers and makes intercession for us that we might receive the adoption of sons."
   },
   {
     "question": "Q. What are Christ's offices?",
@@ -132,40 +180,16 @@
     "answer": "A. Total depravity means all aspects of humanity are affected by the fall, yet man is not as bad as he can be due to God's common grace.<br>Partial depravity means some aspects are affected, while part good.<br>Absolute depravity means man is completely and utterly depraved in all aspects."
   },
   {
-    "question": "Q. What is the relationship between God's sovereignty and man's responsibility?",
-    "answer": "A. God is an all-knowing and fully sovereign God, yet humanity is responsible for turning from sin and towards God, confessing Jesus Christ as Lord, and following Him, with two extreme positions (hyper-Calvinist and Arminian) erring by overemphasizing one or the other."
-  },
-  {
-    "question": "Q. What is the error of hyper-Calvinism?",
-    "answer": "A. Hyper-Calvinism overemphasizes God's sovereignty, erring on the side of not evangelizing and calling people to repent and follow Christ, because God will ultimately save those he has ordained to save, and fails to consider the means by which God has chosen to spread the seed of the gospel."
-  },
-  {
-    "question": "Q. What is the error of Arminianism?",
-    "answer": "A. Arminianism struggles to account for God's sovereignty and the sinful estate of humanity, emphasizing human responsibility and capacity in responding to the gospel call, and fails to recognize that those who repent and are delivered from sin do not merit it of their own efforts but are indebted solely to the grace of God."
-  },
-  {
-    "question": "Q. What's the difference between infralapsarian, supralapsarian, and Amyraldianism? (Table)",
-    "answer": "<table border=\"1\"><tbody><tr><td>Infralapsarian (Historically)</td><td>Supralapsarian (Logically/Ideally)</td><td>Amyraldian</td></tr><tr><td>Create Man in Holiness</td><td>Elect some for eternal life, and others for damnation (Hell)</td><td>Appoint all to eternal life on provision of belief</td></tr><tr><td>Permit the Fall</td><td>Create both elect and reprobate</td><td>Send Son to die for all men</td></tr><tr><td>Elect some to eternal life </td><td>Decree to permit the fall</td><td>Give special measure of Holy Spirit to some (elect) since some will not take action to repent and believe. (Grace has universal provision, but particular application.)</td></tr><tr><td>Decree to leave others reprobate</td><td>Decree to justify the elect and condemn the reprobate.</td></tr></tbody></table>"
-  },
-  {
-    "question": "Q. What is the extent of God's sovereignty?",
-    "answer": "A. God has ordained whatsoever comes to pass, but he:<ul><li>is not the author of sin,</li><li>does not destroy the will of the creature,</li><li>destroy the liberty of second causes,</li><li>nor has he decreed based on something foreseen in the future</li></ul>"
-  },
-  {
-    "question": "Q. What is covenant theology and what is a covenant?",
-    "answer": "A. The way in which God relates to humankind and stresses the unity of God’s plan of redemption throughout the entirety of Scripture. Unity and continuity of the Scriptures. One people, one story, one destination. Though there are particular covenants, each of them serves God’s greater, overarching covenant of redemption throughout all of Scripture.<br><br>Covenant – A binding contract between two parties which has stipulations and actions required of each party. “A bond in blood sovereignly administered.”"
-  },
-  {
-    "question": "Q. How is covenant theology expressed in the Westminster Confession of Faith?",
-    "answer": "A. In WCF 7, the Divine's teach the necessity for the covenant relationship because mankind needs the condescension of God to even glorify him."
-  },
-  {
     "question": "Q. What is union with Christ and what is its relationship with the ordo salutis?",
-    "answer": "A. The central doctrine of salvation in which the Holy Spirit unites us to Christ, so as God looks at us, He sees the work and righteousness of Jesus, and from which the redemptive benefits of Christ, or ordo salutis, 'spring.'"
+    "answer": "A. The Spirit unites us to Christ by faith in our effectual calling the ordo salutis are the benefits of redemption which “springs” from, or accompany and flow from, our union with Christ."
   },
   {
     "question": "Q. What is the definition and biblical support for the ordo salutis as a whole and in each of its parts?",
     "answer": "A. Whole: Rom. 8:28-29 (union with Christ: Rom. 6, 8:9)<br>Election: Eph. 1, 2<br>Calling: Rom. 1:6<br>Regeneration: Jn. 3<br>Faith/Repentance (Conversion): Acts 2, Acts 11; Rom. 1:17<br>Justification: Rom. 3<br>Adoption: Rom. 8<br>Sanctification: Rom. 6:19, 1 Cor. 6<br>Glorification: Rom 8"
+  },
+  {
+    "question": "Q. What are the four states of man?",
+    "answer": "A. State of innocence, sin, grace, and glory."
   },
   {
     "question": "Q. Define the outward and inward calls of the gospel.",
@@ -208,32 +232,16 @@
     "answer": "A. We would never be able to perform even the duty required (Luke 17:10).<br><br>Good works will not merit pardon from sin and cannot satisfy the debt of our prior sin (Eph 2:8-9)."
   },
   {
-    "question": "Q. How could a person know he is saved? On what could such assurance be based?",
-    "answer": "A. Assurance is grounded in the promises of God (Heb 6:11-19; 1 John 3:24). This assurance of faith, founded upon the promises of salvation, is enabled by the Spirit with an internal witness."
+    "question": "Q. What does the perseverance of the saints depend upon?",
+    "answer": "A. The unchangeable nature of God’s election, efficacy and merit of Jesus, abiding of the Spirit, and nature of the covenant of grace."
   },
   {
-    "question": "Q. What should a person do who lacks assurance of salvation?",
-    "answer": "A. Daily repent of their sins and turn to Jesus, who offers life, with full assurance God will forgive our sins (1 John 1:9). While we desire to make our calling and election sure, our assurance is ultimately tied to the promises of God, who does not change."
+    "question": "Q. Can a true Christian not have assurance of salvation? Explain your answer.",
+    "answer": "A. It is possible, not being of the essence of faith. Spiritual doubts have many causes, sometimes it may be our sin or God has removed his countenance. But the Spirit may in time revive the assurance."
   },
   {
     "question": "Q. What are the three Confessional grounds for the assurance of salvation?",
     "answer": "A. The promises of God, our growth in grace, and the inward testimony of the Spirit."
-  },
-  {
-    "question": "Q. What is damnation?",
-    "answer": "A. Eternal condemnation to hell."
-  },
-  {
-    "question": "Q. What is the mission of the church?",
-    "answer": "A. The mission of the church is to go into the world and make disciples by declaring the gospel of Jesus Christ in the power of the Spirit and gathering these disciples into churches, that they might worship and obey Jesus Christ now and in eternity to the glory of God the Father."
-  },
-  {
-    "question": "Q. How does Christian liberty bear on the Christian’s obligation to the state?",
-    "answer": "A. If the power is lawful, and exercised in a lawful manner, the Christian has the responsibility to obey or else be found resisting the ordinance of God (WCF 20.4)."
-  },
-  {
-    "question": "Q. What is the 'regulative principle?' Defend with scripture proofs.",
-    "answer": "A. God himself determines the acceptable way by which he may be worshipped in Scripture, and that he is not to be worshipped according to the imaginations and devices of men, or the suggestions of Satan (Exod. 20; Deut. 12; Lev. 10; Matt. 15; Col. 2)."
   },
   {
     "question": "Q. What is the moral law and its three uses?",
@@ -241,7 +249,35 @@
   },
   {
     "question": "Q. Are believers under obligation to the law today? Defend with scripture proofs.",
-    "answer": "A.  moral law remains."
+    "answer": "A. The moral law remains, but we are not under the law as a covenant of works, neither justified or condemned by it, but it is a great us to us as a rule to life."
+  },
+  {
+    "question": "Q. What is the status of the Old Testament ceremonial laws?  Are they of any use today?",
+    "answer": "A. The ceremonial laws were given to the people of Israel and are now abrogated under the NT."
+  },
+  {
+    "question": "Q. What use and application do the Old Testament civil laws have today?",
+    "answer": "A. Old Testament civil laws were designed for Israel and have expired together with the state of Israel, not obliging any other, now, further than the general equity they require."
+  },
+  {
+    "question": "Q. What is liberty of conscience?",
+    "answer": "A. God alone is Lord of the conscience. We are free from doctrines and commandments of mankind that is contrary to his Word for matters of faith and doctrine."
+  },
+  {
+    "question": "Q. What is the 'regulative principle?' Defend with scripture proofs.",
+    "answer": "A. God himself determines the acceptable way by which he may be worshipped in Scripture, and that he is not to be worshipped according to the imaginations and devices of men, or the suggestions of Satan (Exod. 20; Deut. 12; Lev. 10; Matt. 15; Col. 2)."
+  },
+  {
+    "question": "Q. How does Christian liberty bear on the Christian’s obligation to the state?",
+    "answer": "A. If the power is lawful, and exercised in a lawful manner, the Christian has the responsibility to obey or else be found resisting the ordinance of God (WCF 20.4)."
+  },
+  {
+    "question": "Q. What is the mission of the church?",
+    "answer": "A. The mission of the church is to go into the world and make disciples by declaring the gospel of Jesus Christ in the power of the Spirit and gathering these disciples into churches, that they might worship and obey Jesus Christ now and in eternity to the glory of God the Father."
+  },
+  {
+    "question": "Q. What is the communion of saints?",
+    "answer": "A. All the saints united to Jesus Christ have communion with him and each other, in worship, edifying one another and caring for each other’s needs."
   },
   {
     "question": "Q. What is the state of man after death?",
@@ -256,11 +292,7 @@
     "answer": "A. Dispensational premillennialism and covenantal premillennialism are both forms of premillennialism, believing that Jesus Christ will return before a literal thousand-year reign on Earth. However, dispensationalist make a strong distinction between Israel and the church, believing the future millennial kingdom is seen as a fulfillment of God's promises specifically to Israel. Covenantal premillennialism sees continuity between Israel and the church."
   },
   {
-    "question": "Q. Are there gifts mentioned in Scripture not given today and what were their purpose?",
-    "answer": "A. Certain gifts mentioned in scripture (prophecy [as revelation], tongues, miracles, healing) seem to be strictly associated with the establishment of apostolic authority and the church. These gifts were given to reveal God’s gospel message and to confirm the messenger and his message."
-  },
-  {
     "question": "Q. What are the ordinary parts/elements of worship? How are they differentiated from other aspects of worship?",
-    "answer": "A. The elements of worship are those fixed and unchanging aspects of worship and include reading and hearing, praying, and singing of Scripture (Psalms, hymns, and spiritual songs), along with the observance of the sacraments. They can further include a call to worship, invocation, confession, declaration of pardon, and a benediction.<br>The elements of worship may have different forms and circumstances (time, seating, etc.), but the element is always the priority."
+    "answer": "A. The elements of worship are those fixed and unchanging aspects of worship and include reading and hearing, praying, and singing of Scripture (Psalms, hymns, and spiritual songs), along with the observance of the sacraments.<br>The elements of worship may have different forms and circumstances (time, seating, etc.), but the element is always the priority."
   }
 ]
