@@ -1,7 +1,7 @@
 [
   {
     "question": "Q. What was the First Ecumenical Council?",
-    "answer": "A. The Council of Nicaea, held in 325 AD.<br><br>It met to resolve the issue of Arianism, which denied the divinity of Jesus Christ. It affirmed the divinity of Jesus, declaring him to be 'of one substance' (homoousios) with God the Father."
+    "answer": "A. The Council of Nicaea, held in 325 AD.<br><br>The council dealt with Arianism, which denied the full divinity of Jesus Christ, asserting that He was a created being and not co-eternal with the Father. It affirmed the divinity of Jesus, declaring him to be 'of one substance' (homoousios) with God the Father.<br><br> Major Figures: Arius and Athanasius"
   },
   {
     "question": "Q. What was the significance of the Edict of Milan in 313?",
@@ -13,11 +13,11 @@
   },
   {
     "question": "Q. What was the Second Ecumenical Council and when was it held?",
-    "answer": "A. The Council of Constantinople, held in 381 AD.<br><br>This council expanded upon the Nicene Creed to address Apollinarianism, which taught that Jesus had a human body but not a human mind or will, and it further clarified the doctrine of the Holy Spirit's divinity.<br><br>Gregory of Nazianzus, Basil the Great, and Gregory of Nyssa."
+    "answer": "A. The Council of Constantinople, held in 381 AD.<br><br>This council expanded upon the Nicene Creed to address Apollinarianism, which taught that Jesus had a human body but not a human mind or will, and it further clarified the doctrine of the Holy Spirit's divinity.<br><br> Major Figures: Gregory of Nazianzus, Basil the Great, and Gregory of Nyssa."
   },
   {
     "question": "Q. What was the Third Ecumenical Council?",
-    "answer": "A. The Council of Ephesus, held in 431 AD.<br><br>The council condemned Nestorianism, which divided Christ's two natures (divine and human) to the extent of proposing two persons within Christ.<br>They affirmed the title Θεοτόκος or 'Mother of God' for Mary against Nestorius, and condemned Nestorianism and Pelagianism."
+    "answer": "A. The Council of Ephesus, held in 431 AD.<br><br>The council condemned Nestorianism, which divided Christ's two natures (divine and human) to the extent of proposing two persons within Christ.<br>They affirmed the title Θεοτόκος or 'Mother of God' for Mary against Nestorius, and condemned Nestorianism and Pelagianism.<br><br> Major Figures: Nestorius"
   },
   {
     "question": "Q. What was the Fourth Ecumenical Council?",
@@ -64,12 +64,8 @@
     "answer": "John Calvin was a French 2nd generation Reformer, trained in law. After fleeing the persecution in Paris, he ended up in Geneva where he was convinced to stay. After spending a short few years, he and others were expelled from the city for refusing to serve the Lord’s Supper. After spending a few years in Strasbourg with Bucer, Calvin consented to return to Geneva where he would spend the remainder of his life until 1564. He published 5 editions of his Institutes of the Christian Religion with the last being in 1559 (Latin). Though it started as a brief booklet, through its expansions it became one of the earliest systemizations of Christian doctrine. In 1559 he founded the Geneva Academy, preached and wrote commentaries on a vast portion of Scripture, and he also formed a company of pastors to serve the community."
   },
   {
-    "question": "Q. Who was John Knox?",
-    "answer": "16<sup>th</sup> Century Scottish reformer and pastor. Brought the Reformation to the English-speaking world. Founder of Presbyterianism as we know it through being influenced by Calvin’s Geneva. Wrote the first Book of Discipline and Book of Common Order."
-  },
-  {
-    "question": "Q. Who were the Covenanters?",
-    "answer": "Groups of Scottish Presbyterians who signed and agreed to abide by religious and political oaths in order to affirm and preserve their beliefs. Notable covenants include King’s Confession of 1581 and the Solemn League and Covenant of 1643/44."
+    "question": "Q. Who was the Scottish Reformer who first brought the Reformation to Scotland?",
+    "answer": "John Knox.<br><br>Founder of Presbyterianism through being influenced by Calvin’s Geneva. Wrote the first Book of Discipline and Book of Common Order."
   },
   {
     "question": "Q. Provide a brief history (who he was, what he did) of Jonathan Edwards and his contribution to American Christianity.",
@@ -84,8 +80,8 @@
     "answer": "Old School Presbyterians pushed the Gardiner Springs Resolution in 1861 arguing the church should support the federal government. The Southern Commissioners withdrew to form the Presbyterian Church of the Confederate States in Dec. 1861, which would become the PCUS."
   },
   {
-    "question": "Q. Who was B.B. Warfield?",
-    "answer": "19<sup>th</sup> Century Professor of theology at Princeton from (1887-1921). Last great Princeton theologian before the split in 1929 that formed Westminster and the OPC. Intellectual defense of Augustinian Calvinism and inerrancy against liberalism. Warfield is best known for his painstakingly careful efforts to defend the inerrancy of the Bible. Wrote “Inspiration” essay with A. A. Hodge in 1881 which put out a carefully stated reassertion of traditional protestant belief in full infallibility and truthfulness of scripture. He wrote countless essays to clarify the Bible’s own testimony to its inspiration and to oppose those who detracted from scripture’s infallible authority."
+    "question": "Q. Who was Princeton’s most prolific systematic theologian during the late 1800’s and early 1900’s?",
+    "answer": "B.B. Warfield.<br><br>Last great Princeton theologian. Defended biblical inerrancy and inspiration."
   },
   {
     "question": "Q. What was the Babylonian Captivity of the Church?",
@@ -116,12 +112,12 @@
     "answer": "In 1936 the OPC was formed (originally called the Presbyterian Church of America) by J. Gresham Machen after conflict over the formation of the Independent Board of Foreign Missions. The PCofA would split in 1937 over alcohol and pre-millennialism and J. Oliver Buswell and Carl McIntire would form the BPC.<br><br>In 1956 the BPC split (Collingswood Synod and Columbus Synod) due to disagreement over the control of mission boards and seminaries with Robert Rayburn playing a critical role. Columbus Synod was renamed EPC and merged with the RPCNA to form the RPCES in 1965. In 1982 the RPCES joined the PCA."
   },
   {
-    "question": "Q. Trace the formation of the PCA.",
-    "answer": "Four organizations were formed to combat the encroaching modernism of the mid-20th century, and the attempt united with the more liberal Northern Church in 1950s and the \"Fellowship of Concern\".<br>1. The Presbyterian Journal started in 1942 by Nelson Bell, and in 1959 G. Aiken Taylor became the editor. Functioned as the conservative mouthpiece of the church.<br>2. The Presbyterian Evangelistic Fellowship, formed by Bill Hill in 1964, promoted evangelism and missions.<br>3. Concerned Presbyterians, formed by Ken Keys, was a journal funded by seed money from the Presbyterian Journal and sought to inform ruling elders.<br>4. Presbyterian Churchmen United, founded in 1968 by Donald Patterson, was similar to the Concerned Presbyterians but for pastors and Morton Smith was an executive committee member.<br><br>Desire was to return the church to founding principles of inerrancy, authority of Scripture, and confessional subscription. After renewal efforts were thwarted, they eventually sought to exit and begin a new denomination and the PCA was formed in 1973."
+    "question": "Q. What were the four (4) agencies of the PCUS that were instrumental in the formation of the PCA? Briefly explain the role of each.",
+    "answer": "1. The Presbyterian Journal started in 1942 by Nelson Bell, and in 1959 G. Aiken Taylor became the editor. Functioned as the conservative mouthpiece of the church.<br>2. The Presbyterian Evangelistic Fellowship, formed by Bill Hill in 1964, promoted evangelism and missions.<br>3. Concerned Presbyterians, formed by Ken Keys, was a journal funded by seed money from the Presbyterian Journal and sought to inform ruling elders.<br>4. Presbyterian Churchmen United, founded in 1968 by Donald Patterson, was similar to the Concerned Presbyterians but for pastors and Morton Smith was an executive committee member."
   },
   {
     "question": "Q. What were the primary theological issues of controversy in the PCUS that eventually necessitated the formation of the PCA?",
-    "answer": "Theologically liberal education curriculum, ordination of those who do not hold a high view of Scripture, and declining view of the sanctity of life."
+    "answer": "Theologically liberal education curriculum, ordination of those who do not hold to the Fundamentals, declining view of Scripture, and declining view of the sanctity of life."
   },
   {
     "question": "Q. What social issues were involved within the PCUS that contributed to the PCA’s founding? In particular, how has the PCA grown in terms of racial reconciliation?",
