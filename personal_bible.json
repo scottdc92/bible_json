@@ -9,7 +9,7 @@
   },
   {
     "question": "Name, briefly define and give biblical references for the major covenants in biblical history.",
-    "answer": "Proto-euangelion – Promised seed (Gen. 3:15)<br>Noahic – Promise to never again destroy by flood (Gen. 9)<br>Abrahamic – Father of a great nation (Gen. 12, 15, 17)<br>Mosaic – Law at Mount Sinai, establishing a covenant with Israel and providing guidelines for living in harmony with God (Ex. 19-24; Deut. 28)<br>Davidic – Promise of permenant dynasty (2 Sam. 7)<br>.New Covenant – God promises to write his laws on the hearts of his people and to forgive their sins through the blood of Jesus Christ.(Jeremiah 31; Ezekiel 36)"
+    "answer": "Adamic Covenant – Covenant between God and Adam as our federal head (Gen 2.)<br>Proto-euangelion – Promised seed (Gen. 3:15)<br>Noahic – Promise to never again destroy by flood (Gen. 9)<br>Abrahamic – Father of a great nation (Gen. 17)<br>Mosaic – Law at Mount Sinai, establishing a covenant with Israel and providing guidelines for living in harmony with God (Ex. 19-24; Deut. 28)<br>Davidic – Promise of permenant dynasty (2 Sam. 7)<br>.New Covenant – God promises to write his laws on the hearts of his people and to forgive their sins through the blood of Jesus Christ.(Jeremiah 31; Ezekiel 36)"
   },
   {
     "question": "What is the preface of the Ten Commandments",
@@ -49,7 +49,7 @@
   },
   {
     "question": "Q. How would you address tithing from Scripture?",
-    "answer": "A. Deut. 14 and Lev. 27 speak to the requirement in the Old Testament to set aside 10% of our firstfruits and return them to God in thanksgiving. We are encouraged in continued giving (Acts 15) and giving alms (Acts 6). In light of our future inheritance (1 Peter 1), we are freed from feeling tied and bound to worldly riches, and can act as the Gentile church in their offering (2 Cor. 8-9)"
+    "answer": "A. We see it early in Genesis with Abraham tithing to Melchizedek and then codified in Lev. 27 and Deut. 14. We recognize we are merely stewards and not the ultimate owners of all we have and see the early church in Acts 2 as an example of the willingness to give, in which Paul also sets the Gentile church as an example in 2 Cor. 8-9."
   },
   {
     "question": "Walk through the Romans Road (share the gospel).",
@@ -88,8 +88,8 @@
     "answer": "A. Covenant renewal and rebuilding the wall and community.<br><br><table><tr><td>1-7</td><td>Rebuilding the Walls</td></tr><tr><td>8-10</td><td>Reading of the Law</td></tr><tr><td>11-13</td><td>Reforming the People</td></tr></table>"
   },
   {
-    "question": "Q. Summarize and outline the book of Esther?",
-    "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia.<br><br><table><tr><td>1-2</td><td>Crown – Esther’s Coronation</td></tr><tr><td>3-6</td><td>Conspiracy – Haman's Plot and Mordecai’s Rise to Power</td></tr><tr><td>7-8</td><td>Crash – Haman's Demise & the Jewish People's Deliverance</td></tr><tr><td>9-10</td><td>Celebration – Liberation and Celebration</td></tr></table>"
+    "question": "Q. Summarize the book of Esther?",
+    "answer": "A. God’s strange providence saves his people through a Jewish Queen in Persia."
   },
   {
     "question": "Q. Summarize the book of Job?",
@@ -125,7 +125,7 @@
   },
   {
     "question": "Q. Summarize and outline the book of Mark?",
-    "answer": "A. Action packed account of Jesus’  ministry highlighting his authority and servanthood.<br><br><table><tr><td>1-8:26</td><td>Preaching the kingdom of God</td></tr><tr><td>8:27-10:52</td><td>Cost of the kingdom of God</td></tr><tr><td>11-16</td><td>Bringing in the Kingdom of God</td></tr></table>"
+    "answer": "A. Action packed account of Jesus’  ministry highlighting his authority and servanthood.<br><br><table><tr><td>1-8:26</td><td>Galilean Ministry</td></tr><tr><td>8:27-10:52</td><td>Road to Jerusalem</td></tr><tr><td>11-16</td><td>Passion to the Empty Tomb</td></tr></table>"
   },
   {
     "question": "Q. Summarize and outline the book of Luke?",
@@ -185,7 +185,7 @@
   },
   {
     "question": "Q. What scriptures address the nature and necessity of faith?",
-    "answer": "A. Rom. 3 – propitiation received by faith;<br>Heb. 11 – without faith it is impossible to please him"
+    "answer": "A. Rom. 3 – propitiation received by faith;<br>Rom. 10 – faith comes by hearing;<br>Heb. 11 – without faith it is impossible to please him"
   },
   {
     "question": "Q. What scriptures address the nature and necessity of repentance?",
@@ -193,7 +193,7 @@
   },
   {
     "question": "Q. What scriptures address forgiveness?",
-    "answer": "A. Matt. 18 – Unforgiving servant (forgive from the heart);<br>Acts 10 – everyone who believes receives forgiveness of sins;<br>Eph. 4 – don't let sun go down on anger;<br>Col. 3 – forgive each other as the Lord has forgiven you;<br>1 John 1 – confess and we will be forgiven"
+    "answer": "A. Matt. 18 – Unforgiving servant (forgive from the heart);<br>Col. 3 – forgive each other as the Lord has forgiven you"
   },
   {
     "question": "Q. What scriptures address the humanity of Christ?",
@@ -213,7 +213,7 @@
   },
   {
     "question": "Q. What scriptures address the topic of homosexuality?",
-    "answer": "A. Gen. 19; Lev. 18; Deut. 22; Judges 19; Rom. 1; 1 Cor. 6; 2 Peter 2; Jude 8"
+    "answer": "A. Gen. 19; Lev. 18; Rom. 1; 1 Cor. 6"
   },
   {
     "question": "Q. What scriptures address racial reconciliation?",
@@ -225,11 +225,15 @@
   },
   {
     "question": "Q. What scriptures address worship attendance?",
-    "answer": "A. Matt. 18 – where two or three are gathered;<br>Acts 2 – had all things in common;<br>Rom. 10 – faith comes by hearing;<br>1 Cor. 14 – assumption of the gathered church (prophesy builds up the church);<br>Col. 3 – gathered church assumed (admonishing one another; singing psalms, hymns, sp. songs)"
+    "answer": "A. Matt. 18 – where two or three are gathered;<br>Acts 2 – focus is on the community gathered together;<br>1 Cor. 14 and Col. 3 – assume the context of gathered church"
   },
   {
     "question": "Q. What scriptures address marriage difficulties?",
-    "answer": "A. Gen. 2 – Marriage was instituted by God;<br>Eph. 5 – Christ and the Church;<br>Matt. 12 – Being together vs divide;<br>1 Peter 3 – how to live together"
+    "answer": "A. Eph. 5 – Christ and the Church;<br>Matt. 12 – Being together vs divide;<br>1 Peter 3 – how to live together"
+  },
+  {
+    "question": "Q. What scriptures address the Trinity",
+    "answer": "A. Matt. 28; John 17; 2 Cor. 13;"
   },
   {
     "question": "Q. Reference for Elijah on Mount Carmel (prophets of Baal)",
@@ -240,7 +244,7 @@
     "answer": "A. Luke 24"
   },
   {
-    "question": "Q. Reference for Faith without works",
+    "question": "Q. Reference for faith without works",
     "answer": "A. James 2"
   },
   {
@@ -286,10 +290,6 @@
   {
     "question": "Q. Reference for Scripture",
     "answer": "A. Psalm 19, 119; 2 Tim. 3; 2 Peter 1"
-  },
-  {
-    "question": "Q. Reference for the Trinity",
-    "answer": "A. Matt. 28; John 17; 2 Cor. 13;"
   },
   {
     "question": "Q. Reference for Transfiguration of Jesus",
