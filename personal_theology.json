@@ -1,15 +1,7 @@
 [
   {
-    "question": "Q. What is general revelation (also known as natural revelation) with biblical references?",
-    "answer": "A. General revelation, or book of nature (Psalm 19), is the revelation of God through creation, God's self-disclosure through his works. We receive it by reason and perception. It shows that there is a God and that humans are accountable to him, but cannot save mankind.<br><br>Psalm 19:1-6; Acts 17; Romans 1-2"
-  },
-  {
-    "question": "Q. What is special revelation?",
-    "answer": "A. Special Revelation is God's self-disclosure through speech and written testimony received by faith, revealing to us all our spiritual benefits (Rom. 8) and how we must be saved (Eph. 2:8-9).<br><br>Ps. 19:7-12; 2 Pet. 1:20-21; 2 Tim. 3:15-16; Heb. 1:1-2"
-  },
-  {
     "question": "Q. What is plenary, verbal inspiration?",
-    "answer": "A. Every word Scripture is divinely inspired by God and fully authoritative in all matters of faith and practice (2 Timothy 3:16, 2 Peter 1:20-21)."
+    "answer": "A. Every word of Scripture is fully and divinely inspired (2 Timothy 3:16, 2 Peter 1:20-21)."
   },
   {
     "question": "Q. What is the inerrancy of Scripture?",
@@ -21,19 +13,15 @@
   },
   {
     "question": "Q. What is the sufficiency of Scripture?",
-    "answer": "A. The sufficiency of Scripture means it contains all that is necessary for God’s glory, man’s salvation, and faith and life. All of this is either expressly set down in Scripture, or it may by good and necessary consequence be deduced from Scripture."
+    "answer": "A. The sufficiency of Scripture means it contains all that is necessary for God’s glory, man’s salvation, and faith and life."
   },
   {
     "question": "Q. What is meant by the perspicuity of Scripture?",
     "answer": "A. The perspicuity of Scripture means those things necessary for salvation are clearly propounded and opened in Scripture."
   },
   {
-    "question": "Q. What is the difference between 'inspiration' and 'illumination'?",
-    "answer": "A. Inspiration is that the Scriptures are breathed out by God. Illumination refers to the work of the Holy Spirit in believers which aids them in understanding the meaning of Scripture and its application to their lives."
-  },
-  {
-    "question": "Q. Explain the redemptive-historical hermeneutical approach?",
-    "answer": "A. The redemptive-historical hermeneutic interprets Scripture as a unified story of God's redemption, seeing each passage in light of its contribution to the overall narrative of salvation through Jesus Christ."
+    "question": "Q. Define and differentiate between inspiration and illumination",
+    "answer": "A. Inspiration is that the Scriptures are breathed out by God and he, by his Spirit, is the ultimate author. Illumination refers to the work of the Holy Spirit in believers which aids them in understanding the meaning of Scripture and its application to their lives."
   },
   {
     "question": "Q. What is the most basic rule of interpretation flowing from the Reformation?",
@@ -44,12 +32,28 @@
     "answer": "A. Scripture alone is the final and highest authority in matters of faith and practice."
   },
   {
-    "question": "Q. Explain the doctrine of the Trinity?",
-    "answer": "A. Short: There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.(WSC 6)"
+    "question": "Q. What is general revelation (also known as natural revelation) with biblical references?",
+    "answer": "A. General revelation is God's self-disclosure through nature. It shows that there is a God and that humans are accountable to him, but cannot save mankind.<br><br>Psalm 19:1-6; Acts 17; Romans 1-2"
   },
   {
-    "question": "Q. What is the Ontological relationships between the three persons of the Godhead?",
-    "answer": "A. The Father is neither begotten nor proceeding, the Son is eternally begotten, and the Spirit eternally proceeds from the Father and the Son."
+    "question": "Q. What is special revelation?",
+    "answer": "A. Special Revelation is God's self-disclosure through speech and written testimony, revealing to us all our spiritual benefits (Rom. 8) and how we must be saved (Eph. 2:8-9).<br><br>Ps. 19:7-12; 2 Pet. 1:20-21; 2 Tim. 3:15-16; Heb. 1:1-2"
+  },
+  {
+    "question": "Q. What is your view of the purpose and current status of the extraordinary gifts of the Spirit?",
+    "answer": "A. Extraordinary gifts have ceased. Scripture is clear they accompanied the messenger in order to provide evidence, or act as a sign, to the authenticity of their message. We see these extraordinary gifts beginning to stop with the early church in the first part of Acts."
+  },
+  {
+    "question": "Q. Explain the redemptive-historical hermeneutical approach?",
+    "answer": "A. Scripture is a unified story of God's redemption centered on Jesus Christ. For preaching, it means every passage ultimately points to Him and his work of salvation."
+  },
+  {
+    "question": "Q. What is God?",
+    "answer": "A. God is a Spirit, infinite, eternal, and unchanging in his being, wisdom, power, holiness, justice, goodness, and truth."
+  },
+  {
+    "question": "Q. Explain the doctrine of the Trinity?",
+    "answer": "A. There are three persons in the Godhead; the Father, the Son, and the Holy Ghost; and these three are one God, the same in substance, equal in power and glory.(WSC 6)"
   },
   {
     "question": "Q. What are the incommunicable attributes of God?",
@@ -68,8 +72,16 @@
     "answer": "A. Subordinationism over emphasizes the distinction between the persons and understands the Son and Spirit as not being equal in power and glory because the Son is begotten and the Spirit proceeds—though most focus is given to the Son. Throughout the gospel accounts those who encounter Jesus worship him, which he should have forbidden if he was anything less than equal with God (Matt. 14). Thomas confesses “my Lord and my God” (John 20). Even the angels worship him (Heb. 1).<br><br>To be begotten causes the Son to be less than the Father and is an attack on his <em>true deity</em>."
   },
   {
+    "question": "Q. What is the ontological relationships between the three persons of the Godhead?",
+    "answer": "A. The Father is neither begotten nor proceeding, the Son is eternally begotten, and the Spirit eternally proceeds from the Father and the Son."
+  },
+  {
     "question": "Q. What is the extent of God's decrees?",
     "answer": "A. He has foreordained whatsoever comes to pass."
+  },
+  {
+    "question": "Q. Differentiate conditional and unconditional election.",
+    "answer": "A. In conditional election God elects those whom He knows will choose to believe in Jesus; they show some future act of faith and it is on that basis. Unconditional means that God's choice is solely based on His sovereign will and not on any foreseen merit or action"
   },
   {
     "question": "Q. What caveats does the WCF place on God’s decree?",
@@ -96,12 +108,28 @@
     "answer": "A. God created man, male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures."
   },
   {
+    "question": "Q. How do the doctrines of creation and the image of God provide a biblical and theological foundation for race and ethnicity?",
+    "answer": "A. All are created equal before God, and therefore these divisions are human divisions. Any view of superiority necessarily denies the image of God."
+  },
+  {
+    "question": "Q. Are creation and evolution in any way compatible? Why or why not?",
+    "answer": "A. No, because evolution undermines creation ex-nihilo, the historicity of Adam, the supernatural work of God, the historical nature of Gen. 1-3."
+  },
+  {
     "question": "Q. Define God’s providence. Relate it to God’s decree and his use of means.",
     "answer": "A. God’s works of providence are his most holy, wise, and powerful preserving and governing of all his creatures and all their actions.<br><br>God’s providence is the active outworking of His decree, executed through His sovereign governance of all things. God makes use of means but is free to work without, above, or against them to his own holy ends."
   },
   {
+    "question": "Q. What is sin?",
+    "answer": "A. Sin is any want of conformity unto, or transgression of, the law of God."
+  },
+  {
     "question": "Q. What does every sin deserve?  Give Scripture references.",
     "answer": "A. Every sin deserves God’s wrath and curse, both in this life, and that which is to come. (Rom. 2-3, 6)"
+  },
+  {
+    "question": "Q. What is the difference between total depravity, partial depravity, and absolute depravity?",
+    "answer": "A. Total depravity means all aspects of humanity are affected by the fall, yet man is not as bad as he can be due to God's common grace.<br>Partial depravity means some aspects are affected, while part good.<br>Absolute depravity means man is completely and utterly depraved in all aspects."
   },
   {
     "question": "Q. What is a biblical covenant?  What is covenant theology and why is it important?",
@@ -113,7 +141,11 @@
   },
   {
     "question": "Q. What is the covenant of works (life)? Why is it important? Defend your answer from Scripture.",
-    "answer": "A. The covenant made with Adam not only for himself, but for his posterity as he was our federal head; all mankind, descending from him by ordinary generation, sinned in him, and fell with him in his first transgression. (Gen. 2; Rom. 5; Gal. 3)"
+    "answer": "A. The covenant made with Adam not only for himself, but for his posterity as he was our federal head; therefore all mankind, descending from him by ordinary generation, sinned in him, and fell with him in his first transgression. (Gen. 2; Rom. 5; Gal. 3)"
+  },
+  {
+    "question": "Q. Define and differentiate between the offices of Christ. Give biblical references. Why are these important in the preaching of the gospel?",
+    "answer": "A. Christ executes the offices of Prophet, Priest, and King: of a prophet, in revealing to us, by his Word and Spirit, the will of God for our salvation (Heb. 7); of a priest, in his once offering up of himself a sacrifice to satisfy divine justice and reconcile us to God, and in making continual intercession for us (Heb. 7); of a king, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies (Matt. 28)."
   },
   {
     "question": "Q. Explain the doctrine of the incarnation. Why is it important?",
@@ -124,16 +156,12 @@
     "answer": "A. Jesus is truly divine and truly human and these two natures exist in a hypostatic union in which they are distinct but inseparably joined in one person. The divine does not override the human nor the human diminish the divine. There also exists the communication of attributes, such that what occurs out of one nature may be said of the whole, but does not transfer to the other nature.<br><br>As God he gives worth and efficacy to his suffering, obedience, and intercession, and satisfies God’s justice. As man he performs obedience to the law, suffers and makes intercession for us that we might receive the adoption of sons."
   },
   {
-    "question": "Q. What are Christ's offices?",
-    "answer": "A. Christ executes the offices of Prophet, Priest, and King: of a prophet, in revealing to us, by his Word and Spirit, the will of God for our salvation; of a priest, in his once offering up of himself a sacrifice to satisfy divine justice and reconcile us to God, and in making continual intercession for us; of a king, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our enemies"
-  },
-  {
-    "question": "Q. What is the Penal Substitutionary Atonement theory?",
-    "answer": "A. Christ was the sinless substitute who bore the legal penalty for our sin as a propitiate God's wrath, reconciling sinners to Him, through a vicarious atonement where Christ atoned for sin, obtaining eternal redemption for man, by paying the price of penal justice we deserve."
-  },
-  {
     "question": "Describe and defend substitutionary atonement.",
     "answer": "Christ died in the place of sinners to satisfy God’s divine wrath and reconcile us to God. Christ is the atonement sacrifice (Lev. 16), the lamb led to the slaughter (Is. 52-53). He is offered up on behalf of others. He atonement is a ransom for many (Mark 10) and became sin itself (2 Cor. 5) and redeemed us (Gal. 3)."
+  },
+  {
+    "question": "What do you believe about the bodily resurrection and return of Christ?",
+    "answer": "Christ was raised on the third day, ascended into Heaven where he currently sits at the right hand of his Father, making intercession; and shall return to judge men and angels at the end of the world."
   },
   {
     "question": "Q. What is universal atonement, and refute it?",
@@ -142,10 +170,6 @@
   {
     "question": "Q. What is universalism, and refute it?",
     "answer": "A. Universalism is the belief that all people will ultimately be saved and reconciled to God, regardless of their faith in Christ or their actions in life. This diminishes the seriousness of sin, undermines the justice of God, and contradicts the necessity of the gospel's call to repentance and faith."
-  },
-  {
-    "question": "Q. Does the atonement of Christ save actually or potentially?",
-    "answer": "A. Christ's atonement saves actually and completely, with no insufficiency in its nature or application."
   },
   {
     "question": "Q. What are the Five Points of Calvinism?",
@@ -172,16 +196,8 @@
     "answer": "A. Those truly saved will endure in faith to the end by God's preserving power. (Phil. 1; John 6; Rom. 8)"
   },
   {
-    "question": "Q. What is the difference between total depravity, partial depravity, and absolute depravity?",
-    "answer": "A. Total depravity means all aspects of humanity are affected by the fall, yet man is not as bad as he can be due to God's common grace.<br>Partial depravity means some aspects are affected, while part good.<br>Absolute depravity means man is completely and utterly depraved in all aspects."
-  },
-  {
-    "question": "Q. What is union with Christ and what is its relationship with the ordo salutis?",
-    "answer": "A. The Spirit unites us to Christ by faith in our effectual calling the ordo salutis are the benefits of redemption which “springs” from, or accompany and flow from, our union with Christ."
-  },
-  {
-    "question": "Q. What is the definition and biblical support for the ordo salutis as a whole and in each of its parts?",
-    "answer": "A. Whole: Rom. 8:28-29 (union with Christ: Rom. 6, 8:9)<br>Election: Eph. 1, 2<br>Calling: Rom. 1:6<br>Regeneration: Jn. 3<br>Faith/Repentance (Conversion): Acts 2, Acts 11; Rom. 1:17<br>Justification: Rom. 3<br>Adoption: Rom. 8<br>Sanctification: Rom. 6:19, 1 Cor. 6<br>Glorification: Rom 8"
+    "question": "Q. Does the atonement of Christ save actually or potentially?",
+    "answer": "A. Christ's atonement saves actually and completely, with no insufficiency in its nature or application."
   },
   {
     "question": "Q. What are the four states of man?",
@@ -189,19 +205,7 @@
   },
   {
     "question": "Q. Define the outward and inward calls of the gospel.",
-    "answer": "A. The outward call of the gospel is any sharing of the gospel and proclamation of the good news.<br>The inward call is the effectual work of the Spirit. Effectual calling is a work of God’s Spirit, whereby convincing us of our sin and misery, enlightening our minds in the knowledge of Jesus Christ, and renewing our wills, he does persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel."
-  },
-  {
-    "question": "Q. What is sin?",
-    "answer": "A. Sin is any want of conformity unto, or transgression of, the law of God. (WSC 14)"
-  },
-  {
-    "question": "Q. What is repentance?",
-    "answer": "A. Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience. (WSC 87)<br><br>No sinner may expect pardon apart from repentance (Luke 13:3)."
-  },
-  {
-    "question": "Q. Define faith and repentance. What is their relationship?",
-    "answer": "A. Faith is a saving grace whereby we receive and rest upon Jesus Christ alone for salvation as he is offered to us in the gospel. Repentance unto life is a saving grace whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience."
+    "answer": "A. The inward call, or effectual calling, is a work of God’s Spirit, whereby convincing us of our sin and misery, enlightening our minds in the knowledge of Jesus Christ, and renewing our wills, he does persuade and enable us to embrace Jesus Christ, freely offered to us in the gospel, which the outward call consists of the general proclamation of the gospel."
   },
   {
     "question": "Q. What is justification?",
@@ -216,12 +220,24 @@
     "answer": "A. Sanctification is a work of God’s free grace in which we are renewed in the whole man after the image of God, and enabled more and more to die unto sin and live unto righteousness (Eph. 4, Rom 8)."
   },
   {
-    "question": "Q. What is the relationship between justification and baptism?",
-    "answer": "A. Justification is an act on God's part, while baptism is a sacrament and a sign and seal of the covenant of grace, and does not effectually save nor cause one to be justified."
-  },
-  {
     "question": "Q. Compare and contrast justification and sanctification.",
     "answer": "A. Justification is an act of God in which he imputes the righteousness of Christ and sin is pardoned freeing us from the wrath of God. Sanctification is a work of God in which the Spirit infuses grace and sin is subdued and growing us up to perfection, never perfectly in this life."
+  },
+  {
+    "question": "Q. What is repentance?",
+    "answer": "A. Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience. (WSC 87)<br><br>No sinner may expect pardon apart from repentance (Luke 13:3)."
+  },
+  {
+    "question": "Q. Define faith and repentance. What is their relationship?",
+    "answer": "A. Faith is a saving grace whereby we receive and rest upon Jesus Christ alone for salvation as he is offered to us in the gospel. Repentance unto life is a saving grace whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience."
+  },
+  {
+    "question": "Q. What is the definition and biblical support for the ordo salutis as a whole and in each of its parts?",
+    "answer": "A. Whole: Rom. 8:28-29 (union with Christ: Rom. 6, 8:9)<br>Election: Eph. 1, 2<br>Calling: Rom. 1:6<br>Regeneration: Jn. 3<br>Faith/Repentance (Conversion): Acts 2, Acts 11; Rom. 1:17<br>Justification: Rom. 3<br>Adoption: Rom. 8<br>Sanctification: Rom. 6:19, 1 Cor. 6<br>Glorification: Rom 8"
+  },
+  {
+    "question": "Q. What is union with Christ and what is its relationship with the ordo salutis?",
+    "answer": "A. The Spirit unites us to Christ by faith in our effectual calling the ordo salutis are the benefits of redemption which “springs” from, or accompany and flow from, our union with Christ."
   },
   {
     "question": "Q. Are good works necessary for salvation or may they save us?",
