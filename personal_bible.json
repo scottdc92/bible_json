@@ -168,10 +168,6 @@
     "answer": "A. Contend for the faith and beware of false teachers."
   },
   {
-    "question": "Q. What scriptures address the topic of abortion?",
-    "answer": "A. Gen. 9 – shedding the blood of man;<br>Ex. 20/Num. 5 – though shall not murder;<br>Psalm 127 – children are a heritage;<br>Psalm 139/Jer. 1 – knitted me in my mother's womb;<br>Matt. 19 – Let the children come to me"
-  },
-  {
     "question": "Q. What scriptures address assurance of salvation?",
     "answer": "A. John 10 – good shepherd;<br>Rom. 8 – God's election;<br>Phil. 1 – he who began the good work;<br>2 Tim. 1 – saved us not according to works"
   },
@@ -184,16 +180,40 @@
     "answer": "A. Ps. 77; 1 Kings 19; Matt. 11"
   },
   {
-    "question": "Q. What scriptures address the nature and necessity of faith?",
-    "answer": "A. Rom. 3 – propitiation received by faith;<br>Rom. 10 – faith comes by hearing;<br>Heb. 11 – without faith it is impossible to please him"
+    "question": "Q. What scriptures address marriage difficulties?",
+    "answer": "A. Eph. 5 – Christ and the Church;<br>Matt. 12 – Being together vs divide;<br>1 Peter 3 – how to live together"
   },
   {
-    "question": "Q. What scriptures address the nature and necessity of repentance?",
-    "answer": "A. Acts 2 – Pentecost;<br>1 John 1;<br>Ezek. 18 - describes turning from sin."
+    "question": "Q. What scriptures address the topic of homosexuality?",
+    "answer": "A. Gen. 19; Lev. 18; Rom. 1; 1 Cor. 6"
   },
   {
     "question": "Q. What scriptures address forgiveness?",
     "answer": "A. Matt. 18 – Unforgiving servant (forgive from the heart);<br>Col. 3 – forgive each other as the Lord has forgiven you"
+  },
+  {
+    "question": "Q. What scriptures address racial reconciliation?",
+    "answer": "A. Gen. 1; Gal. 3"
+  },
+  {
+    "question": "Q. What scriptures address the topic of abortion?",
+    "answer": "A. Gen. 9 – shedding the blood of man;<br>Ex. 20/Num. 5 – though shall not murder;<br>Psalm 127 – children are a heritage;<br>Psalm 139/Jer. 1 – knitted me in my mother's womb;<br>Matt. 19 – Let the children come to me"
+  },
+  {
+    "question": "Q. What scriptures address worship attendance?",
+    "answer": "A. Matt. 18 – where two or three are gathered;<br>Acts 2 – focus is on the community gathered together;<br>1 Cor. 14 and Col. 3 – assume the context of gathered church"
+  },
+  {
+    "question": "Q. What scriptures address the omniscience of God?",
+    "answer": "A. Psalm 139; Jeremiah 1; Acts 1; 1 John 3"
+  },
+  {
+    "question": "Q. What scriptures address the topic of kingdom of God?",
+    "answer": "A. Matt. 6, 13, 19, 24"
+  },
+  {
+    "question": "Q. What scriptures address the Trinity",
+    "answer": "A. Matt. 28; John 17; 2 Cor. 13;"
   },
   {
     "question": "Q. What scriptures address the humanity of Christ?",
@@ -208,32 +228,12 @@
     "answer": "A. 1 Cor. 15; 2 Cor. 5; 1 Thess. 4"
   },
   {
-    "question": "Q. What scriptures address the topic of kingdom of God?",
-    "answer": "A. Matt. 6, 13, 19, 24"
+    "question": "Q. What scriptures address the nature and necessity of faith?",
+    "answer": "A. Rom. 3 – propitiation received by faith;<br>Rom. 10 – faith comes by hearing;<br>Heb. 11 – without faith it is impossible to please him"
   },
   {
-    "question": "Q. What scriptures address the topic of homosexuality?",
-    "answer": "A. Gen. 19; Lev. 18; Rom. 1; 1 Cor. 6"
-  },
-  {
-    "question": "Q. What scriptures address racial reconciliation?",
-    "answer": "A. Gen. 1; Gal. 3"
-  },
-  {
-    "question": "Q. What scriptures address the omniscience of God?",
-    "answer": "A. Psalm 139; Jeremiah 1; Acts 1; 1 John 3"
-  },
-  {
-    "question": "Q. What scriptures address worship attendance?",
-    "answer": "A. Matt. 18 – where two or three are gathered;<br>Acts 2 – focus is on the community gathered together;<br>1 Cor. 14 and Col. 3 – assume the context of gathered church"
-  },
-  {
-    "question": "Q. What scriptures address marriage difficulties?",
-    "answer": "A. Eph. 5 – Christ and the Church;<br>Matt. 12 – Being together vs divide;<br>1 Peter 3 – how to live together"
-  },
-  {
-    "question": "Q. What scriptures address the Trinity",
-    "answer": "A. Matt. 28; John 17; 2 Cor. 13;"
+    "question": "Q. What scriptures address the nature and necessity of repentance?",
+    "answer": "A. Acts 2 – Pentecost;<br>1 John 1;<br>Ezek. 18 - describes turning from sin."
   },
   {
     "question": "Q. Reference for Elijah on Mount Carmel (prophets of Baal)",
