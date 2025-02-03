@@ -32,12 +32,12 @@
     "answer": "A. Scripture alone is the final and highest authority in matters of faith and practice."
   },
   {
-    "question": "Q. What is general revelation (also known as natural revelation) with biblical references?",
-    "answer": "A. General revelation is God's self-disclosure through nature. It shows that there is a God and that humans are accountable to him, but cannot save mankind.<br><br>Psalm 19:1-6; Acts 17; Romans 1-2"
+    "question": "Q. What is general revelation?",
+    "answer": "A. General revelation is God's self-disclosure through creation. It shows that there is a God and that humans are accountable to him, but cannot save mankind."
   },
   {
     "question": "Q. What is special revelation?",
-    "answer": "A. Special Revelation is God's self-disclosure through speech and written testimony, revealing to us all our spiritual benefits (Rom. 8) and how we must be saved (Eph. 2:8-9).<br><br>Ps. 19:7-12; 2 Pet. 1:20-21; 2 Tim. 3:15-16; Heb. 1:1-2"
+    "answer": "A. Special Revelation is God's self-disclosure through various manners but most especially his written word, revealing his will for our salvation."
   },
   {
     "question": "Q. What is your view of the purpose and current status of the extraordinary gifts of the Spirit?",
@@ -133,7 +133,7 @@
   },
   {
     "question": "Q. What is a biblical covenant? What is covenant theology and why is it important?",
-    "answer": "A. A covenant is a binding relationship initiated by God with humanity involving blessings and obligations.<br><br>Covenant theology is a framework for biblical interpretation that recognizes that the redemptive history is expressed through a succession of covenants."
+    "answer": "A. A covenant is a binding relationship initiated by God with humanity involving blessings and obligations.<br><br>Covenant theology is a framework that recognizes that redemptive history is expressed through a succession of covenants."
   },
   {
     "question": "Q. How does covenant theology differ from dispensational theology?",
@@ -152,7 +152,7 @@
     "answer": "A. Jesus, being the eternal Son of God, became man by taking to himself a true body and a reasonable soul, being conceived by the power of the Holy Spirit in the womb of the virgin Mary and born of her, yet without sin.<br>The one who would offer himself as an atonement must be human, in order that he might fulfill the law. He must also be divine, as only his sacrifice would be efficacious."
   },
   {
-    "question": "Q. What are the two natures of the person of Christ and how do the two natures relate to each another?  Why is this important?",
+    "question": "Q. What are the two natures of the person of Christ and how do the two natures relate to each another? Why is this important?",
     "answer": "A. Jesus is truly divine and truly human and these two natures exist in a hypostatic union in which they are distinct but inseparably joined in one person. The divine does not override the human nor the human diminish the divine. There also exists the communication of attributes, such that what occurs out of one nature may be said of the whole, but does not transfer to the other nature.<br><br>As God he gives worth and efficacy to his suffering, obedience, and intercession, and satisfies God’s justice. As man he performs obedience to the law, suffers and makes intercession for us that we might receive the adoption of sons."
   },
   {
@@ -170,10 +170,6 @@
   {
     "question": "Q. What is universalism, and refute it?",
     "answer": "A. Universalism is the belief that all people will ultimately be saved and reconciled to God, regardless of their faith in Christ or their actions in life. This diminishes the seriousness of sin, undermines the justice of God, and contradicts the necessity of the gospel's call to repentance and faith."
-  },
-  {
-    "question": "Q. What are the Five Points of Calvinism?",
-    "answer": "A. Summarized by the acrostic TULIP: Total Depravity, Unconditional Election, Limited (Particular) Atonement, Irresistible Grace, and Perseverance of the Saints."
   },
   {
     "question": "Q. What is Total Depravity?",
@@ -224,10 +220,6 @@
     "answer": "A. Justification is an act of God in which he imputes the righteousness of Christ and sin is pardoned freeing us from the wrath of God. Sanctification is a work of God in which the Spirit infuses grace and sin is subdued and growing us up to perfection, never perfectly in this life."
   },
   {
-    "question": "Q. What is repentance?",
-    "answer": "A. Repentance unto life is a saving grace, whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does, with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience. (WSC 87)<br><br>No sinner may expect pardon apart from repentance (Luke 13:3)."
-  },
-  {
     "question": "Q. Define faith and repentance. What is their relationship?",
     "answer": "A. Faith is a saving grace whereby we receive and rest upon Jesus Christ alone for salvation as he is offered to us in the gospel. Repentance unto life is a saving grace whereby a sinner, out of a true sense of his sin, and apprehension of the mercy of God in Christ, does with grief and hatred of his sin, turn from it unto God, with full purpose of, and endeavor after, new obedience."
   },
@@ -253,7 +245,7 @@
   },
   {
     "question": "Q. What is the moral law and its three uses?",
-    "answer": "A. The moral law (contrasted with the ceremonial law) is the law given to Adam by which he and all his posterity were bound to perfectly keep, continuing after the fall to be a perfect rule of righteousness, delivered in the 10 Commandments.<br>The three uses of the moral law are (1) as a mirror to reflect our own sinfulness and need for salvation, (2) as a 'civil use' to restrain evil and be a law for all people, and (3) to guide the Christian in good works and what pleases God."
+    "answer": "A. The moral law is the law given to Adam by which he and all his posterity were bound to perfectly keep, continuing after the fall to be a perfect rule of righteousness, delivered in the 10 Commandments.<br>The three uses of the moral law are (1) as a mirror to reflect our own sinfulness and need for salvation, (2) as a 'civil use' to restrain evil and be a law for all people, and (3) to guide the Christian in good works and what pleases God."
   },
   {
     "question": "Q. Are believers under obligation to the law today? Defend with scripture proofs.",
